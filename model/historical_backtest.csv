@@ -1,0 +1,481 @@
+season,round,race_name,race_date,given_name,family_name,constructor_name,position,podium,grid,qualifying_position,avg_finish_last_3,avg_finish_last_5,podiums_last_3,podiums_last_5,dnfs_last_5,avg_finish_at_track,podiums_at_track,driver,predicted_podium_probability,predicted_rank,predicted_podium_flag,actual_podium_flag,correct_prediction,top3_overlap,winner_hit,race_correct_label
+2021,2,Emilia Romagna Grand Prix,2021-04-18,Lewis,Hamilton,Mercedes,2,1,1,1.0,1.0,1.0,1.0,1.0,0.0,,,Lewis Hamilton,0.6690180519560549,1,1,1,1,2,0,2/3 correct
+2021,2,Emilia Romagna Grand Prix,2021-04-18,Sergio,Pérez,Red Bull,11,0,2,2.0,5.0,5.0,0.0,0.0,0.0,,,Sergio Pérez,0.6313135615226053,2,1,0,0,2,0,2/3 correct
+2021,2,Emilia Romagna Grand Prix,2021-04-18,Max,Verstappen,Red Bull,1,1,3,3.0,2.0,2.0,1.0,1.0,0.0,,,Max Verstappen,0.5432579795810698,3,1,1,1,2,0,2/3 correct
+2021,2,Emilia Romagna Grand Prix,2021-04-18,Charles,Leclerc,Ferrari,4,0,4,4.0,6.0,6.0,0.0,0.0,0.0,,,Charles Leclerc,0.31751430581187434,4,0,0,1,2,0,2/3 correct
+2021,2,Emilia Romagna Grand Prix,2021-04-18,Pierre,Gasly,AlphaTauri,7,0,5,5.0,17.0,17.0,0.0,0.0,1.0,,,Pierre Gasly,0.193030754354129,5,0,0,1,2,0,2/3 correct
+2021,2,Emilia Romagna Grand Prix,2021-04-18,Sebastian,Vettel,Aston Martin,15,0,0,13.0,15.0,15.0,0.0,0.0,1.0,,,Sebastian Vettel,0.16733256698990984,6,0,0,1,2,0,2/3 correct
+2021,2,Emilia Romagna Grand Prix,2021-04-18,Daniel,Ricciardo,McLaren,6,0,6,6.0,7.0,7.0,0.0,0.0,0.0,,,Daniel Ricciardo,0.13151086931975237,7,0,0,1,2,0,2/3 correct
+2021,2,Emilia Romagna Grand Prix,2021-04-18,Lando,Norris,McLaren,3,1,7,7.0,4.0,4.0,0.0,0.0,0.0,,,Lando Norris,0.09746166278074384,8,0,1,0,2,0,2/3 correct
+2021,2,Emilia Romagna Grand Prix,2021-04-18,Valtteri,Bottas,Mercedes,18,0,8,8.0,3.0,3.0,1.0,1.0,0.0,,,Valtteri Bottas,0.0671134268861762,9,0,0,1,2,0,2/3 correct
+2021,2,Emilia Romagna Grand Prix,2021-04-18,Esteban,Ocon,Alpine F1 Team,9,0,9,9.0,13.0,13.0,0.0,0.0,1.0,,,Esteban Ocon,0.05108062609920384,10,0,0,1,2,0,2/3 correct
+2021,2,Emilia Romagna Grand Prix,2021-04-18,Lance,Stroll,Aston Martin,8,0,10,10.0,10.0,10.0,0.0,0.0,0.0,,,Lance Stroll,0.03818122517405345,11,0,0,1,2,0,2/3 correct
+2021,2,Emilia Romagna Grand Prix,2021-04-18,Carlos,Sainz,Ferrari,5,0,11,11.0,8.0,8.0,0.0,0.0,0.0,,,Carlos Sainz,0.029266871155148828,12,0,0,1,2,0,2/3 correct
+2021,2,Emilia Romagna Grand Prix,2021-04-18,George,Russell,Williams,19,0,12,12.0,14.0,14.0,0.0,0.0,1.0,,,George Russell,0.023299488020290658,13,0,0,1,2,0,2/3 correct
+2021,2,Emilia Romagna Grand Prix,2021-04-18,Nicholas,Latifi,Williams,20,0,14,14.0,18.0,18.0,0.0,0.0,1.0,,,Nicholas Latifi,0.015983186899511982,14,0,0,1,2,0,2/3 correct
+2021,2,Emilia Romagna Grand Prix,2021-04-18,Fernando,Alonso,Alpine F1 Team,10,0,15,15.0,19.0,19.0,0.0,0.0,1.0,,,Fernando Alonso,0.013827133740188225,15,0,0,1,2,0,2/3 correct
+2021,2,Emilia Romagna Grand Prix,2021-04-18,Kimi,Räikkönen,Alfa Romeo,13,0,16,16.0,11.0,11.0,0.0,0.0,0.0,,,Kimi Räikkönen,0.012303918437835137,16,0,0,1,2,0,2/3 correct
+2021,2,Emilia Romagna Grand Prix,2021-04-18,Antonio,Giovinazzi,Alfa Romeo,14,0,17,17.0,12.0,12.0,0.0,0.0,1.0,,,Antonio Giovinazzi,0.011230163299348435,17,0,0,1,2,0,2/3 correct
+2021,2,Emilia Romagna Grand Prix,2021-04-18,Mick,Schumacher,Haas F1 Team,16,0,18,18.0,16.0,16.0,0.0,0.0,1.0,,,Mick Schumacher,0.01047442093197547,18,0,0,1,2,0,2/3 correct
+2021,2,Emilia Romagna Grand Prix,2021-04-18,Nikita,Mazepin,Haas F1 Team,17,0,19,19.0,20.0,20.0,0.0,0.0,1.0,,,Nikita Mazepin,0.009943087950942984,19,0,0,1,2,0,2/3 correct
+2021,2,Emilia Romagna Grand Prix,2021-04-18,Yuki,Tsunoda,AlphaTauri,12,0,20,20.0,9.0,9.0,0.0,0.0,0.0,,,Yuki Tsunoda,0.009569815952177867,20,0,0,1,2,0,2/3 correct
+2021,3,Portuguese Grand Prix,2021-05-02,Lewis,Hamilton,Mercedes,1,1,2,2.0,1.5,1.5,2.0,2.0,0.0,,,Lewis Hamilton,0.878852430349242,1,1,1,1,3,1,3/3 correct
+2021,3,Portuguese Grand Prix,2021-05-02,Max,Verstappen,Red Bull,2,1,3,3.0,1.5,1.5,2.0,2.0,0.0,,,Max Verstappen,0.8762181941996512,2,1,1,1,3,1,3/3 correct
+2021,3,Portuguese Grand Prix,2021-05-02,Valtteri,Bottas,Mercedes,3,1,1,1.0,10.5,10.5,1.0,1.0,1.0,,,Valtteri Bottas,0.6787052215428329,3,1,1,1,3,1,3/3 correct
+2021,3,Portuguese Grand Prix,2021-05-02,Lando,Norris,McLaren,5,0,7,7.0,3.5,3.5,1.0,1.0,0.0,,,Lando Norris,0.3767915279584355,4,0,0,1,3,1,3/3 correct
+2021,3,Portuguese Grand Prix,2021-05-02,Sergio,Pérez,Red Bull,4,0,4,4.0,8.0,8.0,0.0,0.0,0.0,,,Sergio Pérez,0.19501276399871897,5,0,0,1,3,1,3/3 correct
+2021,3,Portuguese Grand Prix,2021-05-02,Carlos,Sainz,Ferrari,11,0,5,5.0,6.5,6.5,0.0,0.0,0.0,,,Carlos Sainz,0.16264585923247546,6,0,0,1,3,1,3/3 correct
+2021,3,Portuguese Grand Prix,2021-05-02,Charles,Leclerc,Ferrari,6,0,8,8.0,5.0,5.0,0.0,0.0,0.0,,,Charles Leclerc,0.1538699760595532,7,0,0,1,3,1,3/3 correct
+2021,3,Portuguese Grand Prix,2021-05-02,Esteban,Ocon,Alpine F1 Team,7,0,6,6.0,11.0,11.0,0.0,0.0,1.0,,,Esteban Ocon,0.05371020221741663,8,0,0,1,3,1,3/3 correct
+2021,3,Portuguese Grand Prix,2021-05-02,Pierre,Gasly,AlphaTauri,10,0,9,9.0,12.0,12.0,0.0,0.0,1.0,,,Pierre Gasly,0.017390527696871685,9,0,0,1,3,1,3/3 correct
+2021,3,Portuguese Grand Prix,2021-05-02,Yuki,Tsunoda,AlphaTauri,15,0,14,14.0,10.5,10.5,0.0,0.0,0.0,,,Yuki Tsunoda,0.009704093401041149,10,0,0,1,3,1,3/3 correct
+2021,3,Portuguese Grand Prix,2021-05-02,Daniel,Ricciardo,McLaren,9,0,16,16.0,6.5,6.5,0.0,0.0,0.0,,,Daniel Ricciardo,0.009292090192933564,11,0,0,1,3,1,3/3 correct
+2021,3,Portuguese Grand Prix,2021-05-02,Kimi,Räikkönen,Alfa Romeo,20,0,15,15.0,12.0,12.0,0.0,0.0,0.0,,,Kimi Räikkönen,0.0073654438028994944,12,0,0,1,3,1,3/3 correct
+2021,3,Portuguese Grand Prix,2021-05-02,Sebastian,Vettel,Aston Martin,13,0,10,10.0,15.0,15.0,0.0,0.0,2.0,,,Sebastian Vettel,0.007096382627647957,13,0,0,1,3,1,3/3 correct
+2021,3,Portuguese Grand Prix,2021-05-02,Fernando,Alonso,Alpine F1 Team,8,0,13,13.0,14.5,14.5,0.0,0.0,1.0,,,Fernando Alonso,0.00638435838987862,14,0,0,1,3,1,3/3 correct
+2021,3,Portuguese Grand Prix,2021-05-02,Lance,Stroll,Aston Martin,14,0,17,17.0,9.0,9.0,0.0,0.0,0.0,,,Lance Stroll,0.006225709488497986,15,0,0,1,3,1,3/3 correct
+2021,3,Portuguese Grand Prix,2021-05-02,Antonio,Giovinazzi,Alfa Romeo,12,0,12,12.0,13.0,13.0,0.0,0.0,2.0,,,Antonio Giovinazzi,0.0058103514373947715,16,0,0,1,3,1,3/3 correct
+2021,3,Portuguese Grand Prix,2021-05-02,George,Russell,Williams,16,0,11,11.0,16.5,16.5,0.0,0.0,2.0,,,George Russell,0.005768779923579187,17,0,0,1,3,1,3/3 correct
+2021,3,Portuguese Grand Prix,2021-05-02,Nicholas,Latifi,Williams,18,0,18,18.0,19.0,19.0,0.0,0.0,2.0,,,Nicholas Latifi,0.003843376804740132,18,0,0,1,3,1,3/3 correct
+2021,3,Portuguese Grand Prix,2021-05-02,Mick,Schumacher,Haas F1 Team,17,0,19,19.0,16.0,16.0,0.0,0.0,2.0,,,Mick Schumacher,0.0038388071048281037,19,0,0,1,3,1,3/3 correct
+2021,3,Portuguese Grand Prix,2021-05-02,Nikita,Mazepin,Haas F1 Team,19,0,20,20.0,18.5,18.5,0.0,0.0,2.0,,,Nikita Mazepin,0.003774940777689011,20,0,0,1,3,1,3/3 correct
+2021,4,Spanish Grand Prix,2021-05-09,Lewis,Hamilton,Mercedes,1,1,1,1.0,1.3333333333333333,1.3333333333333333,3.0,3.0,0.0,,,Lewis Hamilton,0.9730878556431781,1,1,1,1,3,1,3/3 correct
+2021,4,Spanish Grand Prix,2021-05-09,Max,Verstappen,Red Bull,2,1,2,2.0,1.6666666666666667,1.6666666666666667,3.0,3.0,0.0,,,Max Verstappen,0.9675176532694761,2,1,1,1,3,1,3/3 correct
+2021,4,Spanish Grand Prix,2021-05-09,Valtteri,Bottas,Mercedes,3,1,3,3.0,8.0,8.0,2.0,2.0,1.0,,,Valtteri Bottas,0.8700254311026956,3,1,1,1,3,1,3/3 correct
+2021,4,Spanish Grand Prix,2021-05-09,Lando,Norris,McLaren,8,0,9,9.0,4.0,4.0,1.0,1.0,0.0,,,Lando Norris,0.17743361297055288,4,0,0,1,3,1,3/3 correct
+2021,4,Spanish Grand Prix,2021-05-09,Charles,Leclerc,Ferrari,4,0,4,4.0,5.333333333333333,5.333333333333333,0.0,0.0,0.0,,,Charles Leclerc,0.1614235904442847,5,0,0,1,3,1,3/3 correct
+2021,4,Spanish Grand Prix,2021-05-09,Daniel,Ricciardo,McLaren,6,0,7,7.0,7.333333333333333,7.333333333333333,0.0,0.0,0.0,,,Daniel Ricciardo,0.08291333296561625,6,0,0,1,3,1,3/3 correct
+2021,4,Spanish Grand Prix,2021-05-09,Carlos,Sainz,Ferrari,7,0,6,6.0,8.0,8.0,0.0,0.0,0.0,,,Carlos Sainz,0.07630681363466936,7,0,0,1,3,1,3/3 correct
+2021,4,Spanish Grand Prix,2021-05-09,Esteban,Ocon,Alpine F1 Team,9,0,5,5.0,9.666666666666666,9.666666666666666,0.0,0.0,1.0,,,Esteban Ocon,0.07477772944468117,8,0,0,1,3,1,3/3 correct
+2021,4,Spanish Grand Prix,2021-05-09,Sergio,Pérez,Red Bull,5,0,8,8.0,6.666666666666667,6.666666666666667,0.0,0.0,0.0,,,Sergio Pérez,0.03768193749014978,9,0,0,1,3,1,3/3 correct
+2021,4,Spanish Grand Prix,2021-05-09,Fernando,Alonso,Alpine F1 Team,17,0,10,10.0,12.333333333333334,12.333333333333334,0.0,0.0,1.0,,,Fernando Alonso,0.011284900073344054,10,0,0,1,3,1,3/3 correct
+2021,4,Spanish Grand Prix,2021-05-09,Lance,Stroll,Aston Martin,11,0,11,11.0,10.666666666666666,10.666666666666666,0.0,0.0,1.0,,,Lance Stroll,0.008768134281458055,11,0,0,1,3,1,3/3 correct
+2021,4,Spanish Grand Prix,2021-05-09,Pierre,Gasly,AlphaTauri,10,0,12,12.0,11.333333333333334,11.333333333333334,0.0,0.0,1.0,,,Pierre Gasly,0.006487036000388082,12,0,0,1,3,1,3/3 correct
+2021,4,Spanish Grand Prix,2021-05-09,Sebastian,Vettel,Aston Martin,13,0,13,13.0,14.333333333333334,14.333333333333334,0.0,0.0,3.0,,,Sebastian Vettel,0.0036763609472818845,13,0,0,1,3,1,3/3 correct
+2021,4,Spanish Grand Prix,2021-05-09,Antonio,Giovinazzi,Alfa Romeo,15,0,14,14.0,12.666666666666666,12.666666666666666,0.0,0.0,3.0,,,Antonio Giovinazzi,0.0033076390929711,14,0,0,1,3,1,3/3 correct
+2021,4,Spanish Grand Prix,2021-05-09,Yuki,Tsunoda,AlphaTauri,20,0,16,16.0,12.0,12.0,0.0,0.0,1.0,,,Yuki Tsunoda,0.0032111958581963326,15,0,0,1,3,1,3/3 correct
+2021,4,Spanish Grand Prix,2021-05-09,George,Russell,Williams,14,0,15,15.0,16.333333333333332,16.333333333333332,0.0,0.0,3.0,,,George Russell,0.002952641632994393,16,0,0,1,3,1,3/3 correct
+2021,4,Spanish Grand Prix,2021-05-09,Kimi,Räikkönen,Alfa Romeo,12,0,17,17.0,14.666666666666666,14.666666666666666,0.0,0.0,1.0,,,Kimi Räikkönen,0.002911013836757686,17,0,0,1,3,1,3/3 correct
+2021,4,Spanish Grand Prix,2021-05-09,Mick,Schumacher,Haas F1 Team,18,0,18,18.0,16.333333333333332,16.333333333333332,0.0,0.0,3.0,,,Mick Schumacher,0.002594762820538439,18,0,0,1,3,1,3/3 correct
+2021,4,Spanish Grand Prix,2021-05-09,Nicholas,Latifi,Williams,16,0,19,19.0,18.666666666666668,18.666666666666668,0.0,0.0,3.0,,,Nicholas Latifi,0.0025381610260140266,19,0,0,1,3,1,3/3 correct
+2021,4,Spanish Grand Prix,2021-05-09,Nikita,Mazepin,Haas F1 Team,19,0,20,20.0,18.666666666666668,18.666666666666668,0.0,0.0,3.0,,,Nikita Mazepin,0.0025078664840917316,20,0,0,1,3,1,3/3 correct
+2021,5,Monaco Grand Prix,2021-05-23,Max,Verstappen,Red Bull,1,1,2,2.0,1.6666666666666667,1.75,3.0,4.0,0.0,,,Max Verstappen,0.9822517502994109,1,1,1,1,1,1,1/3 correct
+2021,5,Monaco Grand Prix,2021-05-23,Valtteri,Bottas,Mercedes,19,0,3,3.0,8.0,6.75,2.0,3.0,1.0,,,Valtteri Bottas,0.9413343621987826,2,1,0,0,1,1,1/3 correct
+2021,5,Monaco Grand Prix,2021-05-23,Lewis,Hamilton,Mercedes,7,0,7,7.0,1.3333333333333333,1.25,3.0,4.0,0.0,,,Lewis Hamilton,0.6367679778192303,3,1,0,0,1,1,1/3 correct
+2021,5,Monaco Grand Prix,2021-05-23,Charles,Leclerc,Ferrari,20,0,1,1.0,4.666666666666667,5.0,0.0,0.0,0.0,,,Charles Leclerc,0.5845884929365937,4,0,0,1,1,1,1/3 correct
+2021,5,Monaco Grand Prix,2021-05-23,Lando,Norris,McLaren,3,1,5,5.0,5.333333333333333,5.0,1.0,1.0,1.0,,,Lando Norris,0.3482023691774593,5,0,1,0,1,1,1/3 correct
+2021,5,Monaco Grand Prix,2021-05-23,Sebastian,Vettel,Aston Martin,5,0,8,8.0,13.666666666666666,14.0,0.0,0.0,4.0,,,Sebastian Vettel,0.10825027277059415,6,0,0,1,1,1,1/3 correct
+2021,5,Monaco Grand Prix,2021-05-23,Pierre,Gasly,AlphaTauri,6,0,6,6.0,9.0,11.0,0.0,0.0,2.0,,,Pierre Gasly,0.10450824763434062,7,0,0,1,1,1,1/3 correct
+2021,5,Monaco Grand Prix,2021-05-23,Carlos,Sainz,Ferrari,2,1,4,4.0,7.666666666666667,7.75,0.0,0.0,0.0,,,Carlos Sainz,0.09164998029465744,8,0,1,0,1,1,1/3 correct
+2021,5,Monaco Grand Prix,2021-05-23,Antonio,Giovinazzi,Alfa Romeo,10,0,10,10.0,13.666666666666666,13.25,0.0,0.0,4.0,,,Antonio Giovinazzi,0.05317753219744865,9,0,0,1,1,1,1/3 correct
+2021,5,Monaco Grand Prix,2021-05-23,Esteban,Ocon,Alpine F1 Team,9,0,11,11.0,8.333333333333334,9.5,0.0,0.0,2.0,,,Esteban Ocon,0.01671636520213176,10,0,0,1,1,1,1/3 correct
+2021,5,Monaco Grand Prix,2021-05-23,Sergio,Pérez,Red Bull,4,0,9,9.0,6.666666666666667,6.25,0.0,0.0,0.0,,,Sergio Pérez,0.015536727540670495,11,0,0,1,1,1,1/3 correct
+2021,5,Monaco Grand Prix,2021-05-23,Mick,Schumacher,Haas F1 Team,18,0,20,,17.0,16.75,0.0,0.0,4.0,,,Mick Schumacher,0.0069243672694040736,12,0,0,1,1,1,1/3 correct
+2021,5,Monaco Grand Prix,2021-05-23,Lance,Stroll,Aston Martin,8,0,13,13.0,11.0,10.75,0.0,0.0,2.0,,,Lance Stroll,0.006816938227412621,13,0,0,1,1,1,1/3 correct
+2021,5,Monaco Grand Prix,2021-05-23,George,Russell,Williams,14,0,15,15.0,16.333333333333332,15.75,0.0,0.0,4.0,,,George Russell,0.006456869102307781,14,0,0,1,1,1,1/3 correct
+2021,5,Monaco Grand Prix,2021-05-23,Daniel,Ricciardo,McLaren,12,0,12,12.0,7.0,7.0,0.0,0.0,0.0,,,Daniel Ricciardo,0.0053988698755388425,15,0,0,1,1,1,1/3 correct
+2021,5,Monaco Grand Prix,2021-05-23,Kimi,Räikkönen,Alfa Romeo,11,0,14,14.0,15.0,14.0,0.0,0.0,2.0,,,Kimi Räikkönen,0.0040511796230077515,16,0,0,1,1,1,1/3 correct
+2021,5,Monaco Grand Prix,2021-05-23,Nicholas,Latifi,Williams,15,0,18,18.0,18.0,18.0,0.0,0.0,4.0,,,Nicholas Latifi,0.002840402590122712,17,0,0,1,1,1,1/3 correct
+2021,5,Monaco Grand Prix,2021-05-23,Yuki,Tsunoda,AlphaTauri,16,0,16,16.0,15.666666666666666,14.0,0.0,0.0,2.0,,,Yuki Tsunoda,0.0027214548068409,18,0,0,1,1,1,1/3 correct
+2021,5,Monaco Grand Prix,2021-05-23,Fernando,Alonso,Alpine F1 Team,13,0,17,17.0,11.666666666666666,13.5,0.0,0.0,2.0,,,Fernando Alonso,0.0025514453794664147,19,0,0,1,1,1,1/3 correct
+2021,5,Monaco Grand Prix,2021-05-23,Nikita,Mazepin,Haas F1 Team,17,0,19,19.0,18.333333333333332,18.75,0.0,0.0,4.0,,,Nikita Mazepin,0.0024502412042338947,20,0,0,1,1,1,1/3 correct
+2022,1,Bahrain Grand Prix,2022-03-20,Max,Verstappen,Red Bull,19,0,2,2.0,1.6666666666666667,1.6,3.0,5.0,0.0,2.0,1.0,Max Verstappen,0.8845014384936347,1,1,0,0,2,0,2/3 correct
+2022,1,Bahrain Grand Prix,2022-03-20,Charles,Leclerc,Ferrari,1,1,1,1.0,10.0,8.0,0.0,0.0,1.0,6.0,0.0,Charles Leclerc,0.708214820348336,2,1,1,1,2,0,2/3 correct
+2022,1,Bahrain Grand Prix,2022-03-20,Carlos,Sainz,Ferrari,2,1,3,3.0,6.666666666666667,6.6,1.0,1.0,0.0,8.0,0.0,Carlos Sainz,0.5733788525499028,3,1,1,1,2,0,2/3 correct
+2022,1,Bahrain Grand Prix,2022-03-20,Lewis,Hamilton,Mercedes,3,1,5,5.0,3.0,2.4,2.0,4.0,0.0,1.0,1.0,Lewis Hamilton,0.4750924860254625,4,0,1,0,2,0,2/3 correct
+2022,1,Bahrain Grand Prix,2022-03-20,Sergio,Pérez,Red Bull,18,0,4,4.0,4.333333333333333,5.8,0.0,0.0,0.0,5.0,0.0,Sergio Pérez,0.2782132004056168,5,0,0,1,2,0,2/3 correct
+2022,1,Bahrain Grand Prix,2022-03-20,Valtteri,Bottas,Alfa Romeo,6,0,6,6.0,8.333333333333334,9.2,2.0,3.0,2.0,3.0,1.0,Valtteri Bottas,0.24634701501177242,6,0,0,1,2,0,2/3 correct
+2022,1,Bahrain Grand Prix,2022-03-20,Lando,Norris,McLaren,15,0,13,13.0,5.333333333333333,4.6,1.0,2.0,1.0,4.0,0.0,Lando Norris,0.0871195023413152,7,0,0,1,2,0,2/3 correct
+2022,1,Bahrain Grand Prix,2022-03-20,Kevin,Magnussen,Haas F1 Team,5,0,7,7.0,,,,,,,,Kevin Magnussen,0.037696357168276705,8,0,0,1,2,0,2/3 correct
+2022,1,Bahrain Grand Prix,2022-03-20,Fernando,Alonso,Alpine F1 Team,9,0,8,8.0,12.666666666666666,13.4,0.0,0.0,3.0,19.0,0.0,Fernando Alonso,0.02760431146396565,9,0,0,1,2,0,2/3 correct
+2022,1,Bahrain Grand Prix,2022-03-20,George,Russell,Mercedes,4,0,9,9.0,14.666666666666666,15.4,0.0,0.0,5.0,14.0,0.0,George Russell,0.022621160674610775,10,0,0,1,2,0,2/3 correct
+2022,1,Bahrain Grand Prix,2022-03-20,Pierre,Gasly,AlphaTauri,20,0,10,10.0,8.666666666666666,10.0,0.0,0.0,2.0,17.0,0.0,Pierre Gasly,0.01373422233225702,11,0,0,1,2,0,2/3 correct
+2022,1,Bahrain Grand Prix,2022-03-20,Esteban,Ocon,Alpine F1 Team,7,0,11,11.0,8.333333333333334,9.4,0.0,0.0,3.0,13.0,0.0,Esteban Ocon,0.012675217977199574,12,0,0,1,2,0,2/3 correct
+2022,1,Bahrain Grand Prix,2022-03-20,Mick,Schumacher,Haas F1 Team,11,0,12,12.0,17.666666666666668,17.0,0.0,0.0,5.0,16.0,0.0,Mick Schumacher,0.004960877138131202,13,0,0,1,2,0,2/3 correct
+2022,1,Bahrain Grand Prix,2022-03-20,Alexander,Albon,Williams,13,0,14,14.0,,,,,,,,Alexander Albon,0.002018346306824179,14,0,0,1,2,0,2/3 correct
+2022,1,Bahrain Grand Prix,2022-03-20,Guanyu,Zhou,Alfa Romeo,10,0,15,15.0,,,,,,,,Guanyu Zhou,0.0015028920322733884,15,0,0,1,2,0,2/3 correct
+2022,1,Bahrain Grand Prix,2022-03-20,Yuki,Tsunoda,AlphaTauri,8,0,16,16.0,17.0,14.4,0.0,0.0,3.0,9.0,0.0,Yuki Tsunoda,0.0011331463871087476,16,0,0,1,2,0,2/3 correct
+2022,1,Bahrain Grand Prix,2022-03-20,Nico,Hülkenberg,Aston Martin,17,0,17,17.0,,,,,,,,Nico Hülkenberg,0.0009741411611231534,17,0,0,1,2,0,2/3 correct
+2022,1,Bahrain Grand Prix,2022-03-20,Lance,Stroll,Aston Martin,12,0,19,19.0,11.0,10.2,0.0,0.0,3.0,10.0,0.0,Lance Stroll,0.000828806633942365,18,0,0,1,2,0,2/3 correct
+2022,1,Bahrain Grand Prix,2022-03-20,Daniel,Ricciardo,McLaren,14,0,18,18.0,9.0,8.0,0.0,0.0,1.0,7.0,0.0,Daniel Ricciardo,0.000819568037096813,19,0,0,1,2,0,2/3 correct
+2022,1,Bahrain Grand Prix,2022-03-20,Nicholas,Latifi,Williams,16,0,20,20.0,16.333333333333332,17.4,0.0,0.0,5.0,18.0,0.0,Nicholas Latifi,0.0007413267348933135,20,0,0,1,2,0,2/3 correct
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Carlos,Sainz,Ferrari,3,1,3,3.0,3.6666666666666665,5.4,2.0,2.0,0.0,,,Carlos Sainz,0.7369565028872638,1,1,1,1,2,0,2/3 correct
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Sergio,Pérez,Red Bull,4,0,1,1.0,9.0,8.4,0.0,0.0,1.0,,,Sergio Pérez,0.7317155071753986,2,1,0,0,2,0,2/3 correct
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Charles,Leclerc,Ferrari,2,1,2,2.0,8.333333333333334,7.0,1.0,1.0,1.0,,,Charles Leclerc,0.7112680722382969,3,1,1,1,2,0,2/3 correct
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Max,Verstappen,Red Bull,1,1,4,4.0,7.333333333333333,5.0,2.0,4.0,1.0,,,Max Verstappen,0.46158050788389565,4,0,1,0,2,0,2/3 correct
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Esteban,Ocon,Alpine F1 Team,6,0,5,5.0,8.333333333333334,8.2,0.0,0.0,2.0,,,Esteban Ocon,0.13369145818623662,5,0,0,1,2,0,2/3 correct
+2022,2,Saudi Arabian Grand Prix,2022-03-27,George,Russell,Mercedes,5,0,6,6.0,10.666666666666666,13.4,0.0,0.0,4.0,,,George Russell,0.060881720841228726,6,0,0,1,2,0,2/3 correct
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Valtteri,Bottas,Alfa Romeo,15,0,8,8.0,9.333333333333334,9.8,1.0,2.0,2.0,,,Valtteri Bottas,0.055850660985704695,7,0,0,1,2,0,2/3 correct
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Mick,Schumacher,Haas F1 Team,20,0,0,14.0,15.666666666666666,16.0,0.0,0.0,4.0,,,Mick Schumacher,0.03935841826986275,8,0,0,1,2,0,2/3 correct
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Lewis,Hamilton,Mercedes,10,0,15,16.0,3.6666666666666665,2.8,2.0,4.0,0.0,,,Lewis Hamilton,0.03826311306973594,9,0,0,1,2,0,2/3 correct
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Fernando,Alonso,Alpine F1 Team,16,0,7,7.0,13.0,11.4,0.0,0.0,2.0,,,Fernando Alonso,0.03679635220608842,10,0,0,1,2,0,2/3 correct
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Kevin,Magnussen,Haas F1 Team,9,0,10,10.0,5.0,5.0,0.0,0.0,0.0,,,Kevin Magnussen,0.03374407297087124,11,0,0,1,2,0,2/3 correct
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Lando,Norris,McLaren,7,0,11,11.0,8.666666666666666,6.8,1.0,2.0,1.0,,,Lando Norris,0.03321565660421507,12,0,0,1,2,0,2/3 correct
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Pierre,Gasly,AlphaTauri,8,0,9,9.0,12.0,10.6,0.0,0.0,2.0,,,Pierre Gasly,0.016178472897348164,13,0,0,1,2,0,2/3 correct
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Daniel,Ricciardo,McLaren,17,0,14,12.0,10.666666666666666,9.4,0.0,0.0,1.0,,,Daniel Ricciardo,0.0030599122139998974,14,0,0,1,2,0,2/3 correct
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Guanyu,Zhou,Alfa Romeo,11,0,12,13.0,10.0,10.0,0.0,0.0,0.0,,,Guanyu Zhou,0.002977356262147664,15,0,0,1,2,0,2/3 correct
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Lance,Stroll,Aston Martin,13,0,13,15.0,10.333333333333334,10.6,0.0,0.0,3.0,,,Lance Stroll,0.0020924971864833097,16,0,0,1,2,0,2/3 correct
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Alexander,Albon,Williams,14,0,16,17.0,13.0,13.0,0.0,0.0,0.0,,,Alexander Albon,0.000681924991896517,17,0,0,1,2,0,2/3 correct
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Nicholas,Latifi,Williams,18,0,18,19.0,15.666666666666666,17.0,0.0,0.0,4.0,,,Nicholas Latifi,0.0005348404842670403,18,0,0,1,2,0,2/3 correct
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Nico,Hülkenberg,Aston Martin,12,0,17,18.0,17.0,17.0,0.0,0.0,0.0,,,Nico Hülkenberg,0.0005118077806457607,19,0,0,1,2,0,2/3 correct
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Yuki,Tsunoda,AlphaTauri,19,0,19,20.0,14.666666666666666,14.2,0.0,0.0,3.0,,,Yuki Tsunoda,0.0005007491956593756,20,0,0,1,2,0,2/3 correct
+2022,3,Australian Grand Prix,2022-04-10,Charles,Leclerc,Ferrari,1,1,1,1.0,7.666666666666667,6.6,2.0,2.0,1.0,,,Charles Leclerc,0.8298779917823962,1,1,1,1,1,1,1/3 correct
+2022,3,Australian Grand Prix,2022-04-10,Max,Verstappen,Red Bull,18,0,2,2.0,7.0,5.0,2.0,4.0,1.0,,,Max Verstappen,0.7387720173605937,2,1,0,0,1,1,1/3 correct
+2022,3,Australian Grand Prix,2022-04-10,Lando,Norris,McLaren,5,0,4,4.0,8.333333333333334,7.6,1.0,1.0,1.0,,,Lando Norris,0.5159318574064784,3,1,0,0,1,1,1/3 correct
+2022,3,Australian Grand Prix,2022-04-10,Lewis,Hamilton,Mercedes,4,0,5,5.0,6.666666666666667,4.4,1.0,3.0,0.0,,,Lewis Hamilton,0.493562392970498,4,0,0,1,1,1,1/3 correct
+2022,3,Australian Grand Prix,2022-04-10,Sergio,Pérez,Red Bull,2,1,3,3.0,8.666666666666666,7.0,0.0,0.0,1.0,,,Sergio Pérez,0.4124417589704212,5,0,1,0,1,1,1/3 correct
+2022,3,Australian Grand Prix,2022-04-10,Carlos,Sainz,Ferrari,20,0,9,9.0,2.3333333333333335,5.0,3.0,3.0,0.0,,,Carlos Sainz,0.18311799745386756,6,0,0,1,1,1,1/3 correct
+2022,3,Australian Grand Prix,2022-04-10,George,Russell,Mercedes,3,1,6,6.0,7.666666666666667,10.6,0.0,0.0,3.0,,,George Russell,0.059640319388073196,7,0,1,0,1,1,1/3 correct
+2022,3,Australian Grand Prix,2022-04-10,Esteban,Ocon,Alpine F1 Team,7,0,8,8.0,7.333333333333333,7.6,0.0,0.0,2.0,,,Esteban Ocon,0.04275528812115581,8,0,0,1,1,1,1/3 correct
+2022,3,Australian Grand Prix,2022-04-10,Daniel,Ricciardo,McLaren,6,0,7,7.0,14.333333333333334,11.6,0.0,0.0,2.0,,,Daniel Ricciardo,0.02802059576313964,9,0,0,1,1,1,1/3 correct
+2022,3,Australian Grand Prix,2022-04-10,Valtteri,Bottas,Alfa Romeo,8,0,12,12.0,13.333333333333334,9.2,0.0,2.0,2.0,,,Valtteri Bottas,0.007024737709184376,10,0,0,1,1,1,1/3 correct
+2022,3,Australian Grand Prix,2022-04-10,Fernando,Alonso,Alpine F1 Team,17,0,10,10.0,12.666666666666666,12.6,0.0,0.0,3.0,,,Fernando Alonso,0.006193916554707425,11,0,0,1,1,1,1/3 correct
+2022,3,Australian Grand Prix,2022-04-10,Pierre,Gasly,AlphaTauri,9,0,11,11.0,11.333333333333334,10.8,0.0,0.0,2.0,,,Pierre Gasly,0.00484649979601733,12,0,0,1,1,1,1/3 correct
+2022,3,Australian Grand Prix,2022-04-10,Kevin,Magnussen,Haas F1 Team,14,0,16,17.0,7.0,7.0,0.0,0.0,0.0,,,Kevin Magnussen,0.0019694589923331123,13,0,0,1,1,1,1/3 correct
+2022,3,Australian Grand Prix,2022-04-10,Guanyu,Zhou,Alfa Romeo,11,0,14,14.0,10.5,10.5,0.0,0.0,0.0,,,Guanyu Zhou,0.0016555054454117926,14,0,0,1,1,1,1/3 correct
+2022,3,Australian Grand Prix,2022-04-10,Yuki,Tsunoda,AlphaTauri,15,0,13,13.0,14.333333333333334,15.6,0.0,0.0,4.0,,,Yuki Tsunoda,0.0014392453905441142,15,0,0,1,1,1,1/3 correct
+2022,3,Australian Grand Prix,2022-04-10,Mick,Schumacher,Haas F1 Team,13,0,15,15.0,16.333333333333332,16.8,0.0,0.0,4.0,,,Mick Schumacher,0.0007665428976132257,16,0,0,1,1,1,1/3 correct
+2022,3,Australian Grand Prix,2022-04-10,Alexander,Albon,Williams,10,0,20,16.0,13.5,13.5,0.0,0.0,1.0,,,Alexander Albon,0.0005530807335684512,17,0,0,1,1,1,1/3 correct
+2022,3,Australian Grand Prix,2022-04-10,Sebastian,Vettel,Aston Martin,19,0,17,18.0,10.333333333333334,12.2,0.0,0.0,4.0,,,Sebastian Vettel,0.0004879865780089513,18,0,0,1,1,1,1/3 correct
+2022,3,Australian Grand Prix,2022-04-10,Nicholas,Latifi,Williams,16,0,18,19.0,16.333333333333332,16.6,0.0,0.0,4.0,,,Nicholas Latifi,0.00046000150915817236,19,0,0,1,1,1,1/3 correct
+2022,3,Australian Grand Prix,2022-04-10,Lance,Stroll,Aston Martin,12,0,19,20.0,11.0,11.6,0.0,0.0,4.0,,,Lance Stroll,0.0004527625804551273,20,0,0,1,1,1,1/3 correct
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Charles,Leclerc,Ferrari,6,0,2,2.0,1.3333333333333333,5.6,3.0,3.0,1.0,4.0,0.0,Charles Leclerc,0.792077613769091,1,1,0,0,2,0,2/3 correct
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Max,Verstappen,Red Bull,1,1,1,1.0,12.666666666666666,8.2,1.0,3.0,2.0,1.0,1.0,Max Verstappen,0.4875944348243837,2,1,1,1,2,0,2/3 correct
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Lando,Norris,McLaren,3,1,5,3.0,9.0,7.6,0.0,1.0,1.0,3.0,1.0,Lando Norris,0.24615743319263278,3,1,1,1,2,0,2/3 correct
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Sergio,Pérez,Red Bull,2,1,3,7.0,8.0,6.6,1.0,1.0,1.0,11.0,0.0,Sergio Pérez,0.22883346928419523,4,0,1,0,2,0,2/3 correct
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Carlos,Sainz,Ferrari,20,0,4,10.0,8.333333333333334,6.8,2.0,3.0,1.0,5.0,0.0,Carlos Sainz,0.14178475317202546,5,0,0,1,2,0,2/3 correct
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Daniel,Ricciardo,McLaren,18,0,6,6.0,12.333333333333334,11.0,0.0,0.0,2.0,6.0,0.0,Daniel Ricciardo,0.0907007432720453,6,0,0,1,2,0,2/3 correct
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Kevin,Magnussen,Haas F1 Team,9,0,8,4.0,9.333333333333334,9.333333333333334,0.0,0.0,1.0,,,Kevin Magnussen,0.08283370958727383,7,0,0,1,2,0,2/3 correct
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Fernando,Alonso,Alpine F1 Team,19,0,9,5.0,14.0,14.4,0.0,0.0,4.0,10.0,0.0,Fernando Alonso,0.054359481831569495,8,0,0,1,2,0,2/3 correct
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Lewis,Hamilton,Mercedes,13,0,14,13.0,5.666666666666667,5.0,1.0,2.0,0.0,2.0,1.0,Lewis Hamilton,0.049794349035947205,9,0,0,1,2,0,2/3 correct
+2022,4,Emilia Romagna Grand Prix,2022-04-24,George,Russell,Mercedes,4,0,11,11.0,4.0,8.0,1.0,1.0,2.0,19.0,0.0,George Russell,0.03823647555797455,10,0,0,1,2,0,2/3 correct
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Guanyu,Zhou,Alfa Romeo,15,0,0,14.0,10.666666666666666,10.666666666666666,0.0,0.0,0.0,,,Guanyu Zhou,0.03485659007329098,11,0,0,1,2,0,2/3 correct
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Esteban,Ocon,Alpine F1 Team,14,0,16,19.0,6.666666666666667,7.6,0.0,0.0,2.0,9.0,0.0,Esteban Ocon,0.013431106453914819,12,0,0,1,2,0,2/3 correct
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Valtteri,Bottas,Alfa Romeo,5,0,7,8.0,9.666666666666666,10.2,0.0,1.0,2.0,18.0,0.0,Valtteri Bottas,0.01065963815259283,13,0,0,1,2,0,2/3 correct
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Sebastian,Vettel,Aston Martin,8,0,13,9.0,12.333333333333334,13.0,0.0,0.0,4.0,15.0,0.0,Sebastian Vettel,0.004411953115152443,14,0,0,1,2,0,2/3 correct
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Pierre,Gasly,AlphaTauri,12,0,17,17.0,12.333333333333334,10.6,0.0,0.0,2.0,7.0,0.0,Pierre Gasly,0.0027348910349484614,15,0,0,1,2,0,2/3 correct
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Mick,Schumacher,Haas F1 Team,17,0,10,12.0,14.666666666666666,16.0,0.0,0.0,4.0,16.0,0.0,Mick Schumacher,0.0022649065017630696,16,0,0,1,2,0,2/3 correct
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Lance,Stroll,Aston Martin,10,0,15,15.0,12.333333333333334,11.2,0.0,0.0,3.0,8.0,0.0,Lance Stroll,0.0014738786946224892,17,0,0,1,2,0,2/3 correct
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Yuki,Tsunoda,AlphaTauri,7,0,12,16.0,14.0,15.6,0.0,0.0,4.0,12.0,0.0,Yuki Tsunoda,0.001127454301347702,18,0,0,1,2,0,2/3 correct
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Alexander,Albon,Williams,11,0,18,20.0,12.333333333333334,12.333333333333334,0.0,0.0,1.0,,,Alexander Albon,0.0004280573136697374,19,0,0,1,2,0,2/3 correct
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Nicholas,Latifi,Williams,16,0,19,18.0,16.666666666666668,16.2,0.0,0.0,4.0,20.0,0.0,Nicholas Latifi,0.00038517143608978973,20,0,0,1,2,0,2/3 correct
+2022,5,Miami Grand Prix,2022-05-08,Charles,Leclerc,Ferrari,2,1,1,1.0,3.0,6.0,2.0,3.0,1.0,,,Charles Leclerc,0.5808328322542993,1,1,1,1,2,0,2/3 correct
+2022,5,Miami Grand Prix,2022-05-08,Sergio,Pérez,Red Bull,4,0,4,4.0,2.6666666666666665,6.0,2.0,2.0,1.0,,,Sergio Pérez,0.5554853812392377,2,1,0,0,2,0,2/3 correct
+2022,5,Miami Grand Prix,2022-05-08,Carlos,Sainz,Ferrari,3,1,2,2.0,14.333333333333334,9.4,1.0,3.0,2.0,,,Carlos Sainz,0.5491489854795427,3,1,1,1,2,0,2/3 correct
+2022,5,Miami Grand Prix,2022-05-08,Max,Verstappen,Red Bull,1,1,3,3.0,6.666666666666667,8.0,2.0,3.0,2.0,,,Max Verstappen,0.44759322740918533,4,0,1,0,2,0,2/3 correct
+2022,5,Miami Grand Prix,2022-05-08,Lance,Stroll,Aston Martin,10,0,0,10.0,11.666666666666666,11.0,0.0,0.0,3.0,,,Lance Stroll,0.10886778629839798,5,0,0,1,2,0,2/3 correct
+2022,5,Miami Grand Prix,2022-05-08,Valtteri,Bottas,Alfa Romeo,7,0,5,5.0,9.333333333333334,10.6,0.0,0.0,2.0,,,Valtteri Bottas,0.10057704372920903,6,0,0,1,2,0,2/3 correct
+2022,5,Miami Grand Prix,2022-05-08,Lewis,Hamilton,Mercedes,6,0,6,6.0,9.0,7.4,0.0,1.0,1.0,,,Lewis Hamilton,0.08827541969178637,7,0,0,1,2,0,2/3 correct
+2022,5,Miami Grand Prix,2022-05-08,Sebastian,Vettel,Aston Martin,17,0,0,13.0,10.666666666666666,11.6,0.0,0.0,3.0,,,Sebastian Vettel,0.05516949056374938,8,0,0,1,2,0,2/3 correct
+2022,5,Miami Grand Prix,2022-05-08,Pierre,Gasly,AlphaTauri,18,0,7,7.0,9.666666666666666,11.0,0.0,0.0,2.0,,,Pierre Gasly,0.035728408007137634,9,0,0,1,2,0,2/3 correct
+2022,5,Miami Grand Prix,2022-05-08,Lando,Norris,McLaren,19,0,8,8.0,5.0,6.6,1.0,2.0,0.0,,,Lando Norris,0.03179817355000833,10,0,0,1,2,0,2/3 correct
+2022,5,Miami Grand Prix,2022-05-08,George,Russell,Mercedes,5,0,12,12.0,4.0,6.0,1.0,1.0,1.0,,,George Russell,0.020665644364496426,11,0,0,1,2,0,2/3 correct
+2022,5,Miami Grand Prix,2022-05-08,Yuki,Tsunoda,AlphaTauri,12,0,9,9.0,13.666666666666666,13.0,0.0,0.0,3.0,,,Yuki Tsunoda,0.01277078752583252,12,0,0,1,2,0,2/3 correct
+2022,5,Miami Grand Prix,2022-05-08,Fernando,Alonso,Alpine F1 Team,11,0,11,11.0,17.333333333333332,14.8,0.0,0.0,4.0,,,Fernando Alonso,0.004734349403531744,13,0,0,1,2,0,2/3 correct
+2022,5,Miami Grand Prix,2022-05-08,Daniel,Ricciardo,McLaren,13,0,14,14.0,13.666666666666666,13.4,0.0,0.0,3.0,,,Daniel Ricciardo,0.0012215204865658183,14,0,0,1,2,0,2/3 correct
+2022,5,Miami Grand Prix,2022-05-08,Mick,Schumacher,Haas F1 Team,15,0,15,15.0,16.666666666666668,15.8,0.0,0.0,4.0,,,Mick Schumacher,0.0007687283967497593,15,0,0,1,2,0,2/3 correct
+2022,5,Miami Grand Prix,2022-05-08,Kevin,Magnussen,Haas F1 Team,16,0,16,16.0,10.666666666666666,9.25,0.0,0.0,1.0,,,Kevin Magnussen,0.0007037373692965408,16,0,0,1,2,0,2/3 correct
+2022,5,Miami Grand Prix,2022-05-08,Guanyu,Zhou,Alfa Romeo,20,0,17,17.0,12.333333333333334,11.75,0.0,0.0,1.0,,,Guanyu Zhou,0.0004918762156098416,17,0,0,1,2,0,2/3 correct
+2022,5,Miami Grand Prix,2022-05-08,Alexander,Albon,Williams,9,0,18,18.0,11.666666666666666,12.0,0.0,0.0,2.0,,,Alexander Albon,0.0004317436832858561,18,0,0,1,2,0,2/3 correct
+2022,5,Miami Grand Prix,2022-05-08,Nicholas,Latifi,Williams,14,0,19,19.0,16.666666666666668,16.2,0.0,0.0,4.0,,,Nicholas Latifi,0.0003665650189873516,19,0,0,1,2,0,2/3 correct
+2022,5,Miami Grand Prix,2022-05-08,Esteban,Ocon,Alpine F1 Team,8,0,20,20.0,9.0,8.6,0.0,0.0,2.0,,,Esteban Ocon,0.00021572321575986085,20,0,0,1,2,0,2/3 correct
+2023,1,Bahrain Grand Prix,2023-03-05,Max,Verstappen,Red Bull,1,1,1,1.0,6.666666666666667,8.0,2.0,3.0,2.0,10.5,1.0,Max Verstappen,0.8961961354244123,1,1,1,1,2,1,2/3 correct
+2023,1,Bahrain Grand Prix,2023-03-05,Sergio,Pérez,Red Bull,2,1,2,2.0,2.6666666666666665,6.0,2.0,2.0,1.0,11.5,0.0,Sergio Pérez,0.7541090743303241,2,1,1,1,2,1,2/3 correct
+2023,1,Bahrain Grand Prix,2023-03-05,Charles,Leclerc,Ferrari,19,0,3,3.0,3.0,2.4,2.0,4.0,0.0,3.5,1.0,Charles Leclerc,0.7393458688778048,3,1,0,0,2,1,2/3 correct
+2023,1,Bahrain Grand Prix,2023-03-05,Carlos,Sainz,Ferrari,4,0,4,4.0,14.333333333333334,9.6,1.0,3.0,2.0,5.0,1.0,Carlos Sainz,0.37957445648600857,4,0,0,1,2,1,2/3 correct
+2023,1,Bahrain Grand Prix,2023-03-05,Lewis,Hamilton,Mercedes,5,0,7,7.0,7.666666666666667,7.2,0.0,1.0,1.0,2.0,2.0,Lewis Hamilton,0.35530423152027857,5,0,0,1,2,1,2/3 correct
+2023,1,Bahrain Grand Prix,2023-03-05,George,Russell,Mercedes,7,0,6,6.0,4.0,4.2,1.0,1.0,0.0,9.0,0.0,George Russell,0.3541264356484388,6,0,0,1,2,1,2/3 correct
+2023,1,Bahrain Grand Prix,2023-03-05,Fernando,Alonso,Aston Martin,3,1,5,5.0,15.666666666666666,14.4,0.0,0.0,3.0,14.0,0.0,Fernando Alonso,0.15145853860418332,7,0,1,0,2,1,2/3 correct
+2023,1,Bahrain Grand Prix,2023-03-05,Valtteri,Bottas,Alfa Romeo,8,0,12,12.0,6.666666666666667,8.2,0.0,0.0,1.0,4.5,1.0,Valtteri Bottas,0.027232501183174957,8,0,0,1,2,1,2/3 correct
+2023,1,Bahrain Grand Prix,2023-03-05,Lance,Stroll,Aston Martin,6,0,8,8.0,10.666666666666666,11.4,0.0,0.0,2.0,11.0,0.0,Lance Stroll,0.02275543920907893,9,0,0,1,2,1,2/3 correct
+2023,1,Bahrain Grand Prix,2023-03-05,Esteban,Ocon,Alpine F1 Team,18,0,9,9.0,9.666666666666666,8.4,0.0,0.0,1.0,10.0,0.0,Esteban Ocon,0.01828947386823713,10,0,0,1,2,1,2/3 correct
+2023,1,Bahrain Grand Prix,2023-03-05,Lando,Norris,McLaren,17,0,11,11.0,9.0,9.8,1.0,1.0,1.0,9.5,0.0,Lando Norris,0.010401677632218869,11,0,0,1,2,1,2/3 correct
+2023,1,Bahrain Grand Prix,2023-03-05,Nico,Hülkenberg,Haas F1 Team,15,0,10,10.0,14.5,14.5,0.0,0.0,0.0,17.0,0.0,Nico Hülkenberg,0.008975382752195185,12,0,0,1,2,1,2/3 correct
+2023,1,Bahrain Grand Prix,2023-03-05,Kevin,Magnussen,Haas F1 Team,13,0,17,17.0,13.0,10.6,0.0,0.0,2.0,5.0,0.0,Kevin Magnussen,0.003465875606125678,13,0,0,1,2,1,2/3 correct
+2023,1,Bahrain Grand Prix,2023-03-05,Guanyu,Zhou,Alfa Romeo,16,0,13,13.0,15.333333333333334,13.4,0.0,0.0,2.0,10.0,0.0,Guanyu Zhou,0.0016479079422270326,14,0,0,1,2,1,2/3 correct
+2023,1,Bahrain Grand Prix,2023-03-05,Alexander,Albon,Williams,10,0,15,15.0,10.0,11.4,0.0,0.0,2.0,13.0,0.0,Alexander Albon,0.0009516947292492894,15,0,0,1,2,1,2/3 correct
+2023,1,Bahrain Grand Prix,2023-03-05,Yuki,Tsunoda,AlphaTauri,11,0,14,14.0,11.333333333333334,12.2,0.0,0.0,2.0,8.5,0.0,Yuki Tsunoda,0.0009368216015183222,16,0,0,1,2,1,2/3 correct
+2023,1,Bahrain Grand Prix,2023-03-05,Logan,Sargeant,Williams,12,0,16,16.0,,,,,,,,Logan Sargeant,0.0005613363094698585,17,0,0,1,2,1,2/3 correct
+2023,1,Bahrain Grand Prix,2023-03-05,Pierre,Gasly,Alpine F1 Team,9,0,20,20.0,13.0,13.4,0.0,0.0,3.0,18.5,0.0,Pierre Gasly,0.00041251280571820046,18,0,0,1,2,1,2/3 correct
+2023,1,Bahrain Grand Prix,2023-03-05,Oscar,Piastri,McLaren,20,0,18,18.0,,,,,,,,Oscar Piastri,0.0004028281037877065,19,0,0,1,2,1,2/3 correct
+2023,1,Bahrain Grand Prix,2023-03-05,Nyck,de Vries,AlphaTauri,14,0,19,19.0,,,,,,,,Nyck de Vries,0.0003691727340519289,20,0,0,1,2,1,2/3 correct
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Fernando,Alonso,Aston Martin,3,1,2,3.0,11.0,13.2,1.0,1.0,3.0,16.0,0.0,Fernando Alonso,0.8491647497332129,1,1,1,1,2,0,2/3 correct
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Sergio,Pérez,Red Bull,1,1,1,1.0,2.6666666666666665,2.8,2.0,3.0,0.0,4.0,0.0,Sergio Pérez,0.5976827173944316,2,1,1,1,2,0,2/3 correct
+2023,2,Saudi Arabian Grand Prix,2023-03-19,George,Russell,Mercedes,4,0,3,4.0,5.333333333333333,4.8,0.0,1.0,0.0,5.0,0.0,George Russell,0.24220634000527996,3,1,0,0,2,0,2/3 correct
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Lance,Stroll,Aston Martin,20,0,5,6.0,8.666666666666666,10.2,0.0,0.0,2.0,13.0,0.0,Lance Stroll,0.18527835319387187,4,0,0,1,2,0,2/3 correct
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Charles,Leclerc,Ferrari,7,0,12,2.0,9.0,6.0,1.0,3.0,1.0,2.0,1.0,Charles Leclerc,0.1755130844874645,5,0,0,1,2,0,2/3 correct
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Carlos,Sainz,Ferrari,6,0,4,5.0,9.0,10.0,1.0,2.0,2.0,3.0,1.0,Carlos Sainz,0.16234863798488042,6,0,0,1,2,0,2/3 correct
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Max,Verstappen,Red Bull,2,1,15,15.0,1.0,4.4,3.0,4.0,1.0,1.0,1.0,Max Verstappen,0.0688764351767603,7,0,1,0,2,0,2/3 correct
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Esteban,Ocon,Alpine F1 Team,8,0,6,7.0,13.333333333333334,10.6,0.0,0.0,2.0,6.0,0.0,Esteban Ocon,0.05088649514806454,8,0,0,1,2,0,2/3 correct
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Lewis,Hamilton,Mercedes,5,0,7,8.0,8.0,7.6,0.0,0.0,1.0,10.0,0.0,Lewis Hamilton,0.04297041588691619,9,0,0,1,2,0,2/3 correct
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Pierre,Gasly,Alpine F1 Team,9,0,9,10.0,13.0,11.2,0.0,0.0,2.0,8.0,0.0,Pierre Gasly,0.00906061115189587,10,0,0,1,2,0,2/3 correct
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Valtteri,Bottas,Alfa Romeo,18,0,14,14.0,6.666666666666667,8.6,0.0,0.0,1.0,15.0,0.0,Valtteri Bottas,0.007911994771214305,11,0,0,1,2,0,2/3 correct
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Guanyu,Zhou,Alfa Romeo,13,0,11,12.0,17.0,14.6,0.0,0.0,3.0,11.0,0.0,Guanyu Zhou,0.005780644299334839,12,0,0,1,2,0,2/3 correct
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Oscar,Piastri,McLaren,15,0,8,9.0,20.0,20.0,0.0,0.0,1.0,,,Oscar Piastri,0.004919639078543439,13,0,0,1,2,0,2/3 correct
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Nico,Hülkenberg,Haas F1 Team,12,0,10,11.0,14.666666666666666,14.666666666666666,0.0,0.0,1.0,12.0,0.0,Nico Hülkenberg,0.004074800145796639,14,0,0,1,2,0,2/3 correct
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Alexander,Albon,Williams,19,0,17,17.0,10.0,10.8,0.0,0.0,2.0,14.0,0.0,Alexander Albon,0.0026108592254720977,15,0,0,1,2,0,2/3 correct
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Kevin,Magnussen,Haas F1 Team,10,0,13,13.0,12.666666666666666,12.2,0.0,0.0,3.0,9.0,0.0,Kevin Magnussen,0.0022165987590938296,16,0,0,1,2,0,2/3 correct
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Lando,Norris,McLaren,17,0,19,19.0,13.0,10.2,1.0,1.0,2.0,7.0,0.0,Lando Norris,0.0013824646309922898,17,0,0,1,2,0,2/3 correct
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Yuki,Tsunoda,AlphaTauri,11,0,16,16.0,10.0,12.8,0.0,0.0,2.0,19.0,0.0,Yuki Tsunoda,0.0009537180753267565,18,0,0,1,2,0,2/3 correct
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Nyck,de Vries,AlphaTauri,14,0,18,18.0,14.0,14.0,0.0,0.0,1.0,,,Nyck de Vries,0.00023773480223996228,19,0,0,1,2,0,2/3 correct
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Logan,Sargeant,Williams,16,0,20,20.0,12.0,12.0,0.0,0.0,1.0,,,Logan Sargeant,0.00019623066181529653,20,0,0,1,2,0,2/3 correct
+2023,3,Australian Grand Prix,2023-04-02,Max,Verstappen,Red Bull,1,1,1,1.0,1.3333333333333333,4.6,3.0,4.0,1.0,18.0,0.0,Max Verstappen,0.808873347045274,1,1,1,1,2,1,2/3 correct
+2023,3,Australian Grand Prix,2023-04-02,Fernando,Alonso,Aston Martin,3,1,4,4.0,5.666666666666667,10.6,2.0,2.0,2.0,17.0,0.0,Fernando Alonso,0.6197193417098041,2,1,1,1,2,1,2/3 correct
+2023,3,Australian Grand Prix,2023-04-02,Carlos,Sainz,Ferrari,12,0,5,5.0,4.333333333333333,10.6,1.0,1.0,2.0,20.0,0.0,Carlos Sainz,0.5608939012286882,3,1,0,0,2,1,2/3 correct
+2023,3,Australian Grand Prix,2023-04-02,Lewis,Hamilton,Mercedes,2,1,3,3.0,5.333333333333333,6.6,0.0,0.0,1.0,4.0,0.0,Lewis Hamilton,0.4142854629296371,4,0,1,0,2,1,2/3 correct
+2023,3,Australian Grand Prix,2023-04-02,George,Russell,Mercedes,18,0,2,2.0,5.333333333333333,4.6,0.0,1.0,0.0,3.0,1.0,George Russell,0.3619923803624213,5,0,0,1,2,1,2/3 correct
+2023,3,Australian Grand Prix,2023-04-02,Charles,Leclerc,Ferrari,20,0,7,7.0,9.333333333333334,7.0,1.0,2.0,1.0,1.0,1.0,Charles Leclerc,0.12685574570923477,6,0,0,1,2,1,2/3 correct
+2023,3,Australian Grand Prix,2023-04-02,Sergio,Pérez,Red Bull,5,0,20,20.0,2.3333333333333335,2.2,2.0,4.0,0.0,2.0,1.0,Sergio Pérez,0.11298486464680574,7,0,0,1,2,1,2/3 correct
+2023,3,Australian Grand Prix,2023-04-02,Lance,Stroll,Aston Martin,4,0,6,6.0,12.0,11.6,0.0,0.0,2.0,12.0,0.0,Lance Stroll,0.10298377561435854,8,0,0,1,2,1,2/3 correct
+2023,3,Australian Grand Prix,2023-04-02,Alexander,Albon,Williams,19,0,8,8.0,12.666666666666666,11.8,0.0,0.0,2.0,10.0,0.0,Alexander Albon,0.028024194066155497,9,0,0,1,2,1,2/3 correct
+2023,3,Australian Grand Prix,2023-04-02,Pierre,Gasly,Alpine F1 Team,13,0,9,9.0,12.0,11.4,0.0,0.0,2.0,9.0,0.0,Pierre Gasly,0.016762777454226843,10,0,0,1,2,1,2/3 correct
+2023,3,Australian Grand Prix,2023-04-02,Kevin,Magnussen,Haas F1 Team,17,0,14,14.0,13.0,12.4,0.0,0.0,3.0,14.0,0.0,Kevin Magnussen,0.006586555862078172,11,0,0,1,2,1,2/3 correct
+2023,3,Australian Grand Prix,2023-04-02,Esteban,Ocon,Alpine F1 Team,14,0,11,11.0,11.333333333333334,11.0,0.0,0.0,2.0,7.0,0.0,Esteban Ocon,0.005884579922256972,12,0,0,1,2,1,2/3 correct
+2023,3,Australian Grand Prix,2023-04-02,Nico,Hülkenberg,Haas F1 Team,7,0,10,10.0,13.0,14.0,0.0,0.0,1.0,,,Nico Hülkenberg,0.005621324352752022,13,0,0,1,2,1,2/3 correct
+2023,3,Australian Grand Prix,2023-04-02,Yuki,Tsunoda,AlphaTauri,10,0,12,12.0,11.333333333333334,11.2,0.0,0.0,1.0,15.0,0.0,Yuki Tsunoda,0.0055612811821067675,14,0,0,1,2,1,2/3 correct
+2023,3,Australian Grand Prix,2023-04-02,Lando,Norris,McLaren,6,0,13,13.0,17.666666666666668,12.2,0.0,1.0,2.0,5.0,0.0,Lando Norris,0.0026659326527882564,15,0,0,1,2,1,2/3 correct
+2023,3,Australian Grand Prix,2023-04-02,Guanyu,Zhou,Alfa Romeo,9,0,17,17.0,16.333333333333332,15.0,0.0,0.0,3.0,11.0,0.0,Guanyu Zhou,0.0010773148538180716,16,0,0,1,2,1,2/3 correct
+2023,3,Australian Grand Prix,2023-04-02,Nyck,de Vries,AlphaTauri,15,0,15,15.0,14.0,14.0,0.0,0.0,1.0,,,Nyck de Vries,0.0007504932785863113,17,0,0,1,2,1,2/3 correct
+2023,3,Australian Grand Prix,2023-04-02,Oscar,Piastri,McLaren,8,0,16,16.0,17.5,17.5,0.0,0.0,1.0,,,Oscar Piastri,0.00044963285745298534,18,0,0,1,2,1,2/3 correct
+2023,3,Australian Grand Prix,2023-04-02,Logan,Sargeant,Williams,16,0,18,18.0,14.0,14.0,0.0,0.0,1.0,,,Logan Sargeant,0.00035568522121495955,19,0,0,1,2,1,2/3 correct
+2023,3,Australian Grand Prix,2023-04-02,Valtteri,Bottas,Alfa Romeo,11,0,19,19.0,11.0,9.2,0.0,0.0,1.0,8.0,0.0,Valtteri Bottas,0.0002778892319672899,20,0,0,1,2,1,2/3 correct
+2023,4,Azerbaijan Grand Prix,2023-04-30,Max,Verstappen,Red Bull,2,1,2,2.0,1.3333333333333333,1.2,3.0,5.0,0.0,,,Max Verstappen,0.7848826879428937,1,1,1,1,3,0,3/3 correct
+2023,4,Azerbaijan Grand Prix,2023-04-30,Sergio,Pérez,Red Bull,1,1,3,3.0,2.6666666666666665,2.8,2.0,3.0,0.0,,,Sergio Pérez,0.7519696087265707,2,1,1,1,3,0,3/3 correct
+2023,4,Azerbaijan Grand Prix,2023-04-30,Charles,Leclerc,Ferrari,3,1,1,1.0,15.333333333333334,10.8,0.0,1.0,2.0,,,Charles Leclerc,0.731653523286476,3,1,1,1,3,0,3/3 correct
+2023,4,Azerbaijan Grand Prix,2023-04-30,Lewis,Hamilton,Mercedes,6,0,5,5.0,4.0,6.2,1.0,1.0,1.0,,,Lewis Hamilton,0.3173050242509836,4,0,0,1,3,0,3/3 correct
+2023,4,Azerbaijan Grand Prix,2023-04-30,Fernando,Alonso,Aston Martin,4,0,6,6.0,3.0,7.8,3.0,3.0,1.0,,,Fernando Alonso,0.3070326255853513,5,0,0,1,3,0,3/3 correct
+2023,4,Azerbaijan Grand Prix,2023-04-30,Carlos,Sainz,Ferrari,5,0,4,4.0,7.333333333333333,9.0,0.0,1.0,1.0,,,Carlos Sainz,0.30490361329017174,6,0,0,1,3,0,3/3 correct
+2023,4,Azerbaijan Grand Prix,2023-04-30,Lando,Norris,McLaren,9,0,7,7.0,13.333333333333334,12.4,0.0,1.0,2.0,,,Lando Norris,0.026520893571502745,7,0,0,1,3,0,3/3 correct
+2023,4,Azerbaijan Grand Prix,2023-04-30,Lance,Stroll,Aston Martin,7,0,9,9.0,10.0,10.0,0.0,0.0,2.0,,,Lance Stroll,0.01929891722422303,8,0,0,1,3,0,3/3 correct
+2023,4,Azerbaijan Grand Prix,2023-04-30,Yuki,Tsunoda,AlphaTauri,10,0,8,8.0,10.666666666666666,10.2,0.0,0.0,0.0,,,Yuki Tsunoda,0.015070040361137266,9,0,0,1,3,0,3/3 correct
+2023,4,Azerbaijan Grand Prix,2023-04-30,George,Russell,Mercedes,8,0,11,11.0,9.666666666666666,7.6,0.0,0.0,1.0,,,George Russell,0.009349288243514138,10,0,0,1,3,0,3/3 correct
+2023,4,Azerbaijan Grand Prix,2023-04-30,Oscar,Piastri,McLaren,11,0,10,10.0,14.333333333333334,14.333333333333334,0.0,0.0,1.0,,,Oscar Piastri,0.0062344571311101216,11,0,0,1,3,0,3/3 correct
+2023,4,Azerbaijan Grand Prix,2023-04-30,Alexander,Albon,Williams,12,0,12,13.0,16.0,13.6,0.0,0.0,3.0,,,Alexander Albon,0.0038051477146211305,12,0,0,1,3,0,3/3 correct
+2023,4,Azerbaijan Grand Prix,2023-04-30,Valtteri,Bottas,Alfa Romeo,18,0,13,14.0,12.333333333333334,9.8,0.0,0.0,1.0,,,Valtteri Bottas,0.0017348919935181654,13,0,0,1,3,0,3/3 correct
+2023,4,Azerbaijan Grand Prix,2023-04-30,Esteban,Ocon,Alpine F1 Team,15,0,19,12.0,13.333333333333334,12.4,0.0,0.0,3.0,,,Esteban Ocon,0.0016838453622404685,14,0,0,1,3,0,3/3 correct
+2023,4,Azerbaijan Grand Prix,2023-04-30,Nyck,de Vries,AlphaTauri,20,0,18,20.0,14.333333333333334,14.333333333333334,0.0,0.0,2.0,,,Nyck de Vries,0.0014504401125262053,15,0,0,1,3,0,3/3 correct
+2023,4,Azerbaijan Grand Prix,2023-04-30,Logan,Sargeant,Williams,16,0,14,15.0,14.666666666666666,14.666666666666666,0.0,0.0,2.0,,,Logan Sargeant,0.0010804747545135765,16,0,0,1,3,0,3/3 correct
+2023,4,Azerbaijan Grand Prix,2023-04-30,Guanyu,Zhou,Alfa Romeo,19,0,15,16.0,12.666666666666666,14.6,0.0,0.0,3.0,,,Guanyu Zhou,0.0010146013428576003,17,0,0,1,3,0,3/3 correct
+2023,4,Azerbaijan Grand Prix,2023-04-30,Kevin,Magnussen,Haas F1 Team,13,0,16,18.0,13.333333333333334,13.0,0.0,0.0,3.0,,,Kevin Magnussen,0.000731389526242324,18,0,0,1,3,0,3/3 correct
+2023,4,Azerbaijan Grand Prix,2023-04-30,Pierre,Gasly,Alpine F1 Team,14,0,17,19.0,10.333333333333334,12.2,0.0,0.0,3.0,,,Pierre Gasly,0.0005302851503566056,19,0,0,1,3,0,3/3 correct
+2023,4,Azerbaijan Grand Prix,2023-04-30,Nico,Hülkenberg,Haas F1 Team,17,0,20,17.0,11.333333333333334,12.6,0.0,0.0,1.0,,,Nico Hülkenberg,0.00030008745418720677,20,0,0,1,3,0,3/3 correct
+2023,5,Miami Grand Prix,2023-05-07,Sergio,Pérez,Red Bull,2,1,1,1.0,2.3333333333333335,2.6,2.0,3.0,0.0,4.0,0.0,Sergio Pérez,0.8115394621978765,1,1,1,1,2,0,2/3 correct
+2023,5,Miami Grand Prix,2023-05-07,Fernando,Alonso,Aston Martin,3,1,2,2.0,3.3333333333333335,4.8,2.0,3.0,0.0,11.0,0.0,Fernando Alonso,0.773914574504952,2,1,1,1,2,0,2/3 correct
+2023,5,Miami Grand Prix,2023-05-07,Kevin,Magnussen,Haas F1 Team,10,0,4,4.0,13.333333333333334,13.8,0.0,0.0,3.0,16.0,0.0,Kevin Magnussen,0.4597780852301003,3,1,0,0,2,0,2/3 correct
+2023,5,Miami Grand Prix,2023-05-07,Carlos,Sainz,Ferrari,5,0,3,3.0,7.666666666666667,6.0,0.0,1.0,0.0,3.0,1.0,Carlos Sainz,0.4015666546690354,4,0,0,1,2,0,2/3 correct
+2023,5,Miami Grand Prix,2023-05-07,Pierre,Gasly,Alpine F1 Team,8,0,5,5.0,12.0,12.6,0.0,0.0,2.0,18.0,0.0,Pierre Gasly,0.2913301743070942,5,0,0,1,2,0,2/3 correct
+2023,5,Miami Grand Prix,2023-05-07,Max,Verstappen,Red Bull,1,1,9,9.0,1.6666666666666667,1.4,3.0,5.0,0.0,1.0,1.0,Max Verstappen,0.2177507538106862,6,0,1,0,2,0,2/3 correct
+2023,5,Miami Grand Prix,2023-05-07,George,Russell,Mercedes,4,0,6,6.0,10.0,8.4,0.0,0.0,1.0,5.0,0.0,George Russell,0.056555655449954986,7,0,0,1,2,0,2/3 correct
+2023,5,Miami Grand Prix,2023-05-07,Charles,Leclerc,Ferrari,7,0,7,7.0,10.0,10.2,1.0,2.0,2.0,2.0,1.0,Charles Leclerc,0.046417360621219025,8,0,0,1,2,0,2/3 correct
+2023,5,Miami Grand Prix,2023-05-07,Esteban,Ocon,Alpine F1 Team,9,0,8,8.0,12.333333333333334,12.6,0.0,0.0,2.0,8.0,0.0,Esteban Ocon,0.01899946459694903,9,0,0,1,2,0,2/3 correct
+2023,5,Miami Grand Prix,2023-05-07,Valtteri,Bottas,Alfa Romeo,13,0,10,10.0,15.666666666666666,12.4,0.0,0.0,2.0,7.0,0.0,Valtteri Bottas,0.009767219574728259,10,0,0,1,2,0,2/3 correct
+2023,5,Miami Grand Prix,2023-05-07,Alexander,Albon,Williams,14,0,11,11.0,16.666666666666668,13.8,0.0,0.0,2.0,9.0,0.0,Alexander Albon,0.004991595282016218,11,0,0,1,2,0,2/3 correct
+2023,5,Miami Grand Prix,2023-05-07,Lewis,Hamilton,Mercedes,6,0,13,13.0,4.333333333333333,4.8,1.0,1.0,0.0,6.0,0.0,Lewis Hamilton,0.0047503869669851505,12,0,0,1,2,0,2/3 correct
+2023,5,Miami Grand Prix,2023-05-07,Guanyu,Zhou,Alfa Romeo,16,0,14,14.0,13.666666666666666,15.4,0.0,0.0,3.0,20.0,0.0,Guanyu Zhou,0.003676395663394454,13,0,0,1,2,0,2/3 correct
+2023,5,Miami Grand Prix,2023-05-07,Nico,Hülkenberg,Haas F1 Team,15,0,12,12.0,12.0,12.6,0.0,0.0,2.0,,,Nico Hülkenberg,0.0028288284858229893,14,0,0,1,2,0,2/3 correct
+2023,5,Miami Grand Prix,2023-05-07,Logan,Sargeant,Williams,20,0,20,20.0,16.0,15.0,0.0,0.0,2.0,,,Logan Sargeant,0.0013826268909945686,15,0,0,1,2,0,2/3 correct
+2023,5,Miami Grand Prix,2023-05-07,Lando,Norris,McLaren,17,0,16,16.0,10.666666666666666,13.6,0.0,0.0,2.0,19.0,0.0,Lando Norris,0.0012551457131045282,16,0,0,1,2,0,2/3 correct
+2023,5,Miami Grand Prix,2023-05-07,Nyck,de Vries,AlphaTauri,18,0,15,15.0,16.333333333333332,15.75,0.0,0.0,3.0,,,Nyck de Vries,0.0009830324013602757,17,0,0,1,2,0,2/3 correct
+2023,5,Miami Grand Prix,2023-05-07,Yuki,Tsunoda,AlphaTauri,11,0,17,17.0,10.333333333333334,10.8,0.0,0.0,0.0,12.0,0.0,Yuki Tsunoda,0.000476080627184174,18,0,0,1,2,0,2/3 correct
+2023,5,Miami Grand Prix,2023-05-07,Lance,Stroll,Aston Martin,12,0,18,18.0,10.333333333333334,9.4,0.0,0.0,1.0,10.0,0.0,Lance Stroll,0.0002518439464616574,19,0,0,1,2,0,2/3 correct
+2023,5,Miami Grand Prix,2023-05-07,Oscar,Piastri,McLaren,19,0,19,19.0,11.333333333333334,13.5,0.0,0.0,1.0,,,Oscar Piastri,0.00020526473632099043,20,0,0,1,2,0,2/3 correct
+2024,1,Bahrain Grand Prix,2024-03-02,Max,Verstappen,Red Bull,1,1,1,1.0,1.3333333333333333,1.4,3.0,5.0,0.0,7.333333333333333,2.0,Max Verstappen,0.861823257072437,1,1,1,1,1,1,1/3 correct
+2024,1,Bahrain Grand Prix,2024-03-02,Charles,Leclerc,Ferrari,4,0,2,2.0,10.0,11.2,1.0,1.0,2.0,8.666666666666666,1.0,Charles Leclerc,0.7485037396182899,2,1,0,0,1,1,1/3 correct
+2024,1,Bahrain Grand Prix,2024-03-02,George,Russell,Mercedes,5,0,3,3.0,10.0,8.2,0.0,0.0,1.0,8.333333333333334,0.0,George Russell,0.6452042198246207,3,1,0,0,1,1,1/3 correct
+2024,1,Bahrain Grand Prix,2024-03-02,Sergio,Pérez,Red Bull,2,1,5,5.0,2.6666666666666665,2.2,2.0,4.0,0.0,8.333333333333334,1.0,Sergio Pérez,0.4984469094801786,4,0,1,0,1,1,1/3 correct
+2024,1,Bahrain Grand Prix,2024-03-02,Fernando,Alonso,Aston Martin,9,0,6,6.0,3.3333333333333335,3.2,2.0,4.0,0.0,10.333333333333334,1.0,Fernando Alonso,0.3554815746664614,5,0,0,1,1,1,1/3 correct
+2024,1,Bahrain Grand Prix,2024-03-02,Carlos,Sainz,Ferrari,3,1,4,4.0,7.333333333333333,6.4,0.0,0.0,0.0,4.666666666666667,1.0,Carlos Sainz,0.17957005465417433,6,0,1,0,1,1,1/3 correct
+2024,1,Bahrain Grand Prix,2024-03-02,Lewis,Hamilton,Mercedes,7,0,9,9.0,4.666666666666667,4.8,1.0,1.0,0.0,3.0,2.0,Lewis Hamilton,0.03488202784104172,7,0,0,1,1,1,1/3 correct
+2024,1,Bahrain Grand Prix,2024-03-02,Lance,Stroll,Aston Martin,10,0,12,12.0,7.666666666666667,9.8,0.0,0.0,1.0,9.333333333333334,0.0,Lance Stroll,0.023540543344456478,8,0,0,1,1,1,1/3 correct
+2024,1,Bahrain Grand Prix,2024-03-02,Lando,Norris,McLaren,6,0,7,7.0,10.666666666666666,13.2,0.0,0.0,1.0,12.0,0.0,Lando Norris,0.020639220851720114,9,0,0,1,1,1,1/3 correct
+2024,1,Bahrain Grand Prix,2024-03-02,Oscar,Piastri,McLaren,8,0,8,8.0,12.666666666666666,14.6,0.0,0.0,2.0,20.0,0.0,Oscar Piastri,0.019113805980733253,10,0,0,1,1,1,1/3 correct
+2024,1,Bahrain Grand Prix,2024-03-02,Nico,Hülkenberg,Haas F1 Team,16,0,10,10.0,13.0,13.2,0.0,0.0,2.0,16.0,0.0,Nico Hülkenberg,0.00850937320080759,11,0,0,1,1,1,1/3 correct
+2024,1,Bahrain Grand Prix,2024-03-02,Valtteri,Bottas,Sauber,19,0,16,16.0,14.0,13.6,0.0,0.0,2.0,5.666666666666667,1.0,Valtteri Bottas,0.00478759784857567,12,0,0,1,1,1,1/3 correct
+2024,1,Bahrain Grand Prix,2024-03-02,Yuki,Tsunoda,RB F1 Team,14,0,11,11.0,10.333333333333334,10.6,0.0,0.0,0.0,9.333333333333334,0.0,Yuki Tsunoda,0.00316467699937081,13,0,0,1,1,1,1/3 correct
+2024,1,Bahrain Grand Prix,2024-03-02,Alexander,Albon,Williams,15,0,13,13.0,15.0,14.8,0.0,0.0,2.0,11.5,0.0,Alexander Albon,0.002861463012717539,14,0,0,1,1,1,1/3 correct
+2024,1,Bahrain Grand Prix,2024-03-02,Daniel,Ricciardo,RB F1 Team,13,0,14,14.0,12.333333333333334,13.6,0.0,0.0,2.0,10.5,0.0,Daniel Ricciardo,0.0022875945631896707,15,0,0,1,1,1,1/3 correct
+2024,1,Bahrain Grand Prix,2024-03-02,Kevin,Magnussen,Haas F1 Team,12,0,15,15.0,13.333333333333334,12.6,0.0,0.0,2.0,9.0,0.0,Kevin Magnussen,0.0008999052610252387,16,0,0,1,1,1,1/3 correct
+2024,1,Bahrain Grand Prix,2024-03-02,Logan,Sargeant,Williams,20,0,18,18.0,17.333333333333332,16.0,0.0,0.0,3.0,12.0,0.0,Logan Sargeant,0.0008044767185255777,17,0,0,1,1,1,1/3 correct
+2024,1,Bahrain Grand Prix,2024-03-02,Guanyu,Zhou,Sauber,11,0,17,17.0,14.666666666666666,14.6,0.0,0.0,2.0,13.0,0.0,Guanyu Zhou,0.0007113338660987988,18,0,0,1,1,1,1/3 correct
+2024,1,Bahrain Grand Prix,2024-03-02,Esteban,Ocon,Alpine F1 Team,17,0,19,19.0,12.666666666666666,12.8,0.0,0.0,2.0,12.666666666666666,0.0,Esteban Ocon,0.0005375528808232856,19,0,0,1,1,1,1/3 correct
+2024,1,Bahrain Grand Prix,2024-03-02,Pierre,Gasly,Alpine F1 Team,18,0,20,20.0,11.666666666666666,10.6,0.0,0.0,1.0,15.333333333333334,0.0,Pierre Gasly,0.00045405955327291705,20,0,0,1,1,1,1/3 correct
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Max,Verstappen,Red Bull,1,1,1,1.0,1.3333333333333333,1.4,3.0,5.0,0.0,1.5,2.0,Max Verstappen,0.8090256888680484,1,1,1,1,3,1,3/3 correct
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Sergio,Pérez,Red Bull,2,1,3,3.0,1.6666666666666667,2.2,3.0,4.0,0.0,2.5,1.0,Sergio Pérez,0.5924585507651026,2,1,1,1,3,1,3/3 correct
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Charles,Leclerc,Ferrari,3,1,2,2.0,4.666666666666667,8.2,1.0,1.0,1.0,4.5,1.0,Charles Leclerc,0.47426809322504826,3,1,1,1,3,1,3/3 correct
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Fernando,Alonso,Aston Martin,5,0,4,4.0,5.333333333333333,4.4,1.0,3.0,0.0,9.5,1.0,Fernando Alonso,0.356148901208911,4,0,0,1,3,1,3/3 correct
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Oscar,Piastri,McLaren,4,0,5,5.0,12.666666666666666,12.2,0.0,0.0,1.0,15.0,0.0,Oscar Piastri,0.10377443282564076,5,0,0,1,3,1,3/3 correct
+2024,2,Saudi Arabian Grand Prix,2024-03-09,George,Russell,Mercedes,6,0,7,7.0,5.666666666666667,7.8,0.0,0.0,1.0,4.5,0.0,George Russell,0.09117743591605734,6,0,0,1,3,1,3/3 correct
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Lando,Norris,McLaren,8,0,6,6.0,10.666666666666666,11.0,0.0,0.0,0.0,12.0,0.0,Lando Norris,0.03955080791706209,7,0,0,1,3,1,3/3 correct
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Lewis,Hamilton,Mercedes,9,0,8,8.0,6.333333333333333,5.2,0.0,1.0,0.0,7.5,0.0,Lewis Hamilton,0.029893211775876047,8,0,0,1,3,1,3/3 correct
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Yuki,Tsunoda,RB F1 Team,15,0,9,9.0,11.666666666666666,11.2,0.0,0.0,1.0,15.0,0.0,Yuki Tsunoda,0.012004829632586655,9,0,0,1,3,1,3/3 correct
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Lance,Stroll,Aston Martin,19,0,10,10.0,9.666666666666666,10.6,0.0,0.0,1.0,16.5,0.0,Lance Stroll,0.009037973667367766,10,0,0,1,3,1,3/3 correct
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Oliver,Bearman,Ferrari,7,0,11,11.0,,,,,,,,Oliver Bearman,0.004429499098985201,11,0,0,1,3,1,3/3 correct
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Alexander,Albon,Williams,11,0,12,12.0,13.666666666666666,15.8,0.0,0.0,3.0,16.5,0.0,Alexander Albon,0.0038429590012493547,12,0,0,1,3,1,3/3 correct
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Daniel,Ricciardo,RB F1 Team,16,0,14,14.0,14.666666666666666,13.4,0.0,0.0,3.0,17.0,0.0,Daniel Ricciardo,0.003118806475818218,13,0,0,1,3,1,3/3 correct
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Nico,Hülkenberg,Haas F1 Team,10,0,15,15.0,16.0,13.4,0.0,0.0,2.0,12.0,0.0,Nico Hülkenberg,0.0030229081145709707,14,0,0,1,3,1,3/3 correct
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Logan,Sargeant,Williams,14,0,19,19.0,18.666666666666668,17.6,0.0,0.0,3.0,16.0,0.0,Logan Sargeant,0.0025841506289868213,15,0,0,1,3,1,3/3 correct
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Valtteri,Bottas,Sauber,17,0,16,16.0,16.666666666666668,15.8,0.0,0.0,3.0,16.5,0.0,Valtteri Bottas,0.0019335818592145053,16,0,0,1,3,1,3/3 correct
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Kevin,Magnussen,Haas F1 Team,12,0,13,13.0,11.666666666666666,12.4,0.0,0.0,2.0,9.5,0.0,Kevin Magnussen,0.0017621347404752988,17,0,0,1,3,1,3/3 correct
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Guanyu,Zhou,Sauber,18,0,20,20.0,15.333333333333334,13.6,0.0,0.0,2.0,12.0,0.0,Guanyu Zhou,0.0013856377501953673,18,0,0,1,3,1,3/3 correct
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Esteban,Ocon,Alpine F1 Team,13,0,17,17.0,13.666666666666666,12.6,0.0,0.0,2.0,7.0,0.0,Esteban Ocon,0.0004551117219506868,19,0,0,1,3,1,3/3 correct
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Pierre,Gasly,Alpine F1 Team,20,0,18,18.0,13.333333333333334,12.4,0.0,0.0,2.0,8.5,0.0,Pierre Gasly,0.00025831727313686093,20,0,0,1,3,1,3/3 correct
+2024,3,Australian Grand Prix,2024-03-24,Max,Verstappen,Red Bull,19,0,1,1.0,1.0,1.2,3.0,5.0,0.0,9.5,1.0,Max Verstappen,0.9455404777929137,1,1,0,0,1,0,1/3 correct
+2024,3,Australian Grand Prix,2024-03-24,Carlos,Sainz,Ferrari,1,1,2,2.0,4.333333333333333,6.2,1.0,1.0,0.0,16.0,0.0,Carlos Sainz,0.6813742379413303,2,1,1,1,1,0,1/3 correct
+2024,3,Australian Grand Prix,2024-03-24,Sergio,Pérez,Red Bull,5,0,6,3.0,2.0,2.4,3.0,4.0,0.0,3.5,1.0,Sergio Pérez,0.6369559836050342,3,1,0,0,1,0,1/3 correct
+2024,3,Australian Grand Prix,2024-03-24,Charles,Leclerc,Ferrari,2,1,4,5.0,4.666666666666667,7.4,1.0,2.0,1.0,10.5,1.0,Charles Leclerc,0.33583999353976696,4,0,1,0,1,0,1/3 correct
+2024,3,Australian Grand Prix,2024-03-24,Lando,Norris,McLaren,3,1,3,4.0,10.333333333333334,9.2,0.0,0.0,0.0,5.5,0.0,Lando Norris,0.17802778820008747,5,0,1,0,1,0,1/3 correct
+2024,3,Australian Grand Prix,2024-03-24,George,Russell,Mercedes,17,0,7,7.0,5.0,8.2,0.0,0.0,1.0,10.5,1.0,George Russell,0.07333085221505672,6,0,0,1,1,0,1/3 correct
+2024,3,Australian Grand Prix,2024-03-24,Oscar,Piastri,McLaren,4,0,5,6.0,10.333333333333334,10.0,0.0,0.0,1.0,8.0,0.0,Oscar Piastri,0.053907489116639326,7,0,0,1,1,0,1/3 correct
+2024,3,Australian Grand Prix,2024-03-24,Fernando,Alonso,Aston Martin,8,0,10,10.0,5.666666666666667,4.8,1.0,2.0,0.0,10.0,1.0,Fernando Alonso,0.020739521332958123,8,0,0,1,1,0,1/3 correct
+2024,3,Australian Grand Prix,2024-03-24,Yuki,Tsunoda,RB F1 Team,7,0,8,8.0,13.333333333333334,12.0,0.0,0.0,2.0,12.5,0.0,Yuki Tsunoda,0.019580985062976206,9,0,0,1,1,0,1/3 correct
+2024,3,Australian Grand Prix,2024-03-24,Lewis,Hamilton,Mercedes,18,0,11,11.0,7.333333333333333,6.0,0.0,1.0,0.0,3.0,1.0,Lewis Hamilton,0.018856515237206405,10,0,0,1,1,0,1/3 correct
+2024,3,Australian Grand Prix,2024-03-24,Lance,Stroll,Aston Martin,6,0,9,9.0,13.666666666666666,10.4,0.0,0.0,1.0,8.0,0.0,Lance Stroll,0.011195306827525241,11,0,0,1,1,0,1/3 correct
+2024,3,Australian Grand Prix,2024-03-24,Alexander,Albon,Williams,11,0,12,12.0,13.333333333333334,14.2,0.0,0.0,2.0,14.5,0.0,Alexander Albon,0.004395775658029139,12,0,0,1,1,0,1/3 correct
+2024,3,Australian Grand Prix,2024-03-24,Valtteri,Bottas,Sauber,14,0,13,13.0,16.333333333333332,15.6,0.0,0.0,3.0,9.5,0.0,Valtteri Bottas,0.0015919814247528823,13,0,0,1,1,0,1/3 correct
+2024,3,Australian Grand Prix,2024-03-24,Kevin,Magnussen,Haas F1 Team,10,0,14,14.0,11.333333333333334,12.8,0.0,0.0,2.0,15.5,0.0,Kevin Magnussen,0.0012335174841863828,14,0,0,1,1,0,1/3 correct
+2024,3,Australian Grand Prix,2024-03-24,Esteban,Ocon,Alpine F1 Team,16,0,15,15.0,13.0,13.6,0.0,0.0,3.0,10.5,0.0,Esteban Ocon,0.0011412827985498022,15,0,0,1,1,0,1/3 correct
+2024,3,Australian Grand Prix,2024-03-24,Pierre,Gasly,Alpine F1 Team,13,0,17,17.0,15.333333333333334,14.6,0.0,0.0,3.0,11.0,0.0,Pierre Gasly,0.0009584336714793853,16,0,0,1,1,0,1/3 correct
+2024,3,Australian Grand Prix,2024-03-24,Nico,Hülkenberg,Haas F1 Team,9,0,16,16.0,13.666666666666666,13.0,0.0,0.0,2.0,7.0,0.0,Nico Hülkenberg,0.0006648734197392755,17,0,0,1,1,0,1/3 correct
+2024,3,Australian Grand Prix,2024-03-24,Daniel,Ricciardo,RB F1 Team,12,0,18,18.0,14.0,13.2,0.0,0.0,3.0,6.0,0.0,Daniel Ricciardo,0.0005791468028373377,18,0,0,1,1,0,1/3 correct
+2024,3,Australian Grand Prix,2024-03-24,Guanyu,Zhou,Sauber,15,0,19,19.0,15.0,14.6,0.0,0.0,3.0,10.0,0.0,Guanyu Zhou,0.0003385953196195621,19,0,0,1,1,0,1/3 correct
+2024,4,Japanese Grand Prix,2024-04-07,Sergio,Pérez,Red Bull,2,1,2,2.0,3.0,2.4,2.0,4.0,0.0,,,Sergio Pérez,0.7606716399709708,1,1,1,1,2,0,2/3 correct
+2024,4,Japanese Grand Prix,2024-04-07,Max,Verstappen,Red Bull,1,1,1,1.0,7.0,4.8,2.0,4.0,1.0,,,Max Verstappen,0.6833389844572141,2,1,1,1,2,0,2/3 correct
+2024,4,Japanese Grand Prix,2024-04-07,Lando,Norris,McLaren,5,0,3,3.0,5.666666666666667,8.6,1.0,1.0,0.0,,,Lando Norris,0.6309681405187118,3,1,0,0,2,0,2/3 correct
+2024,4,Japanese Grand Prix,2024-04-07,Carlos,Sainz,Ferrari,3,1,4,4.0,3.0,5.2,2.0,2.0,0.0,,,Carlos Sainz,0.4575237607276788,4,0,1,0,2,0,2/3 correct
+2024,4,Japanese Grand Prix,2024-04-07,Fernando,Alonso,Aston Martin,6,0,5,5.0,7.333333333333333,5.8,0.0,1.0,0.0,,,Fernando Alonso,0.14332388408683622,5,0,0,1,2,0,2/3 correct
+2024,4,Japanese Grand Prix,2024-04-07,Charles,Leclerc,Ferrari,4,0,8,8.0,3.0,3.8,2.0,3.0,0.0,,,Charles Leclerc,0.10427211493063013,6,0,0,1,2,0,2/3 correct
+2024,4,Japanese Grand Prix,2024-04-07,Oscar,Piastri,McLaren,8,0,6,6.0,5.333333333333333,9.2,0.0,0.0,1.0,,,Oscar Piastri,0.09806844878271263,7,0,0,1,2,0,2/3 correct
+2024,4,Japanese Grand Prix,2024-04-07,Lewis,Hamilton,Mercedes,9,0,7,7.0,11.333333333333334,9.2,0.0,0.0,1.0,,,Lewis Hamilton,0.038389637770984184,8,0,0,1,2,0,2/3 correct
+2024,4,Japanese Grand Prix,2024-04-07,George,Russell,Mercedes,7,0,9,9.0,9.333333333333334,8.0,0.0,0.0,1.0,,,George Russell,0.01691074484290044,9,0,0,1,2,0,2/3 correct
+2024,4,Japanese Grand Prix,2024-04-07,Yuki,Tsunoda,RB F1 Team,10,0,10,10.0,12.0,11.4,0.0,0.0,2.0,,,Yuki Tsunoda,0.008786880778548794,10,0,0,1,2,0,2/3 correct
+2024,4,Japanese Grand Prix,2024-04-07,Daniel,Ricciardo,RB F1 Team,19,0,11,11.0,13.666666666666666,14.4,0.0,0.0,4.0,,,Daniel Ricciardo,0.006365238780250324,11,0,0,1,2,0,2/3 correct
+2024,4,Japanese Grand Prix,2024-04-07,Nico,Hülkenberg,Haas F1 Team,11,0,12,12.0,11.666666666666666,13.4,0.0,0.0,2.0,,,Nico Hülkenberg,0.0025686481497019433,12,0,0,1,2,0,2/3 correct
+2024,4,Japanese Grand Prix,2024-04-07,Valtteri,Bottas,Sauber,14,0,13,13.0,16.666666666666668,16.2,0.0,0.0,4.0,,,Valtteri Bottas,0.0020613712421995774,13,0,0,1,2,0,2/3 correct
+2024,4,Japanese Grand Prix,2024-04-07,Alexander,Albon,Williams,20,0,14,14.0,12.333333333333334,12.6,0.0,0.0,2.0,,,Alexander Albon,0.0011724573567838683,14,0,0,1,2,0,2/3 correct
+2024,4,Japanese Grand Prix,2024-04-07,Esteban,Ocon,Alpine F1 Team,15,0,15,15.0,15.333333333333334,14.0,0.0,0.0,3.0,,,Esteban Ocon,0.0009207314236416473,15,0,0,1,2,0,2/3 correct
+2024,4,Japanese Grand Prix,2024-04-07,Lance,Stroll,Aston Martin,12,0,16,16.0,11.666666666666666,10.8,0.0,0.0,1.0,,,Lance Stroll,0.0004950095459488486,16,0,0,1,2,0,2/3 correct
+2024,4,Japanese Grand Prix,2024-04-07,Pierre,Gasly,Alpine F1 Team,16,0,17,17.0,17.0,14.6,0.0,0.0,3.0,,,Pierre Gasly,0.0004678925981078785,17,0,0,1,2,0,2/3 correct
+2024,4,Japanese Grand Prix,2024-04-07,Kevin,Magnussen,Haas F1 Team,13,0,18,18.0,11.333333333333334,11.4,0.0,0.0,2.0,,,Kevin Magnussen,0.0003064473779140005,18,0,0,1,2,0,2/3 correct
+2024,4,Japanese Grand Prix,2024-04-07,Logan,Sargeant,Williams,17,0,19,19.0,18.0,17.2,0.0,0.0,4.0,,,Logan Sargeant,0.00030559307907584174,19,0,0,1,2,0,2/3 correct
+2024,4,Japanese Grand Prix,2024-04-07,Guanyu,Zhou,Sauber,18,0,20,20.0,14.666666666666666,15.8,0.0,0.0,4.0,,,Guanyu Zhou,0.00028215122817784567,20,0,0,1,2,0,2/3 correct
+2024,5,Chinese Grand Prix,2024-04-21,Max,Verstappen,Red Bull,1,1,1,1.0,7.0,4.6,2.0,4.0,1.0,,,Max Verstappen,0.8387260269061021,1,1,1,1,2,1,2/3 correct
+2024,5,Chinese Grand Prix,2024-04-21,Sergio,Pérez,Red Bull,3,1,2,2.0,3.0,2.6,2.0,4.0,0.0,,,Sergio Pérez,0.8292547551289011,2,1,1,1,2,1,2/3 correct
+2024,5,Chinese Grand Prix,2024-04-21,Charles,Leclerc,Ferrari,4,0,6,6.0,3.0,4.0,2.0,2.0,0.0,,,Charles Leclerc,0.32489069287570405,3,1,0,0,2,1,2/3 correct
+2024,5,Chinese Grand Prix,2024-04-21,Fernando,Alonso,Aston Martin,7,0,3,3.0,6.333333333333333,6.2,0.0,1.0,0.0,,,Fernando Alonso,0.31937028342825163,4,0,0,1,2,1,2/3 correct
+2024,5,Chinese Grand Prix,2024-04-21,Lando,Norris,McLaren,2,1,4,4.0,5.333333333333333,7.8,1.0,1.0,0.0,,,Lando Norris,0.29611148760788625,5,0,1,0,2,1,2/3 correct
+2024,5,Chinese Grand Prix,2024-04-21,Carlos,Sainz,Ferrari,5,0,7,7.0,2.3333333333333335,3.4,3.0,3.0,0.0,,,Carlos Sainz,0.27067688709395943,6,0,0,1,2,1,2/3 correct
+2024,5,Chinese Grand Prix,2024-04-21,Oscar,Piastri,McLaren,8,0,5,5.0,5.333333333333333,8.6,0.0,0.0,1.0,,,Oscar Piastri,0.12348572089271018,7,0,0,1,2,1,2/3 correct
+2024,5,Chinese Grand Prix,2024-04-21,George,Russell,Mercedes,6,0,8,8.0,10.0,7.8,0.0,0.0,1.0,,,George Russell,0.026628773143688753,8,0,0,1,2,1,2/3 correct
+2024,5,Chinese Grand Prix,2024-04-21,Nico,Hülkenberg,Haas F1 Team,10,0,9,9.0,10.0,12.2,0.0,0.0,2.0,,,Nico Hülkenberg,0.011017910942981816,9,0,0,1,2,1,2/3 correct
+2024,5,Chinese Grand Prix,2024-04-21,Valtteri,Bottas,Sauber,20,0,10,10.0,15.0,15.4,0.0,0.0,4.0,,,Valtteri Bottas,0.008630775464157936,10,0,0,1,2,1,2/3 correct
+2024,5,Chinese Grand Prix,2024-04-21,Lance,Stroll,Aston Martin,15,0,11,11.0,12.333333333333334,11.8,0.0,0.0,2.0,,,Lance Stroll,0.004611865950871045,11,0,0,1,2,1,2/3 correct
+2024,5,Chinese Grand Prix,2024-04-21,Daniel,Ricciardo,RB F1 Team,18,0,12,12.0,15.666666666666666,14.6,0.0,0.0,4.0,,,Daniel Ricciardo,0.0039282454202037905,12,0,0,1,2,1,2/3 correct
+2024,5,Chinese Grand Prix,2024-04-21,Esteban,Ocon,Alpine F1 Team,11,0,13,13.0,14.666666666666666,14.0,0.0,0.0,4.0,,,Esteban Ocon,0.0026907895913934085,13,0,0,1,2,1,2/3 correct
+2024,5,Chinese Grand Prix,2024-04-21,Alexander,Albon,Williams,12,0,14,14.0,14.0,14.2,0.0,0.0,3.0,,,Alexander Albon,0.0013478092490103728,14,0,0,1,2,1,2/3 correct
+2024,5,Chinese Grand Prix,2024-04-21,Pierre,Gasly,Alpine F1 Team,13,0,15,15.0,16.333333333333332,15.0,0.0,0.0,4.0,,,Pierre Gasly,0.0011334522439775039,15,0,0,1,2,1,2/3 correct
+2024,5,Chinese Grand Prix,2024-04-21,Guanyu,Zhou,Sauber,14,0,16,16.0,17.0,15.6,0.0,0.0,4.0,,,Guanyu Zhou,0.000802627918292941,16,0,0,1,2,1,2/3 correct
+2024,5,Chinese Grand Prix,2024-04-21,Kevin,Magnussen,Haas F1 Team,16,0,17,17.0,11.666666666666666,11.4,0.0,0.0,3.0,,,Kevin Magnussen,0.0006461117962101257,17,0,0,1,2,1,2/3 correct
+2024,5,Chinese Grand Prix,2024-04-21,Yuki,Tsunoda,RB F1 Team,19,0,19,19.0,10.666666666666666,11.4,0.0,0.0,3.0,,,Yuki Tsunoda,0.0004354249829468733,18,0,0,1,2,1,2/3 correct
+2024,5,Chinese Grand Prix,2024-04-21,Logan,Sargeant,Williams,17,0,20,20.0,17.0,17.4,0.0,0.0,4.0,,,Logan Sargeant,0.00043081831485605444,19,0,0,1,2,1,2/3 correct
+2024,5,Chinese Grand Prix,2024-04-21,Lewis,Hamilton,Mercedes,9,0,18,18.0,12.0,9.8,0.0,0.0,1.0,,,Lewis Hamilton,0.00021666300951908533,20,0,0,1,2,1,2/3 correct
+2024,6,Miami Grand Prix,2024-05-05,Lando,Norris,McLaren,1,1,5,,3.3333333333333335,4.8,2.0,2.0,0.0,18.0,0.0,Lando Norris,0.25038504796532934,1,1,1,1,1,1,1/3 correct
+2025,1,Australian Grand Prix,2025-03-16,Lando,Norris,McLaren,1,1,1,1.0,2.6666666666666665,3.8,2.0,3.0,0.0,4.666666666666667,1.0,Lando Norris,0.8116851073258065,1,1,1,1,2,1,2/3 correct
+2025,1,Australian Grand Prix,2025-03-16,Max,Verstappen,Red Bull,2,1,3,3.0,7.0,4.6,2.0,4.0,1.0,12.666666666666666,1.0,Max Verstappen,0.6884090478358214,2,1,1,1,2,1,2/3 correct
+2025,1,Australian Grand Prix,2025-03-16,Oscar,Piastri,McLaren,9,0,2,2.0,6.666666666666667,6.4,0.0,0.0,0.0,6.0,0.0,Oscar Piastri,0.5436618060421364,3,1,0,0,2,1,2/3 correct
+2025,1,Australian Grand Prix,2025-03-16,George,Russell,Mercedes,3,1,4,4.0,10.0,8.2,0.0,0.0,1.0,12.666666666666666,1.0,George Russell,0.2684538108806791,4,0,1,0,2,1,2/3 correct
+2025,1,Australian Grand Prix,2025-03-16,Yuki,Tsunoda,RB F1 Team,12,0,5,5.0,12.0,13.0,0.0,0.0,4.0,10.666666666666666,0.0,Yuki Tsunoda,0.182710847661141,5,0,0,1,2,1,2/3 correct
+2025,1,Australian Grand Prix,2025-03-16,Charles,Leclerc,Ferrari,8,0,7,7.0,3.3333333333333335,3.4,1.0,2.0,0.0,7.666666666666667,2.0,Charles Leclerc,0.11323072395314221,6,0,0,1,2,1,2/3 correct
+2025,1,Australian Grand Prix,2025-03-16,Alexander,Albon,Williams,5,0,6,6.0,14.333333333333334,13.8,0.0,0.0,3.0,13.333333333333334,0.0,Alexander Albon,0.10213787527858989,7,0,0,1,2,1,2/3 correct
+2025,1,Australian Grand Prix,2025-03-16,Carlos,Sainz,Williams,18,0,10,10.0,3.0,3.4,2.0,3.0,0.0,11.0,1.0,Carlos Sainz,0.09208347858197187,8,0,0,1,2,1,2/3 correct
+2025,1,Australian Grand Prix,2025-03-16,Lewis,Hamilton,Ferrari,10,0,8,8.0,12.0,10.4,0.0,0.0,1.0,8.0,1.0,Lewis Hamilton,0.0194872204468707,9,0,0,1,2,1,2/3 correct
+2025,1,Australian Grand Prix,2025-03-16,Pierre,Gasly,Alpine F1 Team,11,0,9,9.0,14.0,16.0,0.0,0.0,4.0,11.666666666666666,0.0,Pierre Gasly,0.011819001798459877,10,0,0,1,2,1,2/3 correct
+2025,1,Australian Grand Prix,2025-03-16,Fernando,Alonso,Aston Martin,17,0,12,12.0,7.0,7.0,0.0,0.0,0.0,9.333333333333334,1.0,Fernando Alonso,0.009234087741295326,11,0,0,1,2,1,2/3 correct
+2025,1,Australian Grand Prix,2025-03-16,Isack,Hadjar,RB F1 Team,20,0,11,11.0,,,,,,,,Isack Hadjar,0.0038650059699229956,12,0,0,1,2,1,2/3 correct
+2025,1,Australian Grand Prix,2025-03-16,Lance,Stroll,Aston Martin,6,0,13,13.0,11.0,12.4,0.0,0.0,2.0,7.333333333333333,0.0,Lance Stroll,0.0013584552630849956,13,0,0,1,2,1,2/3 correct
+2025,1,Australian Grand Prix,2025-03-16,Oliver,Bearman,Haas F1 Team,14,0,20,20.0,7.0,7.0,0.0,0.0,0.0,,,Oliver Bearman,0.0011374712986889374,14,0,0,1,2,1,2/3 correct
+2025,1,Australian Grand Prix,2025-03-16,Jack,Doohan,Alpine F1 Team,19,0,14,14.0,,,,,,,,Jack Doohan,0.0009200432171504797,15,0,0,1,2,1,2/3 correct
+2025,1,Australian Grand Prix,2025-03-16,Esteban,Ocon,Haas F1 Team,13,0,19,19.0,14.0,14.4,0.0,0.0,4.0,12.333333333333334,0.0,Esteban Ocon,0.0009191138234563734,16,0,0,1,2,1,2/3 correct
+2025,1,Australian Grand Prix,2025-03-16,Gabriel,Bortoleto,Sauber,16,0,15,15.0,,,,,,,,Gabriel Bortoleto,0.0005897537408293193,17,0,0,1,2,1,2/3 correct
+2025,1,Australian Grand Prix,2025-03-16,Andrea Kimi,Antonelli,Mercedes,4,0,16,16.0,,,,,,,,Andrea Kimi Antonelli,0.0003904324098375188,18,0,0,1,2,1,2/3 correct
+2025,1,Australian Grand Prix,2025-03-16,Nico,Hülkenberg,Sauber,7,0,17,17.0,10.0,11.2,0.0,0.0,2.0,8.0,0.0,Nico Hülkenberg,0.0002506113790650778,19,0,0,1,2,1,2/3 correct
+2025,1,Australian Grand Prix,2025-03-16,Liam,Lawson,Red Bull,15,0,18,18.0,,,,,,,,Liam Lawson,0.00019768796455521138,20,0,0,1,2,1,2/3 correct
+2025,2,Chinese Grand Prix,2025-03-23,George,Russell,Mercedes,3,1,2,2.0,5.333333333333333,7.8,1.0,1.0,1.0,6.0,0.0,George Russell,0.7145565807225689,1,1,1,1,2,0,2/3 correct
+2025,2,Chinese Grand Prix,2025-03-23,Lando,Norris,McLaren,2,1,3,3.0,1.3333333333333333,2.4,3.0,4.0,0.0,2.0,1.0,Lando Norris,0.6954120755847167,2,1,1,1,2,0,2/3 correct
+2025,2,Chinese Grand Prix,2025-03-23,Max,Verstappen,Red Bull,4,0,4,4.0,1.3333333333333333,4.8,3.0,4.0,1.0,1.0,1.0,Max Verstappen,0.6642740408296899,3,1,0,0,2,0,2/3 correct
+2025,2,Chinese Grand Prix,2025-03-23,Oscar,Piastri,McLaren,1,1,1,1.0,8.333333333333334,6.6,0.0,0.0,0.0,8.0,0.0,Oscar Piastri,0.5946631345310038,4,0,1,0,2,0,2/3 correct
+2025,2,Chinese Grand Prix,2025-03-23,Andrea Kimi,Antonelli,Mercedes,6,0,8,8.0,4.0,4.0,0.0,0.0,0.0,,,Andrea Kimi Antonelli,0.16279140697619404,5,0,0,1,2,0,2/3 correct
+2025,2,Chinese Grand Prix,2025-03-23,Charles,Leclerc,Ferrari,18,0,6,6.0,5.333333333333333,4.2,0.0,2.0,0.0,4.0,0.0,Charles Leclerc,0.09500275416775028,6,0,0,1,2,0,2/3 correct
+2025,2,Chinese Grand Prix,2025-03-23,Lewis,Hamilton,Ferrari,19,0,5,5.0,9.333333333333334,11.0,0.0,0.0,1.0,9.0,0.0,Lewis Hamilton,0.06039177461252866,7,0,0,1,2,0,2/3 correct
+2025,2,Chinese Grand Prix,2025-03-23,Yuki,Tsunoda,RB F1 Team,16,0,9,9.0,13.666666666666666,12.6,0.0,0.0,3.0,19.0,0.0,Yuki Tsunoda,0.021517380180478857,8,0,0,1,2,0,2/3 correct
+2025,2,Chinese Grand Prix,2025-03-23,Isack,Hadjar,RB F1 Team,11,0,7,7.0,20.0,20.0,0.0,0.0,1.0,,,Isack Hadjar,0.009250581606949401,9,0,0,1,2,0,2/3 correct
+2025,2,Chinese Grand Prix,2025-03-23,Alexander,Albon,Williams,7,0,10,10.0,12.333333333333334,11.8,0.0,0.0,2.0,12.0,0.0,Alexander Albon,0.007473391567007019,10,0,0,1,2,0,2/3 correct
+2025,2,Chinese Grand Prix,2025-03-23,Esteban,Ocon,Haas F1 Team,5,0,11,11.0,13.0,13.6,0.0,0.0,3.0,11.0,0.0,Esteban Ocon,0.0042689609312120454,11,0,0,1,2,0,2/3 correct
+2025,2,Chinese Grand Prix,2025-03-23,Carlos,Sainz,Williams,10,0,15,15.0,8.666666666666666,6.0,1.0,3.0,1.0,5.0,0.0,Carlos Sainz,0.0038424876602761613,12,0,0,1,2,0,2/3 correct
+2025,2,Chinese Grand Prix,2025-03-23,Nico,Hülkenberg,Sauber,15,0,12,12.0,9.333333333333334,9.4,0.0,0.0,1.0,10.0,0.0,Nico Hülkenberg,0.0025342441727740045,13,0,0,1,2,0,2/3 correct
+2025,2,Chinese Grand Prix,2025-03-23,Fernando,Alonso,Aston Martin,17,0,13,13.0,10.0,8.6,0.0,0.0,1.0,7.0,0.0,Fernando Alonso,0.00155820191313315,14,0,0,1,2,0,2/3 correct
+2025,2,Chinese Grand Prix,2025-03-23,Lance,Stroll,Aston Martin,9,0,14,14.0,11.0,11.6,0.0,0.0,2.0,15.0,0.0,Lance Stroll,0.001319343095347253,15,0,0,1,2,0,2/3 correct
+2025,2,Chinese Grand Prix,2025-03-23,Pierre,Gasly,Alpine F1 Team,20,0,16,16.0,13.333333333333334,14.6,0.0,0.0,3.0,13.0,0.0,Pierre Gasly,0.0009670980312678056,16,0,0,1,2,0,2/3 correct
+2025,2,Chinese Grand Prix,2025-03-23,Oliver,Bearman,Haas F1 Team,8,0,17,17.0,10.5,10.5,0.0,0.0,0.0,,,Oliver Bearman,0.0002546071776974087,17,0,0,1,2,0,2/3 correct
+2025,2,Chinese Grand Prix,2025-03-23,Jack,Doohan,Alpine F1 Team,13,0,18,18.0,19.0,19.0,0.0,0.0,1.0,,,Jack Doohan,8.800457381099775e-05,18,0,0,1,2,0,2/3 correct
+2025,2,Chinese Grand Prix,2025-03-23,Gabriel,Bortoleto,Sauber,14,0,19,19.0,16.0,16.0,0.0,0.0,1.0,,,Gabriel Bortoleto,8.410973553291476e-05,19,0,0,1,2,0,2/3 correct
+2025,2,Chinese Grand Prix,2025-03-23,Liam,Lawson,Red Bull,12,0,20,20.0,15.0,15.0,0.0,0.0,1.0,,,Liam Lawson,7.515627997922668e-05,20,0,0,1,2,0,2/3 correct
+2025,3,Japanese Grand Prix,2025-04-06,Lando,Norris,McLaren,2,1,2,2.0,1.3333333333333333,2.2,3.0,4.0,0.0,5.0,0.0,Lando Norris,0.8684326682716441,1,1,1,1,3,0,3/3 correct
+2025,3,Japanese Grand Prix,2025-04-06,Max,Verstappen,Red Bull,1,1,1,1.0,2.3333333333333335,5.4,2.0,3.0,1.0,1.0,1.0,Max Verstappen,0.7914480749944867,2,1,1,1,3,0,3/3 correct
+2025,3,Japanese Grand Prix,2025-04-06,Oscar,Piastri,McLaren,3,1,3,3.0,6.0,6.0,1.0,1.0,0.0,8.0,0.0,Oscar Piastri,0.5137614598782823,3,1,1,1,3,0,3/3 correct
+2025,3,Japanese Grand Prix,2025-04-06,George,Russell,Mercedes,5,0,5,5.0,4.0,7.2,2.0,2.0,1.0,7.0,0.0,George Russell,0.4100358163281653,4,0,0,1,3,0,3/3 correct
+2025,3,Japanese Grand Prix,2025-04-06,Charles,Leclerc,Ferrari,4,0,4,4.0,10.0,7.2,0.0,1.0,1.0,4.0,0.0,Charles Leclerc,0.31467452730823076,5,0,0,1,3,0,3/3 correct
+2025,3,Japanese Grand Prix,2025-04-06,Andrea Kimi,Antonelli,Mercedes,6,0,6,6.0,5.0,5.0,0.0,0.0,0.0,,,Andrea Kimi Antonelli,0.10730425997015616,6,0,0,1,3,0,3/3 correct
+2025,3,Japanese Grand Prix,2025-04-06,Alexander,Albon,Williams,9,0,9,9.0,8.0,11.0,0.0,0.0,2.0,20.0,0.0,Alexander Albon,0.021531141958390426,7,0,0,1,3,0,3/3 correct
+2025,3,Japanese Grand Prix,2025-04-06,Isack,Hadjar,RB F1 Team,8,0,7,7.0,15.5,15.5,0.0,0.0,1.0,,,Isack Hadjar,0.0193900885619421,8,0,0,1,3,0,3/3 correct
+2025,3,Japanese Grand Prix,2025-04-06,Lewis,Hamilton,Ferrari,7,0,8,8.0,12.666666666666666,13.0,0.0,0.0,2.0,9.0,0.0,Lewis Hamilton,0.012934696028548773,9,0,0,1,3,0,3/3 correct
+2025,3,Japanese Grand Prix,2025-04-06,Pierre,Gasly,Alpine F1 Team,13,0,11,11.0,14.666666666666666,14.6,0.0,0.0,3.0,16.0,0.0,Pierre Gasly,0.005883007829272528,10,0,0,1,3,0,3/3 correct
+2025,3,Japanese Grand Prix,2025-04-06,Oliver,Bearman,Haas F1 Team,10,0,10,10.0,9.666666666666666,9.666666666666666,0.0,0.0,0.0,,,Oliver Bearman,0.005190716445909743,11,0,0,1,3,0,3/3 correct
+2025,3,Japanese Grand Prix,2025-04-06,Carlos,Sainz,Williams,14,0,15,12.0,11.0,7.4,0.0,2.0,1.0,3.0,1.0,Carlos Sainz,0.004534403349606946,12,0,0,1,3,0,3/3 correct
+2025,3,Japanese Grand Prix,2025-04-06,Fernando,Alonso,Aston Martin,11,0,12,13.0,13.666666666666666,11.0,0.0,0.0,2.0,6.0,0.0,Fernando Alonso,0.0016037886522664625,13,0,0,1,3,0,3/3 correct
+2025,3,Japanese Grand Prix,2025-04-06,Yuki,Tsunoda,Red Bull,12,0,14,15.0,15.666666666666666,12.8,0.0,0.0,3.0,10.0,0.0,Yuki Tsunoda,0.0008467519337301052,14,0,0,1,3,0,3/3 correct
+2025,3,Japanese Grand Prix,2025-04-06,Nico,Hülkenberg,Sauber,16,0,16,16.0,10.666666666666666,10.4,0.0,0.0,2.0,11.0,0.0,Nico Hülkenberg,0.0006463355741019891,15,0,0,1,3,0,3/3 correct
+2025,3,Japanese Grand Prix,2025-04-06,Liam,Lawson,RB F1 Team,17,0,13,14.0,13.5,13.5,0.0,0.0,1.0,,,Liam Lawson,0.0006307443254520708,16,0,0,1,3,0,3/3 correct
+2025,3,Japanese Grand Prix,2025-04-06,Lance,Stroll,Aston Martin,20,0,20,20.0,10.0,9.6,0.0,0.0,1.0,12.0,0.0,Lance Stroll,0.0002880166782389378,17,0,0,1,3,0,3/3 correct
+2025,3,Japanese Grand Prix,2025-04-06,Esteban,Ocon,Haas F1 Team,18,0,18,18.0,9.666666666666666,12.0,0.0,0.0,2.0,15.0,0.0,Esteban Ocon,0.00023726100437308485,18,0,0,1,3,0,3/3 correct
+2025,3,Japanese Grand Prix,2025-04-06,Gabriel,Bortoleto,Sauber,19,0,17,17.0,15.0,15.0,0.0,0.0,2.0,,,Gabriel Bortoleto,0.0001474983623475872,19,0,0,1,3,0,3/3 correct
+2025,3,Japanese Grand Prix,2025-04-06,Jack,Doohan,Alpine F1 Team,15,0,19,19.0,16.0,16.0,0.0,0.0,1.0,,,Jack Doohan,8.205365023786507e-05,20,0,0,1,3,0,3/3 correct
+2025,4,Bahrain Grand Prix,2025-04-13,Oscar,Piastri,McLaren,1,1,1,1.0,4.333333333333333,5.8,2.0,2.0,0.0,14.0,0.0,Oscar Piastri,0.9256465939941234,1,1,1,1,2,1,2/3 correct
+2025,4,Bahrain Grand Prix,2025-04-13,George,Russell,Mercedes,2,1,3,2.0,3.6666666666666665,4.8,2.0,2.0,0.0,7.5,0.0,George Russell,0.8269530735449215,2,1,1,1,2,1,2/3 correct
+2025,4,Bahrain Grand Prix,2025-04-13,Charles,Leclerc,Ferrari,4,0,2,3.0,10.0,7.6,0.0,0.0,1.0,7.5,1.0,Charles Leclerc,0.6457927324755154,3,1,0,0,2,1,2/3 correct
+2025,4,Bahrain Grand Prix,2025-04-13,Lando,Norris,McLaren,3,1,6,6.0,1.6666666666666667,1.6,3.0,5.0,0.0,10.5,0.0,Lando Norris,0.3898468914344941,4,0,1,0,2,1,2/3 correct
+2025,4,Bahrain Grand Prix,2025-04-13,Max,Verstappen,Red Bull,6,0,7,7.0,2.3333333333333335,1.8,2.0,4.0,0.0,5.75,3.0,Max Verstappen,0.24067193214758897,5,0,0,1,2,1,2/3 correct
+2025,4,Bahrain Grand Prix,2025-04-13,Pierre,Gasly,Alpine F1 Team,7,0,4,5.0,14.666666666666666,14.6,0.0,0.0,2.0,16.0,0.0,Pierre Gasly,0.1915165180107034,6,0,0,1,2,1,2/3 correct
+2025,4,Bahrain Grand Prix,2025-04-13,Andrea Kimi,Antonelli,Mercedes,11,0,5,4.0,5.333333333333333,5.333333333333333,0.0,0.0,0.0,,,Andrea Kimi Antonelli,0.1829309604318697,7,0,0,1,2,1,2/3 correct
+2025,4,Bahrain Grand Prix,2025-04-13,Alexander,Albon,Williams,12,0,15,15.0,7.0,10.6,0.0,0.0,1.0,12.666666666666666,0.0,Alexander Albon,0.029707821141561997,8,0,0,1,2,1,2/3 correct
+2025,4,Bahrain Grand Prix,2025-04-13,Carlos,Sainz,Williams,19,0,8,8.0,14.0,10.0,0.0,1.0,1.0,4.25,2.0,Carlos Sainz,0.018671691658302486,9,0,0,1,2,1,2/3 correct
+2025,4,Bahrain Grand Prix,2025-04-13,Lewis,Hamilton,Ferrari,5,0,9,9.0,12.0,10.8,0.0,0.0,1.0,4.0,2.0,Lewis Hamilton,0.013304249439759011,10,0,0,1,2,1,2/3 correct
+2025,4,Bahrain Grand Prix,2025-04-13,Yuki,Tsunoda,Red Bull,9,0,10,10.0,13.333333333333334,13.8,0.0,0.0,3.0,10.5,0.0,Yuki Tsunoda,0.004971431078067918,11,0,0,1,2,1,2/3 correct
+2025,4,Bahrain Grand Prix,2025-04-13,Esteban,Ocon,Haas F1 Team,8,0,14,14.0,12.0,12.4,0.0,0.0,1.0,13.75,0.0,Esteban Ocon,0.0018568220770873254,12,0,0,1,2,1,2/3 correct
+2025,4,Bahrain Grand Prix,2025-04-13,Fernando,Alonso,Aston Martin,15,0,13,13.0,15.0,11.6,0.0,0.0,2.0,10.0,1.0,Fernando Alonso,0.0017801957179397656,13,0,0,1,2,1,2/3 correct
+2025,4,Bahrain Grand Prix,2025-04-13,Jack,Doohan,Alpine F1 Team,14,0,11,11.0,15.666666666666666,15.666666666666666,0.0,0.0,1.0,,,Jack Doohan,0.0015706598447913463,14,0,0,1,2,1,2/3 correct
+2025,4,Bahrain Grand Prix,2025-04-13,Isack,Hadjar,RB F1 Team,13,0,12,12.0,13.0,13.0,0.0,0.0,1.0,,,Isack Hadjar,0.0012797199744565193,15,0,0,1,2,1,2/3 correct
+2025,4,Bahrain Grand Prix,2025-04-13,Nico,Hülkenberg,Sauber,20,0,16,16.0,12.666666666666666,11.8,0.0,0.0,2.0,16.0,0.0,Nico Hülkenberg,0.0005387486244296438,16,0,0,1,2,1,2/3 correct
+2025,4,Bahrain Grand Prix,2025-04-13,Oliver,Bearman,Haas F1 Team,10,0,20,20.0,10.666666666666666,9.75,0.0,0.0,0.0,,,Oliver Bearman,0.0001388973037278362,17,0,0,1,2,1,2/3 correct
+2025,4,Bahrain Grand Prix,2025-04-13,Liam,Lawson,RB F1 Team,16,0,17,17.0,14.666666666666666,14.666666666666666,0.0,0.0,1.0,,,Liam Lawson,0.00013667216112300508,18,0,0,1,2,1,2/3 correct
+2025,4,Bahrain Grand Prix,2025-04-13,Gabriel,Bortoleto,Sauber,18,0,18,18.0,16.333333333333332,16.333333333333332,0.0,0.0,2.0,,,Gabriel Bortoleto,0.0001107714364671924,19,0,0,1,2,1,2/3 correct
+2025,4,Bahrain Grand Prix,2025-04-13,Lance,Stroll,Aston Martin,17,0,19,19.0,11.666666666666666,12.4,0.0,0.0,2.0,9.5,0.0,Lance Stroll,9.697798176615407e-05,20,0,0,1,2,1,2/3 correct
+2025,5,Saudi Arabian Grand Prix,2025-04-20,Oscar,Piastri,McLaren,1,1,2,2.0,1.6666666666666667,4.4,3.0,3.0,0.0,9.5,0.0,Oscar Piastri,0.8835152664498211,1,1,1,1,2,1,2/3 correct
+2025,5,Saudi Arabian Grand Prix,2025-04-20,Max,Verstappen,Red Bull,2,1,1,1.0,3.6666666666666665,2.8,1.0,3.0,0.0,1.3333333333333333,3.0,Max Verstappen,0.7857213202526176,2,1,1,1,2,1,2/3 correct
+2025,5,Saudi Arabian Grand Prix,2025-04-20,George,Russell,Mercedes,5,0,3,3.0,3.3333333333333335,3.8,2.0,3.0,0.0,5.0,0.0,George Russell,0.7655889223653518,3,1,0,0,2,1,2/3 correct
+2025,5,Saudi Arabian Grand Prix,2025-04-20,Charles,Leclerc,Ferrari,3,1,4,4.0,8.666666666666666,7.6,0.0,0.0,1.0,4.0,2.0,Charles Leclerc,0.3479223329703016,4,0,1,0,2,1,2/3 correct
+2025,5,Saudi Arabian Grand Prix,2025-04-20,Lando,Norris,McLaren,4,0,10,10.0,2.3333333333333335,1.8,3.0,5.0,0.0,10.666666666666666,0.0,Lando Norris,0.2784276212484255,5,0,0,1,2,1,2/3 correct
+2025,5,Saudi Arabian Grand Prix,2025-04-20,Andrea Kimi,Antonelli,Mercedes,6,0,5,5.0,7.666666666666667,6.75,0.0,0.0,0.0,,,Andrea Kimi Antonelli,0.16568702845322014,6,0,0,1,2,1,2/3 correct
+2025,5,Saudi Arabian Grand Prix,2025-04-20,Carlos,Sainz,Williams,8,0,6,6.0,14.333333333333334,13.2,0.0,0.0,2.0,4.5,1.0,Carlos Sainz,0.035555706554416144,7,0,0,1,2,1,2/3 correct
+2025,5,Saudi Arabian Grand Prix,2025-04-20,Lewis,Hamilton,Ferrari,7,0,7,7.0,10.333333333333334,10.0,0.0,0.0,1.0,8.0,0.0,Lewis Hamilton,0.025679273427555615,8,0,0,1,2,1,2/3 correct
+2025,5,Saudi Arabian Grand Prix,2025-04-20,Yuki,Tsunoda,Red Bull,19,0,8,8.0,12.333333333333334,13.6,0.0,0.0,2.0,15.0,0.0,Yuki Tsunoda,0.014915346574253967,9,0,0,1,2,1,2/3 correct
+2025,5,Saudi Arabian Grand Prix,2025-04-20,Pierre,Gasly,Alpine F1 Team,20,0,9,9.0,13.333333333333334,12.8,0.0,0.0,1.0,12.333333333333334,0.0,Pierre Gasly,0.007896128574460648,10,0,0,1,2,1,2/3 correct
+2025,5,Saudi Arabian Grand Prix,2025-04-20,Alexander,Albon,Williams,9,0,11,11.0,9.333333333333334,9.0,0.0,0.0,0.0,14.666666666666666,0.0,Alexander Albon,0.004276124898292228,11,0,0,1,2,1,2/3 correct
+2025,5,Saudi Arabian Grand Prix,2025-04-20,Oliver,Bearman,Haas F1 Team,13,0,15,15.0,9.333333333333334,9.8,0.0,0.0,0.0,7.0,0.0,Oliver Bearman,0.002349409285417549,12,0,0,1,2,1,2/3 correct
+2025,5,Saudi Arabian Grand Prix,2025-04-20,Fernando,Alonso,Aston Martin,11,0,13,13.0,14.333333333333334,13.4,0.0,0.0,2.0,8.0,1.0,Fernando Alonso,0.0018122464967377616,13,0,0,1,2,1,2/3 correct
+2025,5,Saudi Arabian Grand Prix,2025-04-20,Liam,Lawson,RB F1 Team,12,0,12,12.0,15.0,15.0,0.0,0.0,1.0,,,Liam Lawson,0.001030653263881254,14,0,0,1,2,1,2/3 correct
+2025,5,Saudi Arabian Grand Prix,2025-04-20,Isack,Hadjar,RB F1 Team,10,0,14,14.0,10.666666666666666,13.0,0.0,0.0,1.0,,,Isack Hadjar,0.00042544594408850636,15,0,0,1,2,1,2/3 correct
+2025,5,Saudi Arabian Grand Prix,2025-04-20,Lance,Stroll,Aston Martin,16,0,16,16.0,15.333333333333334,13.4,0.0,0.0,1.0,17.333333333333332,0.0,Lance Stroll,0.00041848856519642857,16,0,0,1,2,1,2/3 correct
+2025,5,Saudi Arabian Grand Prix,2025-04-20,Nico,Hülkenberg,Sauber,15,0,18,18.0,17.0,13.6,0.0,0.0,2.0,11.333333333333334,0.0,Nico Hülkenberg,0.00022351987558206035,17,0,0,1,2,1,2/3 correct
+2025,5,Saudi Arabian Grand Prix,2025-04-20,Jack,Doohan,Alpine F1 Team,17,0,17,17.0,14.0,15.25,0.0,0.0,1.0,,,Jack Doohan,0.00012914884183135586,18,0,0,1,2,1,2/3 correct
+2025,5,Saudi Arabian Grand Prix,2025-04-20,Gabriel,Bortoleto,Sauber,18,0,20,20.0,17.0,16.75,0.0,0.0,2.0,,,Gabriel Bortoleto,9.331199283020371e-05,19,0,0,1,2,1,2/3 correct
+2025,5,Saudi Arabian Grand Prix,2025-04-20,Esteban,Ocon,Haas F1 Team,14,0,19,19.0,10.333333333333334,11.0,0.0,0.0,0.0,9.0,0.0,Esteban Ocon,8.1369217824576e-05,20,0,0,1,2,1,2/3 correct

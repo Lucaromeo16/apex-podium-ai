@@ -1,0 +1,1526 @@
+season,round,driver_id,driver_code,given_name,family_name,driver_standing_position,driver_standing_points,driver_standing_wins,constructor_id,constructor_name
+2021,1,hamilton,HAM,Lewis,Hamilton,1,25,1,mercedes,Mercedes
+2021,1,max_verstappen,VER,Max,Verstappen,2,18,0,red_bull,Red Bull
+2021,1,bottas,BOT,Valtteri,Bottas,3,16,0,mercedes,Mercedes
+2021,1,norris,NOR,Lando,Norris,4,12,0,mclaren,McLaren
+2021,1,perez,PER,Sergio,Pérez,5,10,0,red_bull,Red Bull
+2021,1,leclerc,LEC,Charles,Leclerc,6,8,0,ferrari,Ferrari
+2021,1,ricciardo,RIC,Daniel,Ricciardo,7,6,0,mclaren,McLaren
+2021,1,sainz,SAI,Carlos,Sainz,8,4,0,ferrari,Ferrari
+2021,1,tsunoda,TSU,Yuki,Tsunoda,9,2,0,alphatauri,AlphaTauri
+2021,1,stroll,STR,Lance,Stroll,10,1,0,aston_martin,Aston Martin
+2021,1,raikkonen,RAI,Kimi,Räikkönen,11,0,0,alfa,Alfa Romeo
+2021,1,giovinazzi,GIO,Antonio,Giovinazzi,12,0,0,alfa,Alfa Romeo
+2021,1,ocon,OCO,Esteban,Ocon,13,0,0,alpine,Alpine F1 Team
+2021,1,russell,RUS,George,Russell,14,0,0,williams,Williams
+2021,1,vettel,VET,Sebastian,Vettel,15,0,0,aston_martin,Aston Martin
+2021,1,mick_schumacher,MSC,Mick,Schumacher,16,0,0,haas,Haas F1 Team
+2021,1,gasly,GAS,Pierre,Gasly,17,0,0,alphatauri,AlphaTauri
+2021,1,latifi,LAT,Nicholas,Latifi,18,0,0,williams,Williams
+2021,1,alonso,ALO,Fernando,Alonso,,0,0,alpine,Alpine F1 Team
+2021,1,mazepin,MAZ,Nikita,Mazepin,,0,0,haas,Haas F1 Team
+2021,2,hamilton,HAM,Lewis,Hamilton,1,44,1,mercedes,Mercedes
+2021,2,max_verstappen,VER,Max,Verstappen,2,43,1,red_bull,Red Bull
+2021,2,norris,NOR,Lando,Norris,3,27,0,mclaren,McLaren
+2021,2,leclerc,LEC,Charles,Leclerc,4,20,0,ferrari,Ferrari
+2021,2,bottas,BOT,Valtteri,Bottas,5,16,0,mercedes,Mercedes
+2021,2,sainz,SAI,Carlos,Sainz,6,14,0,ferrari,Ferrari
+2021,2,ricciardo,RIC,Daniel,Ricciardo,7,14,0,mclaren,McLaren
+2021,2,perez,PER,Sergio,Pérez,8,10,0,red_bull,Red Bull
+2021,2,gasly,GAS,Pierre,Gasly,9,6,0,alphatauri,AlphaTauri
+2021,2,stroll,STR,Lance,Stroll,10,5,0,aston_martin,Aston Martin
+2021,2,tsunoda,TSU,Yuki,Tsunoda,11,2,0,alphatauri,AlphaTauri
+2021,2,ocon,OCO,Esteban,Ocon,12,2,0,alpine,Alpine F1 Team
+2021,2,alonso,ALO,Fernando,Alonso,13,1,0,alpine,Alpine F1 Team
+2021,2,raikkonen,RAI,Kimi,Räikkönen,14,0,0,alfa,Alfa Romeo
+2021,2,giovinazzi,GIO,Antonio,Giovinazzi,15,0,0,alfa,Alfa Romeo
+2021,2,russell,RUS,George,Russell,16,0,0,williams,Williams
+2021,2,vettel,VET,Sebastian,Vettel,17,0,0,aston_martin,Aston Martin
+2021,2,mick_schumacher,MSC,Mick,Schumacher,18,0,0,haas,Haas F1 Team
+2021,2,mazepin,MAZ,Nikita,Mazepin,19,0,0,haas,Haas F1 Team
+2021,2,latifi,LAT,Nicholas,Latifi,20,0,0,williams,Williams
+2021,3,hamilton,HAM,Lewis,Hamilton,1,69,2,mercedes,Mercedes
+2021,3,max_verstappen,VER,Max,Verstappen,2,61,1,red_bull,Red Bull
+2021,3,norris,NOR,Lando,Norris,3,37,0,mclaren,McLaren
+2021,3,bottas,BOT,Valtteri,Bottas,4,32,0,mercedes,Mercedes
+2021,3,leclerc,LEC,Charles,Leclerc,5,28,0,ferrari,Ferrari
+2021,3,perez,PER,Sergio,Pérez,6,22,0,red_bull,Red Bull
+2021,3,ricciardo,RIC,Daniel,Ricciardo,7,16,0,mclaren,McLaren
+2021,3,sainz,SAI,Carlos,Sainz,8,14,0,ferrari,Ferrari
+2021,3,ocon,OCO,Esteban,Ocon,9,8,0,alpine,Alpine F1 Team
+2021,3,gasly,GAS,Pierre,Gasly,10,7,0,alphatauri,AlphaTauri
+2021,3,stroll,STR,Lance,Stroll,11,5,0,aston_martin,Aston Martin
+2021,3,alonso,ALO,Fernando,Alonso,12,5,0,alpine,Alpine F1 Team
+2021,3,tsunoda,TSU,Yuki,Tsunoda,13,2,0,alphatauri,AlphaTauri
+2021,3,raikkonen,RAI,Kimi,Räikkönen,14,0,0,alfa,Alfa Romeo
+2021,3,giovinazzi,GIO,Antonio,Giovinazzi,15,0,0,alfa,Alfa Romeo
+2021,3,vettel,VET,Sebastian,Vettel,16,0,0,aston_martin,Aston Martin
+2021,3,russell,RUS,George,Russell,17,0,0,williams,Williams
+2021,3,mick_schumacher,MSC,Mick,Schumacher,18,0,0,haas,Haas F1 Team
+2021,3,mazepin,MAZ,Nikita,Mazepin,19,0,0,haas,Haas F1 Team
+2021,3,latifi,LAT,Nicholas,Latifi,20,0,0,williams,Williams
+2021,4,hamilton,HAM,Lewis,Hamilton,1,94,3,mercedes,Mercedes
+2021,4,max_verstappen,VER,Max,Verstappen,2,80,1,red_bull,Red Bull
+2021,4,bottas,BOT,Valtteri,Bottas,3,47,0,mercedes,Mercedes
+2021,4,norris,NOR,Lando,Norris,4,41,0,mclaren,McLaren
+2021,4,leclerc,LEC,Charles,Leclerc,5,40,0,ferrari,Ferrari
+2021,4,perez,PER,Sergio,Pérez,6,32,0,red_bull,Red Bull
+2021,4,ricciardo,RIC,Daniel,Ricciardo,7,24,0,mclaren,McLaren
+2021,4,sainz,SAI,Carlos,Sainz,8,20,0,ferrari,Ferrari
+2021,4,ocon,OCO,Esteban,Ocon,9,10,0,alpine,Alpine F1 Team
+2021,4,gasly,GAS,Pierre,Gasly,10,8,0,alphatauri,AlphaTauri
+2021,4,stroll,STR,Lance,Stroll,11,5,0,aston_martin,Aston Martin
+2021,4,alonso,ALO,Fernando,Alonso,12,5,0,alpine,Alpine F1 Team
+2021,4,tsunoda,TSU,Yuki,Tsunoda,13,2,0,alphatauri,AlphaTauri
+2021,4,raikkonen,RAI,Kimi,Räikkönen,14,0,0,alfa,Alfa Romeo
+2021,4,giovinazzi,GIO,Antonio,Giovinazzi,15,0,0,alfa,Alfa Romeo
+2021,4,vettel,VET,Sebastian,Vettel,16,0,0,aston_martin,Aston Martin
+2021,4,russell,RUS,George,Russell,17,0,0,williams,Williams
+2021,4,mick_schumacher,MSC,Mick,Schumacher,18,0,0,haas,Haas F1 Team
+2021,4,latifi,LAT,Nicholas,Latifi,19,0,0,williams,Williams
+2021,4,mazepin,MAZ,Nikita,Mazepin,20,0,0,haas,Haas F1 Team
+2021,5,max_verstappen,VER,Max,Verstappen,1,105,2,red_bull,Red Bull
+2021,5,hamilton,HAM,Lewis,Hamilton,2,101,3,mercedes,Mercedes
+2021,5,norris,NOR,Lando,Norris,3,56,0,mclaren,McLaren
+2021,5,bottas,BOT,Valtteri,Bottas,4,47,0,mercedes,Mercedes
+2021,5,perez,PER,Sergio,Pérez,5,44,0,red_bull,Red Bull
+2021,5,leclerc,LEC,Charles,Leclerc,6,40,0,ferrari,Ferrari
+2021,5,sainz,SAI,Carlos,Sainz,7,38,0,ferrari,Ferrari
+2021,5,ricciardo,RIC,Daniel,Ricciardo,8,24,0,mclaren,McLaren
+2021,5,gasly,GAS,Pierre,Gasly,9,16,0,alphatauri,AlphaTauri
+2021,5,ocon,OCO,Esteban,Ocon,10,12,0,alpine,Alpine F1 Team
+2021,5,vettel,VET,Sebastian,Vettel,11,10,0,aston_martin,Aston Martin
+2021,5,stroll,STR,Lance,Stroll,12,9,0,aston_martin,Aston Martin
+2021,5,alonso,ALO,Fernando,Alonso,13,5,0,alpine,Alpine F1 Team
+2021,5,tsunoda,TSU,Yuki,Tsunoda,14,2,0,alphatauri,AlphaTauri
+2021,5,giovinazzi,GIO,Antonio,Giovinazzi,15,1,0,alfa,Alfa Romeo
+2021,5,raikkonen,RAI,Kimi,Räikkönen,16,0,0,alfa,Alfa Romeo
+2021,5,russell,RUS,George,Russell,17,0,0,williams,Williams
+2021,5,latifi,LAT,Nicholas,Latifi,18,0,0,williams,Williams
+2021,5,mick_schumacher,MSC,Mick,Schumacher,19,0,0,haas,Haas F1 Team
+2021,5,mazepin,MAZ,Nikita,Mazepin,20,0,0,haas,Haas F1 Team
+2021,6,max_verstappen,VER,Max,Verstappen,1,105,2,red_bull,Red Bull
+2021,6,hamilton,HAM,Lewis,Hamilton,2,101,3,mercedes,Mercedes
+2021,6,perez,PER,Sergio,Pérez,3,69,1,red_bull,Red Bull
+2021,6,norris,NOR,Lando,Norris,4,66,0,mclaren,McLaren
+2021,6,leclerc,LEC,Charles,Leclerc,5,52,0,ferrari,Ferrari
+2021,6,bottas,BOT,Valtteri,Bottas,6,47,0,mercedes,Mercedes
+2021,6,sainz,SAI,Carlos,Sainz,7,42,0,ferrari,Ferrari
+2021,6,gasly,GAS,Pierre,Gasly,8,31,0,alphatauri,AlphaTauri
+2021,6,vettel,VET,Sebastian,Vettel,9,28,0,aston_martin,Aston Martin
+2021,6,ricciardo,RIC,Daniel,Ricciardo,10,26,0,mclaren,McLaren
+2021,6,alonso,ALO,Fernando,Alonso,11,13,0,alpine,Alpine F1 Team
+2021,6,ocon,OCO,Esteban,Ocon,12,12,0,alpine,Alpine F1 Team
+2021,6,stroll,STR,Lance,Stroll,13,9,0,aston_martin,Aston Martin
+2021,6,tsunoda,TSU,Yuki,Tsunoda,14,8,0,alphatauri,AlphaTauri
+2021,6,raikkonen,RAI,Kimi,Räikkönen,15,1,0,alfa,Alfa Romeo
+2021,6,giovinazzi,GIO,Antonio,Giovinazzi,16,1,0,alfa,Alfa Romeo
+2021,6,mick_schumacher,MSC,Mick,Schumacher,17,0,0,haas,Haas F1 Team
+2021,6,russell,RUS,George,Russell,18,0,0,williams,Williams
+2021,6,mazepin,MAZ,Nikita,Mazepin,19,0,0,haas,Haas F1 Team
+2021,6,latifi,LAT,Nicholas,Latifi,20,0,0,williams,Williams
+2021,7,max_verstappen,VER,Max,Verstappen,1,131,3,red_bull,Red Bull
+2021,7,hamilton,HAM,Lewis,Hamilton,2,119,3,mercedes,Mercedes
+2021,7,perez,PER,Sergio,Pérez,3,84,1,red_bull,Red Bull
+2021,7,norris,NOR,Lando,Norris,4,76,0,mclaren,McLaren
+2021,7,bottas,BOT,Valtteri,Bottas,5,59,0,mercedes,Mercedes
+2021,7,leclerc,LEC,Charles,Leclerc,6,52,0,ferrari,Ferrari
+2021,7,sainz,SAI,Carlos,Sainz,7,42,0,ferrari,Ferrari
+2021,7,gasly,GAS,Pierre,Gasly,8,37,0,alphatauri,AlphaTauri
+2021,7,ricciardo,RIC,Daniel,Ricciardo,9,34,0,mclaren,McLaren
+2021,7,vettel,VET,Sebastian,Vettel,10,30,0,aston_martin,Aston Martin
+2021,7,alonso,ALO,Fernando,Alonso,11,17,0,alpine,Alpine F1 Team
+2021,7,ocon,OCO,Esteban,Ocon,12,12,0,alpine,Alpine F1 Team
+2021,7,stroll,STR,Lance,Stroll,13,10,0,aston_martin,Aston Martin
+2021,7,tsunoda,TSU,Yuki,Tsunoda,14,8,0,alphatauri,AlphaTauri
+2021,7,raikkonen,RAI,Kimi,Räikkönen,15,1,0,alfa,Alfa Romeo
+2021,7,giovinazzi,GIO,Antonio,Giovinazzi,16,1,0,alfa,Alfa Romeo
+2021,7,russell,RUS,George,Russell,17,0,0,williams,Williams
+2021,7,mick_schumacher,MSC,Mick,Schumacher,18,0,0,haas,Haas F1 Team
+2021,7,mazepin,MAZ,Nikita,Mazepin,19,0,0,haas,Haas F1 Team
+2021,7,latifi,LAT,Nicholas,Latifi,20,0,0,williams,Williams
+2021,8,max_verstappen,VER,Max,Verstappen,1,156,4,red_bull,Red Bull
+2021,8,hamilton,HAM,Lewis,Hamilton,2,138,3,mercedes,Mercedes
+2021,8,perez,PER,Sergio,Pérez,3,96,1,red_bull,Red Bull
+2021,8,norris,NOR,Lando,Norris,4,86,0,mclaren,McLaren
+2021,8,bottas,BOT,Valtteri,Bottas,5,74,0,mercedes,Mercedes
+2021,8,leclerc,LEC,Charles,Leclerc,6,58,0,ferrari,Ferrari
+2021,8,sainz,SAI,Carlos,Sainz,7,50,0,ferrari,Ferrari
+2021,8,gasly,GAS,Pierre,Gasly,8,37,0,alphatauri,AlphaTauri
+2021,8,ricciardo,RIC,Daniel,Ricciardo,9,34,0,mclaren,McLaren
+2021,8,vettel,VET,Sebastian,Vettel,10,30,0,aston_martin,Aston Martin
+2021,8,alonso,ALO,Fernando,Alonso,11,19,0,alpine,Alpine F1 Team
+2021,8,stroll,STR,Lance,Stroll,12,14,0,aston_martin,Aston Martin
+2021,8,ocon,OCO,Esteban,Ocon,13,12,0,alpine,Alpine F1 Team
+2021,8,tsunoda,TSU,Yuki,Tsunoda,14,9,0,alphatauri,AlphaTauri
+2021,8,raikkonen,RAI,Kimi,Räikkönen,15,1,0,alfa,Alfa Romeo
+2021,8,giovinazzi,GIO,Antonio,Giovinazzi,16,1,0,alfa,Alfa Romeo
+2021,8,russell,RUS,George,Russell,17,0,0,williams,Williams
+2021,8,mick_schumacher,MSC,Mick,Schumacher,18,0,0,haas,Haas F1 Team
+2021,8,mazepin,MAZ,Nikita,Mazepin,19,0,0,haas,Haas F1 Team
+2021,8,latifi,LAT,Nicholas,Latifi,20,0,0,williams,Williams
+2021,9,max_verstappen,VER,Max,Verstappen,1,182,5,red_bull,Red Bull
+2021,9,hamilton,HAM,Lewis,Hamilton,2,150,3,mercedes,Mercedes
+2021,9,perez,PER,Sergio,Pérez,3,104,1,red_bull,Red Bull
+2021,9,norris,NOR,Lando,Norris,4,101,0,mclaren,McLaren
+2021,9,bottas,BOT,Valtteri,Bottas,5,92,0,mercedes,Mercedes
+2021,9,leclerc,LEC,Charles,Leclerc,6,62,0,ferrari,Ferrari
+2021,9,sainz,SAI,Carlos,Sainz,7,60,0,ferrari,Ferrari
+2021,9,ricciardo,RIC,Daniel,Ricciardo,8,40,0,mclaren,McLaren
+2021,9,gasly,GAS,Pierre,Gasly,9,39,0,alphatauri,AlphaTauri
+2021,9,vettel,VET,Sebastian,Vettel,10,30,0,aston_martin,Aston Martin
+2021,9,alonso,ALO,Fernando,Alonso,11,20,0,alpine,Alpine F1 Team
+2021,9,stroll,STR,Lance,Stroll,12,14,0,aston_martin,Aston Martin
+2021,9,ocon,OCO,Esteban,Ocon,13,12,0,alpine,Alpine F1 Team
+2021,9,tsunoda,TSU,Yuki,Tsunoda,14,9,0,alphatauri,AlphaTauri
+2021,9,raikkonen,RAI,Kimi,Räikkönen,15,1,0,alfa,Alfa Romeo
+2021,9,giovinazzi,GIO,Antonio,Giovinazzi,16,1,0,alfa,Alfa Romeo
+2021,9,russell,RUS,George,Russell,17,0,0,williams,Williams
+2021,9,mick_schumacher,MSC,Mick,Schumacher,18,0,0,haas,Haas F1 Team
+2021,9,mazepin,MAZ,Nikita,Mazepin,19,0,0,haas,Haas F1 Team
+2021,9,latifi,LAT,Nicholas,Latifi,20,0,0,williams,Williams
+2021,10,max_verstappen,VER,Max,Verstappen,1,185,5,red_bull,Red Bull
+2021,10,hamilton,HAM,Lewis,Hamilton,2,177,4,mercedes,Mercedes
+2021,10,norris,NOR,Lando,Norris,3,113,0,mclaren,McLaren
+2021,10,bottas,BOT,Valtteri,Bottas,4,108,0,mercedes,Mercedes
+2021,10,perez,PER,Sergio,Pérez,5,104,1,red_bull,Red Bull
+2021,10,leclerc,LEC,Charles,Leclerc,6,80,0,ferrari,Ferrari
+2021,10,sainz,SAI,Carlos,Sainz,7,68,0,ferrari,Ferrari
+2021,10,ricciardo,RIC,Daniel,Ricciardo,8,50,0,mclaren,McLaren
+2021,10,gasly,GAS,Pierre,Gasly,9,39,0,alphatauri,AlphaTauri
+2021,10,vettel,VET,Sebastian,Vettel,10,30,0,aston_martin,Aston Martin
+2021,10,alonso,ALO,Fernando,Alonso,11,26,0,alpine,Alpine F1 Team
+2021,10,stroll,STR,Lance,Stroll,12,18,0,aston_martin,Aston Martin
+2021,10,ocon,OCO,Esteban,Ocon,13,14,0,alpine,Alpine F1 Team
+2021,10,tsunoda,TSU,Yuki,Tsunoda,14,10,0,alphatauri,AlphaTauri
+2021,10,raikkonen,RAI,Kimi,Räikkönen,15,1,0,alfa,Alfa Romeo
+2021,10,giovinazzi,GIO,Antonio,Giovinazzi,16,1,0,alfa,Alfa Romeo
+2021,10,russell,RUS,George,Russell,17,0,0,williams,Williams
+2021,10,mick_schumacher,MSC,Mick,Schumacher,18,0,0,haas,Haas F1 Team
+2021,10,latifi,LAT,Nicholas,Latifi,19,0,0,williams,Williams
+2021,10,mazepin,MAZ,Nikita,Mazepin,20,0,0,haas,Haas F1 Team
+2021,11,hamilton,HAM,Lewis,Hamilton,1,195,4,mercedes,Mercedes
+2021,11,max_verstappen,VER,Max,Verstappen,2,187,5,red_bull,Red Bull
+2021,11,norris,NOR,Lando,Norris,3,113,0,mclaren,McLaren
+2021,11,bottas,BOT,Valtteri,Bottas,4,108,0,mercedes,Mercedes
+2021,11,perez,PER,Sergio,Pérez,5,104,1,red_bull,Red Bull
+2021,11,sainz,SAI,Carlos,Sainz,6,83,0,ferrari,Ferrari
+2021,11,leclerc,LEC,Charles,Leclerc,7,80,0,ferrari,Ferrari
+2021,11,gasly,GAS,Pierre,Gasly,8,50,0,alphatauri,AlphaTauri
+2021,11,ricciardo,RIC,Daniel,Ricciardo,9,50,0,mclaren,McLaren
+2021,11,ocon,OCO,Esteban,Ocon,10,39,1,alpine,Alpine F1 Team
+2021,11,alonso,ALO,Fernando,Alonso,11,38,0,alpine,Alpine F1 Team
+2021,11,vettel,VET,Sebastian,Vettel,12,30,0,aston_martin,Aston Martin
+2021,11,tsunoda,TSU,Yuki,Tsunoda,13,18,0,alphatauri,AlphaTauri
+2021,11,stroll,STR,Lance,Stroll,14,18,0,aston_martin,Aston Martin
+2021,11,latifi,LAT,Nicholas,Latifi,15,6,0,williams,Williams
+2021,11,russell,RUS,George,Russell,16,4,0,williams,Williams
+2021,11,raikkonen,RAI,Kimi,Räikkönen,17,2,0,alfa,Alfa Romeo
+2021,11,giovinazzi,GIO,Antonio,Giovinazzi,18,1,0,alfa,Alfa Romeo
+2021,11,mick_schumacher,MSC,Mick,Schumacher,19,0,0,haas,Haas F1 Team
+2021,11,mazepin,MAZ,Nikita,Mazepin,20,0,0,haas,Haas F1 Team
+2021,12,hamilton,HAM,Lewis,Hamilton,1,202.5,4,mercedes,Mercedes
+2021,12,max_verstappen,VER,Max,Verstappen,2,199.5,6,red_bull,Red Bull
+2021,12,norris,NOR,Lando,Norris,3,113,0,mclaren,McLaren
+2021,12,bottas,BOT,Valtteri,Bottas,4,108,0,mercedes,Mercedes
+2021,12,perez,PER,Sergio,Pérez,5,104,1,red_bull,Red Bull
+2021,12,sainz,SAI,Carlos,Sainz,6,83.5,0,ferrari,Ferrari
+2021,12,leclerc,LEC,Charles,Leclerc,7,82,0,ferrari,Ferrari
+2021,12,ricciardo,RIC,Daniel,Ricciardo,8,56,0,mclaren,McLaren
+2021,12,gasly,GAS,Pierre,Gasly,9,54,0,alphatauri,AlphaTauri
+2021,12,ocon,OCO,Esteban,Ocon,10,42,1,alpine,Alpine F1 Team
+2021,12,alonso,ALO,Fernando,Alonso,11,38,0,alpine,Alpine F1 Team
+2021,12,vettel,VET,Sebastian,Vettel,12,35,0,aston_martin,Aston Martin
+2021,12,tsunoda,TSU,Yuki,Tsunoda,13,18,0,alphatauri,AlphaTauri
+2021,12,stroll,STR,Lance,Stroll,14,18,0,aston_martin,Aston Martin
+2021,12,russell,RUS,George,Russell,15,13,0,williams,Williams
+2021,12,latifi,LAT,Nicholas,Latifi,16,7,0,williams,Williams
+2021,12,raikkonen,RAI,Kimi,Räikkönen,17,2,0,alfa,Alfa Romeo
+2021,12,giovinazzi,GIO,Antonio,Giovinazzi,18,1,0,alfa,Alfa Romeo
+2021,12,mick_schumacher,MSC,Mick,Schumacher,19,0,0,haas,Haas F1 Team
+2021,12,mazepin,MAZ,Nikita,Mazepin,20,0,0,haas,Haas F1 Team
+2021,13,max_verstappen,VER,Max,Verstappen,1,224.5,7,red_bull,Red Bull
+2021,13,hamilton,HAM,Lewis,Hamilton,2,221.5,4,mercedes,Mercedes
+2021,13,bottas,BOT,Valtteri,Bottas,3,123,0,mercedes,Mercedes
+2021,13,norris,NOR,Lando,Norris,4,114,0,mclaren,McLaren
+2021,13,perez,PER,Sergio,Pérez,5,108,1,red_bull,Red Bull
+2021,13,leclerc,LEC,Charles,Leclerc,6,92,0,ferrari,Ferrari
+2021,13,sainz,SAI,Carlos,Sainz,7,89.5,0,ferrari,Ferrari
+2021,13,gasly,GAS,Pierre,Gasly,8,66,0,alphatauri,AlphaTauri
+2021,13,ricciardo,RIC,Daniel,Ricciardo,9,56,0,mclaren,McLaren
+2021,13,alonso,ALO,Fernando,Alonso,10,46,0,alpine,Alpine F1 Team
+2021,13,ocon,OCO,Esteban,Ocon,11,44,1,alpine,Alpine F1 Team
+2021,13,vettel,VET,Sebastian,Vettel,12,35,0,aston_martin,Aston Martin
+2021,13,tsunoda,TSU,Yuki,Tsunoda,13,18,0,alphatauri,AlphaTauri
+2021,13,stroll,STR,Lance,Stroll,14,18,0,aston_martin,Aston Martin
+2021,13,russell,RUS,George,Russell,15,13,0,williams,Williams
+2021,13,latifi,LAT,Nicholas,Latifi,16,7,0,williams,Williams
+2021,13,raikkonen,RAI,Kimi,Räikkönen,17,2,0,alfa,Alfa Romeo
+2021,13,giovinazzi,GIO,Antonio,Giovinazzi,18,1,0,alfa,Alfa Romeo
+2021,13,mick_schumacher,MSC,Mick,Schumacher,19,0,0,haas,Haas F1 Team
+2021,13,mazepin,MAZ,Nikita,Mazepin,20,0,0,haas,Haas F1 Team
+2021,13,kubica,KUB,Robert,Kubica,21,0,0,alfa,Alfa Romeo
+2021,14,max_verstappen,VER,Max,Verstappen,1,226.5,7,red_bull,Red Bull
+2021,14,hamilton,HAM,Lewis,Hamilton,2,221.5,4,mercedes,Mercedes
+2021,14,bottas,BOT,Valtteri,Bottas,3,141,0,mercedes,Mercedes
+2021,14,norris,NOR,Lando,Norris,4,132,0,mclaren,McLaren
+2021,14,perez,PER,Sergio,Pérez,5,118,1,red_bull,Red Bull
+2021,14,leclerc,LEC,Charles,Leclerc,6,104,0,ferrari,Ferrari
+2021,14,sainz,SAI,Carlos,Sainz,7,97.5,0,ferrari,Ferrari
+2021,14,ricciardo,RIC,Daniel,Ricciardo,8,83,1,mclaren,McLaren
+2021,14,gasly,GAS,Pierre,Gasly,9,66,0,alphatauri,AlphaTauri
+2021,14,alonso,ALO,Fernando,Alonso,10,50,0,alpine,Alpine F1 Team
+2021,14,ocon,OCO,Esteban,Ocon,11,45,1,alpine,Alpine F1 Team
+2021,14,vettel,VET,Sebastian,Vettel,12,35,0,aston_martin,Aston Martin
+2021,14,stroll,STR,Lance,Stroll,13,24,0,aston_martin,Aston Martin
+2021,14,tsunoda,TSU,Yuki,Tsunoda,14,18,0,alphatauri,AlphaTauri
+2021,14,russell,RUS,George,Russell,15,15,0,williams,Williams
+2021,14,latifi,LAT,Nicholas,Latifi,16,7,0,williams,Williams
+2021,14,raikkonen,RAI,Kimi,Räikkönen,17,2,0,alfa,Alfa Romeo
+2021,14,giovinazzi,GIO,Antonio,Giovinazzi,18,1,0,alfa,Alfa Romeo
+2021,14,mick_schumacher,MSC,Mick,Schumacher,19,0,0,haas,Haas F1 Team
+2021,14,kubica,KUB,Robert,Kubica,20,0,0,alfa,Alfa Romeo
+2021,14,mazepin,MAZ,Nikita,Mazepin,21,0,0,haas,Haas F1 Team
+2021,15,hamilton,HAM,Lewis,Hamilton,1,246.5,5,mercedes,Mercedes
+2021,15,max_verstappen,VER,Max,Verstappen,2,244.5,7,red_bull,Red Bull
+2021,15,bottas,BOT,Valtteri,Bottas,3,151,0,mercedes,Mercedes
+2021,15,norris,NOR,Lando,Norris,4,139,0,mclaren,McLaren
+2021,15,perez,PER,Sergio,Pérez,5,120,1,red_bull,Red Bull
+2021,15,sainz,SAI,Carlos,Sainz,6,112.5,0,ferrari,Ferrari
+2021,15,leclerc,LEC,Charles,Leclerc,7,104,0,ferrari,Ferrari
+2021,15,ricciardo,RIC,Daniel,Ricciardo,8,95,1,mclaren,McLaren
+2021,15,gasly,GAS,Pierre,Gasly,9,66,0,alphatauri,AlphaTauri
+2021,15,alonso,ALO,Fernando,Alonso,10,58,0,alpine,Alpine F1 Team
+2021,15,ocon,OCO,Esteban,Ocon,11,45,1,alpine,Alpine F1 Team
+2021,15,vettel,VET,Sebastian,Vettel,12,35,0,aston_martin,Aston Martin
+2021,15,stroll,STR,Lance,Stroll,13,24,0,aston_martin,Aston Martin
+2021,15,tsunoda,TSU,Yuki,Tsunoda,14,18,0,alphatauri,AlphaTauri
+2021,15,russell,RUS,George,Russell,15,16,0,williams,Williams
+2021,15,latifi,LAT,Nicholas,Latifi,16,7,0,williams,Williams
+2021,15,raikkonen,RAI,Kimi,Räikkönen,17,6,0,alfa,Alfa Romeo
+2021,15,giovinazzi,GIO,Antonio,Giovinazzi,18,1,0,alfa,Alfa Romeo
+2021,15,mick_schumacher,MSC,Mick,Schumacher,19,0,0,haas,Haas F1 Team
+2021,15,kubica,KUB,Robert,Kubica,20,0,0,alfa,Alfa Romeo
+2021,15,mazepin,MAZ,Nikita,Mazepin,21,0,0,haas,Haas F1 Team
+2021,16,max_verstappen,VER,Max,Verstappen,1,262.5,7,red_bull,Red Bull
+2021,16,hamilton,HAM,Lewis,Hamilton,2,256.5,5,mercedes,Mercedes
+2021,16,bottas,BOT,Valtteri,Bottas,3,177,1,mercedes,Mercedes
+2021,16,norris,NOR,Lando,Norris,4,145,0,mclaren,McLaren
+2021,16,perez,PER,Sergio,Pérez,5,135,1,red_bull,Red Bull
+2021,16,sainz,SAI,Carlos,Sainz,6,116.5,0,ferrari,Ferrari
+2021,16,leclerc,LEC,Charles,Leclerc,7,116,0,ferrari,Ferrari
+2021,16,ricciardo,RIC,Daniel,Ricciardo,8,95,1,mclaren,McLaren
+2021,16,gasly,GAS,Pierre,Gasly,9,74,0,alphatauri,AlphaTauri
+2021,16,alonso,ALO,Fernando,Alonso,10,58,0,alpine,Alpine F1 Team
+2021,16,ocon,OCO,Esteban,Ocon,11,46,1,alpine,Alpine F1 Team
+2021,16,vettel,VET,Sebastian,Vettel,12,35,0,aston_martin,Aston Martin
+2021,16,stroll,STR,Lance,Stroll,13,26,0,aston_martin,Aston Martin
+2021,16,tsunoda,TSU,Yuki,Tsunoda,14,18,0,alphatauri,AlphaTauri
+2021,16,russell,RUS,George,Russell,15,16,0,williams,Williams
+2021,16,latifi,LAT,Nicholas,Latifi,16,7,0,williams,Williams
+2021,16,raikkonen,RAI,Kimi,Räikkönen,17,6,0,alfa,Alfa Romeo
+2021,16,giovinazzi,GIO,Antonio,Giovinazzi,18,1,0,alfa,Alfa Romeo
+2021,16,mick_schumacher,MSC,Mick,Schumacher,19,0,0,haas,Haas F1 Team
+2021,16,kubica,KUB,Robert,Kubica,20,0,0,alfa,Alfa Romeo
+2021,16,mazepin,MAZ,Nikita,Mazepin,21,0,0,haas,Haas F1 Team
+2021,17,max_verstappen,VER,Max,Verstappen,1,287.5,8,red_bull,Red Bull
+2021,17,hamilton,HAM,Lewis,Hamilton,2,275.5,5,mercedes,Mercedes
+2021,17,bottas,BOT,Valtteri,Bottas,3,185,1,mercedes,Mercedes
+2021,17,perez,PER,Sergio,Pérez,4,150,1,red_bull,Red Bull
+2021,17,norris,NOR,Lando,Norris,5,149,0,mclaren,McLaren
+2021,17,leclerc,LEC,Charles,Leclerc,6,128,0,ferrari,Ferrari
+2021,17,sainz,SAI,Carlos,Sainz,7,122.5,0,ferrari,Ferrari
+2021,17,ricciardo,RIC,Daniel,Ricciardo,8,105,1,mclaren,McLaren
+2021,17,gasly,GAS,Pierre,Gasly,9,74,0,alphatauri,AlphaTauri
+2021,17,alonso,ALO,Fernando,Alonso,10,58,0,alpine,Alpine F1 Team
+2021,17,ocon,OCO,Esteban,Ocon,11,46,1,alpine,Alpine F1 Team
+2021,17,vettel,VET,Sebastian,Vettel,12,36,0,aston_martin,Aston Martin
+2021,17,stroll,STR,Lance,Stroll,13,26,0,aston_martin,Aston Martin
+2021,17,tsunoda,TSU,Yuki,Tsunoda,14,20,0,alphatauri,AlphaTauri
+2021,17,russell,RUS,George,Russell,15,16,0,williams,Williams
+2021,17,latifi,LAT,Nicholas,Latifi,16,7,0,williams,Williams
+2021,17,raikkonen,RAI,Kimi,Räikkönen,17,6,0,alfa,Alfa Romeo
+2021,17,giovinazzi,GIO,Antonio,Giovinazzi,18,1,0,alfa,Alfa Romeo
+2021,17,mick_schumacher,MSC,Mick,Schumacher,19,0,0,haas,Haas F1 Team
+2021,17,kubica,KUB,Robert,Kubica,20,0,0,alfa,Alfa Romeo
+2021,17,mazepin,MAZ,Nikita,Mazepin,21,0,0,haas,Haas F1 Team
+2021,18,max_verstappen,VER,Max,Verstappen,1,312.5,9,red_bull,Red Bull
+2021,18,hamilton,HAM,Lewis,Hamilton,2,293.5,5,mercedes,Mercedes
+2021,18,bottas,BOT,Valtteri,Bottas,3,185,1,mercedes,Mercedes
+2021,18,perez,PER,Sergio,Pérez,4,165,1,red_bull,Red Bull
+2021,18,norris,NOR,Lando,Norris,5,150,0,mclaren,McLaren
+2021,18,leclerc,LEC,Charles,Leclerc,6,138,0,ferrari,Ferrari
+2021,18,sainz,SAI,Carlos,Sainz,7,130.5,0,ferrari,Ferrari
+2021,18,ricciardo,RIC,Daniel,Ricciardo,8,105,1,mclaren,McLaren
+2021,18,gasly,GAS,Pierre,Gasly,9,86,0,alphatauri,AlphaTauri
+2021,18,alonso,ALO,Fernando,Alonso,10,60,0,alpine,Alpine F1 Team
+2021,18,ocon,OCO,Esteban,Ocon,11,46,1,alpine,Alpine F1 Team
+2021,18,vettel,VET,Sebastian,Vettel,12,42,0,aston_martin,Aston Martin
+2021,18,stroll,STR,Lance,Stroll,13,26,0,aston_martin,Aston Martin
+2021,18,tsunoda,TSU,Yuki,Tsunoda,14,20,0,alphatauri,AlphaTauri
+2021,18,russell,RUS,George,Russell,15,16,0,williams,Williams
+2021,18,raikkonen,RAI,Kimi,Räikkönen,16,10,0,alfa,Alfa Romeo
+2021,18,latifi,LAT,Nicholas,Latifi,17,7,0,williams,Williams
+2021,18,giovinazzi,GIO,Antonio,Giovinazzi,18,1,0,alfa,Alfa Romeo
+2021,18,mick_schumacher,MSC,Mick,Schumacher,19,0,0,haas,Haas F1 Team
+2021,18,kubica,KUB,Robert,Kubica,20,0,0,alfa,Alfa Romeo
+2021,18,mazepin,MAZ,Nikita,Mazepin,21,0,0,haas,Haas F1 Team
+2021,19,max_verstappen,VER,Max,Verstappen,1,332.5,9,red_bull,Red Bull
+2021,19,hamilton,HAM,Lewis,Hamilton,2,318.5,6,mercedes,Mercedes
+2021,19,bottas,BOT,Valtteri,Bottas,3,203,1,mercedes,Mercedes
+2021,19,perez,PER,Sergio,Pérez,4,178,1,red_bull,Red Bull
+2021,19,norris,NOR,Lando,Norris,5,151,0,mclaren,McLaren
+2021,19,leclerc,LEC,Charles,Leclerc,6,148,0,ferrari,Ferrari
+2021,19,sainz,SAI,Carlos,Sainz,7,139.5,0,ferrari,Ferrari
+2021,19,ricciardo,RIC,Daniel,Ricciardo,8,105,1,mclaren,McLaren
+2021,19,gasly,GAS,Pierre,Gasly,9,92,0,alphatauri,AlphaTauri
+2021,19,alonso,ALO,Fernando,Alonso,10,62,0,alpine,Alpine F1 Team
+2021,19,ocon,OCO,Esteban,Ocon,11,50,1,alpine,Alpine F1 Team
+2021,19,vettel,VET,Sebastian,Vettel,12,42,0,aston_martin,Aston Martin
+2021,19,stroll,STR,Lance,Stroll,13,26,0,aston_martin,Aston Martin
+2021,19,tsunoda,TSU,Yuki,Tsunoda,14,20,0,alphatauri,AlphaTauri
+2021,19,russell,RUS,George,Russell,15,16,0,williams,Williams
+2021,19,raikkonen,RAI,Kimi,Räikkönen,16,10,0,alfa,Alfa Romeo
+2021,19,latifi,LAT,Nicholas,Latifi,17,7,0,williams,Williams
+2021,19,giovinazzi,GIO,Antonio,Giovinazzi,18,1,0,alfa,Alfa Romeo
+2021,19,mick_schumacher,MSC,Mick,Schumacher,19,0,0,haas,Haas F1 Team
+2021,19,kubica,KUB,Robert,Kubica,20,0,0,alfa,Alfa Romeo
+2021,19,mazepin,MAZ,Nikita,Mazepin,21,0,0,haas,Haas F1 Team
+2021,20,max_verstappen,VER,Max,Verstappen,1,351.5,9,red_bull,Red Bull
+2021,20,hamilton,HAM,Lewis,Hamilton,2,343.5,7,mercedes,Mercedes
+2021,20,bottas,BOT,Valtteri,Bottas,3,203,1,mercedes,Mercedes
+2021,20,perez,PER,Sergio,Pérez,4,190,1,red_bull,Red Bull
+2021,20,norris,NOR,Lando,Norris,5,153,0,mclaren,McLaren
+2021,20,leclerc,LEC,Charles,Leclerc,6,152,0,ferrari,Ferrari
+2021,20,sainz,SAI,Carlos,Sainz,7,145.5,0,ferrari,Ferrari
+2021,20,ricciardo,RIC,Daniel,Ricciardo,8,105,1,mclaren,McLaren
+2021,20,gasly,GAS,Pierre,Gasly,9,92,0,alphatauri,AlphaTauri
+2021,20,alonso,ALO,Fernando,Alonso,10,77,0,alpine,Alpine F1 Team
+2021,20,ocon,OCO,Esteban,Ocon,11,60,1,alpine,Alpine F1 Team
+2021,20,vettel,VET,Sebastian,Vettel,12,43,0,aston_martin,Aston Martin
+2021,20,stroll,STR,Lance,Stroll,13,34,0,aston_martin,Aston Martin
+2021,20,tsunoda,TSU,Yuki,Tsunoda,14,20,0,alphatauri,AlphaTauri
+2021,20,russell,RUS,George,Russell,15,16,0,williams,Williams
+2021,20,raikkonen,RAI,Kimi,Räikkönen,16,10,0,alfa,Alfa Romeo
+2021,20,latifi,LAT,Nicholas,Latifi,17,7,0,williams,Williams
+2021,20,giovinazzi,GIO,Antonio,Giovinazzi,18,1,0,alfa,Alfa Romeo
+2021,20,mick_schumacher,MSC,Mick,Schumacher,19,0,0,haas,Haas F1 Team
+2021,20,kubica,KUB,Robert,Kubica,20,0,0,alfa,Alfa Romeo
+2021,20,mazepin,MAZ,Nikita,Mazepin,21,0,0,haas,Haas F1 Team
+2021,21,max_verstappen,VER,Max,Verstappen,1,369.5,9,red_bull,Red Bull
+2021,21,hamilton,HAM,Lewis,Hamilton,2,369.5,8,mercedes,Mercedes
+2021,21,bottas,BOT,Valtteri,Bottas,3,218,1,mercedes,Mercedes
+2021,21,perez,PER,Sergio,Pérez,4,190,1,red_bull,Red Bull
+2021,21,leclerc,LEC,Charles,Leclerc,5,158,0,ferrari,Ferrari
+2021,21,norris,NOR,Lando,Norris,6,154,0,mclaren,McLaren
+2021,21,sainz,SAI,Carlos,Sainz,7,149.5,0,ferrari,Ferrari
+2021,21,ricciardo,RIC,Daniel,Ricciardo,8,115,1,mclaren,McLaren
+2021,21,gasly,GAS,Pierre,Gasly,9,100,0,alphatauri,AlphaTauri
+2021,21,alonso,ALO,Fernando,Alonso,10,77,0,alpine,Alpine F1 Team
+2021,21,ocon,OCO,Esteban,Ocon,11,72,1,alpine,Alpine F1 Team
+2021,21,vettel,VET,Sebastian,Vettel,12,43,0,aston_martin,Aston Martin
+2021,21,stroll,STR,Lance,Stroll,13,34,0,aston_martin,Aston Martin
+2021,21,tsunoda,TSU,Yuki,Tsunoda,14,20,0,alphatauri,AlphaTauri
+2021,21,russell,RUS,George,Russell,15,16,0,williams,Williams
+2021,21,raikkonen,RAI,Kimi,Räikkönen,16,10,0,alfa,Alfa Romeo
+2021,21,latifi,LAT,Nicholas,Latifi,17,7,0,williams,Williams
+2021,21,giovinazzi,GIO,Antonio,Giovinazzi,18,3,0,alfa,Alfa Romeo
+2021,21,mick_schumacher,MSC,Mick,Schumacher,19,0,0,haas,Haas F1 Team
+2021,21,kubica,KUB,Robert,Kubica,20,0,0,alfa,Alfa Romeo
+2021,21,mazepin,MAZ,Nikita,Mazepin,21,0,0,haas,Haas F1 Team
+2021,22,max_verstappen,VER,Max,Verstappen,1,395.5,10,red_bull,Red Bull
+2021,22,hamilton,HAM,Lewis,Hamilton,2,387.5,8,mercedes,Mercedes
+2021,22,bottas,BOT,Valtteri,Bottas,3,226,1,mercedes,Mercedes
+2021,22,perez,PER,Sergio,Pérez,4,190,1,red_bull,Red Bull
+2021,22,sainz,SAI,Carlos,Sainz,5,164.5,0,ferrari,Ferrari
+2021,22,norris,NOR,Lando,Norris,6,160,0,mclaren,McLaren
+2021,22,leclerc,LEC,Charles,Leclerc,7,159,0,ferrari,Ferrari
+2021,22,ricciardo,RIC,Daniel,Ricciardo,8,115,1,mclaren,McLaren
+2021,22,gasly,GAS,Pierre,Gasly,9,110,0,alphatauri,AlphaTauri
+2021,22,alonso,ALO,Fernando,Alonso,10,81,0,alpine,Alpine F1 Team
+2021,22,ocon,OCO,Esteban,Ocon,11,74,1,alpine,Alpine F1 Team
+2021,22,vettel,VET,Sebastian,Vettel,12,43,0,aston_martin,Aston Martin
+2021,22,stroll,STR,Lance,Stroll,13,34,0,aston_martin,Aston Martin
+2021,22,tsunoda,TSU,Yuki,Tsunoda,14,32,0,alphatauri,AlphaTauri
+2021,22,russell,RUS,George,Russell,15,16,0,williams,Williams
+2021,22,raikkonen,RAI,Kimi,Räikkönen,16,10,0,alfa,Alfa Romeo
+2021,22,latifi,LAT,Nicholas,Latifi,17,7,0,williams,Williams
+2021,22,giovinazzi,GIO,Antonio,Giovinazzi,18,3,0,alfa,Alfa Romeo
+2021,22,mick_schumacher,MSC,Mick,Schumacher,19,0,0,haas,Haas F1 Team
+2021,22,kubica,KUB,Robert,Kubica,20,0,0,alfa,Alfa Romeo
+2021,22,mazepin,MAZ,Nikita,Mazepin,21,0,0,haas,Haas F1 Team
+2022,1,leclerc,LEC,Charles,Leclerc,1,26,1,ferrari,Ferrari
+2022,1,sainz,SAI,Carlos,Sainz,2,18,0,ferrari,Ferrari
+2022,1,hamilton,HAM,Lewis,Hamilton,3,15,0,mercedes,Mercedes
+2022,1,russell,RUS,George,Russell,4,12,0,mercedes,Mercedes
+2022,1,kevin_magnussen,MAG,Kevin,Magnussen,5,10,0,haas,Haas F1 Team
+2022,1,bottas,BOT,Valtteri,Bottas,6,8,0,alfa,Alfa Romeo
+2022,1,ocon,OCO,Esteban,Ocon,7,6,0,alpine,Alpine F1 Team
+2022,1,tsunoda,TSU,Yuki,Tsunoda,8,4,0,alphatauri,AlphaTauri
+2022,1,alonso,ALO,Fernando,Alonso,9,2,0,alpine,Alpine F1 Team
+2022,1,zhou,ZHO,Guanyu,Zhou,10,1,0,alfa,Alfa Romeo
+2022,1,mick_schumacher,MSC,Mick,Schumacher,11,0,0,haas,Haas F1 Team
+2022,1,stroll,STR,Lance,Stroll,12,0,0,aston_martin,Aston Martin
+2022,1,albon,ALB,Alexander,Albon,13,0,0,williams,Williams
+2022,1,ricciardo,RIC,Daniel,Ricciardo,14,0,0,mclaren,McLaren
+2022,1,norris,NOR,Lando,Norris,15,0,0,mclaren,McLaren
+2022,1,latifi,LAT,Nicholas,Latifi,16,0,0,williams,Williams
+2022,1,hulkenberg,HUL,Nico,Hülkenberg,17,0,0,aston_martin,Aston Martin
+2022,1,perez,PER,Sergio,Pérez,18,0,0,red_bull,Red Bull
+2022,1,max_verstappen,VER,Max,Verstappen,19,0,0,red_bull,Red Bull
+2022,1,gasly,GAS,Pierre,Gasly,,0,0,alphatauri,AlphaTauri
+2022,2,leclerc,LEC,Charles,Leclerc,1,45,1,ferrari,Ferrari
+2022,2,sainz,SAI,Carlos,Sainz,2,33,0,ferrari,Ferrari
+2022,2,max_verstappen,VER,Max,Verstappen,3,25,1,red_bull,Red Bull
+2022,2,russell,RUS,George,Russell,4,22,0,mercedes,Mercedes
+2022,2,hamilton,HAM,Lewis,Hamilton,5,16,0,mercedes,Mercedes
+2022,2,ocon,OCO,Esteban,Ocon,6,14,0,alpine,Alpine F1 Team
+2022,2,perez,PER,Sergio,Pérez,7,12,0,red_bull,Red Bull
+2022,2,kevin_magnussen,MAG,Kevin,Magnussen,8,12,0,haas,Haas F1 Team
+2022,2,bottas,BOT,Valtteri,Bottas,9,8,0,alfa,Alfa Romeo
+2022,2,norris,NOR,Lando,Norris,10,6,0,mclaren,McLaren
+2022,2,tsunoda,TSU,Yuki,Tsunoda,11,4,0,alphatauri,AlphaTauri
+2022,2,gasly,GAS,Pierre,Gasly,12,4,0,alphatauri,AlphaTauri
+2022,2,alonso,ALO,Fernando,Alonso,13,2,0,alpine,Alpine F1 Team
+2022,2,zhou,ZHO,Guanyu,Zhou,14,1,0,alfa,Alfa Romeo
+2022,2,mick_schumacher,MSC,Mick,Schumacher,15,0,0,haas,Haas F1 Team
+2022,2,stroll,STR,Lance,Stroll,16,0,0,aston_martin,Aston Martin
+2022,2,hulkenberg,HUL,Nico,Hülkenberg,17,0,0,aston_martin,Aston Martin
+2022,2,albon,ALB,Alexander,Albon,18,0,0,williams,Williams
+2022,2,ricciardo,RIC,Daniel,Ricciardo,19,0,0,mclaren,McLaren
+2022,2,latifi,LAT,Nicholas,Latifi,20,0,0,williams,Williams
+2022,3,leclerc,LEC,Charles,Leclerc,1,71,2,ferrari,Ferrari
+2022,3,russell,RUS,George,Russell,2,37,0,mercedes,Mercedes
+2022,3,sainz,SAI,Carlos,Sainz,3,33,0,ferrari,Ferrari
+2022,3,perez,PER,Sergio,Pérez,4,30,0,red_bull,Red Bull
+2022,3,hamilton,HAM,Lewis,Hamilton,5,28,0,mercedes,Mercedes
+2022,3,max_verstappen,VER,Max,Verstappen,6,25,1,red_bull,Red Bull
+2022,3,ocon,OCO,Esteban,Ocon,7,20,0,alpine,Alpine F1 Team
+2022,3,norris,NOR,Lando,Norris,8,16,0,mclaren,McLaren
+2022,3,kevin_magnussen,MAG,Kevin,Magnussen,9,12,0,haas,Haas F1 Team
+2022,3,bottas,BOT,Valtteri,Bottas,10,12,0,alfa,Alfa Romeo
+2022,3,ricciardo,RIC,Daniel,Ricciardo,11,8,0,mclaren,McLaren
+2022,3,gasly,GAS,Pierre,Gasly,12,6,0,alphatauri,AlphaTauri
+2022,3,tsunoda,TSU,Yuki,Tsunoda,13,4,0,alphatauri,AlphaTauri
+2022,3,alonso,ALO,Fernando,Alonso,14,2,0,alpine,Alpine F1 Team
+2022,3,zhou,ZHO,Guanyu,Zhou,15,1,0,alfa,Alfa Romeo
+2022,3,albon,ALB,Alexander,Albon,16,1,0,williams,Williams
+2022,3,mick_schumacher,MSC,Mick,Schumacher,17,0,0,haas,Haas F1 Team
+2022,3,stroll,STR,Lance,Stroll,18,0,0,aston_martin,Aston Martin
+2022,3,hulkenberg,HUL,Nico,Hülkenberg,19,0,0,aston_martin,Aston Martin
+2022,3,latifi,LAT,Nicholas,Latifi,20,0,0,williams,Williams
+2022,3,vettel,VET,Sebastian,Vettel,,0,0,aston_martin,Aston Martin
+2022,4,leclerc,LEC,Charles,Leclerc,1,86,2,ferrari,Ferrari
+2022,4,max_verstappen,VER,Max,Verstappen,2,59,2,red_bull,Red Bull
+2022,4,perez,PER,Sergio,Pérez,3,54,0,red_bull,Red Bull
+2022,4,russell,RUS,George,Russell,4,49,0,mercedes,Mercedes
+2022,4,sainz,SAI,Carlos,Sainz,5,38,0,ferrari,Ferrari
+2022,4,norris,NOR,Lando,Norris,6,35,0,mclaren,McLaren
+2022,4,hamilton,HAM,Lewis,Hamilton,7,28,0,mercedes,Mercedes
+2022,4,bottas,BOT,Valtteri,Bottas,8,24,0,alfa,Alfa Romeo
+2022,4,ocon,OCO,Esteban,Ocon,9,20,0,alpine,Alpine F1 Team
+2022,4,kevin_magnussen,MAG,Kevin,Magnussen,10,15,0,haas,Haas F1 Team
+2022,4,ricciardo,RIC,Daniel,Ricciardo,11,11,0,mclaren,McLaren
+2022,4,tsunoda,TSU,Yuki,Tsunoda,12,10,0,alphatauri,AlphaTauri
+2022,4,gasly,GAS,Pierre,Gasly,13,6,0,alphatauri,AlphaTauri
+2022,4,vettel,VET,Sebastian,Vettel,14,4,0,aston_martin,Aston Martin
+2022,4,alonso,ALO,Fernando,Alonso,15,2,0,alpine,Alpine F1 Team
+2022,4,zhou,ZHO,Guanyu,Zhou,16,1,0,alfa,Alfa Romeo
+2022,4,albon,ALB,Alexander,Albon,17,1,0,williams,Williams
+2022,4,stroll,STR,Lance,Stroll,18,1,0,aston_martin,Aston Martin
+2022,4,mick_schumacher,MSC,Mick,Schumacher,19,0,0,haas,Haas F1 Team
+2022,4,hulkenberg,HUL,Nico,Hülkenberg,20,0,0,aston_martin,Aston Martin
+2022,4,latifi,LAT,Nicholas,Latifi,21,0,0,williams,Williams
+2022,5,leclerc,LEC,Charles,Leclerc,1,104,2,ferrari,Ferrari
+2022,5,max_verstappen,VER,Max,Verstappen,2,85,3,red_bull,Red Bull
+2022,5,perez,PER,Sergio,Pérez,3,66,0,red_bull,Red Bull
+2022,5,russell,RUS,George,Russell,4,59,0,mercedes,Mercedes
+2022,5,sainz,SAI,Carlos,Sainz,5,53,0,ferrari,Ferrari
+2022,5,hamilton,HAM,Lewis,Hamilton,6,36,0,mercedes,Mercedes
+2022,5,norris,NOR,Lando,Norris,7,35,0,mclaren,McLaren
+2022,5,bottas,BOT,Valtteri,Bottas,8,30,0,alfa,Alfa Romeo
+2022,5,ocon,OCO,Esteban,Ocon,9,24,0,alpine,Alpine F1 Team
+2022,5,kevin_magnussen,MAG,Kevin,Magnussen,10,15,0,haas,Haas F1 Team
+2022,5,ricciardo,RIC,Daniel,Ricciardo,11,11,0,mclaren,McLaren
+2022,5,tsunoda,TSU,Yuki,Tsunoda,12,10,0,alphatauri,AlphaTauri
+2022,5,gasly,GAS,Pierre,Gasly,13,6,0,alphatauri,AlphaTauri
+2022,5,vettel,VET,Sebastian,Vettel,14,4,0,aston_martin,Aston Martin
+2022,5,albon,ALB,Alexander,Albon,15,3,0,williams,Williams
+2022,5,alonso,ALO,Fernando,Alonso,16,2,0,alpine,Alpine F1 Team
+2022,5,stroll,STR,Lance,Stroll,17,2,0,aston_martin,Aston Martin
+2022,5,zhou,ZHO,Guanyu,Zhou,18,1,0,alfa,Alfa Romeo
+2022,5,mick_schumacher,MSC,Mick,Schumacher,19,0,0,haas,Haas F1 Team
+2022,5,hulkenberg,HUL,Nico,Hülkenberg,20,0,0,aston_martin,Aston Martin
+2022,5,latifi,LAT,Nicholas,Latifi,21,0,0,williams,Williams
+2022,6,max_verstappen,VER,Max,Verstappen,1,110,4,red_bull,Red Bull
+2022,6,leclerc,LEC,Charles,Leclerc,2,104,2,ferrari,Ferrari
+2022,6,perez,PER,Sergio,Pérez,3,85,0,red_bull,Red Bull
+2022,6,russell,RUS,George,Russell,4,74,0,mercedes,Mercedes
+2022,6,sainz,SAI,Carlos,Sainz,5,65,0,ferrari,Ferrari
+2022,6,hamilton,HAM,Lewis,Hamilton,6,46,0,mercedes,Mercedes
+2022,6,norris,NOR,Lando,Norris,7,39,0,mclaren,McLaren
+2022,6,bottas,BOT,Valtteri,Bottas,8,38,0,alfa,Alfa Romeo
+2022,6,ocon,OCO,Esteban,Ocon,9,30,0,alpine,Alpine F1 Team
+2022,6,kevin_magnussen,MAG,Kevin,Magnussen,10,15,0,haas,Haas F1 Team
+2022,6,ricciardo,RIC,Daniel,Ricciardo,11,11,0,mclaren,McLaren
+2022,6,tsunoda,TSU,Yuki,Tsunoda,12,11,0,alphatauri,AlphaTauri
+2022,6,gasly,GAS,Pierre,Gasly,13,6,0,alphatauri,AlphaTauri
+2022,6,vettel,VET,Sebastian,Vettel,14,4,0,aston_martin,Aston Martin
+2022,6,alonso,ALO,Fernando,Alonso,15,4,0,alpine,Alpine F1 Team
+2022,6,albon,ALB,Alexander,Albon,16,3,0,williams,Williams
+2022,6,stroll,STR,Lance,Stroll,17,2,0,aston_martin,Aston Martin
+2022,6,zhou,ZHO,Guanyu,Zhou,18,1,0,alfa,Alfa Romeo
+2022,6,mick_schumacher,MSC,Mick,Schumacher,19,0,0,haas,Haas F1 Team
+2022,6,hulkenberg,HUL,Nico,Hülkenberg,20,0,0,aston_martin,Aston Martin
+2022,6,latifi,LAT,Nicholas,Latifi,21,0,0,williams,Williams
+2022,7,max_verstappen,VER,Max,Verstappen,1,125,4,red_bull,Red Bull
+2022,7,leclerc,LEC,Charles,Leclerc,2,116,2,ferrari,Ferrari
+2022,7,perez,PER,Sergio,Pérez,3,110,1,red_bull,Red Bull
+2022,7,russell,RUS,George,Russell,4,84,0,mercedes,Mercedes
+2022,7,sainz,SAI,Carlos,Sainz,5,83,0,ferrari,Ferrari
+2022,7,hamilton,HAM,Lewis,Hamilton,6,50,0,mercedes,Mercedes
+2022,7,norris,NOR,Lando,Norris,7,48,0,mclaren,McLaren
+2022,7,bottas,BOT,Valtteri,Bottas,8,40,0,alfa,Alfa Romeo
+2022,7,ocon,OCO,Esteban,Ocon,9,30,0,alpine,Alpine F1 Team
+2022,7,kevin_magnussen,MAG,Kevin,Magnussen,10,15,0,haas,Haas F1 Team
+2022,7,ricciardo,RIC,Daniel,Ricciardo,11,11,0,mclaren,McLaren
+2022,7,tsunoda,TSU,Yuki,Tsunoda,12,11,0,alphatauri,AlphaTauri
+2022,7,alonso,ALO,Fernando,Alonso,13,10,0,alpine,Alpine F1 Team
+2022,7,gasly,GAS,Pierre,Gasly,14,6,0,alphatauri,AlphaTauri
+2022,7,vettel,VET,Sebastian,Vettel,15,5,0,aston_martin,Aston Martin
+2022,7,albon,ALB,Alexander,Albon,16,3,0,williams,Williams
+2022,7,stroll,STR,Lance,Stroll,17,2,0,aston_martin,Aston Martin
+2022,7,zhou,ZHO,Guanyu,Zhou,18,1,0,alfa,Alfa Romeo
+2022,7,mick_schumacher,MSC,Mick,Schumacher,19,0,0,haas,Haas F1 Team
+2022,7,hulkenberg,HUL,Nico,Hülkenberg,20,0,0,aston_martin,Aston Martin
+2022,7,latifi,LAT,Nicholas,Latifi,21,0,0,williams,Williams
+2022,8,max_verstappen,VER,Max,Verstappen,1,150,5,red_bull,Red Bull
+2022,8,perez,PER,Sergio,Pérez,2,129,1,red_bull,Red Bull
+2022,8,leclerc,LEC,Charles,Leclerc,3,116,2,ferrari,Ferrari
+2022,8,russell,RUS,George,Russell,4,99,0,mercedes,Mercedes
+2022,8,sainz,SAI,Carlos,Sainz,5,83,0,ferrari,Ferrari
+2022,8,hamilton,HAM,Lewis,Hamilton,6,62,0,mercedes,Mercedes
+2022,8,norris,NOR,Lando,Norris,7,50,0,mclaren,McLaren
+2022,8,bottas,BOT,Valtteri,Bottas,8,40,0,alfa,Alfa Romeo
+2022,8,ocon,OCO,Esteban,Ocon,9,31,0,alpine,Alpine F1 Team
+2022,8,gasly,GAS,Pierre,Gasly,10,16,0,alphatauri,AlphaTauri
+2022,8,alonso,ALO,Fernando,Alonso,11,16,0,alpine,Alpine F1 Team
+2022,8,kevin_magnussen,MAG,Kevin,Magnussen,12,15,0,haas,Haas F1 Team
+2022,8,ricciardo,RIC,Daniel,Ricciardo,13,15,0,mclaren,McLaren
+2022,8,vettel,VET,Sebastian,Vettel,14,13,0,aston_martin,Aston Martin
+2022,8,tsunoda,TSU,Yuki,Tsunoda,15,11,0,alphatauri,AlphaTauri
+2022,8,albon,ALB,Alexander,Albon,16,3,0,williams,Williams
+2022,8,stroll,STR,Lance,Stroll,17,2,0,aston_martin,Aston Martin
+2022,8,zhou,ZHO,Guanyu,Zhou,18,1,0,alfa,Alfa Romeo
+2022,8,mick_schumacher,MSC,Mick,Schumacher,19,0,0,haas,Haas F1 Team
+2022,8,hulkenberg,HUL,Nico,Hülkenberg,20,0,0,aston_martin,Aston Martin
+2022,8,latifi,LAT,Nicholas,Latifi,21,0,0,williams,Williams
+2022,9,max_verstappen,VER,Max,Verstappen,1,175,6,red_bull,Red Bull
+2022,9,perez,PER,Sergio,Pérez,2,129,1,red_bull,Red Bull
+2022,9,leclerc,LEC,Charles,Leclerc,3,126,2,ferrari,Ferrari
+2022,9,russell,RUS,George,Russell,4,111,0,mercedes,Mercedes
+2022,9,sainz,SAI,Carlos,Sainz,5,102,0,ferrari,Ferrari
+2022,9,hamilton,HAM,Lewis,Hamilton,6,77,0,mercedes,Mercedes
+2022,9,norris,NOR,Lando,Norris,7,50,0,mclaren,McLaren
+2022,9,bottas,BOT,Valtteri,Bottas,8,46,0,alfa,Alfa Romeo
+2022,9,ocon,OCO,Esteban,Ocon,9,39,0,alpine,Alpine F1 Team
+2022,9,alonso,ALO,Fernando,Alonso,10,18,0,alpine,Alpine F1 Team
+2022,9,gasly,GAS,Pierre,Gasly,11,16,0,alphatauri,AlphaTauri
+2022,9,kevin_magnussen,MAG,Kevin,Magnussen,12,15,0,haas,Haas F1 Team
+2022,9,ricciardo,RIC,Daniel,Ricciardo,13,15,0,mclaren,McLaren
+2022,9,vettel,VET,Sebastian,Vettel,14,13,0,aston_martin,Aston Martin
+2022,9,tsunoda,TSU,Yuki,Tsunoda,15,11,0,alphatauri,AlphaTauri
+2022,9,zhou,ZHO,Guanyu,Zhou,16,5,0,alfa,Alfa Romeo
+2022,9,albon,ALB,Alexander,Albon,17,3,0,williams,Williams
+2022,9,stroll,STR,Lance,Stroll,18,3,0,aston_martin,Aston Martin
+2022,9,mick_schumacher,MSC,Mick,Schumacher,19,0,0,haas,Haas F1 Team
+2022,9,hulkenberg,HUL,Nico,Hülkenberg,20,0,0,aston_martin,Aston Martin
+2022,9,latifi,LAT,Nicholas,Latifi,21,0,0,williams,Williams
+2022,10,max_verstappen,VER,Max,Verstappen,1,181,6,red_bull,Red Bull
+2022,10,perez,PER,Sergio,Pérez,2,147,1,red_bull,Red Bull
+2022,10,leclerc,LEC,Charles,Leclerc,3,138,2,ferrari,Ferrari
+2022,10,sainz,SAI,Carlos,Sainz,4,127,1,ferrari,Ferrari
+2022,10,russell,RUS,George,Russell,5,111,0,mercedes,Mercedes
+2022,10,hamilton,HAM,Lewis,Hamilton,6,93,0,mercedes,Mercedes
+2022,10,norris,NOR,Lando,Norris,7,58,0,mclaren,McLaren
+2022,10,bottas,BOT,Valtteri,Bottas,8,46,0,alfa,Alfa Romeo
+2022,10,ocon,OCO,Esteban,Ocon,9,39,0,alpine,Alpine F1 Team
+2022,10,alonso,ALO,Fernando,Alonso,10,28,0,alpine,Alpine F1 Team
+2022,10,gasly,GAS,Pierre,Gasly,11,16,0,alphatauri,AlphaTauri
+2022,10,kevin_magnussen,MAG,Kevin,Magnussen,12,16,0,haas,Haas F1 Team
+2022,10,vettel,VET,Sebastian,Vettel,13,15,0,aston_martin,Aston Martin
+2022,10,ricciardo,RIC,Daniel,Ricciardo,14,15,0,mclaren,McLaren
+2022,10,tsunoda,TSU,Yuki,Tsunoda,15,11,0,alphatauri,AlphaTauri
+2022,10,zhou,ZHO,Guanyu,Zhou,16,5,0,alfa,Alfa Romeo
+2022,10,mick_schumacher,MSC,Mick,Schumacher,17,4,0,haas,Haas F1 Team
+2022,10,albon,ALB,Alexander,Albon,18,3,0,williams,Williams
+2022,10,stroll,STR,Lance,Stroll,19,3,0,aston_martin,Aston Martin
+2022,10,latifi,LAT,Nicholas,Latifi,20,0,0,williams,Williams
+2022,10,hulkenberg,HUL,Nico,Hülkenberg,21,0,0,aston_martin,Aston Martin
+2022,11,max_verstappen,VER,Max,Verstappen,1,208,6,red_bull,Red Bull
+2022,11,leclerc,LEC,Charles,Leclerc,2,170,3,ferrari,Ferrari
+2022,11,perez,PER,Sergio,Pérez,3,151,1,red_bull,Red Bull
+2022,11,sainz,SAI,Carlos,Sainz,4,133,1,ferrari,Ferrari
+2022,11,russell,RUS,George,Russell,5,128,0,mercedes,Mercedes
+2022,11,hamilton,HAM,Lewis,Hamilton,6,109,0,mercedes,Mercedes
+2022,11,norris,NOR,Lando,Norris,7,64,0,mclaren,McLaren
+2022,11,ocon,OCO,Esteban,Ocon,8,52,0,alpine,Alpine F1 Team
+2022,11,bottas,BOT,Valtteri,Bottas,9,46,0,alfa,Alfa Romeo
+2022,11,alonso,ALO,Fernando,Alonso,10,29,0,alpine,Alpine F1 Team
+2022,11,kevin_magnussen,MAG,Kevin,Magnussen,11,22,0,haas,Haas F1 Team
+2022,11,ricciardo,RIC,Daniel,Ricciardo,12,17,0,mclaren,McLaren
+2022,11,gasly,GAS,Pierre,Gasly,13,16,0,alphatauri,AlphaTauri
+2022,11,vettel,VET,Sebastian,Vettel,14,15,0,aston_martin,Aston Martin
+2022,11,mick_schumacher,MSC,Mick,Schumacher,15,12,0,haas,Haas F1 Team
+2022,11,tsunoda,TSU,Yuki,Tsunoda,16,11,0,alphatauri,AlphaTauri
+2022,11,zhou,ZHO,Guanyu,Zhou,17,5,0,alfa,Alfa Romeo
+2022,11,albon,ALB,Alexander,Albon,18,3,0,williams,Williams
+2022,11,stroll,STR,Lance,Stroll,19,3,0,aston_martin,Aston Martin
+2022,11,latifi,LAT,Nicholas,Latifi,20,0,0,williams,Williams
+2022,11,hulkenberg,HUL,Nico,Hülkenberg,21,0,0,aston_martin,Aston Martin
+2022,12,max_verstappen,VER,Max,Verstappen,1,233,7,red_bull,Red Bull
+2022,12,leclerc,LEC,Charles,Leclerc,2,170,3,ferrari,Ferrari
+2022,12,perez,PER,Sergio,Pérez,3,163,1,red_bull,Red Bull
+2022,12,sainz,SAI,Carlos,Sainz,4,144,1,ferrari,Ferrari
+2022,12,russell,RUS,George,Russell,5,143,0,mercedes,Mercedes
+2022,12,hamilton,HAM,Lewis,Hamilton,6,127,0,mercedes,Mercedes
+2022,12,norris,NOR,Lando,Norris,7,70,0,mclaren,McLaren
+2022,12,ocon,OCO,Esteban,Ocon,8,56,0,alpine,Alpine F1 Team
+2022,12,bottas,BOT,Valtteri,Bottas,9,46,0,alfa,Alfa Romeo
+2022,12,alonso,ALO,Fernando,Alonso,10,37,0,alpine,Alpine F1 Team
+2022,12,kevin_magnussen,MAG,Kevin,Magnussen,11,22,0,haas,Haas F1 Team
+2022,12,ricciardo,RIC,Daniel,Ricciardo,12,19,0,mclaren,McLaren
+2022,12,gasly,GAS,Pierre,Gasly,13,16,0,alphatauri,AlphaTauri
+2022,12,vettel,VET,Sebastian,Vettel,14,15,0,aston_martin,Aston Martin
+2022,12,mick_schumacher,MSC,Mick,Schumacher,15,12,0,haas,Haas F1 Team
+2022,12,tsunoda,TSU,Yuki,Tsunoda,16,11,0,alphatauri,AlphaTauri
+2022,12,zhou,ZHO,Guanyu,Zhou,17,5,0,alfa,Alfa Romeo
+2022,12,stroll,STR,Lance,Stroll,18,4,0,aston_martin,Aston Martin
+2022,12,albon,ALB,Alexander,Albon,19,3,0,williams,Williams
+2022,12,latifi,LAT,Nicholas,Latifi,20,0,0,williams,Williams
+2022,12,hulkenberg,HUL,Nico,Hülkenberg,21,0,0,aston_martin,Aston Martin
+2022,13,max_verstappen,VER,Max,Verstappen,1,258,8,red_bull,Red Bull
+2022,13,leclerc,LEC,Charles,Leclerc,2,178,3,ferrari,Ferrari
+2022,13,perez,PER,Sergio,Pérez,3,173,1,red_bull,Red Bull
+2022,13,russell,RUS,George,Russell,4,158,0,mercedes,Mercedes
+2022,13,sainz,SAI,Carlos,Sainz,5,156,1,ferrari,Ferrari
+2022,13,hamilton,HAM,Lewis,Hamilton,6,146,0,mercedes,Mercedes
+2022,13,norris,NOR,Lando,Norris,7,76,0,mclaren,McLaren
+2022,13,ocon,OCO,Esteban,Ocon,8,58,0,alpine,Alpine F1 Team
+2022,13,bottas,BOT,Valtteri,Bottas,9,46,0,alfa,Alfa Romeo
+2022,13,alonso,ALO,Fernando,Alonso,10,41,0,alpine,Alpine F1 Team
+2022,13,kevin_magnussen,MAG,Kevin,Magnussen,11,22,0,haas,Haas F1 Team
+2022,13,ricciardo,RIC,Daniel,Ricciardo,12,19,0,mclaren,McLaren
+2022,13,gasly,GAS,Pierre,Gasly,13,16,0,alphatauri,AlphaTauri
+2022,13,vettel,VET,Sebastian,Vettel,14,16,0,aston_martin,Aston Martin
+2022,13,mick_schumacher,MSC,Mick,Schumacher,15,12,0,haas,Haas F1 Team
+2022,13,tsunoda,TSU,Yuki,Tsunoda,16,11,0,alphatauri,AlphaTauri
+2022,13,zhou,ZHO,Guanyu,Zhou,17,5,0,alfa,Alfa Romeo
+2022,13,stroll,STR,Lance,Stroll,18,4,0,aston_martin,Aston Martin
+2022,13,albon,ALB,Alexander,Albon,19,3,0,williams,Williams
+2022,13,latifi,LAT,Nicholas,Latifi,20,0,0,williams,Williams
+2022,13,hulkenberg,HUL,Nico,Hülkenberg,21,0,0,aston_martin,Aston Martin
+2022,14,max_verstappen,VER,Max,Verstappen,1,284,9,red_bull,Red Bull
+2022,14,perez,PER,Sergio,Pérez,2,191,1,red_bull,Red Bull
+2022,14,leclerc,LEC,Charles,Leclerc,3,186,3,ferrari,Ferrari
+2022,14,sainz,SAI,Carlos,Sainz,4,171,1,ferrari,Ferrari
+2022,14,russell,RUS,George,Russell,5,170,0,mercedes,Mercedes
+2022,14,hamilton,HAM,Lewis,Hamilton,6,146,0,mercedes,Mercedes
+2022,14,norris,NOR,Lando,Norris,7,76,0,mclaren,McLaren
+2022,14,ocon,OCO,Esteban,Ocon,8,64,0,alpine,Alpine F1 Team
+2022,14,alonso,ALO,Fernando,Alonso,9,51,0,alpine,Alpine F1 Team
+2022,14,bottas,BOT,Valtteri,Bottas,10,46,0,alfa,Alfa Romeo
+2022,14,kevin_magnussen,MAG,Kevin,Magnussen,11,22,0,haas,Haas F1 Team
+2022,14,vettel,VET,Sebastian,Vettel,12,20,0,aston_martin,Aston Martin
+2022,14,ricciardo,RIC,Daniel,Ricciardo,13,19,0,mclaren,McLaren
+2022,14,gasly,GAS,Pierre,Gasly,14,18,0,alphatauri,AlphaTauri
+2022,14,mick_schumacher,MSC,Mick,Schumacher,15,12,0,haas,Haas F1 Team
+2022,14,tsunoda,TSU,Yuki,Tsunoda,16,11,0,alphatauri,AlphaTauri
+2022,14,zhou,ZHO,Guanyu,Zhou,17,5,0,alfa,Alfa Romeo
+2022,14,albon,ALB,Alexander,Albon,18,4,0,williams,Williams
+2022,14,stroll,STR,Lance,Stroll,19,4,0,aston_martin,Aston Martin
+2022,14,latifi,LAT,Nicholas,Latifi,20,0,0,williams,Williams
+2022,14,hulkenberg,HUL,Nico,Hülkenberg,21,0,0,aston_martin,Aston Martin
+2022,15,max_verstappen,VER,Max,Verstappen,1,310,10,red_bull,Red Bull
+2022,15,leclerc,LEC,Charles,Leclerc,2,201,3,ferrari,Ferrari
+2022,15,perez,PER,Sergio,Pérez,3,201,1,red_bull,Red Bull
+2022,15,russell,RUS,George,Russell,4,188,0,mercedes,Mercedes
+2022,15,sainz,SAI,Carlos,Sainz,5,175,1,ferrari,Ferrari
+2022,15,hamilton,HAM,Lewis,Hamilton,6,158,0,mercedes,Mercedes
+2022,15,norris,NOR,Lando,Norris,7,82,0,mclaren,McLaren
+2022,15,ocon,OCO,Esteban,Ocon,8,66,0,alpine,Alpine F1 Team
+2022,15,alonso,ALO,Fernando,Alonso,9,59,0,alpine,Alpine F1 Team
+2022,15,bottas,BOT,Valtteri,Bottas,10,46,0,alfa,Alfa Romeo
+2022,15,kevin_magnussen,MAG,Kevin,Magnussen,11,22,0,haas,Haas F1 Team
+2022,15,vettel,VET,Sebastian,Vettel,12,20,0,aston_martin,Aston Martin
+2022,15,ricciardo,RIC,Daniel,Ricciardo,13,19,0,mclaren,McLaren
+2022,15,gasly,GAS,Pierre,Gasly,14,18,0,alphatauri,AlphaTauri
+2022,15,mick_schumacher,MSC,Mick,Schumacher,15,12,0,haas,Haas F1 Team
+2022,15,tsunoda,TSU,Yuki,Tsunoda,16,11,0,alphatauri,AlphaTauri
+2022,15,zhou,ZHO,Guanyu,Zhou,17,5,0,alfa,Alfa Romeo
+2022,15,stroll,STR,Lance,Stroll,18,5,0,aston_martin,Aston Martin
+2022,15,albon,ALB,Alexander,Albon,19,4,0,williams,Williams
+2022,15,latifi,LAT,Nicholas,Latifi,20,0,0,williams,Williams
+2022,15,hulkenberg,HUL,Nico,Hülkenberg,21,0,0,aston_martin,Aston Martin
+2022,16,max_verstappen,VER,Max,Verstappen,1,335,11,red_bull,Red Bull
+2022,16,leclerc,LEC,Charles,Leclerc,2,219,3,ferrari,Ferrari
+2022,16,perez,PER,Sergio,Pérez,3,210,1,red_bull,Red Bull
+2022,16,russell,RUS,George,Russell,4,203,0,mercedes,Mercedes
+2022,16,sainz,SAI,Carlos,Sainz,5,187,1,ferrari,Ferrari
+2022,16,hamilton,HAM,Lewis,Hamilton,6,168,0,mercedes,Mercedes
+2022,16,norris,NOR,Lando,Norris,7,88,0,mclaren,McLaren
+2022,16,ocon,OCO,Esteban,Ocon,8,66,0,alpine,Alpine F1 Team
+2022,16,alonso,ALO,Fernando,Alonso,9,59,0,alpine,Alpine F1 Team
+2022,16,bottas,BOT,Valtteri,Bottas,10,46,0,alfa,Alfa Romeo
+2022,16,gasly,GAS,Pierre,Gasly,11,22,0,alphatauri,AlphaTauri
+2022,16,kevin_magnussen,MAG,Kevin,Magnussen,12,22,0,haas,Haas F1 Team
+2022,16,vettel,VET,Sebastian,Vettel,13,20,0,aston_martin,Aston Martin
+2022,16,ricciardo,RIC,Daniel,Ricciardo,14,19,0,mclaren,McLaren
+2022,16,mick_schumacher,MSC,Mick,Schumacher,15,12,0,haas,Haas F1 Team
+2022,16,tsunoda,TSU,Yuki,Tsunoda,16,11,0,alphatauri,AlphaTauri
+2022,16,zhou,ZHO,Guanyu,Zhou,17,6,0,alfa,Alfa Romeo
+2022,16,stroll,STR,Lance,Stroll,18,5,0,aston_martin,Aston Martin
+2022,16,albon,ALB,Alexander,Albon,19,4,0,williams,Williams
+2022,16,de_vries,DEV,Nyck,de Vries,20,2,0,williams,Williams
+2022,16,latifi,LAT,Nicholas,Latifi,21,0,0,williams,Williams
+2022,16,hulkenberg,HUL,Nico,Hülkenberg,22,0,0,aston_martin,Aston Martin
+2022,17,max_verstappen,VER,Max,Verstappen,1,341,11,red_bull,Red Bull
+2022,17,leclerc,LEC,Charles,Leclerc,2,237,3,ferrari,Ferrari
+2022,17,perez,PER,Sergio,Pérez,3,235,2,red_bull,Red Bull
+2022,17,russell,RUS,George,Russell,4,203,0,mercedes,Mercedes
+2022,17,sainz,SAI,Carlos,Sainz,5,202,1,ferrari,Ferrari
+2022,17,hamilton,HAM,Lewis,Hamilton,6,170,0,mercedes,Mercedes
+2022,17,norris,NOR,Lando,Norris,7,100,0,mclaren,McLaren
+2022,17,ocon,OCO,Esteban,Ocon,8,66,0,alpine,Alpine F1 Team
+2022,17,alonso,ALO,Fernando,Alonso,9,59,0,alpine,Alpine F1 Team
+2022,17,bottas,BOT,Valtteri,Bottas,10,46,0,alfa,Alfa Romeo
+2022,17,ricciardo,RIC,Daniel,Ricciardo,11,29,0,mclaren,McLaren
+2022,17,vettel,VET,Sebastian,Vettel,12,24,0,aston_martin,Aston Martin
+2022,17,gasly,GAS,Pierre,Gasly,13,23,0,alphatauri,AlphaTauri
+2022,17,kevin_magnussen,MAG,Kevin,Magnussen,14,22,0,haas,Haas F1 Team
+2022,17,stroll,STR,Lance,Stroll,15,13,0,aston_martin,Aston Martin
+2022,17,mick_schumacher,MSC,Mick,Schumacher,16,12,0,haas,Haas F1 Team
+2022,17,tsunoda,TSU,Yuki,Tsunoda,17,11,0,alphatauri,AlphaTauri
+2022,17,zhou,ZHO,Guanyu,Zhou,18,6,0,alfa,Alfa Romeo
+2022,17,albon,ALB,Alexander,Albon,19,4,0,williams,Williams
+2022,17,de_vries,DEV,Nyck,de Vries,20,2,0,williams,Williams
+2022,17,latifi,LAT,Nicholas,Latifi,21,0,0,williams,Williams
+2022,17,hulkenberg,HUL,Nico,Hülkenberg,22,0,0,aston_martin,Aston Martin
+2022,18,max_verstappen,VER,Max,Verstappen,1,366,12,red_bull,Red Bull
+2022,18,perez,PER,Sergio,Pérez,2,253,2,red_bull,Red Bull
+2022,18,leclerc,LEC,Charles,Leclerc,3,252,3,ferrari,Ferrari
+2022,18,russell,RUS,George,Russell,4,207,0,mercedes,Mercedes
+2022,18,sainz,SAI,Carlos,Sainz,5,202,1,ferrari,Ferrari
+2022,18,hamilton,HAM,Lewis,Hamilton,6,180,0,mercedes,Mercedes
+2022,18,norris,NOR,Lando,Norris,7,101,0,mclaren,McLaren
+2022,18,ocon,OCO,Esteban,Ocon,8,78,0,alpine,Alpine F1 Team
+2022,18,alonso,ALO,Fernando,Alonso,9,65,0,alpine,Alpine F1 Team
+2022,18,bottas,BOT,Valtteri,Bottas,10,46,0,alfa,Alfa Romeo
+2022,18,vettel,VET,Sebastian,Vettel,11,32,0,aston_martin,Aston Martin
+2022,18,ricciardo,RIC,Daniel,Ricciardo,12,29,0,mclaren,McLaren
+2022,18,gasly,GAS,Pierre,Gasly,13,23,0,alphatauri,AlphaTauri
+2022,18,kevin_magnussen,MAG,Kevin,Magnussen,14,22,0,haas,Haas F1 Team
+2022,18,stroll,STR,Lance,Stroll,15,13,0,aston_martin,Aston Martin
+2022,18,mick_schumacher,MSC,Mick,Schumacher,16,12,0,haas,Haas F1 Team
+2022,18,tsunoda,TSU,Yuki,Tsunoda,17,11,0,alphatauri,AlphaTauri
+2022,18,zhou,ZHO,Guanyu,Zhou,18,6,0,alfa,Alfa Romeo
+2022,18,albon,ALB,Alexander,Albon,19,4,0,williams,Williams
+2022,18,latifi,LAT,Nicholas,Latifi,20,2,0,williams,Williams
+2022,18,de_vries,DEV,Nyck,de Vries,21,2,0,williams,Williams
+2022,18,hulkenberg,HUL,Nico,Hülkenberg,22,0,0,aston_martin,Aston Martin
+2022,19,max_verstappen,VER,Max,Verstappen,1,391,13,red_bull,Red Bull
+2022,19,leclerc,LEC,Charles,Leclerc,2,267,3,ferrari,Ferrari
+2022,19,perez,PER,Sergio,Pérez,3,265,2,red_bull,Red Bull
+2022,19,russell,RUS,George,Russell,4,218,0,mercedes,Mercedes
+2022,19,sainz,SAI,Carlos,Sainz,5,202,1,ferrari,Ferrari
+2022,19,hamilton,HAM,Lewis,Hamilton,6,198,0,mercedes,Mercedes
+2022,19,norris,NOR,Lando,Norris,7,109,0,mclaren,McLaren
+2022,19,ocon,OCO,Esteban,Ocon,8,78,0,alpine,Alpine F1 Team
+2022,19,alonso,ALO,Fernando,Alonso,9,71,0,alpine,Alpine F1 Team
+2022,19,bottas,BOT,Valtteri,Bottas,10,46,0,alfa,Alfa Romeo
+2022,19,vettel,VET,Sebastian,Vettel,11,36,0,aston_martin,Aston Martin
+2022,19,ricciardo,RIC,Daniel,Ricciardo,12,29,0,mclaren,McLaren
+2022,19,kevin_magnussen,MAG,Kevin,Magnussen,13,24,0,haas,Haas F1 Team
+2022,19,gasly,GAS,Pierre,Gasly,14,23,0,alphatauri,AlphaTauri
+2022,19,stroll,STR,Lance,Stroll,15,13,0,aston_martin,Aston Martin
+2022,19,mick_schumacher,MSC,Mick,Schumacher,16,12,0,haas,Haas F1 Team
+2022,19,tsunoda,TSU,Yuki,Tsunoda,17,12,0,alphatauri,AlphaTauri
+2022,19,zhou,ZHO,Guanyu,Zhou,18,6,0,alfa,Alfa Romeo
+2022,19,albon,ALB,Alexander,Albon,19,4,0,williams,Williams
+2022,19,latifi,LAT,Nicholas,Latifi,20,2,0,williams,Williams
+2022,19,de_vries,DEV,Nyck,de Vries,21,2,0,williams,Williams
+2022,19,hulkenberg,HUL,Nico,Hülkenberg,22,0,0,aston_martin,Aston Martin
+2022,20,max_verstappen,VER,Max,Verstappen,1,416,14,red_bull,Red Bull
+2022,20,perez,PER,Sergio,Pérez,2,280,2,red_bull,Red Bull
+2022,20,leclerc,LEC,Charles,Leclerc,3,275,3,ferrari,Ferrari
+2022,20,russell,RUS,George,Russell,4,231,0,mercedes,Mercedes
+2022,20,hamilton,HAM,Lewis,Hamilton,5,216,0,mercedes,Mercedes
+2022,20,sainz,SAI,Carlos,Sainz,6,212,1,ferrari,Ferrari
+2022,20,norris,NOR,Lando,Norris,7,111,0,mclaren,McLaren
+2022,20,ocon,OCO,Esteban,Ocon,8,82,0,alpine,Alpine F1 Team
+2022,20,alonso,ALO,Fernando,Alonso,9,71,0,alpine,Alpine F1 Team
+2022,20,bottas,BOT,Valtteri,Bottas,10,47,0,alfa,Alfa Romeo
+2022,20,vettel,VET,Sebastian,Vettel,11,36,0,aston_martin,Aston Martin
+2022,20,ricciardo,RIC,Daniel,Ricciardo,12,35,0,mclaren,McLaren
+2022,20,kevin_magnussen,MAG,Kevin,Magnussen,13,24,0,haas,Haas F1 Team
+2022,20,gasly,GAS,Pierre,Gasly,14,23,0,alphatauri,AlphaTauri
+2022,20,stroll,STR,Lance,Stroll,15,13,0,aston_martin,Aston Martin
+2022,20,mick_schumacher,MSC,Mick,Schumacher,16,12,0,haas,Haas F1 Team
+2022,20,tsunoda,TSU,Yuki,Tsunoda,17,12,0,alphatauri,AlphaTauri
+2022,20,zhou,ZHO,Guanyu,Zhou,18,6,0,alfa,Alfa Romeo
+2022,20,albon,ALB,Alexander,Albon,19,4,0,williams,Williams
+2022,20,latifi,LAT,Nicholas,Latifi,20,2,0,williams,Williams
+2022,20,de_vries,DEV,Nyck,de Vries,21,2,0,williams,Williams
+2022,20,hulkenberg,HUL,Nico,Hülkenberg,22,0,0,aston_martin,Aston Martin
+2022,21,max_verstappen,VER,Max,Verstappen,1,429,14,red_bull,Red Bull
+2022,21,leclerc,LEC,Charles,Leclerc,2,290,3,ferrari,Ferrari
+2022,21,perez,PER,Sergio,Pérez,3,290,2,red_bull,Red Bull
+2022,21,russell,RUS,George,Russell,4,265,1,mercedes,Mercedes
+2022,21,hamilton,HAM,Lewis,Hamilton,5,240,0,mercedes,Mercedes
+2022,21,sainz,SAI,Carlos,Sainz,6,234,1,ferrari,Ferrari
+2022,21,norris,NOR,Lando,Norris,7,113,0,mclaren,McLaren
+2022,21,ocon,OCO,Esteban,Ocon,8,86,0,alpine,Alpine F1 Team
+2022,21,alonso,ALO,Fernando,Alonso,9,81,0,alpine,Alpine F1 Team
+2022,21,bottas,BOT,Valtteri,Bottas,10,49,0,alfa,Alfa Romeo
+2022,21,vettel,VET,Sebastian,Vettel,11,36,0,aston_martin,Aston Martin
+2022,21,ricciardo,RIC,Daniel,Ricciardo,12,35,0,mclaren,McLaren
+2022,21,kevin_magnussen,MAG,Kevin,Magnussen,13,25,0,haas,Haas F1 Team
+2022,21,gasly,GAS,Pierre,Gasly,14,23,0,alphatauri,AlphaTauri
+2022,21,stroll,STR,Lance,Stroll,15,14,0,aston_martin,Aston Martin
+2022,21,mick_schumacher,MSC,Mick,Schumacher,16,12,0,haas,Haas F1 Team
+2022,21,tsunoda,TSU,Yuki,Tsunoda,17,12,0,alphatauri,AlphaTauri
+2022,21,zhou,ZHO,Guanyu,Zhou,18,6,0,alfa,Alfa Romeo
+2022,21,albon,ALB,Alexander,Albon,19,4,0,williams,Williams
+2022,21,latifi,LAT,Nicholas,Latifi,20,2,0,williams,Williams
+2022,21,de_vries,DEV,Nyck,de Vries,21,2,0,williams,Williams
+2022,21,hulkenberg,HUL,Nico,Hülkenberg,22,0,0,aston_martin,Aston Martin
+2022,22,max_verstappen,VER,Max,Verstappen,1,454,15,red_bull,Red Bull
+2022,22,leclerc,LEC,Charles,Leclerc,2,308,3,ferrari,Ferrari
+2022,22,perez,PER,Sergio,Pérez,3,305,2,red_bull,Red Bull
+2022,22,russell,RUS,George,Russell,4,275,1,mercedes,Mercedes
+2022,22,sainz,SAI,Carlos,Sainz,5,246,1,ferrari,Ferrari
+2022,22,hamilton,HAM,Lewis,Hamilton,6,240,0,mercedes,Mercedes
+2022,22,norris,NOR,Lando,Norris,7,122,0,mclaren,McLaren
+2022,22,ocon,OCO,Esteban,Ocon,8,92,0,alpine,Alpine F1 Team
+2022,22,alonso,ALO,Fernando,Alonso,9,81,0,alpine,Alpine F1 Team
+2022,22,bottas,BOT,Valtteri,Bottas,10,49,0,alfa,Alfa Romeo
+2022,22,ricciardo,RIC,Daniel,Ricciardo,11,37,0,mclaren,McLaren
+2022,22,vettel,VET,Sebastian,Vettel,12,37,0,aston_martin,Aston Martin
+2022,22,kevin_magnussen,MAG,Kevin,Magnussen,13,25,0,haas,Haas F1 Team
+2022,22,gasly,GAS,Pierre,Gasly,14,23,0,alphatauri,AlphaTauri
+2022,22,stroll,STR,Lance,Stroll,15,18,0,aston_martin,Aston Martin
+2022,22,mick_schumacher,MSC,Mick,Schumacher,16,12,0,haas,Haas F1 Team
+2022,22,tsunoda,TSU,Yuki,Tsunoda,17,12,0,alphatauri,AlphaTauri
+2022,22,zhou,ZHO,Guanyu,Zhou,18,6,0,alfa,Alfa Romeo
+2022,22,albon,ALB,Alexander,Albon,19,4,0,williams,Williams
+2022,22,latifi,LAT,Nicholas,Latifi,20,2,0,williams,Williams
+2022,22,de_vries,DEV,Nyck,de Vries,21,2,0,williams,Williams
+2022,22,hulkenberg,HUL,Nico,Hülkenberg,22,0,0,aston_martin,Aston Martin
+2023,1,max_verstappen,VER,Max,Verstappen,1,25,1,red_bull,Red Bull
+2023,1,perez,PER,Sergio,Pérez,2,18,0,red_bull,Red Bull
+2023,1,alonso,ALO,Fernando,Alonso,3,15,0,aston_martin,Aston Martin
+2023,1,sainz,SAI,Carlos,Sainz,4,12,0,ferrari,Ferrari
+2023,1,hamilton,HAM,Lewis,Hamilton,5,10,0,mercedes,Mercedes
+2023,1,stroll,STR,Lance,Stroll,6,8,0,aston_martin,Aston Martin
+2023,1,russell,RUS,George,Russell,7,6,0,mercedes,Mercedes
+2023,1,bottas,BOT,Valtteri,Bottas,8,4,0,alfa,Alfa Romeo
+2023,1,gasly,GAS,Pierre,Gasly,9,2,0,alpine,Alpine F1 Team
+2023,1,albon,ALB,Alexander,Albon,10,1,0,williams,Williams
+2023,1,tsunoda,TSU,Yuki,Tsunoda,11,0,0,alphatauri,AlphaTauri
+2023,1,sargeant,SAR,Logan,Sargeant,12,0,0,williams,Williams
+2023,1,kevin_magnussen,MAG,Kevin,Magnussen,13,0,0,haas,Haas F1 Team
+2023,1,de_vries,DEV,Nyck,de Vries,14,0,0,alphatauri,AlphaTauri
+2023,1,hulkenberg,HUL,Nico,Hülkenberg,15,0,0,haas,Haas F1 Team
+2023,1,zhou,ZHO,Guanyu,Zhou,16,0,0,alfa,Alfa Romeo
+2023,1,norris,NOR,Lando,Norris,17,0,0,mclaren,McLaren
+2023,1,ocon,OCO,Esteban,Ocon,,0,0,alpine,Alpine F1 Team
+2023,1,leclerc,LEC,Charles,Leclerc,,0,0,ferrari,Ferrari
+2023,1,piastri,PIA,Oscar,Piastri,,0,0,mclaren,McLaren
+2023,2,max_verstappen,VER,Max,Verstappen,1,44,1,red_bull,Red Bull
+2023,2,perez,PER,Sergio,Pérez,2,43,1,red_bull,Red Bull
+2023,2,alonso,ALO,Fernando,Alonso,3,30,0,aston_martin,Aston Martin
+2023,2,sainz,SAI,Carlos,Sainz,4,20,0,ferrari,Ferrari
+2023,2,hamilton,HAM,Lewis,Hamilton,5,20,0,mercedes,Mercedes
+2023,2,russell,RUS,George,Russell,6,18,0,mercedes,Mercedes
+2023,2,stroll,STR,Lance,Stroll,7,8,0,aston_martin,Aston Martin
+2023,2,leclerc,LEC,Charles,Leclerc,8,6,0,ferrari,Ferrari
+2023,2,bottas,BOT,Valtteri,Bottas,9,4,0,alfa,Alfa Romeo
+2023,2,ocon,OCO,Esteban,Ocon,10,4,0,alpine,Alpine F1 Team
+2023,2,gasly,GAS,Pierre,Gasly,11,4,0,alpine,Alpine F1 Team
+2023,2,kevin_magnussen,MAG,Kevin,Magnussen,12,1,0,haas,Haas F1 Team
+2023,2,albon,ALB,Alexander,Albon,13,1,0,williams,Williams
+2023,2,tsunoda,TSU,Yuki,Tsunoda,14,0,0,alphatauri,AlphaTauri
+2023,2,hulkenberg,HUL,Nico,Hülkenberg,15,0,0,haas,Haas F1 Team
+2023,2,sargeant,SAR,Logan,Sargeant,16,0,0,williams,Williams
+2023,2,zhou,ZHO,Guanyu,Zhou,17,0,0,alfa,Alfa Romeo
+2023,2,de_vries,DEV,Nyck,de Vries,18,0,0,alphatauri,AlphaTauri
+2023,2,piastri,PIA,Oscar,Piastri,19,0,0,mclaren,McLaren
+2023,2,norris,NOR,Lando,Norris,20,0,0,mclaren,McLaren
+2023,3,max_verstappen,VER,Max,Verstappen,1,69,2,red_bull,Red Bull
+2023,3,perez,PER,Sergio,Pérez,2,54,1,red_bull,Red Bull
+2023,3,alonso,ALO,Fernando,Alonso,3,45,0,aston_martin,Aston Martin
+2023,3,hamilton,HAM,Lewis,Hamilton,4,38,0,mercedes,Mercedes
+2023,3,sainz,SAI,Carlos,Sainz,5,20,0,ferrari,Ferrari
+2023,3,stroll,STR,Lance,Stroll,6,20,0,aston_martin,Aston Martin
+2023,3,russell,RUS,George,Russell,7,18,0,mercedes,Mercedes
+2023,3,norris,NOR,Lando,Norris,8,8,0,mclaren,McLaren
+2023,3,hulkenberg,HUL,Nico,Hülkenberg,9,6,0,haas,Haas F1 Team
+2023,3,leclerc,LEC,Charles,Leclerc,10,6,0,ferrari,Ferrari
+2023,3,bottas,BOT,Valtteri,Bottas,11,4,0,alfa,Alfa Romeo
+2023,3,ocon,OCO,Esteban,Ocon,12,4,0,alpine,Alpine F1 Team
+2023,3,piastri,PIA,Oscar,Piastri,13,4,0,mclaren,McLaren
+2023,3,gasly,GAS,Pierre,Gasly,14,4,0,alpine,Alpine F1 Team
+2023,3,zhou,ZHO,Guanyu,Zhou,15,2,0,alfa,Alfa Romeo
+2023,3,tsunoda,TSU,Yuki,Tsunoda,16,1,0,alphatauri,AlphaTauri
+2023,3,kevin_magnussen,MAG,Kevin,Magnussen,17,1,0,haas,Haas F1 Team
+2023,3,albon,ALB,Alexander,Albon,18,1,0,williams,Williams
+2023,3,sargeant,SAR,Logan,Sargeant,19,0,0,williams,Williams
+2023,3,de_vries,DEV,Nyck,de Vries,20,0,0,alphatauri,AlphaTauri
+2023,4,max_verstappen,VER,Max,Verstappen,1,93,2,red_bull,Red Bull
+2023,4,perez,PER,Sergio,Pérez,2,87,2,red_bull,Red Bull
+2023,4,alonso,ALO,Fernando,Alonso,3,60,0,aston_martin,Aston Martin
+2023,4,hamilton,HAM,Lewis,Hamilton,4,48,0,mercedes,Mercedes
+2023,4,sainz,SAI,Carlos,Sainz,5,34,0,ferrari,Ferrari
+2023,4,leclerc,LEC,Charles,Leclerc,6,28,0,ferrari,Ferrari
+2023,4,russell,RUS,George,Russell,7,28,0,mercedes,Mercedes
+2023,4,stroll,STR,Lance,Stroll,8,27,0,aston_martin,Aston Martin
+2023,4,norris,NOR,Lando,Norris,9,10,0,mclaren,McLaren
+2023,4,hulkenberg,HUL,Nico,Hülkenberg,10,6,0,haas,Haas F1 Team
+2023,4,piastri,PIA,Oscar,Piastri,11,4,0,mclaren,McLaren
+2023,4,bottas,BOT,Valtteri,Bottas,12,4,0,alfa,Alfa Romeo
+2023,4,ocon,OCO,Esteban,Ocon,13,4,0,alpine,Alpine F1 Team
+2023,4,gasly,GAS,Pierre,Gasly,14,4,0,alpine,Alpine F1 Team
+2023,4,zhou,ZHO,Guanyu,Zhou,15,2,0,alfa,Alfa Romeo
+2023,4,tsunoda,TSU,Yuki,Tsunoda,16,2,0,alphatauri,AlphaTauri
+2023,4,albon,ALB,Alexander,Albon,17,1,0,williams,Williams
+2023,4,kevin_magnussen,MAG,Kevin,Magnussen,18,1,0,haas,Haas F1 Team
+2023,4,sargeant,SAR,Logan,Sargeant,19,0,0,williams,Williams
+2023,4,de_vries,DEV,Nyck,de Vries,20,0,0,alphatauri,AlphaTauri
+2023,5,max_verstappen,VER,Max,Verstappen,1,119,3,red_bull,Red Bull
+2023,5,perez,PER,Sergio,Pérez,2,105,2,red_bull,Red Bull
+2023,5,alonso,ALO,Fernando,Alonso,3,75,0,aston_martin,Aston Martin
+2023,5,hamilton,HAM,Lewis,Hamilton,4,56,0,mercedes,Mercedes
+2023,5,sainz,SAI,Carlos,Sainz,5,44,0,ferrari,Ferrari
+2023,5,russell,RUS,George,Russell,6,40,0,mercedes,Mercedes
+2023,5,leclerc,LEC,Charles,Leclerc,7,34,0,ferrari,Ferrari
+2023,5,stroll,STR,Lance,Stroll,8,27,0,aston_martin,Aston Martin
+2023,5,norris,NOR,Lando,Norris,9,10,0,mclaren,McLaren
+2023,5,gasly,GAS,Pierre,Gasly,10,8,0,alpine,Alpine F1 Team
+2023,5,hulkenberg,HUL,Nico,Hülkenberg,11,6,0,haas,Haas F1 Team
+2023,5,ocon,OCO,Esteban,Ocon,12,6,0,alpine,Alpine F1 Team
+2023,5,bottas,BOT,Valtteri,Bottas,13,4,0,alfa,Alfa Romeo
+2023,5,piastri,PIA,Oscar,Piastri,14,4,0,mclaren,McLaren
+2023,5,zhou,ZHO,Guanyu,Zhou,15,2,0,alfa,Alfa Romeo
+2023,5,tsunoda,TSU,Yuki,Tsunoda,16,2,0,alphatauri,AlphaTauri
+2023,5,kevin_magnussen,MAG,Kevin,Magnussen,17,2,0,haas,Haas F1 Team
+2023,5,albon,ALB,Alexander,Albon,18,1,0,williams,Williams
+2023,5,sargeant,SAR,Logan,Sargeant,19,0,0,williams,Williams
+2023,5,de_vries,DEV,Nyck,de Vries,20,0,0,alphatauri,AlphaTauri
+2023,6,max_verstappen,VER,Max,Verstappen,1,144,4,red_bull,Red Bull
+2023,6,perez,PER,Sergio,Pérez,2,105,2,red_bull,Red Bull
+2023,6,alonso,ALO,Fernando,Alonso,3,93,0,aston_martin,Aston Martin
+2023,6,hamilton,HAM,Lewis,Hamilton,4,69,0,mercedes,Mercedes
+2023,6,russell,RUS,George,Russell,5,50,0,mercedes,Mercedes
+2023,6,sainz,SAI,Carlos,Sainz,6,48,0,ferrari,Ferrari
+2023,6,leclerc,LEC,Charles,Leclerc,7,42,0,ferrari,Ferrari
+2023,6,stroll,STR,Lance,Stroll,8,27,0,aston_martin,Aston Martin
+2023,6,ocon,OCO,Esteban,Ocon,9,21,0,alpine,Alpine F1 Team
+2023,6,gasly,GAS,Pierre,Gasly,10,14,0,alpine,Alpine F1 Team
+2023,6,norris,NOR,Lando,Norris,11,12,0,mclaren,McLaren
+2023,6,hulkenberg,HUL,Nico,Hülkenberg,12,6,0,haas,Haas F1 Team
+2023,6,piastri,PIA,Oscar,Piastri,13,5,0,mclaren,McLaren
+2023,6,bottas,BOT,Valtteri,Bottas,14,4,0,alfa,Alfa Romeo
+2023,6,zhou,ZHO,Guanyu,Zhou,15,2,0,alfa,Alfa Romeo
+2023,6,tsunoda,TSU,Yuki,Tsunoda,16,2,0,alphatauri,AlphaTauri
+2023,6,kevin_magnussen,MAG,Kevin,Magnussen,17,2,0,haas,Haas F1 Team
+2023,6,albon,ALB,Alexander,Albon,18,1,0,williams,Williams
+2023,6,de_vries,DEV,Nyck,de Vries,19,0,0,alphatauri,AlphaTauri
+2023,6,sargeant,SAR,Logan,Sargeant,20,0,0,williams,Williams
+2023,7,max_verstappen,VER,Max,Verstappen,1,170,5,red_bull,Red Bull
+2023,7,perez,PER,Sergio,Pérez,2,117,2,red_bull,Red Bull
+2023,7,alonso,ALO,Fernando,Alonso,3,99,0,aston_martin,Aston Martin
+2023,7,hamilton,HAM,Lewis,Hamilton,4,87,0,mercedes,Mercedes
+2023,7,russell,RUS,George,Russell,5,65,0,mercedes,Mercedes
+2023,7,sainz,SAI,Carlos,Sainz,6,58,0,ferrari,Ferrari
+2023,7,leclerc,LEC,Charles,Leclerc,7,42,0,ferrari,Ferrari
+2023,7,stroll,STR,Lance,Stroll,8,35,0,aston_martin,Aston Martin
+2023,7,ocon,OCO,Esteban,Ocon,9,25,0,alpine,Alpine F1 Team
+2023,7,gasly,GAS,Pierre,Gasly,10,15,0,alpine,Alpine F1 Team
+2023,7,norris,NOR,Lando,Norris,11,12,0,mclaren,McLaren
+2023,7,hulkenberg,HUL,Nico,Hülkenberg,12,6,0,haas,Haas F1 Team
+2023,7,piastri,PIA,Oscar,Piastri,13,5,0,mclaren,McLaren
+2023,7,bottas,BOT,Valtteri,Bottas,14,4,0,alfa,Alfa Romeo
+2023,7,zhou,ZHO,Guanyu,Zhou,15,4,0,alfa,Alfa Romeo
+2023,7,tsunoda,TSU,Yuki,Tsunoda,16,2,0,alphatauri,AlphaTauri
+2023,7,kevin_magnussen,MAG,Kevin,Magnussen,17,2,0,haas,Haas F1 Team
+2023,7,albon,ALB,Alexander,Albon,18,1,0,williams,Williams
+2023,7,de_vries,DEV,Nyck,de Vries,19,0,0,alphatauri,AlphaTauri
+2023,7,sargeant,SAR,Logan,Sargeant,20,0,0,williams,Williams
+2023,8,max_verstappen,VER,Max,Verstappen,1,195,6,red_bull,Red Bull
+2023,8,perez,PER,Sergio,Pérez,2,126,2,red_bull,Red Bull
+2023,8,alonso,ALO,Fernando,Alonso,3,117,0,aston_martin,Aston Martin
+2023,8,hamilton,HAM,Lewis,Hamilton,4,102,0,mercedes,Mercedes
+2023,8,sainz,SAI,Carlos,Sainz,5,68,0,ferrari,Ferrari
+2023,8,russell,RUS,George,Russell,6,65,0,mercedes,Mercedes
+2023,8,leclerc,LEC,Charles,Leclerc,7,54,0,ferrari,Ferrari
+2023,8,stroll,STR,Lance,Stroll,8,37,0,aston_martin,Aston Martin
+2023,8,ocon,OCO,Esteban,Ocon,9,29,0,alpine,Alpine F1 Team
+2023,8,gasly,GAS,Pierre,Gasly,10,15,0,alpine,Alpine F1 Team
+2023,8,norris,NOR,Lando,Norris,11,12,0,mclaren,McLaren
+2023,8,albon,ALB,Alexander,Albon,12,7,0,williams,Williams
+2023,8,hulkenberg,HUL,Nico,Hülkenberg,13,6,0,haas,Haas F1 Team
+2023,8,piastri,PIA,Oscar,Piastri,14,5,0,mclaren,McLaren
+2023,8,bottas,BOT,Valtteri,Bottas,15,5,0,alfa,Alfa Romeo
+2023,8,zhou,ZHO,Guanyu,Zhou,16,4,0,alfa,Alfa Romeo
+2023,8,tsunoda,TSU,Yuki,Tsunoda,17,2,0,alphatauri,AlphaTauri
+2023,8,kevin_magnussen,MAG,Kevin,Magnussen,18,2,0,haas,Haas F1 Team
+2023,8,de_vries,DEV,Nyck,de Vries,19,0,0,alphatauri,AlphaTauri
+2023,8,sargeant,SAR,Logan,Sargeant,20,0,0,williams,Williams
+2023,9,max_verstappen,VER,Max,Verstappen,1,229,7,red_bull,Red Bull
+2023,9,perez,PER,Sergio,Pérez,2,148,2,red_bull,Red Bull
+2023,9,alonso,ALO,Fernando,Alonso,3,131,0,aston_martin,Aston Martin
+2023,9,hamilton,HAM,Lewis,Hamilton,4,106,0,mercedes,Mercedes
+2023,9,sainz,SAI,Carlos,Sainz,5,82,0,ferrari,Ferrari
+2023,9,leclerc,LEC,Charles,Leclerc,6,72,0,ferrari,Ferrari
+2023,9,russell,RUS,George,Russell,7,72,0,mercedes,Mercedes
+2023,9,stroll,STR,Lance,Stroll,8,44,0,aston_martin,Aston Martin
+2023,9,ocon,OCO,Esteban,Ocon,9,31,0,alpine,Alpine F1 Team
+2023,9,norris,NOR,Lando,Norris,10,24,0,mclaren,McLaren
+2023,9,gasly,GAS,Pierre,Gasly,11,16,0,alpine,Alpine F1 Team
+2023,9,hulkenberg,HUL,Nico,Hülkenberg,12,9,0,haas,Haas F1 Team
+2023,9,albon,ALB,Alexander,Albon,13,7,0,williams,Williams
+2023,9,piastri,PIA,Oscar,Piastri,14,5,0,mclaren,McLaren
+2023,9,bottas,BOT,Valtteri,Bottas,15,5,0,alfa,Alfa Romeo
+2023,9,zhou,ZHO,Guanyu,Zhou,16,4,0,alfa,Alfa Romeo
+2023,9,tsunoda,TSU,Yuki,Tsunoda,17,2,0,alphatauri,AlphaTauri
+2023,9,kevin_magnussen,MAG,Kevin,Magnussen,18,2,0,haas,Haas F1 Team
+2023,9,sargeant,SAR,Logan,Sargeant,19,0,0,williams,Williams
+2023,9,de_vries,DEV,Nyck,de Vries,20,0,0,alphatauri,AlphaTauri
+2023,10,max_verstappen,VER,Max,Verstappen,1,255,8,red_bull,Red Bull
+2023,10,perez,PER,Sergio,Pérez,2,156,2,red_bull,Red Bull
+2023,10,alonso,ALO,Fernando,Alonso,3,137,0,aston_martin,Aston Martin
+2023,10,hamilton,HAM,Lewis,Hamilton,4,121,0,mercedes,Mercedes
+2023,10,sainz,SAI,Carlos,Sainz,5,83,0,ferrari,Ferrari
+2023,10,russell,RUS,George,Russell,6,82,0,mercedes,Mercedes
+2023,10,leclerc,LEC,Charles,Leclerc,7,74,0,ferrari,Ferrari
+2023,10,stroll,STR,Lance,Stroll,8,44,0,aston_martin,Aston Martin
+2023,10,norris,NOR,Lando,Norris,9,42,0,mclaren,McLaren
+2023,10,ocon,OCO,Esteban,Ocon,10,31,0,alpine,Alpine F1 Team
+2023,10,piastri,PIA,Oscar,Piastri,11,17,0,mclaren,McLaren
+2023,10,gasly,GAS,Pierre,Gasly,12,16,0,alpine,Alpine F1 Team
+2023,10,albon,ALB,Alexander,Albon,13,11,0,williams,Williams
+2023,10,hulkenberg,HUL,Nico,Hülkenberg,14,9,0,haas,Haas F1 Team
+2023,10,bottas,BOT,Valtteri,Bottas,15,5,0,alfa,Alfa Romeo
+2023,10,zhou,ZHO,Guanyu,Zhou,16,4,0,alfa,Alfa Romeo
+2023,10,tsunoda,TSU,Yuki,Tsunoda,17,2,0,alphatauri,AlphaTauri
+2023,10,kevin_magnussen,MAG,Kevin,Magnussen,18,2,0,haas,Haas F1 Team
+2023,10,sargeant,SAR,Logan,Sargeant,19,0,0,williams,Williams
+2023,10,de_vries,DEV,Nyck,de Vries,20,0,0,alphatauri,AlphaTauri
+2023,11,max_verstappen,VER,Max,Verstappen,1,281,9,red_bull,Red Bull
+2023,11,perez,PER,Sergio,Pérez,2,171,2,red_bull,Red Bull
+2023,11,alonso,ALO,Fernando,Alonso,3,139,0,aston_martin,Aston Martin
+2023,11,hamilton,HAM,Lewis,Hamilton,4,133,0,mercedes,Mercedes
+2023,11,russell,RUS,George,Russell,5,90,0,mercedes,Mercedes
+2023,11,sainz,SAI,Carlos,Sainz,6,87,0,ferrari,Ferrari
+2023,11,leclerc,LEC,Charles,Leclerc,7,80,0,ferrari,Ferrari
+2023,11,norris,NOR,Lando,Norris,8,60,0,mclaren,McLaren
+2023,11,stroll,STR,Lance,Stroll,9,45,0,aston_martin,Aston Martin
+2023,11,ocon,OCO,Esteban,Ocon,10,31,0,alpine,Alpine F1 Team
+2023,11,piastri,PIA,Oscar,Piastri,11,27,0,mclaren,McLaren
+2023,11,gasly,GAS,Pierre,Gasly,12,16,0,alpine,Alpine F1 Team
+2023,11,albon,ALB,Alexander,Albon,13,11,0,williams,Williams
+2023,11,hulkenberg,HUL,Nico,Hülkenberg,14,9,0,haas,Haas F1 Team
+2023,11,bottas,BOT,Valtteri,Bottas,15,5,0,alfa,Alfa Romeo
+2023,11,zhou,ZHO,Guanyu,Zhou,16,4,0,alfa,Alfa Romeo
+2023,11,tsunoda,TSU,Yuki,Tsunoda,17,2,0,alphatauri,AlphaTauri
+2023,11,kevin_magnussen,MAG,Kevin,Magnussen,18,2,0,haas,Haas F1 Team
+2023,11,sargeant,SAR,Logan,Sargeant,19,0,0,williams,Williams
+2023,11,de_vries,DEV,Nyck,de Vries,20,0,0,alphatauri,AlphaTauri
+2023,11,ricciardo,RIC,Daniel,Ricciardo,21,0,0,alphatauri,AlphaTauri
+2023,12,max_verstappen,VER,Max,Verstappen,1,314,10,red_bull,Red Bull
+2023,12,perez,PER,Sergio,Pérez,2,189,2,red_bull,Red Bull
+2023,12,alonso,ALO,Fernando,Alonso,3,149,0,aston_martin,Aston Martin
+2023,12,hamilton,HAM,Lewis,Hamilton,4,148,0,mercedes,Mercedes
+2023,12,leclerc,LEC,Charles,Leclerc,5,99,0,ferrari,Ferrari
+2023,12,russell,RUS,George,Russell,6,99,0,mercedes,Mercedes
+2023,12,sainz,SAI,Carlos,Sainz,7,92,0,ferrari,Ferrari
+2023,12,norris,NOR,Lando,Norris,8,69,0,mclaren,McLaren
+2023,12,stroll,STR,Lance,Stroll,9,47,0,aston_martin,Aston Martin
+2023,12,ocon,OCO,Esteban,Ocon,10,35,0,alpine,Alpine F1 Team
+2023,12,piastri,PIA,Oscar,Piastri,11,34,0,mclaren,McLaren
+2023,12,gasly,GAS,Pierre,Gasly,12,22,0,alpine,Alpine F1 Team
+2023,12,albon,ALB,Alexander,Albon,13,11,0,williams,Williams
+2023,12,hulkenberg,HUL,Nico,Hülkenberg,14,9,0,haas,Haas F1 Team
+2023,12,bottas,BOT,Valtteri,Bottas,15,5,0,alfa,Alfa Romeo
+2023,12,zhou,ZHO,Guanyu,Zhou,16,4,0,alfa,Alfa Romeo
+2023,12,tsunoda,TSU,Yuki,Tsunoda,17,3,0,alphatauri,AlphaTauri
+2023,12,kevin_magnussen,MAG,Kevin,Magnussen,18,2,0,haas,Haas F1 Team
+2023,12,sargeant,SAR,Logan,Sargeant,19,0,0,williams,Williams
+2023,12,de_vries,DEV,Nyck,de Vries,20,0,0,alphatauri,AlphaTauri
+2023,12,ricciardo,RIC,Daniel,Ricciardo,21,0,0,alphatauri,AlphaTauri
+2023,13,max_verstappen,VER,Max,Verstappen,1,339,11,red_bull,Red Bull
+2023,13,perez,PER,Sergio,Pérez,2,201,2,red_bull,Red Bull
+2023,13,alonso,ALO,Fernando,Alonso,3,168,0,aston_martin,Aston Martin
+2023,13,hamilton,HAM,Lewis,Hamilton,4,156,0,mercedes,Mercedes
+2023,13,sainz,SAI,Carlos,Sainz,5,102,0,ferrari,Ferrari
+2023,13,leclerc,LEC,Charles,Leclerc,6,99,0,ferrari,Ferrari
+2023,13,russell,RUS,George,Russell,7,99,0,mercedes,Mercedes
+2023,13,norris,NOR,Lando,Norris,8,75,0,mclaren,McLaren
+2023,13,stroll,STR,Lance,Stroll,9,47,0,aston_martin,Aston Martin
+2023,13,gasly,GAS,Pierre,Gasly,10,37,0,alpine,Alpine F1 Team
+2023,13,ocon,OCO,Esteban,Ocon,11,36,0,alpine,Alpine F1 Team
+2023,13,piastri,PIA,Oscar,Piastri,12,36,0,mclaren,McLaren
+2023,13,albon,ALB,Alexander,Albon,13,15,0,williams,Williams
+2023,13,hulkenberg,HUL,Nico,Hülkenberg,14,9,0,haas,Haas F1 Team
+2023,13,bottas,BOT,Valtteri,Bottas,15,5,0,alfa,Alfa Romeo
+2023,13,zhou,ZHO,Guanyu,Zhou,16,4,0,alfa,Alfa Romeo
+2023,13,tsunoda,TSU,Yuki,Tsunoda,17,3,0,alphatauri,AlphaTauri
+2023,13,kevin_magnussen,MAG,Kevin,Magnussen,18,2,0,haas,Haas F1 Team
+2023,13,sargeant,SAR,Logan,Sargeant,19,0,0,williams,Williams
+2023,13,de_vries,DEV,Nyck,de Vries,20,0,0,alphatauri,AlphaTauri
+2023,13,ricciardo,RIC,Daniel,Ricciardo,21,0,0,alphatauri,AlphaTauri
+2023,13,lawson,LAW,Liam,Lawson,22,0,0,alphatauri,AlphaTauri
+2023,14,max_verstappen,VER,Max,Verstappen,1,364,12,red_bull,Red Bull
+2023,14,perez,PER,Sergio,Pérez,2,219,2,red_bull,Red Bull
+2023,14,alonso,ALO,Fernando,Alonso,3,170,0,aston_martin,Aston Martin
+2023,14,hamilton,HAM,Lewis,Hamilton,4,164,0,mercedes,Mercedes
+2023,14,sainz,SAI,Carlos,Sainz,5,117,0,ferrari,Ferrari
+2023,14,leclerc,LEC,Charles,Leclerc,6,111,0,ferrari,Ferrari
+2023,14,russell,RUS,George,Russell,7,109,0,mercedes,Mercedes
+2023,14,norris,NOR,Lando,Norris,8,79,0,mclaren,McLaren
+2023,14,stroll,STR,Lance,Stroll,9,47,0,aston_martin,Aston Martin
+2023,14,gasly,GAS,Pierre,Gasly,10,37,0,alpine,Alpine F1 Team
+2023,14,ocon,OCO,Esteban,Ocon,11,36,0,alpine,Alpine F1 Team
+2023,14,piastri,PIA,Oscar,Piastri,12,36,0,mclaren,McLaren
+2023,14,albon,ALB,Alexander,Albon,13,21,0,williams,Williams
+2023,14,hulkenberg,HUL,Nico,Hülkenberg,14,9,0,haas,Haas F1 Team
+2023,14,bottas,BOT,Valtteri,Bottas,15,6,0,alfa,Alfa Romeo
+2023,14,zhou,ZHO,Guanyu,Zhou,16,4,0,alfa,Alfa Romeo
+2023,14,tsunoda,TSU,Yuki,Tsunoda,17,3,0,alphatauri,AlphaTauri
+2023,14,kevin_magnussen,MAG,Kevin,Magnussen,18,2,0,haas,Haas F1 Team
+2023,14,sargeant,SAR,Logan,Sargeant,19,0,0,williams,Williams
+2023,14,lawson,LAW,Liam,Lawson,20,0,0,alphatauri,AlphaTauri
+2023,14,de_vries,DEV,Nyck,de Vries,21,0,0,alphatauri,AlphaTauri
+2023,14,ricciardo,RIC,Daniel,Ricciardo,22,0,0,alphatauri,AlphaTauri
+2023,15,max_verstappen,VER,Max,Verstappen,1,374,12,red_bull,Red Bull
+2023,15,perez,PER,Sergio,Pérez,2,223,2,red_bull,Red Bull
+2023,15,hamilton,HAM,Lewis,Hamilton,3,180,0,mercedes,Mercedes
+2023,15,alonso,ALO,Fernando,Alonso,4,170,0,aston_martin,Aston Martin
+2023,15,sainz,SAI,Carlos,Sainz,5,142,1,ferrari,Ferrari
+2023,15,leclerc,LEC,Charles,Leclerc,6,123,0,ferrari,Ferrari
+2023,15,russell,RUS,George,Russell,7,109,0,mercedes,Mercedes
+2023,15,norris,NOR,Lando,Norris,8,97,0,mclaren,McLaren
+2023,15,stroll,STR,Lance,Stroll,9,47,0,aston_martin,Aston Martin
+2023,15,gasly,GAS,Pierre,Gasly,10,45,0,alpine,Alpine F1 Team
+2023,15,piastri,PIA,Oscar,Piastri,11,42,0,mclaren,McLaren
+2023,15,ocon,OCO,Esteban,Ocon,12,36,0,alpine,Alpine F1 Team
+2023,15,albon,ALB,Alexander,Albon,13,21,0,williams,Williams
+2023,15,hulkenberg,HUL,Nico,Hülkenberg,14,9,0,haas,Haas F1 Team
+2023,15,bottas,BOT,Valtteri,Bottas,15,6,0,alfa,Alfa Romeo
+2023,15,zhou,ZHO,Guanyu,Zhou,16,4,0,alfa,Alfa Romeo
+2023,15,tsunoda,TSU,Yuki,Tsunoda,17,3,0,alphatauri,AlphaTauri
+2023,15,kevin_magnussen,MAG,Kevin,Magnussen,18,3,0,haas,Haas F1 Team
+2023,15,lawson,LAW,Liam,Lawson,19,2,0,alphatauri,AlphaTauri
+2023,15,sargeant,SAR,Logan,Sargeant,20,0,0,williams,Williams
+2023,15,de_vries,DEV,Nyck,de Vries,21,0,0,alphatauri,AlphaTauri
+2023,15,ricciardo,RIC,Daniel,Ricciardo,22,0,0,alphatauri,AlphaTauri
+2023,16,max_verstappen,VER,Max,Verstappen,1,400,13,red_bull,Red Bull
+2023,16,perez,PER,Sergio,Pérez,2,223,2,red_bull,Red Bull
+2023,16,hamilton,HAM,Lewis,Hamilton,3,190,0,mercedes,Mercedes
+2023,16,alonso,ALO,Fernando,Alonso,4,174,0,aston_martin,Aston Martin
+2023,16,sainz,SAI,Carlos,Sainz,5,150,1,ferrari,Ferrari
+2023,16,leclerc,LEC,Charles,Leclerc,6,135,0,ferrari,Ferrari
+2023,16,norris,NOR,Lando,Norris,7,115,0,mclaren,McLaren
+2023,16,russell,RUS,George,Russell,8,115,0,mercedes,Mercedes
+2023,16,piastri,PIA,Oscar,Piastri,9,57,0,mclaren,McLaren
+2023,16,stroll,STR,Lance,Stroll,10,47,0,aston_martin,Aston Martin
+2023,16,gasly,GAS,Pierre,Gasly,11,46,0,alpine,Alpine F1 Team
+2023,16,ocon,OCO,Esteban,Ocon,12,38,0,alpine,Alpine F1 Team
+2023,16,albon,ALB,Alexander,Albon,13,21,0,williams,Williams
+2023,16,hulkenberg,HUL,Nico,Hülkenberg,14,9,0,haas,Haas F1 Team
+2023,16,bottas,BOT,Valtteri,Bottas,15,6,0,alfa,Alfa Romeo
+2023,16,zhou,ZHO,Guanyu,Zhou,16,4,0,alfa,Alfa Romeo
+2023,16,tsunoda,TSU,Yuki,Tsunoda,17,3,0,alphatauri,AlphaTauri
+2023,16,kevin_magnussen,MAG,Kevin,Magnussen,18,3,0,haas,Haas F1 Team
+2023,16,lawson,LAW,Liam,Lawson,19,2,0,alphatauri,AlphaTauri
+2023,16,sargeant,SAR,Logan,Sargeant,20,0,0,williams,Williams
+2023,16,de_vries,DEV,Nyck,de Vries,21,0,0,alphatauri,AlphaTauri
+2023,16,ricciardo,RIC,Daniel,Ricciardo,22,0,0,alphatauri,AlphaTauri
+2023,17,max_verstappen,VER,Max,Verstappen,1,433,14,red_bull,Red Bull
+2023,17,perez,PER,Sergio,Pérez,2,224,2,red_bull,Red Bull
+2023,17,hamilton,HAM,Lewis,Hamilton,3,194,0,mercedes,Mercedes
+2023,17,alonso,ALO,Fernando,Alonso,4,183,0,aston_martin,Aston Martin
+2023,17,sainz,SAI,Carlos,Sainz,5,153,1,ferrari,Ferrari
+2023,17,leclerc,LEC,Charles,Leclerc,6,145,0,ferrari,Ferrari
+2023,17,norris,NOR,Lando,Norris,7,136,0,mclaren,McLaren
+2023,17,russell,RUS,George,Russell,8,132,0,mercedes,Mercedes
+2023,17,piastri,PIA,Oscar,Piastri,9,83,0,mclaren,McLaren
+2023,17,stroll,STR,Lance,Stroll,10,47,0,aston_martin,Aston Martin
+2023,17,gasly,GAS,Pierre,Gasly,11,46,0,alpine,Alpine F1 Team
+2023,17,ocon,OCO,Esteban,Ocon,12,44,0,alpine,Alpine F1 Team
+2023,17,albon,ALB,Alexander,Albon,13,23,0,williams,Williams
+2023,17,bottas,BOT,Valtteri,Bottas,14,10,0,alfa,Alfa Romeo
+2023,17,hulkenberg,HUL,Nico,Hülkenberg,15,9,0,haas,Haas F1 Team
+2023,17,zhou,ZHO,Guanyu,Zhou,16,6,0,alfa,Alfa Romeo
+2023,17,tsunoda,TSU,Yuki,Tsunoda,17,3,0,alphatauri,AlphaTauri
+2023,17,kevin_magnussen,MAG,Kevin,Magnussen,18,3,0,haas,Haas F1 Team
+2023,17,lawson,LAW,Liam,Lawson,19,2,0,alphatauri,AlphaTauri
+2023,17,sargeant,SAR,Logan,Sargeant,20,0,0,williams,Williams
+2023,17,de_vries,DEV,Nyck,de Vries,21,0,0,alphatauri,AlphaTauri
+2023,17,ricciardo,RIC,Daniel,Ricciardo,22,0,0,alphatauri,AlphaTauri
+2023,18,max_verstappen,VER,Max,Verstappen,1,466,15,red_bull,Red Bull
+2023,18,perez,PER,Sergio,Pérez,2,240,2,red_bull,Red Bull
+2023,18,hamilton,HAM,Lewis,Hamilton,3,201,0,mercedes,Mercedes
+2023,18,alonso,ALO,Fernando,Alonso,4,183,0,aston_martin,Aston Martin
+2023,18,sainz,SAI,Carlos,Sainz,5,171,1,ferrari,Ferrari
+2023,18,norris,NOR,Lando,Norris,6,159,0,mclaren,McLaren
+2023,18,leclerc,LEC,Charles,Leclerc,7,151,0,ferrari,Ferrari
+2023,18,russell,RUS,George,Russell,8,143,0,mercedes,Mercedes
+2023,18,piastri,PIA,Oscar,Piastri,9,83,0,mclaren,McLaren
+2023,18,gasly,GAS,Pierre,Gasly,10,56,0,alpine,Alpine F1 Team
+2023,18,stroll,STR,Lance,Stroll,11,53,0,aston_martin,Aston Martin
+2023,18,ocon,OCO,Esteban,Ocon,12,44,0,alpine,Alpine F1 Team
+2023,18,albon,ALB,Alexander,Albon,13,25,0,williams,Williams
+2023,18,bottas,BOT,Valtteri,Bottas,14,10,0,alfa,Alfa Romeo
+2023,18,hulkenberg,HUL,Nico,Hülkenberg,15,9,0,haas,Haas F1 Team
+2023,18,tsunoda,TSU,Yuki,Tsunoda,16,8,0,alphatauri,AlphaTauri
+2023,18,zhou,ZHO,Guanyu,Zhou,17,6,0,alfa,Alfa Romeo
+2023,18,kevin_magnussen,MAG,Kevin,Magnussen,18,3,0,haas,Haas F1 Team
+2023,18,lawson,LAW,Liam,Lawson,19,2,0,alphatauri,AlphaTauri
+2023,18,sargeant,SAR,Logan,Sargeant,20,1,0,williams,Williams
+2023,18,de_vries,DEV,Nyck,de Vries,21,0,0,alphatauri,AlphaTauri
+2023,18,ricciardo,RIC,Daniel,Ricciardo,22,0,0,alphatauri,AlphaTauri
+2023,21,max_verstappen,VER,Max,Verstappen,1,549,18,red_bull,Red Bull
+2023,21,perez,PER,Sergio,Pérez,2,273,2,red_bull,Red Bull
+2023,21,hamilton,HAM,Lewis,Hamilton,3,232,0,mercedes,Mercedes
+2023,21,sainz,SAI,Carlos,Sainz,4,200,1,ferrari,Ferrari
+2023,21,alonso,ALO,Fernando,Alonso,5,200,0,aston_martin,Aston Martin
+2023,21,norris,NOR,Lando,Norris,6,195,0,mclaren,McLaren
+2023,21,leclerc,LEC,Charles,Leclerc,7,188,0,ferrari,Ferrari
+2023,21,russell,RUS,George,Russell,8,160,0,mercedes,Mercedes
+2023,21,piastri,PIA,Oscar,Piastri,9,89,0,mclaren,McLaren
+2023,21,stroll,STR,Lance,Stroll,10,73,0,aston_martin,Aston Martin
+2023,21,gasly,GAS,Pierre,Gasly,11,62,0,alpine,Alpine F1 Team
+2023,21,ocon,OCO,Esteban,Ocon,12,58,0,alpine,Alpine F1 Team
+2023,21,albon,ALB,Alexander,Albon,13,27,0,williams,Williams
+2023,21,tsunoda,TSU,Yuki,Tsunoda,14,13,0,alphatauri,AlphaTauri
+2023,21,bottas,BOT,Valtteri,Bottas,15,10,0,alfa,Alfa Romeo
+2023,21,hulkenberg,HUL,Nico,Hülkenberg,16,9,0,haas,Haas F1 Team
+2023,21,ricciardo,RIC,Daniel,Ricciardo,17,6,0,alphatauri,AlphaTauri
+2023,21,zhou,ZHO,Guanyu,Zhou,18,6,0,alfa,Alfa Romeo
+2023,21,kevin_magnussen,MAG,Kevin,Magnussen,19,3,0,haas,Haas F1 Team
+2023,21,lawson,LAW,Liam,Lawson,20,2,0,alphatauri,AlphaTauri
+2023,21,sargeant,SAR,Logan,Sargeant,21,1,0,williams,Williams
+2023,21,de_vries,DEV,Nyck,de Vries,22,0,0,alphatauri,AlphaTauri
+2024,4,max_verstappen,VER,Max,Verstappen,1,77,3,red_bull,Red Bull
+2024,4,perez,PER,Sergio,Pérez,2,64,0,red_bull,Red Bull
+2024,4,leclerc,LEC,Charles,Leclerc,3,59,0,ferrari,Ferrari
+2024,4,sainz,SAI,Carlos,Sainz,4,55,1,ferrari,Ferrari
+2024,4,norris,NOR,Lando,Norris,5,37,0,mclaren,McLaren
+2024,4,piastri,PIA,Oscar,Piastri,6,32,0,mclaren,McLaren
+2024,4,russell,RUS,George,Russell,7,24,0,mercedes,Mercedes
+2024,4,alonso,ALO,Fernando,Alonso,8,24,0,aston_martin,Aston Martin
+2024,4,hamilton,HAM,Lewis,Hamilton,9,10,0,mercedes,Mercedes
+2024,4,stroll,STR,Lance,Stroll,10,9,0,aston_martin,Aston Martin
+2024,4,tsunoda,TSU,Yuki,Tsunoda,11,7,0,rb,RB F1 Team
+2024,4,bearman,BEA,Oliver,Bearman,12,6,0,ferrari,Ferrari
+2024,4,hulkenberg,HUL,Nico,Hülkenberg,13,3,0,haas,Haas F1 Team
+2024,4,kevin_magnussen,MAG,Kevin,Magnussen,14,1,0,haas,Haas F1 Team
+2024,4,albon,ALB,Alexander,Albon,15,0,0,williams,Williams
+2024,4,zhou,ZHO,Guanyu,Zhou,16,0,0,sauber,Sauber
+2024,4,ricciardo,RIC,Daniel,Ricciardo,17,0,0,rb,RB F1 Team
+2024,4,ocon,OCO,Esteban,Ocon,18,0,0,alpine,Alpine F1 Team
+2024,4,gasly,GAS,Pierre,Gasly,19,0,0,alpine,Alpine F1 Team
+2024,4,bottas,BOT,Valtteri,Bottas,20,0,0,sauber,Sauber
+2024,4,sargeant,SAR,Logan,Sargeant,21,0,0,williams,Williams
+2024,8,max_verstappen,VER,Max,Verstappen,1,169,5,red_bull,Red Bull
+2024,8,leclerc,LEC,Charles,Leclerc,2,138,1,ferrari,Ferrari
+2024,8,norris,NOR,Lando,Norris,3,113,1,mclaren,McLaren
+2024,8,sainz,SAI,Carlos,Sainz,4,108,1,ferrari,Ferrari
+2024,8,perez,PER,Sergio,Pérez,5,107,0,red_bull,Red Bull
+2024,8,piastri,PIA,Oscar,Piastri,6,71,0,mclaren,McLaren
+2024,8,russell,RUS,George,Russell,7,54,0,mercedes,Mercedes
+2024,8,hamilton,HAM,Lewis,Hamilton,8,42,0,mercedes,Mercedes
+2024,8,alonso,ALO,Fernando,Alonso,9,33,0,aston_martin,Aston Martin
+2024,8,tsunoda,TSU,Yuki,Tsunoda,10,19,0,rb,RB F1 Team
+2024,8,stroll,STR,Lance,Stroll,11,11,0,aston_martin,Aston Martin
+2024,8,bearman,BEA,Oliver,Bearman,12,6,0,ferrari,Ferrari
+2024,8,hulkenberg,HUL,Nico,Hülkenberg,13,6,0,haas,Haas F1 Team
+2024,8,ricciardo,RIC,Daniel,Ricciardo,14,5,0,rb,RB F1 Team
+2024,8,albon,ALB,Alexander,Albon,15,2,0,williams,Williams
+2024,8,ocon,OCO,Esteban,Ocon,16,1,0,alpine,Alpine F1 Team
+2024,8,kevin_magnussen,MAG,Kevin,Magnussen,17,1,0,haas,Haas F1 Team
+2024,8,gasly,GAS,Pierre,Gasly,18,1,0,alpine,Alpine F1 Team
+2024,8,zhou,ZHO,Guanyu,Zhou,19,0,0,sauber,Sauber
+2024,8,bottas,BOT,Valtteri,Bottas,20,0,0,sauber,Sauber
+2024,8,sargeant,SAR,Logan,Sargeant,21,0,0,williams,Williams
+2024,13,max_verstappen,VER,Max,Verstappen,1,265,7,red_bull,Red Bull
+2024,13,norris,NOR,Lando,Norris,2,189,1,mclaren,McLaren
+2024,13,leclerc,LEC,Charles,Leclerc,3,162,1,ferrari,Ferrari
+2024,13,sainz,SAI,Carlos,Sainz,4,154,1,ferrari,Ferrari
+2024,13,piastri,PIA,Oscar,Piastri,5,149,1,mclaren,McLaren
+2024,13,hamilton,HAM,Lewis,Hamilton,6,125,1,mercedes,Mercedes
+2024,13,perez,PER,Sergio,Pérez,7,124,0,red_bull,Red Bull
+2024,13,russell,RUS,George,Russell,8,116,1,mercedes,Mercedes
+2024,13,alonso,ALO,Fernando,Alonso,9,45,0,aston_martin,Aston Martin
+2024,13,stroll,STR,Lance,Stroll,10,24,0,aston_martin,Aston Martin
+2024,13,hulkenberg,HUL,Nico,Hülkenberg,11,22,0,haas,Haas F1 Team
+2024,13,tsunoda,TSU,Yuki,Tsunoda,12,22,0,rb,RB F1 Team
+2024,13,ricciardo,RIC,Daniel,Ricciardo,13,11,0,rb,RB F1 Team
+2024,13,bearman,BEA,Oliver,Bearman,14,6,0,ferrari,Ferrari
+2024,13,gasly,GAS,Pierre,Gasly,15,6,0,alpine,Alpine F1 Team
+2024,13,kevin_magnussen,MAG,Kevin,Magnussen,16,5,0,haas,Haas F1 Team
+2024,13,albon,ALB,Alexander,Albon,17,4,0,williams,Williams
+2024,13,ocon,OCO,Esteban,Ocon,18,3,0,alpine,Alpine F1 Team
+2024,13,zhou,ZHO,Guanyu,Zhou,19,0,0,sauber,Sauber
+2024,13,sargeant,SAR,Logan,Sargeant,20,0,0,williams,Williams
+2024,13,bottas,BOT,Valtteri,Bottas,21,0,0,sauber,Sauber
+2024,17,max_verstappen,VER,Max,Verstappen,1,313,7,red_bull,Red Bull
+2024,17,norris,NOR,Lando,Norris,2,254,2,mclaren,McLaren
+2024,17,leclerc,LEC,Charles,Leclerc,3,235,2,ferrari,Ferrari
+2024,17,piastri,PIA,Oscar,Piastri,4,222,2,mclaren,McLaren
+2024,17,sainz,SAI,Carlos,Sainz,5,184,1,ferrari,Ferrari
+2024,17,hamilton,HAM,Lewis,Hamilton,6,166,2,mercedes,Mercedes
+2024,17,russell,RUS,George,Russell,7,143,1,mercedes,Mercedes
+2024,17,perez,PER,Sergio,Pérez,8,143,0,red_bull,Red Bull
+2024,17,alonso,ALO,Fernando,Alonso,9,58,0,aston_martin,Aston Martin
+2024,17,stroll,STR,Lance,Stroll,10,24,0,aston_martin,Aston Martin
+2024,17,hulkenberg,HUL,Nico,Hülkenberg,11,22,0,haas,Haas F1 Team
+2024,17,tsunoda,TSU,Yuki,Tsunoda,12,22,0,rb,RB F1 Team
+2024,17,albon,ALB,Alexander,Albon,13,12,0,williams,Williams
+2024,17,ricciardo,RIC,Daniel,Ricciardo,14,12,0,rb,RB F1 Team
+2024,17,gasly,GAS,Pierre,Gasly,15,8,0,alpine,Alpine F1 Team
+2024,17,bearman,BEA,Oliver,Bearman,16,7,0,ferrari,Ferrari
+2024,17,kevin_magnussen,MAG,Kevin,Magnussen,17,6,0,haas,Haas F1 Team
+2024,17,ocon,OCO,Esteban,Ocon,18,5,0,alpine,Alpine F1 Team
+2024,17,colapinto,COL,Franco,Colapinto,19,4,0,williams,Williams
+2024,17,zhou,ZHO,Guanyu,Zhou,20,0,0,sauber,Sauber
+2024,17,sargeant,SAR,Logan,Sargeant,21,0,0,williams,Williams
+2024,17,bottas,BOT,Valtteri,Bottas,22,0,0,sauber,Sauber
+2024,21,max_verstappen,VER,Max,Verstappen,1,393,8,red_bull,Red Bull
+2024,21,norris,NOR,Lando,Norris,2,331,3,mclaren,McLaren
+2024,21,leclerc,LEC,Charles,Leclerc,3,307,3,ferrari,Ferrari
+2024,21,piastri,PIA,Oscar,Piastri,4,262,2,mclaren,McLaren
+2024,21,sainz,SAI,Carlos,Sainz,5,244,2,ferrari,Ferrari
+2024,21,russell,RUS,George,Russell,6,192,1,mercedes,Mercedes
+2024,21,hamilton,HAM,Lewis,Hamilton,7,190,2,mercedes,Mercedes
+2024,21,perez,PER,Sergio,Pérez,8,151,0,red_bull,Red Bull
+2024,21,alonso,ALO,Fernando,Alonso,9,62,0,aston_martin,Aston Martin
+2024,21,hulkenberg,HUL,Nico,Hülkenberg,10,31,0,haas,Haas F1 Team
+2024,21,tsunoda,TSU,Yuki,Tsunoda,11,28,0,rb,RB F1 Team
+2024,21,gasly,GAS,Pierre,Gasly,12,26,0,alpine,Alpine F1 Team
+2024,21,stroll,STR,Lance,Stroll,13,24,0,aston_martin,Aston Martin
+2024,21,ocon,OCO,Esteban,Ocon,14,23,0,alpine,Alpine F1 Team
+2024,21,kevin_magnussen,MAG,Kevin,Magnussen,15,14,0,haas,Haas F1 Team
+2024,21,albon,ALB,Alexander,Albon,16,12,0,williams,Williams
+2024,21,ricciardo,RIC,Daniel,Ricciardo,17,12,0,rb,RB F1 Team
+2024,21,bearman,BEA,Oliver,Bearman,18,7,0,ferrari,Ferrari
+2024,21,colapinto,COL,Franco,Colapinto,19,5,0,williams,Williams
+2024,21,lawson,LAW,Liam,Lawson,20,4,0,rb,RB F1 Team
+2024,21,zhou,ZHO,Guanyu,Zhou,21,0,0,sauber,Sauber
+2024,21,sargeant,SAR,Logan,Sargeant,22,0,0,williams,Williams
+2024,21,bottas,BOT,Valtteri,Bottas,23,0,0,sauber,Sauber
+2025,5,piastri,PIA,Oscar,Piastri,1,99,3,mclaren,McLaren
+2025,5,norris,NOR,Lando,Norris,2,89,1,mclaren,McLaren
+2025,5,max_verstappen,VER,Max,Verstappen,3,87,1,red_bull,Red Bull
+2025,5,russell,RUS,George,Russell,4,73,0,mercedes,Mercedes
+2025,5,leclerc,LEC,Charles,Leclerc,5,47,0,ferrari,Ferrari
+2025,5,antonelli,ANT,Andrea Kimi,Antonelli,6,38,0,mercedes,Mercedes
+2025,5,hamilton,HAM,Lewis,Hamilton,7,31,0,ferrari,Ferrari
+2025,5,albon,ALB,Alexander,Albon,8,20,0,williams,Williams
+2025,5,ocon,OCO,Esteban,Ocon,9,14,0,haas,Haas F1 Team
+2025,5,stroll,STR,Lance,Stroll,10,10,0,aston_martin,Aston Martin
+2025,5,gasly,GAS,Pierre,Gasly,11,6,0,alpine,Alpine F1 Team
+2025,5,hulkenberg,HUL,Nico,Hülkenberg,12,6,0,sauber,Sauber
+2025,5,bearman,BEA,Oliver,Bearman,13,6,0,haas,Haas F1 Team
+2025,5,hadjar,HAD,Isack,Hadjar,14,5,0,rb,RB F1 Team
+2025,5,sainz,SAI,Carlos,Sainz,15,5,0,williams,Williams
+2025,5,tsunoda,TSU,Yuki,Tsunoda,16,5,0,rb,RB F1 Team
+2025,5,alonso,ALO,Fernando,Alonso,17,0,0,aston_martin,Aston Martin
+2025,5,lawson,LAW,Liam,Lawson,18,0,0,red_bull,Red Bull
+2025,5,doohan,DOO,Jack,Doohan,19,0,0,alpine,Alpine F1 Team
+2025,5,bortoleto,BOR,Gabriel,Bortoleto,20,0,0,sauber,Sauber
+2025,10,piastri,PIA,Oscar,Piastri,1,198,5,mclaren,McLaren
+2025,10,norris,NOR,Lando,Norris,2,176,2,mclaren,McLaren
+2025,10,max_verstappen,VER,Max,Verstappen,3,155,2,red_bull,Red Bull
+2025,10,russell,RUS,George,Russell,4,136,1,mercedes,Mercedes
+2025,10,leclerc,LEC,Charles,Leclerc,5,104,0,ferrari,Ferrari
+2025,10,hamilton,HAM,Lewis,Hamilton,6,79,0,ferrari,Ferrari
+2025,10,antonelli,ANT,Andrea Kimi,Antonelli,7,63,0,mercedes,Mercedes
+2025,10,albon,ALB,Alexander,Albon,8,42,0,williams,Williams
+2025,10,ocon,OCO,Esteban,Ocon,9,22,0,haas,Haas F1 Team
+2025,10,hadjar,HAD,Isack,Hadjar,10,21,0,rb,RB F1 Team
+2025,10,hulkenberg,HUL,Nico,Hülkenberg,11,20,0,sauber,Sauber
+2025,10,stroll,STR,Lance,Stroll,12,14,0,aston_martin,Aston Martin
+2025,10,sainz,SAI,Carlos,Sainz,13,13,0,williams,Williams
+2025,10,gasly,GAS,Pierre,Gasly,14,11,0,alpine,Alpine F1 Team
+2025,10,tsunoda,TSU,Yuki,Tsunoda,15,10,0,rb,RB F1 Team
+2025,10,alonso,ALO,Fernando,Alonso,16,8,0,aston_martin,Aston Martin
+2025,10,bearman,BEA,Oliver,Bearman,17,6,0,haas,Haas F1 Team
+2025,10,lawson,LAW,Liam,Lawson,18,4,0,red_bull,Red Bull
+2025,10,bortoleto,BOR,Gabriel,Bortoleto,19,0,0,sauber,Sauber
+2025,10,colapinto,COL,Franco,Colapinto,20,0,0,alpine,Alpine F1 Team
+2025,10,doohan,DOO,Jack,Doohan,21,0,0,alpine,Alpine F1 Team
+2025,13,piastri,PIA,Oscar,Piastri,1,266,6,mclaren,McLaren
+2025,13,norris,NOR,Lando,Norris,2,250,4,mclaren,McLaren
+2025,13,max_verstappen,VER,Max,Verstappen,3,185,2,red_bull,Red Bull
+2025,13,russell,RUS,George,Russell,4,157,1,mercedes,Mercedes
+2025,13,leclerc,LEC,Charles,Leclerc,5,139,0,ferrari,Ferrari
+2025,13,hamilton,HAM,Lewis,Hamilton,6,109,0,ferrari,Ferrari
+2025,13,antonelli,ANT,Andrea Kimi,Antonelli,7,63,0,mercedes,Mercedes
+2025,13,albon,ALB,Alexander,Albon,8,54,0,williams,Williams
+2025,13,hulkenberg,HUL,Nico,Hülkenberg,9,37,0,sauber,Sauber
+2025,13,ocon,OCO,Esteban,Ocon,10,27,0,haas,Haas F1 Team
+2025,13,hadjar,HAD,Isack,Hadjar,11,22,0,rb,RB F1 Team
+2025,13,gasly,GAS,Pierre,Gasly,12,20,0,alpine,Alpine F1 Team
+2025,13,stroll,STR,Lance,Stroll,13,20,0,aston_martin,Aston Martin
+2025,13,lawson,LAW,Liam,Lawson,14,16,0,red_bull,Red Bull
+2025,13,alonso,ALO,Fernando,Alonso,15,16,0,aston_martin,Aston Martin
+2025,13,sainz,SAI,Carlos,Sainz,16,16,0,williams,Williams
+2025,13,tsunoda,TSU,Yuki,Tsunoda,17,10,0,rb,RB F1 Team
+2025,13,bearman,BEA,Oliver,Bearman,18,8,0,haas,Haas F1 Team
+2025,13,bortoleto,BOR,Gabriel,Bortoleto,19,6,0,sauber,Sauber
+2025,13,colapinto,COL,Franco,Colapinto,20,0,0,alpine,Alpine F1 Team
+2025,13,doohan,DOO,Jack,Doohan,21,0,0,alpine,Alpine F1 Team
+2025,18,piastri,PIA,Oscar,Piastri,1,336,7,mclaren,McLaren
+2025,18,norris,NOR,Lando,Norris,2,314,5,mclaren,McLaren
+2025,18,max_verstappen,VER,Max,Verstappen,3,273,4,red_bull,Red Bull
+2025,18,russell,RUS,George,Russell,4,237,2,mercedes,Mercedes
+2025,18,leclerc,LEC,Charles,Leclerc,5,173,0,ferrari,Ferrari
+2025,18,hamilton,HAM,Lewis,Hamilton,6,125,0,ferrari,Ferrari
+2025,18,antonelli,ANT,Andrea Kimi,Antonelli,7,88,0,mercedes,Mercedes
+2025,18,albon,ALB,Alexander,Albon,8,70,0,williams,Williams
+2025,18,hadjar,HAD,Isack,Hadjar,9,39,0,rb,RB F1 Team
+2025,18,hulkenberg,HUL,Nico,Hülkenberg,10,37,0,sauber,Sauber
+2025,18,alonso,ALO,Fernando,Alonso,11,36,0,aston_martin,Aston Martin
+2025,18,sainz,SAI,Carlos,Sainz,12,32,0,williams,Williams
+2025,18,stroll,STR,Lance,Stroll,13,32,0,aston_martin,Aston Martin
+2025,18,lawson,LAW,Liam,Lawson,14,30,0,red_bull,Red Bull
+2025,18,ocon,OCO,Esteban,Ocon,15,28,0,haas,Haas F1 Team
+2025,18,gasly,GAS,Pierre,Gasly,16,20,0,alpine,Alpine F1 Team
+2025,18,tsunoda,TSU,Yuki,Tsunoda,17,20,0,rb,RB F1 Team
+2025,18,bortoleto,BOR,Gabriel,Bortoleto,18,18,0,sauber,Sauber
+2025,18,bearman,BEA,Oliver,Bearman,19,18,0,haas,Haas F1 Team
+2025,18,colapinto,COL,Franco,Colapinto,20,0,0,alpine,Alpine F1 Team
+2025,18,doohan,DOO,Jack,Doohan,21,0,0,alpine,Alpine F1 Team
+2025,22,norris,NOR,Lando,Norris,1,390,7,mclaren,McLaren
+2025,22,piastri,PIA,Oscar,Piastri,2,366,7,mclaren,McLaren
+2025,22,max_verstappen,VER,Max,Verstappen,3,366,6,red_bull,Red Bull
+2025,22,russell,RUS,George,Russell,4,294,2,mercedes,Mercedes
+2025,22,leclerc,LEC,Charles,Leclerc,5,226,0,ferrari,Ferrari
+2025,22,hamilton,HAM,Lewis,Hamilton,6,152,0,ferrari,Ferrari
+2025,22,antonelli,ANT,Andrea Kimi,Antonelli,7,137,0,mercedes,Mercedes
+2025,22,albon,ALB,Alexander,Albon,8,73,0,williams,Williams
+2025,22,hadjar,HAD,Isack,Hadjar,9,51,0,rb,RB F1 Team
+2025,22,hulkenberg,HUL,Nico,Hülkenberg,10,49,0,sauber,Sauber
+2025,22,sainz,SAI,Carlos,Sainz,11,48,0,williams,Williams
+2025,22,bearman,BEA,Oliver,Bearman,12,41,0,haas,Haas F1 Team
+2025,22,alonso,ALO,Fernando,Alonso,13,40,0,aston_martin,Aston Martin
+2025,22,lawson,LAW,Liam,Lawson,14,36,0,red_bull,Red Bull
+2025,22,ocon,OCO,Esteban,Ocon,15,32,0,haas,Haas F1 Team
+2025,22,stroll,STR,Lance,Stroll,16,32,0,aston_martin,Aston Martin
+2025,22,tsunoda,TSU,Yuki,Tsunoda,17,28,0,rb,RB F1 Team
+2025,22,gasly,GAS,Pierre,Gasly,18,22,0,alpine,Alpine F1 Team
+2025,22,bortoleto,BOR,Gabriel,Bortoleto,19,19,0,sauber,Sauber
+2025,22,colapinto,COL,Franco,Colapinto,20,0,0,alpine,Alpine F1 Team
+2025,22,doohan,DOO,Jack,Doohan,21,0,0,alpine,Alpine F1 Team

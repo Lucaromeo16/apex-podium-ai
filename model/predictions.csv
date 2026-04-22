@@ -1,0 +1,139 @@
+season,round,race_name,given_name,family_name,constructor_name,podium,predicted_podium_probability,model
+2025,2,Chinese Grand Prix,Carlos,Sainz,Williams,0,0.005165442423459397,logistic_regression
+2025,2,Chinese Grand Prix,Lance,Stroll,Aston Martin,0,0.006154825985345719,logistic_regression
+2025,2,Chinese Grand Prix,Yuki,Tsunoda,RB F1 Team,0,0.04346761958466818,logistic_regression
+2025,3,Japanese Grand Prix,Alexander,Albon,Williams,0,0.05253644967650218,logistic_regression
+2025,3,Japanese Grand Prix,Fernando,Alonso,Aston Martin,0,0.00971692284330725,logistic_regression
+2025,3,Japanese Grand Prix,Pierre,Gasly,Alpine F1 Team,0,0.015385530001950927,logistic_regression
+2025,3,Japanese Grand Prix,Lewis,Hamilton,Ferrari,0,0.048694209904494884,logistic_regression
+2025,3,Japanese Grand Prix,Nico,Hülkenberg,Sauber,0,0.002779629640204271,logistic_regression
+2025,3,Japanese Grand Prix,Charles,Leclerc,Ferrari,0,0.2287974509498935,logistic_regression
+2025,3,Japanese Grand Prix,Max,Verstappen,Red Bull,1,0.7676584202003789,logistic_regression
+2025,3,Japanese Grand Prix,Lando,Norris,McLaren,1,0.8306459145072886,logistic_regression
+2025,3,Japanese Grand Prix,Esteban,Ocon,Haas F1 Team,0,0.0011993787359602488,logistic_regression
+2025,3,Japanese Grand Prix,Oscar,Piastri,McLaren,1,0.5500026798821147,logistic_regression
+2025,3,Japanese Grand Prix,George,Russell,Mercedes,0,0.4327927001657751,logistic_regression
+2025,3,Japanese Grand Prix,Carlos,Sainz,Williams,0,0.0047599269403963565,logistic_regression
+2025,3,Japanese Grand Prix,Lance,Stroll,Aston Martin,0,0.000637789219512928,logistic_regression
+2025,3,Japanese Grand Prix,Yuki,Tsunoda,Red Bull,0,0.0040300632553428644,logistic_regression
+2025,4,Bahrain Grand Prix,Alexander,Albon,Williams,0,0.004360458560224079,logistic_regression
+2025,4,Bahrain Grand Prix,Fernando,Alonso,Aston Martin,0,0.009167150150250415,logistic_regression
+2025,4,Bahrain Grand Prix,Pierre,Gasly,Alpine F1 Team,0,0.18509432868118328,logistic_regression
+2025,4,Bahrain Grand Prix,Lewis,Hamilton,Ferrari,0,0.04697077293035146,logistic_regression
+2025,4,Bahrain Grand Prix,Nico,Hülkenberg,Sauber,0,0.0027985238148538778,logistic_regression
+2025,4,Bahrain Grand Prix,Charles,Leclerc,Ferrari,0,0.47412654277057853,logistic_regression
+2025,4,Bahrain Grand Prix,Max,Verstappen,Red Bull,0,0.3263366197500554,logistic_regression
+2025,4,Bahrain Grand Prix,Lando,Norris,McLaren,1,0.47976906655651363,logistic_regression
+2025,4,Bahrain Grand Prix,Esteban,Ocon,Haas F1 Team,0,0.005682646862495191,logistic_regression
+2025,4,Bahrain Grand Prix,Oscar,Piastri,McLaren,1,0.842768235718934,logistic_regression
+2025,4,Bahrain Grand Prix,George,Russell,Mercedes,1,0.7208743451413477,logistic_regression
+2025,4,Bahrain Grand Prix,Carlos,Sainz,Williams,0,0.05727622455259379,logistic_regression
+2025,4,Bahrain Grand Prix,Lance,Stroll,Aston Martin,0,0.000668285629292101,logistic_regression
+2025,4,Bahrain Grand Prix,Yuki,Tsunoda,Red Bull,0,0.02116842446621852,logistic_regression
+2025,5,Saudi Arabian Grand Prix,Alexander,Albon,Williams,0,0.026677735050307544,logistic_regression
+2025,5,Saudi Arabian Grand Prix,Fernando,Alonso,Aston Martin,0,0.007356813344198769,logistic_regression
+2025,5,Saudi Arabian Grand Prix,Oliver,Bearman,Haas F1 Team,0,0.00414690912199997,logistic_regression
+2025,5,Saudi Arabian Grand Prix,Pierre,Gasly,Alpine F1 Team,0,0.03782115001146068,logistic_regression
+2025,5,Saudi Arabian Grand Prix,Lewis,Hamilton,Ferrari,0,0.09157587648470455,logistic_regression
+2025,5,Saudi Arabian Grand Prix,Nico,Hülkenberg,Sauber,0,0.0009409470306388415,logistic_regression
+2025,5,Saudi Arabian Grand Prix,Charles,Leclerc,Ferrari,1,0.3291012398451812,logistic_regression
+2025,5,Saudi Arabian Grand Prix,Max,Verstappen,Red Bull,1,0.7251108639605477,logistic_regression
+2025,5,Saudi Arabian Grand Prix,Lando,Norris,McLaren,0,0.15486857816821456,logistic_regression
+2025,5,Saudi Arabian Grand Prix,Esteban,Ocon,Haas F1 Team,0,0.0007919907834250616,logistic_regression
+2025,5,Saudi Arabian Grand Prix,Oscar,Piastri,McLaren,1,0.8559206550060559,logistic_regression
+2025,5,Saudi Arabian Grand Prix,George,Russell,Mercedes,0,0.6330336101995109,logistic_regression
+2025,5,Saudi Arabian Grand Prix,Carlos,Sainz,Williams,0,0.10184503157582651,logistic_regression
+2025,5,Saudi Arabian Grand Prix,Lance,Stroll,Aston Martin,0,0.002574985706554183,logistic_regression
+2025,5,Saudi Arabian Grand Prix,Yuki,Tsunoda,Red Bull,0,0.05387636682991968,logistic_regression
+2025,2,Chinese Grand Prix,Carlos,Sainz,Williams,0,0.05333333333333334,random_forest
+2025,2,Chinese Grand Prix,Lance,Stroll,Aston Martin,0,0.0,random_forest
+2025,2,Chinese Grand Prix,Yuki,Tsunoda,RB F1 Team,0,0.0,random_forest
+2025,3,Japanese Grand Prix,Alexander,Albon,Williams,0,0.0033333333333333335,random_forest
+2025,3,Japanese Grand Prix,Fernando,Alonso,Aston Martin,0,0.0,random_forest
+2025,3,Japanese Grand Prix,Pierre,Gasly,Alpine F1 Team,0,0.0,random_forest
+2025,3,Japanese Grand Prix,Lewis,Hamilton,Ferrari,0,0.0,random_forest
+2025,3,Japanese Grand Prix,Nico,Hülkenberg,Sauber,0,0.0,random_forest
+2025,3,Japanese Grand Prix,Charles,Leclerc,Ferrari,0,0.630397546897547,random_forest
+2025,3,Japanese Grand Prix,Max,Verstappen,Red Bull,1,0.7875238095238095,random_forest
+2025,3,Japanese Grand Prix,Lando,Norris,McLaren,1,0.5632539682539682,random_forest
+2025,3,Japanese Grand Prix,Esteban,Ocon,Haas F1 Team,0,0.0,random_forest
+2025,3,Japanese Grand Prix,Oscar,Piastri,McLaren,1,0.5498465608465609,random_forest
+2025,3,Japanese Grand Prix,George,Russell,Mercedes,0,0.5203703703703704,random_forest
+2025,3,Japanese Grand Prix,Carlos,Sainz,Williams,0,0.03,random_forest
+2025,3,Japanese Grand Prix,Lance,Stroll,Aston Martin,0,0.0,random_forest
+2025,3,Japanese Grand Prix,Yuki,Tsunoda,Red Bull,0,0.016666666666666666,random_forest
+2025,4,Bahrain Grand Prix,Alexander,Albon,Williams,0,0.0033333333333333335,random_forest
+2025,4,Bahrain Grand Prix,Fernando,Alonso,Aston Martin,0,0.0,random_forest
+2025,4,Bahrain Grand Prix,Pierre,Gasly,Alpine F1 Team,0,0.3234166666666667,random_forest
+2025,4,Bahrain Grand Prix,Lewis,Hamilton,Ferrari,0,0.01,random_forest
+2025,4,Bahrain Grand Prix,Nico,Hülkenberg,Sauber,0,0.0,random_forest
+2025,4,Bahrain Grand Prix,Charles,Leclerc,Ferrari,0,0.5690323472823473,random_forest
+2025,4,Bahrain Grand Prix,Max,Verstappen,Red Bull,0,0.31166666666666665,random_forest
+2025,4,Bahrain Grand Prix,Lando,Norris,McLaren,1,0.5253333333333333,random_forest
+2025,4,Bahrain Grand Prix,Esteban,Ocon,Haas F1 Team,0,0.0,random_forest
+2025,4,Bahrain Grand Prix,Oscar,Piastri,McLaren,1,0.935,random_forest
+2025,4,Bahrain Grand Prix,George,Russell,Mercedes,1,0.5840039682539683,random_forest
+2025,4,Bahrain Grand Prix,Carlos,Sainz,Williams,0,0.013333333333333334,random_forest
+2025,4,Bahrain Grand Prix,Lance,Stroll,Aston Martin,0,0.0,random_forest
+2025,4,Bahrain Grand Prix,Yuki,Tsunoda,Red Bull,0,0.0,random_forest
+2025,5,Saudi Arabian Grand Prix,Alexander,Albon,Williams,0,0.023333333333333334,random_forest
+2025,5,Saudi Arabian Grand Prix,Fernando,Alonso,Aston Martin,0,0.0,random_forest
+2025,5,Saudi Arabian Grand Prix,Oliver,Bearman,Haas F1 Team,0,0.013333333333333334,random_forest
+2025,5,Saudi Arabian Grand Prix,Pierre,Gasly,Alpine F1 Team,0,0.0,random_forest
+2025,5,Saudi Arabian Grand Prix,Lewis,Hamilton,Ferrari,0,0.0,random_forest
+2025,5,Saudi Arabian Grand Prix,Nico,Hülkenberg,Sauber,0,0.0033333333333333335,random_forest
+2025,5,Saudi Arabian Grand Prix,Charles,Leclerc,Ferrari,1,0.7497261904761905,random_forest
+2025,5,Saudi Arabian Grand Prix,Max,Verstappen,Red Bull,1,0.7608874458874458,random_forest
+2025,5,Saudi Arabian Grand Prix,Lando,Norris,McLaren,0,0.43866666666666665,random_forest
+2025,5,Saudi Arabian Grand Prix,Esteban,Ocon,Haas F1 Team,0,0.006666666666666667,random_forest
+2025,5,Saudi Arabian Grand Prix,Oscar,Piastri,McLaren,1,0.5162936507936509,random_forest
+2025,5,Saudi Arabian Grand Prix,George,Russell,Mercedes,0,0.5528505291005292,random_forest
+2025,5,Saudi Arabian Grand Prix,Carlos,Sainz,Williams,0,0.013333333333333334,random_forest
+2025,5,Saudi Arabian Grand Prix,Lance,Stroll,Aston Martin,0,0.0,random_forest
+2025,5,Saudi Arabian Grand Prix,Yuki,Tsunoda,Red Bull,0,0.0,random_forest
+2025,2,Chinese Grand Prix,Carlos,Sainz,Williams,0,0.001977047650143504,xgboost
+2025,2,Chinese Grand Prix,Lance,Stroll,Aston Martin,0,0.002615602919831872,xgboost
+2025,2,Chinese Grand Prix,Yuki,Tsunoda,RB F1 Team,0,0.0025781437288969755,xgboost
+2025,3,Japanese Grand Prix,Alexander,Albon,Williams,0,0.003082582727074623,xgboost
+2025,3,Japanese Grand Prix,Fernando,Alonso,Aston Martin,0,0.0011632561217993498,xgboost
+2025,3,Japanese Grand Prix,Pierre,Gasly,Alpine F1 Team,0,0.002542023779824376,xgboost
+2025,3,Japanese Grand Prix,Lewis,Hamilton,Ferrari,0,0.0007983521791175008,xgboost
+2025,3,Japanese Grand Prix,Nico,Hülkenberg,Sauber,0,0.002532968297600746,xgboost
+2025,3,Japanese Grand Prix,Charles,Leclerc,Ferrari,0,0.8217839598655701,xgboost
+2025,3,Japanese Grand Prix,Max,Verstappen,Red Bull,1,0.7645466923713684,xgboost
+2025,3,Japanese Grand Prix,Lando,Norris,McLaren,1,0.3666270077228546,xgboost
+2025,3,Japanese Grand Prix,Esteban,Ocon,Haas F1 Team,0,0.0025312353391200304,xgboost
+2025,3,Japanese Grand Prix,Oscar,Piastri,McLaren,1,0.22767393290996552,xgboost
+2025,3,Japanese Grand Prix,George,Russell,Mercedes,0,0.7040440440177917,xgboost
+2025,3,Japanese Grand Prix,Carlos,Sainz,Williams,0,0.007096418645232916,xgboost
+2025,3,Japanese Grand Prix,Lance,Stroll,Aston Martin,0,0.002556206425651908,xgboost
+2025,3,Japanese Grand Prix,Yuki,Tsunoda,Red Bull,0,0.0008034119382500648,xgboost
+2025,4,Bahrain Grand Prix,Alexander,Albon,Williams,0,0.004027243237942457,xgboost
+2025,4,Bahrain Grand Prix,Fernando,Alonso,Aston Martin,0,0.0008279142202809453,xgboost
+2025,4,Bahrain Grand Prix,Pierre,Gasly,Alpine F1 Team,0,0.22087839245796204,xgboost
+2025,4,Bahrain Grand Prix,Lewis,Hamilton,Ferrari,0,0.0026037574280053377,xgboost
+2025,4,Bahrain Grand Prix,Nico,Hülkenberg,Sauber,0,0.002200472168624401,xgboost
+2025,4,Bahrain Grand Prix,Charles,Leclerc,Ferrari,0,0.7663354873657227,xgboost
+2025,4,Bahrain Grand Prix,Max,Verstappen,Red Bull,0,0.12004072219133377,xgboost
+2025,4,Bahrain Grand Prix,Lando,Norris,McLaren,1,0.2010595202445984,xgboost
+2025,4,Bahrain Grand Prix,Esteban,Ocon,Haas F1 Team,0,0.002861642511561513,xgboost
+2025,4,Bahrain Grand Prix,Oscar,Piastri,McLaren,1,0.9620691537857056,xgboost
+2025,4,Bahrain Grand Prix,George,Russell,Mercedes,1,0.19297651946544647,xgboost
+2025,4,Bahrain Grand Prix,Carlos,Sainz,Williams,0,0.002429103944450617,xgboost
+2025,4,Bahrain Grand Prix,Lance,Stroll,Aston Martin,0,0.0007168209995143116,xgboost
+2025,4,Bahrain Grand Prix,Yuki,Tsunoda,Red Bull,0,0.0013691227650269866,xgboost
+2025,5,Saudi Arabian Grand Prix,Alexander,Albon,Williams,0,0.004896610509604216,xgboost
+2025,5,Saudi Arabian Grand Prix,Fernando,Alonso,Aston Martin,0,0.001612839405424893,xgboost
+2025,5,Saudi Arabian Grand Prix,Oliver,Bearman,Haas F1 Team,0,0.0014191868249326944,xgboost
+2025,5,Saudi Arabian Grand Prix,Pierre,Gasly,Alpine F1 Team,0,0.0027064094319939613,xgboost
+2025,5,Saudi Arabian Grand Prix,Lewis,Hamilton,Ferrari,0,0.0013636662624776363,xgboost
+2025,5,Saudi Arabian Grand Prix,Nico,Hülkenberg,Sauber,0,0.0025147399865090847,xgboost
+2025,5,Saudi Arabian Grand Prix,Charles,Leclerc,Ferrari,1,0.8811755776405334,xgboost
+2025,5,Saudi Arabian Grand Prix,Max,Verstappen,Red Bull,1,0.8662018775939941,xgboost
+2025,5,Saudi Arabian Grand Prix,Lando,Norris,McLaren,0,0.11202394962310791,xgboost
+2025,5,Saudi Arabian Grand Prix,Esteban,Ocon,Haas F1 Team,0,0.0007995097548700869,xgboost
+2025,5,Saudi Arabian Grand Prix,Oscar,Piastri,McLaren,1,0.14012672007083893,xgboost
+2025,5,Saudi Arabian Grand Prix,George,Russell,Mercedes,0,0.45326969027519226,xgboost
+2025,5,Saudi Arabian Grand Prix,Carlos,Sainz,Williams,0,0.0030043385922908783,xgboost
+2025,5,Saudi Arabian Grand Prix,Lance,Stroll,Aston Martin,0,0.0025391671806573868,xgboost
+2025,5,Saudi Arabian Grand Prix,Yuki,Tsunoda,Red Bull,0,0.0026879955548793077,xgboost

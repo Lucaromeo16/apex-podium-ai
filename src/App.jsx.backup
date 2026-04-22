@@ -1,0 +1,84 @@
+import React, { useMemo, useState } from 'react';
+import ensembleData from './data/ensemble_predictions.json';
+import ensembleData from './data/ensemble_predictions.json';
+import ensembleData from './data/ensemble_predictions.json';
+
+function App() {
+  const races = Object.keys(racePredictions);
+  const [selectedRace, setSelectedRace] = useState(races[0]);
+
+  const rankedDrivers = useMemo(() => {
+    return [...racePredictions[selectedRace]].sort((a, b) => b.probability - a.probability);
+  }, [selectedRace]);
+
+  const topThree = rankedDrivers.slice(0, 3);
+
+  return (
+    <div className="app">
+      <h1 className="hello">Hello World</h1>
+      <header className="card header">
+        <div>
+          <p className="subtle">F1 Podium Prediction Dashboard</p>
+          <h1>ApexPodium AI</h1>
+        </div>
+
+        <label className="selector" htmlFor="race-select">
+          <span>Select Grand Prix</span>
+          <select id="race-select" value={selectedRace} onChange={(e) => setSelectedRace(e.target.value)}>
+            {races.map((race) => (
+              <option key={race} value={race}>
+                {race}
+              </option>
+            ))}
+          </select>
+        </label>
+      </header>
+
+      <section className="card">
+        <h2>Top 3 Projected Finishers</h2>
+        <div className="podium">
+          {topThree.map((driver, index) => (
+            <article key={driver.name} className="podium-card">
+              <p className="rank">P{index + 1}</p>
+              <p className="driver">{driver.name}</p>
+              <p className="team">{driver.team}</p>
+              <p className="chance">{driver.probability.toFixed(1)}%</p>
+            </article>
+          ))}
+        </div>
+      </section>
+
+      <section className="card">
+        <h2>Driver Ranking by Podium Probability</h2>
+        <div className="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Rank</th>
+                <th>Driver</th>
+                <th>Team</th>
+                <th>Probability %</th>
+              </tr>
+            </thead>
+            <tbody>
+              {rankedDrivers.map((driver, index) => (
+                <tr key={driver.name}>
+                  <td>{index + 1}</td>
+                  <td>{driver.name}</td>
+                  <td>{driver.team}</td>
+                  <td>{driver.probability.toFixed(1)}%</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <section className="card">
+        <h2>Why Top Drivers Are Favored</h2>
+        <p>{raceReasoning[selectedRace]}</p>
+      </section>
+    </div>
+  );
+}
+export default App;

@@ -1,0 +1,402 @@
+:root {
+  font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+  color: #1f2937;
+  background-color: #f1f5f9;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+h1,
+h2,
+p {
+  margin: 0;
+}
+
+.hello {
+  color: blue;
+}
+
+.app {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 1rem;
+  display: grid;
+  gap: 1rem;
+}
+
+.card {
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  padding: 1rem;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+  gap: 1rem;
+}
+
+.subtle {
+  color: #64748b;
+  font-size: 0.82rem;
+  margin-bottom: 0.25rem;
+}
+
+.selector {
+  display: grid;
+  gap: 0.4rem;
+  min-width: 230px;
+}
+
+.selector span {
+  color: #475569;
+  font-size: 0.86rem;
+}
+
+select {
+  border: 1px solid #cbd5e1;
+  border-radius: 8px;
+  padding: 0.55rem 0.65rem;
+  font-size: 0.95rem;
+}
+
+.podium {
+  margin-top: 0.75rem;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.75rem;
+}
+
+.podium-card {
+  border: 1px solid #e2e8f0;
+  border-radius: 10px;
+  padding: 0.75rem;
+  background: #f8fafc;
+}
+
+.rank {
+  color: #64748b;
+  font-size: 0.8rem;
+}
+
+.driver {
+  font-weight: 600;
+  margin-top: 0.2rem;
+}
+
+.team {
+  color: #475569;
+  margin-top: 0.2rem;
+}
+
+.chance {
+  color: #0f766e;
+  font-weight: 700;
+  margin-top: 0.45rem;
+}
+
+.table-wrap {
+  margin-top: 0.75rem;
+  overflow-x: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  text-align: left;
+  border-bottom: 1px solid #e2e8f0;
+  padding: 0.65rem;
+  white-space: nowrap;
+}
+
+th {
+  color: #475569;
+  font-size: 0.82rem;
+}
+
+@media (max-width: 760px) {
+  .header {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .selector {
+    min-width: 0;
+  }
+
+  .podium {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* New styles for backtesting dashboard */
+
+.selectors {
+  display: flex;
+  gap: 1rem;
+}
+
+.selection-display {
+  text-align: center;
+  margin: 1rem 0;
+}
+
+.kpi-section {
+  margin: 1rem 0;
+}
+
+.kpi-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+}
+
+.kpi-card {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  border-radius: 12px;
+  padding: 1.5rem;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.kpi-card h3 {
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+}
+
+.kpi-card p {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.podium-comparison {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  margin: 1rem 0;
+}
+
+.podium-section h3 {
+  text-align: center;
+  margin-bottom: 0.5rem;
+  font-size: 1.2rem;
+}
+
+.podium-card.predicted {
+  background: #e0f2fe;
+  border-color: #0284c7;
+}
+
+.podium-card.actual {
+  background: #f0fdf4;
+  border-color: #16a34a;
+}
+
+.probability {
+  color: #0f766e;
+  font-weight: 700;
+  margin-top: 0.45rem;
+}
+
+.result-summary {
+  margin: 1rem 0;
+}
+
+.summary-card {
+  background: #fef3c7;
+  border: 1px solid #f59e0b;
+  border-radius: 12px;
+  padding: 1rem;
+  text-align: center;
+}
+
+.summary-card h3 {
+  margin-bottom: 0.5rem;
+}
+
+.badge {
+  display: inline-block;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  font-weight: bold;
+}
+
+.badge.correct {
+  background: #dcfce7;
+  color: #166534;
+}
+
+.badge.incorrect {
+  background: #fee2e2;
+  color: #991b1b;
+}
+
+.rankings-section {
+  margin-top: 1rem;
+}
+
+@media (max-width: 760px) {
+  .selectors {
+    flex-direction: column;
+  }
+
+  .podium-comparison {
+    grid-template-columns: 1fr;
+  }
+
+  .kpi-cards {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Landing Page Styles */
+
+.landing {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+  background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+  color: white;
+}
+
+.landing-hero {
+  text-align: center;
+  margin-bottom: 3rem;
+  max-width: 600px;
+}
+
+.landing-title {
+  font-size: 3.5rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+  letter-spacing: -1px;
+}
+
+.landing-subtitle {
+  font-size: 1.5rem;
+  color: #94a3b8;
+  margin-bottom: 1rem;
+}
+
+.landing-description {
+  font-size: 1.1rem;
+  color: #cbd5e1;
+  line-height: 1.6;
+}
+
+.landing-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  margin-bottom: 3rem;
+  max-width: 900px;
+  width: 100%;
+}
+
+.landing-card {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 16px;
+  padding: 2rem;
+  text-decoration: none;
+  color: inherit;
+  transition: all 0.3s ease;
+  backdrop-filter: blur(10px);
+  display: flex;
+  flex-direction: column;
+}
+
+.landing-card:hover {
+  background: rgba(255, 255, 255, 0.08);
+  border-color: rgba(255, 255, 255, 0.2);
+  transform: translateY(-4px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+}
+
+.landing-card h2 {
+  font-size: 1.8rem;
+  margin-bottom: 0.75rem;
+  font-weight: 600;
+}
+
+.landing-card p {
+  font-size: 0.95rem;
+  color: #cbd5e1;
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+  flex-grow: 1;
+}
+
+.card-cta {
+  font-weight: 600;
+  color: #60a5fa;
+  font-size: 0.95rem;
+}
+
+.predictions-card:hover .card-cta {
+  color: #93c5fd;
+}
+
+.backtesting-card:hover .card-cta {
+  color: #93c5fd;
+}
+
+.landing-footer {
+  text-align: center;
+  color: #94a3b8;
+  font-size: 0.9rem;
+  max-width: 500px;
+}
+
+/* Navigation */
+
+.page-nav {
+  padding: 1rem;
+  background: transparent;
+}
+
+.nav-link {
+  color: #64748b;
+  text-decoration: none;
+  font-size: 0.95rem;
+  transition: color 0.2s ease;
+  display: inline-block;
+}
+
+.nav-link:hover {
+  color: #1f2937;
+}
+
+@media (max-width: 760px) {
+  .landing {
+    padding: 1.5rem;
+  }
+
+  .landing-title {
+    font-size: 2.5rem;
+  }
+
+  .landing-subtitle {
+    font-size: 1.2rem;
+  }
+
+  .landing-cards {
+    grid-template-columns: 1fr;
+  }
+}

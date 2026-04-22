@@ -1,0 +1,501 @@
+season,round,race_name,circuit_id,circuit_name,race_date,driver_id,driver_code,given_name,family_name,constructor_id,constructor_name,grid,position,points,status,qualifying_position,q1,q2,q3,podium,finished_race,monaco_flag,singapore_flag,bahrain_flag
+2021,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2021-03-28,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,2,1,25,Finished,2.0,1:30.617,1:30.085,1:29.385,1,1,0,0,1
+2021,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2021-03-28,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,1,2,18,Finished,1.0,1:30.499,1:30.318,1:28.997,1,1,0,0,1
+2021,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2021-03-28,bottas,BOT,Valtteri,Bottas,mercedes,Mercedes,3,3,16,Finished,3.0,1:31.200,1:30.186,1:29.586,1,1,0,0,1
+2021,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2021-03-28,norris,NOR,Lando,Norris,mclaren,McLaren,7,4,12,Finished,7.0,1:30.902,1:30.099,1:29.974,0,1,0,0,1
+2021,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2021-03-28,perez,PER,Sergio,Pérez,red_bull,Red Bull,0,5,10,Finished,11.0,1:31.165,1:30.659,,0,1,0,0,1
+2021,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2021-03-28,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,4,6,8,Finished,4.0,1:30.691,1:30.010,1:29.678,0,1,0,0,1
+2021,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2021-03-28,ricciardo,RIC,Daniel,Ricciardo,mclaren,McLaren,6,7,6,Finished,6.0,1:30.795,1:30.222,1:29.927,0,1,0,0,1
+2021,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2021-03-28,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,8,8,4,Finished,8.0,1:31.653,1:30.009,1:30.215,0,1,0,0,1
+2021,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2021-03-28,tsunoda,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,13,9,2,Finished,13.0,1:30.607,1:31.203,,0,1,0,0,1
+2021,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2021-03-28,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,10,10,1,Finished,10.0,1:31.261,1:30.624,1:30.601,0,1,0,0,1
+2021,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2021-03-28,raikkonen,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,14,11,0,Finished,14.0,1:31.547,1:31.238,,0,1,0,0,1
+2021,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2021-03-28,giovinazzi,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,12,12,0,+1 Lap,12.0,1:30.998,1:30.708,,0,0,0,0,1
+2021,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2021-03-28,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,16,13,0,+1 Lap,16.0,1:31.724,,,0,0,0,0,1
+2021,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2021-03-28,russell,RUS,George,Russell,williams,Williams,15,14,0,+1 Lap,15.0,1:31.316,1:33.430,,0,0,0,0,1
+2021,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2021-03-28,vettel,VET,Sebastian,Vettel,aston_martin,Aston Martin,20,15,0,+1 Lap,18.0,1:32.056,,,0,0,0,0,1
+2021,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2021-03-28,mick_schumacher,MSC,Mick,Schumacher,haas,Haas F1 Team,18,16,0,+1 Lap,19.0,1:32.449,,,0,0,0,0,1
+2021,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2021-03-28,gasly,GAS,Pierre,Gasly,alphatauri,AlphaTauri,5,17,0,Retired,5.0,1:30.848,1:30.513,1:29.809,0,0,0,0,1
+2021,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2021-03-28,latifi,LAT,Nicholas,Latifi,williams,Williams,17,18,0,Retired,17.0,1:31.936,,,0,0,0,0,1
+2021,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2021-03-28,alonso,ALO,Fernando,Alonso,alpine,Alpine F1 Team,9,19,0,Brakes,9.0,1:30.863,1:30.595,1:30.249,0,0,0,0,1
+2021,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2021-03-28,mazepin,MAZ,Nikita,Mazepin,haas,Haas F1 Team,19,20,0,Accident,20.0,1:33.273,,,0,0,0,0,1
+2021,2,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2021-04-18,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,3,1,25,Finished,3.0,1:15.109,1:14.884,1:14.498,1,1,0,0,0
+2021,2,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2021-04-18,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,1,2,19,Finished,1.0,1:14.823,1:14.817,1:14.411,1,1,0,0,0
+2021,2,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2021-04-18,norris,NOR,Lando,Norris,mclaren,McLaren,7,3,15,Finished,7.0,1:15.009,1:14.718,1:14.875,1,1,0,0,0
+2021,2,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2021-04-18,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,4,4,12,Finished,4.0,1:15.413,1:14.808,1:14.740,0,1,0,0,0
+2021,2,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2021-04-18,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,11,5,10,Finished,11.0,1:15.406,1:15.199,,0,1,0,0,0
+2021,2,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2021-04-18,ricciardo,RIC,Daniel,Ricciardo,mclaren,McLaren,6,6,8,Finished,6.0,1:15.669,1:15.033,1:14.826,0,1,0,0,0
+2021,2,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2021-04-18,gasly,GAS,Pierre,Gasly,alphatauri,AlphaTauri,5,7,6,Finished,5.0,1:15.548,1:14.927,1:14.790,0,1,0,0,0
+2021,2,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2021-04-18,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,10,8,4,Finished,10.0,1:15.522,1:15.138,,0,1,0,0,0
+2021,2,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2021-04-18,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,9,9,2,Finished,9.0,1:15.385,1:15.117,1:15.210,0,1,0,0,0
+2021,2,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2021-04-18,alonso,ALO,Fernando,Alonso,alpine,Alpine F1 Team,15,10,1,Finished,15.0,1:15.832,1:15.593,,0,1,0,0,0
+2021,2,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2021-04-18,perez,PER,Sergio,Pérez,red_bull,Red Bull,2,11,0,Finished,2.0,1:15.395,1:14.716,1:14.446,0,1,0,0,0
+2021,2,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2021-04-18,tsunoda,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,20,12,0,Finished,20.0,,,,0,1,0,0,0
+2021,2,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2021-04-18,raikkonen,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,16,13,0,Finished,16.0,1:15.974,,,0,1,0,0,0
+2021,2,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2021-04-18,giovinazzi,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,17,14,0,+1 Lap,17.0,1:16.122,,,0,0,0,0,0
+2021,2,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2021-04-18,vettel,VET,Sebastian,Vettel,aston_martin,Aston Martin,0,15,0,Gearbox,13.0,1:15.459,1:15.394,,0,0,0,0,0
+2021,2,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2021-04-18,mick_schumacher,MSC,Mick,Schumacher,haas,Haas F1 Team,18,16,0,+2 Laps,18.0,1:16.279,,,0,0,0,0,0
+2021,2,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2021-04-18,mazepin,MAZ,Nikita,Mazepin,haas,Haas F1 Team,19,17,0,+2 Laps,19.0,1:16.797,,,0,0,0,0,0
+2021,2,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2021-04-18,bottas,BOT,Valtteri,Bottas,mercedes,Mercedes,8,18,0,Collision,8.0,1:14.672,1:14.905,1:14.898,0,0,0,0,0
+2021,2,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2021-04-18,russell,RUS,George,Russell,williams,Williams,12,19,0,Collision,12.0,1:15.826,1:15.261,,0,0,0,0,0
+2021,2,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2021-04-18,latifi,LAT,Nicholas,Latifi,williams,Williams,14,20,0,Collision,14.0,1:15.653,1:15.593,,0,0,0,0,0
+2021,3,Portuguese Grand Prix,portimao,Autódromo Internacional do Algarve,2021-05-02,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,2,1,25,Finished,2.0,1:18.857,1:17.968,1:18.355,1,1,0,0,0
+2021,3,Portuguese Grand Prix,portimao,Autódromo Internacional do Algarve,2021-05-02,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,3,2,18,Finished,3.0,1:19.485,1:18.650,1:18.746,1,1,0,0,0
+2021,3,Portuguese Grand Prix,portimao,Autódromo Internacional do Algarve,2021-05-02,bottas,BOT,Valtteri,Bottas,mercedes,Mercedes,1,3,16,Finished,1.0,1:18.722,1:18.458,1:18.348,1,1,0,0,0
+2021,3,Portuguese Grand Prix,portimao,Autódromo Internacional do Algarve,2021-05-02,perez,PER,Sergio,Pérez,red_bull,Red Bull,4,4,12,Finished,4.0,1:19.337,1:18.845,1:18.890,0,1,0,0,0
+2021,3,Portuguese Grand Prix,portimao,Autódromo Internacional do Algarve,2021-05-02,norris,NOR,Lando,Norris,mclaren,McLaren,7,5,10,Finished,7.0,1:18.794,1:18.481,1:19.116,0,1,0,0,0
+2021,3,Portuguese Grand Prix,portimao,Autódromo Internacional do Algarve,2021-05-02,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,8,6,8,Finished,8.0,1:19.373,1:18.769,1:19.306,0,1,0,0,0
+2021,3,Portuguese Grand Prix,portimao,Autódromo Internacional do Algarve,2021-05-02,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,6,7,6,Finished,6.0,1:19.092,1:18.586,1:19.042,0,1,0,0,0
+2021,3,Portuguese Grand Prix,portimao,Autódromo Internacional do Algarve,2021-05-02,alonso,ALO,Fernando,Alonso,alpine,Alpine F1 Team,13,8,4,Finished,13.0,1:19.728,1:19.456,,0,1,0,0,0
+2021,3,Portuguese Grand Prix,portimao,Autódromo Internacional do Algarve,2021-05-02,ricciardo,RIC,Daniel,Ricciardo,mclaren,McLaren,16,9,2,Finished,16.0,1:19.839,,,0,1,0,0,0
+2021,3,Portuguese Grand Prix,portimao,Autódromo Internacional do Algarve,2021-05-02,gasly,GAS,Pierre,Gasly,alphatauri,AlphaTauri,9,10,1,Finished,9.0,1:19.464,1:19.052,1:19.475,0,1,0,0,0
+2021,3,Portuguese Grand Prix,portimao,Autódromo Internacional do Algarve,2021-05-02,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,5,11,0,Finished,5.0,1:19.309,1:18.813,1:19.039,0,1,0,0,0
+2021,3,Portuguese Grand Prix,portimao,Autódromo Internacional do Algarve,2021-05-02,giovinazzi,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,12,12,0,+1 Lap,12.0,1:19.410,1:19.216,,0,0,0,0,0
+2021,3,Portuguese Grand Prix,portimao,Autódromo Internacional do Algarve,2021-05-02,vettel,VET,Sebastian,Vettel,aston_martin,Aston Martin,10,13,0,+1 Lap,10.0,1:19.403,1:18.970,1:19.659,0,0,0,0,0
+2021,3,Portuguese Grand Prix,portimao,Autódromo Internacional do Algarve,2021-05-02,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,17,14,0,+1 Lap,17.0,1:19.913,,,0,0,0,0,0
+2021,3,Portuguese Grand Prix,portimao,Autódromo Internacional do Algarve,2021-05-02,tsunoda,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,14,15,0,+1 Lap,14.0,1:19.684,1:19.463,,0,0,0,0,0
+2021,3,Portuguese Grand Prix,portimao,Autódromo Internacional do Algarve,2021-05-02,russell,RUS,George,Russell,williams,Williams,11,16,0,+1 Lap,11.0,1:19.797,1:19.109,,0,0,0,0,0
+2021,3,Portuguese Grand Prix,portimao,Autódromo Internacional do Algarve,2021-05-02,mick_schumacher,MSC,Mick,Schumacher,haas,Haas F1 Team,19,17,0,+2 Laps,19.0,1:20.452,,,0,0,0,0,0
+2021,3,Portuguese Grand Prix,portimao,Autódromo Internacional do Algarve,2021-05-02,latifi,LAT,Nicholas,Latifi,williams,Williams,18,18,0,+2 Laps,18.0,1:20.285,,,0,0,0,0,0
+2021,3,Portuguese Grand Prix,portimao,Autódromo Internacional do Algarve,2021-05-02,mazepin,MAZ,Nikita,Mazepin,haas,Haas F1 Team,20,19,0,+2 Laps,20.0,1:20.912,,,0,0,0,0,0
+2021,3,Portuguese Grand Prix,portimao,Autódromo Internacional do Algarve,2021-05-02,raikkonen,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,15,20,0,Collision damage,15.0,1:19.748,1:19.812,,0,0,0,0,0
+2021,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2021-05-09,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,1,1,25,Finished,1.0,1:18.245,1:17.166,1:16.741,1,1,0,0,0
+2021,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2021-05-09,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,2,2,19,Finished,2.0,1:18.090,1:16.922,1:16.777,1,1,0,0,0
+2021,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2021-05-09,bottas,BOT,Valtteri,Bottas,mercedes,Mercedes,3,3,15,Finished,3.0,1:18.005,1:17.142,1:16.873,1,1,0,0,0
+2021,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2021-05-09,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,4,4,12,Finished,4.0,1:18.041,1:17.717,1:17.510,0,1,0,0,0
+2021,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2021-05-09,perez,PER,Sergio,Pérez,red_bull,Red Bull,8,5,10,Finished,8.0,1:18.203,1:17.669,1:17.701,0,1,0,0,0
+2021,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2021-05-09,ricciardo,RIC,Daniel,Ricciardo,mclaren,McLaren,7,6,8,Finished,7.0,1:18.264,1:17.719,1:17.622,0,1,0,0,0
+2021,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2021-05-09,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,6,7,6,Finished,6.0,1:18.205,1:17.656,1:17.620,0,1,0,0,0
+2021,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2021-05-09,norris,NOR,Lando,Norris,mclaren,McLaren,9,8,4,+1 Lap,9.0,1:17.821,1:17.696,1:18.010,0,0,0,0,0
+2021,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2021-05-09,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,5,9,2,+1 Lap,5.0,1:18.281,1:17.743,1:17.580,0,0,0,0,0
+2021,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2021-05-09,gasly,GAS,Pierre,Gasly,alphatauri,AlphaTauri,12,10,1,+1 Lap,12.0,1:18.190,1:17.982,,0,0,0,0,0
+2021,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2021-05-09,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,11,11,0,+1 Lap,11.0,1:18.241,1:17.974,,0,0,0,0,0
+2021,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2021-05-09,raikkonen,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,17,12,0,+1 Lap,17.0,1:18.917,,,0,0,0,0,0
+2021,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2021-05-09,vettel,VET,Sebastian,Vettel,aston_martin,Aston Martin,13,13,0,+1 Lap,13.0,1:18.289,1:18.079,,0,0,0,0,0
+2021,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2021-05-09,russell,RUS,George,Russell,williams,Williams,15,14,0,+1 Lap,15.0,1:18.445,1:19.154,,0,0,0,0,0
+2021,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2021-05-09,giovinazzi,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,14,15,0,+1 Lap,14.0,1:18.549,1:18.356,,0,0,0,0,0
+2021,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2021-05-09,latifi,LAT,Nicholas,Latifi,williams,Williams,19,16,0,+1 Lap,19.0,1:19.219,,,0,0,0,0,0
+2021,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2021-05-09,alonso,ALO,Fernando,Alonso,alpine,Alpine F1 Team,10,17,0,+1 Lap,10.0,1:18.281,1:17.966,1:18.147,0,0,0,0,0
+2021,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2021-05-09,mick_schumacher,MSC,Mick,Schumacher,haas,Haas F1 Team,18,18,0,+2 Laps,18.0,1:19.117,,,0,0,0,0,0
+2021,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2021-05-09,mazepin,MAZ,Nikita,Mazepin,haas,Haas F1 Team,20,19,0,+2 Laps,20.0,1:19.807,,,0,0,0,0,0
+2021,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2021-05-09,tsunoda,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,16,20,0,Electrical,16.0,1:18.556,,,0,0,0,0,0
+2021,5,Monaco Grand Prix,monaco,Circuit de Monaco,2021-05-23,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,2,1,25,Finished,2.0,1:11.124,1:10.650,1:10.576,1,1,1,0,0
+2021,5,Monaco Grand Prix,monaco,Circuit de Monaco,2021-05-23,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,4,2,18,Finished,4.0,1:11.324,1:10.806,1:10.611,1,1,1,0,0
+2021,5,Monaco Grand Prix,monaco,Circuit de Monaco,2021-05-23,norris,NOR,Lando,Norris,mclaren,McLaren,5,3,15,Finished,5.0,1:11.321,1:11.031,1:10.620,1,1,1,0,0
+2021,5,Monaco Grand Prix,monaco,Circuit de Monaco,2021-05-23,perez,PER,Sergio,Pérez,red_bull,Red Bull,9,4,12,Finished,9.0,1:11.644,1:11.019,1:11.573,0,1,1,0,0
+2021,5,Monaco Grand Prix,monaco,Circuit de Monaco,2021-05-23,vettel,VET,Sebastian,Vettel,aston_martin,Aston Martin,8,5,10,Finished,8.0,1:12.078,1:11.309,1:11.419,0,1,1,0,0
+2021,5,Monaco Grand Prix,monaco,Circuit de Monaco,2021-05-23,gasly,GAS,Pierre,Gasly,alphatauri,AlphaTauri,6,6,8,Finished,6.0,1:11.560,1:11.179,1:10.900,0,1,1,0,0
+2021,5,Monaco Grand Prix,monaco,Circuit de Monaco,2021-05-23,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,7,7,7,Finished,7.0,1:11.622,1:11.116,1:11.095,0,1,1,0,0
+2021,5,Monaco Grand Prix,monaco,Circuit de Monaco,2021-05-23,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,13,8,4,+1 Lap,13.0,1:11.979,1:11.600,,0,0,1,0,0
+2021,5,Monaco Grand Prix,monaco,Circuit de Monaco,2021-05-23,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,11,9,2,+1 Lap,11.0,1:11.740,1:11.486,,0,0,1,0,0
+2021,5,Monaco Grand Prix,monaco,Circuit de Monaco,2021-05-23,giovinazzi,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,10,10,1,+1 Lap,10.0,1:11.658,1:11.409,1:11.779,0,0,1,0,0
+2021,5,Monaco Grand Prix,monaco,Circuit de Monaco,2021-05-23,raikkonen,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,14,11,0,+1 Lap,14.0,1:11.899,1:11.642,,0,0,1,0,0
+2021,5,Monaco Grand Prix,monaco,Circuit de Monaco,2021-05-23,ricciardo,RIC,Daniel,Ricciardo,mclaren,McLaren,12,12,0,+1 Lap,12.0,1:11.747,1:11.598,,0,0,1,0,0
+2021,5,Monaco Grand Prix,monaco,Circuit de Monaco,2021-05-23,alonso,ALO,Fernando,Alonso,alpine,Alpine F1 Team,17,13,0,+1 Lap,17.0,1:12.205,,,0,0,1,0,0
+2021,5,Monaco Grand Prix,monaco,Circuit de Monaco,2021-05-23,russell,RUS,George,Russell,williams,Williams,15,14,0,+1 Lap,15.0,1:12.016,1:11.830,,0,0,1,0,0
+2021,5,Monaco Grand Prix,monaco,Circuit de Monaco,2021-05-23,latifi,LAT,Nicholas,Latifi,williams,Williams,18,15,0,+1 Lap,18.0,1:12.366,,,0,0,1,0,0
+2021,5,Monaco Grand Prix,monaco,Circuit de Monaco,2021-05-23,tsunoda,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,16,16,0,+1 Lap,16.0,1:12.096,,,0,0,1,0,0
+2021,5,Monaco Grand Prix,monaco,Circuit de Monaco,2021-05-23,mazepin,MAZ,Nikita,Mazepin,haas,Haas F1 Team,19,17,0,+3 Laps,19.0,1:12.958,,,0,0,1,0,0
+2021,5,Monaco Grand Prix,monaco,Circuit de Monaco,2021-05-23,mick_schumacher,MSC,Mick,Schumacher,haas,Haas F1 Team,20,18,0,+3 Laps,,,,,0,0,1,0,0
+2021,5,Monaco Grand Prix,monaco,Circuit de Monaco,2021-05-23,bottas,BOT,Valtteri,Bottas,mercedes,Mercedes,3,19,0,Wheel nut,3.0,1:10.938,1:10.695,1:10.601,0,0,1,0,0
+2021,5,Monaco Grand Prix,monaco,Circuit de Monaco,2021-05-23,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,1,20,0,Driveshaft,1.0,1:11.113,1:10.597,1:10.346,0,0,1,0,0
+2022,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2022-03-20,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,1,1,26,Finished,1.0,1:31.471,1:30.932,1:30.558,1,1,0,0,1
+2022,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2022-03-20,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,3,2,18,Finished,3.0,1:31.567,1:30.787,1:30.687,1,1,0,0,1
+2022,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2022-03-20,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,5,3,15,Finished,5.0,1:32.285,1:31.048,1:31.238,1,1,0,0,1
+2022,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2022-03-20,russell,RUS,George,Russell,mercedes,Mercedes,9,4,12,Finished,9.0,1:32.269,1:31.252,1:32.216,0,1,0,0,1
+2022,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2022-03-20,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,7,5,10,Finished,7.0,1:31.955,1:31.461,1:31.808,0,1,0,0,1
+2022,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2022-03-20,bottas,BOT,Valtteri,Bottas,alfa,Alfa Romeo,6,6,8,Finished,6.0,1:31.919,1:31.717,1:31.560,0,1,0,0,1
+2022,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2022-03-20,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,11,7,6,Finished,11.0,1:32.041,1:31.782,,0,1,0,0,1
+2022,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2022-03-20,tsunoda,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,16,8,4,Finished,16.0,1:32.750,,,0,1,0,0,1
+2022,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2022-03-20,alonso,ALO,Fernando,Alonso,alpine,Alpine F1 Team,8,9,2,Finished,8.0,1:32.346,1:31.621,1:32.195,0,1,0,0,1
+2022,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2022-03-20,zhou,ZHO,Guanyu,Zhou,alfa,Alfa Romeo,15,10,1,Finished,15.0,1:32.493,1:33.543,,0,1,0,0,1
+2022,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2022-03-20,mick_schumacher,MSC,Mick,Schumacher,haas,Haas F1 Team,12,11,0,Finished,12.0,1:32.380,1:31.998,,0,1,0,0,1
+2022,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2022-03-20,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,19,12,0,Finished,19.0,1:33.032,,,0,1,0,0,1
+2022,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2022-03-20,albon,ALB,Alexander,Albon,williams,Williams,14,13,0,Finished,14.0,1:32.726,1:32.664,,0,1,0,0,1
+2022,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2022-03-20,ricciardo,RIC,Daniel,Ricciardo,mclaren,McLaren,18,14,0,Finished,18.0,1:32.945,,,0,1,0,0,1
+2022,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2022-03-20,norris,NOR,Lando,Norris,mclaren,McLaren,13,15,0,Finished,13.0,1:32.239,1:32.008,,0,1,0,0,1
+2022,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2022-03-20,latifi,LAT,Nicholas,Latifi,williams,Williams,20,16,0,Finished,20.0,1:33.634,,,0,1,0,0,1
+2022,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2022-03-20,hulkenberg,HUL,Nico,Hülkenberg,aston_martin,Aston Martin,17,17,0,Finished,17.0,1:32.777,,,0,1,0,0,1
+2022,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2022-03-20,perez,PER,Sergio,Pérez,red_bull,Red Bull,4,18,0,Fuel pressure,4.0,1:32.311,1:31.008,1:30.921,0,0,0,0,1
+2022,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2022-03-20,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,2,19,0,Fuel pressure,2.0,1:31.785,1:30.757,1:30.681,0,0,0,0,1
+2022,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2022-03-20,gasly,GAS,Pierre,Gasly,alphatauri,AlphaTauri,10,20,0,Power Unit,10.0,1:32.096,1:31.635,1:32.338,0,0,0,0,1
+2022,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2022-03-27,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,4,1,25,Finished,4.0,1:28.928,1:28.945,1:28.461,1,1,0,0,0
+2022,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2022-03-27,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,2,2,19,Finished,2.0,1:29.039,1:28.780,1:28.225,1,1,0,0,0
+2022,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2022-03-27,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,3,3,15,Finished,3.0,1:28.855,1:28.686,1:28.402,1,1,0,0,0
+2022,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2022-03-27,perez,PER,Sergio,Pérez,red_bull,Red Bull,1,4,12,Finished,1.0,1:29.705,1:28.924,1:28.200,0,1,0,0,0
+2022,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2022-03-27,russell,RUS,George,Russell,mercedes,Mercedes,6,5,10,Finished,6.0,1:29.680,1:29.618,1:29.104,0,1,0,0,0
+2022,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2022-03-27,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,5,6,8,Finished,5.0,1:30.093,1:29.584,1:29.068,0,1,0,0,0
+2022,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2022-03-27,norris,NOR,Lando,Norris,mclaren,McLaren,11,7,6,Finished,11.0,1:29.957,1:29.651,,0,1,0,0,0
+2022,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2022-03-27,gasly,GAS,Pierre,Gasly,alphatauri,AlphaTauri,9,8,4,Finished,9.0,1:29.891,1:29.418,1:29.254,0,1,0,0,0
+2022,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2022-03-27,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,10,9,2,Finished,10.0,1:29.831,1:29.546,1:29.588,0,1,0,0,0
+2022,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2022-03-27,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,15,10,1,Finished,16.0,1:30.343,,,0,1,0,0,0
+2022,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2022-03-27,zhou,ZHO,Guanyu,Zhou,alfa,Alfa Romeo,12,11,0,Finished,13.0,1:29.978,1:29.819,,0,1,0,0,0
+2022,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2022-03-27,hulkenberg,HUL,Nico,Hülkenberg,aston_martin,Aston Martin,17,12,0,Finished,18.0,1:30.543,,,0,1,0,0,0
+2022,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2022-03-27,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,13,13,0,+1 Lap,15.0,1:30.256,1:31.009,,0,0,0,0,0
+2022,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2022-03-27,albon,ALB,Alexander,Albon,williams,Williams,16,14,0,Collision damage,17.0,1:30.492,,,0,0,0,0,0
+2022,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2022-03-27,bottas,BOT,Valtteri,Bottas,alfa,Alfa Romeo,8,15,0,Cooling system,8.0,1:29.683,1:29.404,1:29.183,0,0,0,0,0
+2022,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2022-03-27,alonso,ALO,Fernando,Alonso,alpine,Alpine F1 Team,7,16,0,Water pump,7.0,1:29.978,1:29.295,1:29.147,0,0,0,0,0
+2022,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2022-03-27,ricciardo,RIC,Daniel,Ricciardo,mclaren,McLaren,14,17,0,Gearbox,12.0,1:30.009,1:29.773,,0,0,0,0,0
+2022,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2022-03-27,latifi,LAT,Nicholas,Latifi,williams,Williams,18,18,0,Accident,19.0,1:31.817,,,0,0,0,0,0
+2022,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2022-03-27,tsunoda,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,19,19,0,Power Unit,20.0,,,,0,0,0,0,0
+2022,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2022-03-27,mick_schumacher,MSC,Mick,Schumacher,haas,Haas F1 Team,0,20,0,Withdrew,14.0,1:30.167,1:29.920,,0,0,0,0,0
+2022,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2022-04-10,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,1,1,26,Finished,1.0,1:18.881,1:18.606,1:17.868,1,1,0,0,0
+2022,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2022-04-10,perez,PER,Sergio,Pérez,red_bull,Red Bull,3,2,18,Finished,3.0,1:18.834,1:18.340,1:18.240,1,1,0,0,0
+2022,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2022-04-10,russell,RUS,George,Russell,mercedes,Mercedes,6,3,15,Finished,6.0,1:19.405,1:19.076,1:18.933,1,1,0,0,0
+2022,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2022-04-10,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,5,4,12,Finished,5.0,1:19.401,1:19.106,1:18.825,0,1,0,0,0
+2022,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2022-04-10,norris,NOR,Lando,Norris,mclaren,McLaren,4,5,10,Finished,4.0,1:19.280,1:19.066,1:18.703,0,1,0,0,0
+2022,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2022-04-10,ricciardo,RIC,Daniel,Ricciardo,mclaren,McLaren,7,6,8,Finished,7.0,1:19.665,1:19.130,1:19.032,0,1,0,0,0
+2022,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2022-04-10,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,8,7,6,Finished,8.0,1:19.605,1:19.136,1:19.061,0,1,0,0,0
+2022,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2022-04-10,bottas,BOT,Valtteri,Bottas,alfa,Alfa Romeo,12,8,4,Finished,12.0,1:19.251,1:19.410,,0,1,0,0,0
+2022,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2022-04-10,gasly,GAS,Pierre,Gasly,alphatauri,AlphaTauri,11,9,2,Finished,11.0,1:19.580,1:19.226,,0,1,0,0,0
+2022,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2022-04-10,albon,ALB,Alexander,Albon,williams,Williams,20,10,1,Finished,16.0,1:20.135,,,0,1,0,0,0
+2022,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2022-04-10,zhou,ZHO,Guanyu,Zhou,alfa,Alfa Romeo,14,11,0,Finished,14.0,1:19.910,1:20.155,,0,1,0,0,0
+2022,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2022-04-10,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,19,12,0,Finished,20.0,,,,0,1,0,0,0
+2022,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2022-04-10,mick_schumacher,MSC,Mick,Schumacher,haas,Haas F1 Team,15,13,0,+1 Lap,15.0,1:20.104,1:20.465,,0,0,0,0,0
+2022,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2022-04-10,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,16,14,0,+1 Lap,17.0,1:20.254,,,0,0,0,0,0
+2022,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2022-04-10,tsunoda,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,13,15,0,+1 Lap,13.0,1:19.742,1:19.424,,0,0,0,0,0
+2022,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2022-04-10,latifi,LAT,Nicholas,Latifi,williams,Williams,18,16,0,+1 Lap,19.0,1:21.372,,,0,0,0,0,0
+2022,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2022-04-10,alonso,ALO,Fernando,Alonso,alpine,Alpine F1 Team,10,17,0,+1 Lap,10.0,1:19.192,1:18.815,,0,0,0,0,0
+2022,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2022-04-10,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,2,18,0,Fuel leak,2.0,1:18.580,1:18.611,1:18.154,0,0,0,0,0
+2022,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2022-04-10,vettel,VET,Sebastian,Vettel,aston_martin,Aston Martin,17,19,0,Accident,18.0,1:21.149,,,0,0,0,0,0
+2022,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2022-04-10,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,9,20,0,Spun off,9.0,1:18.983,1:18.469,1:19.408,0,0,0,0,0
+2022,4,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2022-04-24,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,1,1,26,Finished,1.0,1:19.295,1:18.793,1:27.999,1,1,0,0,0
+2022,4,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2022-04-24,perez,PER,Sergio,Pérez,red_bull,Red Bull,3,2,18,Finished,7.0,1:19.773,1:19.296,1:29.808,1,1,0,0,0
+2022,4,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2022-04-24,norris,NOR,Lando,Norris,mclaren,McLaren,5,3,15,Finished,3.0,1:20.168,1:19.294,1:29.131,1,1,0,0,0
+2022,4,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2022-04-24,russell,RUS,George,Russell,mercedes,Mercedes,11,4,12,Finished,11.0,1:20.383,1:20.757,,0,1,0,0,0
+2022,4,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2022-04-24,bottas,BOT,Valtteri,Bottas,alfa,Alfa Romeo,7,5,10,Finished,8.0,1:20.419,1:20.192,1:30.439,0,1,0,0,0
+2022,4,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2022-04-24,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,2,6,8,Finished,2.0,1:18.796,1:19.584,1:28.778,0,1,0,0,0
+2022,4,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2022-04-24,tsunoda,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,12,7,6,Finished,16.0,1:20.474,,,0,1,0,0,0
+2022,4,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2022-04-24,vettel,VET,Sebastian,Vettel,aston_martin,Aston Martin,13,8,4,Finished,9.0,1:20.364,1:19.957,1:31.062,0,1,0,0,0
+2022,4,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2022-04-24,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,8,9,2,Finished,4.0,1:20.147,1:19.902,1:29.164,0,1,0,0,0
+2022,4,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2022-04-24,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,15,10,1,+1 Lap,15.0,1:20.342,1:28.119,,0,0,0,0,0
+2022,4,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2022-04-24,albon,ALB,Alexander,Albon,williams,Williams,18,11,0,+1 Lap,20.0,,,,0,0,0,0,0
+2022,4,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2022-04-24,gasly,GAS,Pierre,Gasly,alphatauri,AlphaTauri,17,12,0,+1 Lap,17.0,1:20.732,,,0,0,0,0,0
+2022,4,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2022-04-24,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,14,13,0,+1 Lap,13.0,1:20.470,1:21.138,,0,0,0,0,0
+2022,4,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2022-04-24,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,16,14,0,+1 Lap,19.0,1:22.338,,,0,0,0,0,0
+2022,4,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2022-04-24,zhou,ZHO,Guanyu,Zhou,alfa,Alfa Romeo,0,15,0,+1 Lap,14.0,1:19.730,1:21.434,,0,0,0,0,0
+2022,4,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2022-04-24,latifi,LAT,Nicholas,Latifi,williams,Williams,19,16,0,+1 Lap,18.0,1:21.971,,,0,0,0,0,0
+2022,4,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2022-04-24,mick_schumacher,MSC,Mick,Schumacher,haas,Haas F1 Team,10,17,0,+1 Lap,12.0,1:20.422,1:20.916,,0,0,0,0,0
+2022,4,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2022-04-24,ricciardo,RIC,Daniel,Ricciardo,mclaren,McLaren,6,18,0,+1 Lap,6.0,1:19.980,1:20.031,1:29.742,0,0,0,0,0
+2022,4,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2022-04-24,alonso,ALO,Fernando,Alonso,alpine,Alpine F1 Team,9,19,0,Collision damage,5.0,1:20.198,1:19.595,1:29.202,0,0,0,0,0
+2022,4,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2022-04-24,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,4,20,0,Collision,10.0,1:19.305,1:18.990,,0,0,0,0,0
+2022,5,Miami Grand Prix,miami,Miami International Autodrome,2022-05-08,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,3,1,26,Finished,3.0,1:29.836,1:29.202,1:28.991,1,1,0,0,0
+2022,5,Miami Grand Prix,miami,Miami International Autodrome,2022-05-08,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,1,2,18,Finished,1.0,1:29.474,1:29.130,1:28.796,1,1,0,0,0
+2022,5,Miami Grand Prix,miami,Miami International Autodrome,2022-05-08,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,2,3,15,Finished,2.0,1:30.079,1:29.729,1:28.986,1,1,0,0,0
+2022,5,Miami Grand Prix,miami,Miami International Autodrome,2022-05-08,perez,PER,Sergio,Pérez,red_bull,Red Bull,4,4,12,Finished,4.0,1:30.055,1:29.673,1:29.036,0,1,0,0,0
+2022,5,Miami Grand Prix,miami,Miami International Autodrome,2022-05-08,russell,RUS,George,Russell,mercedes,Mercedes,12,5,10,Finished,12.0,1:30.490,1:30.173,,0,1,0,0,0
+2022,5,Miami Grand Prix,miami,Miami International Autodrome,2022-05-08,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,6,6,8,Finished,6.0,1:30.388,1:29.797,1:29.625,0,1,0,0,0
+2022,5,Miami Grand Prix,miami,Miami International Autodrome,2022-05-08,bottas,BOT,Valtteri,Bottas,alfa,Alfa Romeo,5,7,6,Finished,5.0,1:30.845,1:29.751,1:29.475,0,1,0,0,0
+2022,5,Miami Grand Prix,miami,Miami International Autodrome,2022-05-08,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,20,8,4,Finished,20.0,,,,0,1,0,0,0
+2022,5,Miami Grand Prix,miami,Miami International Autodrome,2022-05-08,albon,ALB,Alexander,Albon,williams,Williams,18,9,2,Finished,18.0,1:31.266,,,0,1,0,0,0
+2022,5,Miami Grand Prix,miami,Miami International Autodrome,2022-05-08,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,0,10,1,Finished,10.0,1:30.441,1:29.996,1:30.676,0,1,0,0,0
+2022,5,Miami Grand Prix,miami,Miami International Autodrome,2022-05-08,alonso,ALO,Fernando,Alonso,alpine,Alpine F1 Team,11,11,0,Finished,11.0,1:30.407,1:30.160,,0,1,0,0,0
+2022,5,Miami Grand Prix,miami,Miami International Autodrome,2022-05-08,tsunoda,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,9,12,0,Finished,9.0,1:30.485,1:30.031,1:29.932,0,1,0,0,0
+2022,5,Miami Grand Prix,miami,Miami International Autodrome,2022-05-08,ricciardo,RIC,Daniel,Ricciardo,mclaren,McLaren,14,13,0,Finished,14.0,1:30.583,1:30.310,,0,1,0,0,0
+2022,5,Miami Grand Prix,miami,Miami International Autodrome,2022-05-08,latifi,LAT,Nicholas,Latifi,williams,Williams,19,14,0,Finished,19.0,1:31.325,,,0,1,0,0,0
+2022,5,Miami Grand Prix,miami,Miami International Autodrome,2022-05-08,mick_schumacher,MSC,Mick,Schumacher,haas,Haas F1 Team,15,15,0,Finished,15.0,1:30.645,1:30.423,,0,1,0,0,0
+2022,5,Miami Grand Prix,miami,Miami International Autodrome,2022-05-08,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,16,16,0,Front wing,16.0,1:30.975,,,0,0,0,0,0
+2022,5,Miami Grand Prix,miami,Miami International Autodrome,2022-05-08,vettel,VET,Sebastian,Vettel,aston_martin,Aston Martin,0,17,0,Collision,13.0,1:30.677,1:30.214,,0,0,0,0,0
+2022,5,Miami Grand Prix,miami,Miami International Autodrome,2022-05-08,gasly,GAS,Pierre,Gasly,alphatauri,AlphaTauri,7,18,0,Suspension,7.0,1:30.779,1:30.128,1:29.690,0,0,0,0,0
+2022,5,Miami Grand Prix,miami,Miami International Autodrome,2022-05-08,norris,NOR,Lando,Norris,mclaren,McLaren,8,19,0,Collision,8.0,1:30.761,1:29.634,1:29.750,0,0,0,0,0
+2022,5,Miami Grand Prix,miami,Miami International Autodrome,2022-05-08,zhou,ZHO,Guanyu,Zhou,alfa,Alfa Romeo,17,20,0,Water leak,17.0,1:31.020,,,0,0,0,0,0
+2023,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2023-03-05,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,1,1,25,Finished,1.0,1:31.295,1:30.503,1:29.708,1,1,0,0,1
+2023,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2023-03-05,perez,PER,Sergio,Pérez,red_bull,Red Bull,2,2,18,Finished,2.0,1:31.479,1:30.746,1:29.846,1,1,0,0,1
+2023,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2023-03-05,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,5,3,15,Finished,5.0,1:31.158,1:30.645,1:30.336,1,1,0,0,1
+2023,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2023-03-05,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,4,4,12,Finished,4.0,1:30.993,1:30.515,1:30.154,0,1,0,0,1
+2023,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2023-03-05,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,7,5,10,Finished,7.0,1:31.543,1:30.513,1:30.384,0,1,0,0,1
+2023,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2023-03-05,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,8,6,8,Finished,8.0,1:31.184,1:31.127,1:30.836,0,1,0,0,1
+2023,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2023-03-05,russell,RUS,George,Russell,mercedes,Mercedes,6,7,6,Finished,6.0,1:31.057,1:30.507,1:30.340,0,1,0,0,1
+2023,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2023-03-05,bottas,BOT,Valtteri,Bottas,alfa,Alfa Romeo,12,8,4,Finished,12.0,1:31.504,1:31.443,,0,1,0,0,1
+2023,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2023-03-05,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,20,9,2,Finished,20.0,1:32.181,,,0,1,0,0,1
+2023,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2023-03-05,albon,ALB,Alexander,Albon,williams,Williams,15,10,1,Finished,15.0,1:31.461,,,0,1,0,0,1
+2023,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2023-03-05,tsunoda,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,14,11,0,Finished,14.0,1:31.400,1:32.510,,0,1,0,0,1
+2023,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2023-03-05,sargeant,SAR,Logan,Sargeant,williams,Williams,16,12,0,Lapped,16.0,1:31.652,,,0,0,0,0,1
+2023,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2023-03-05,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,17,13,0,Lapped,17.0,1:31.892,,,0,0,0,0,1
+2023,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2023-03-05,de_vries,DEV,Nyck,de Vries,alphatauri,AlphaTauri,19,14,0,Lapped,19.0,1:32.121,,,0,0,0,0,1
+2023,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2023-03-05,hulkenberg,HUL,Nico,Hülkenberg,haas,Haas F1 Team,10,15,0,Lapped,10.0,1:31.204,1:30.809,,0,0,0,0,1
+2023,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2023-03-05,zhou,ZHO,Guanyu,Zhou,alfa,Alfa Romeo,13,16,0,Lapped,13.0,1:31.615,1:31.473,,0,0,0,0,1
+2023,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2023-03-05,norris,NOR,Lando,Norris,mclaren,McLaren,11,17,0,Lapped,11.0,1:31.652,1:31.381,,0,0,0,0,1
+2023,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2023-03-05,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,9,18,0,Retired,9.0,1:31.508,1:30.914,1:30.984,0,0,0,0,1
+2023,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2023-03-05,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,3,19,0,Retired,3.0,1:31.094,1:30.282,1:30.000,0,0,0,0,1
+2023,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2023-03-05,piastri,PIA,Oscar,Piastri,mclaren,McLaren,18,20,0,Retired,18.0,1:32.101,,,0,0,0,0,1
+2023,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2023-03-19,perez,PER,Sergio,Pérez,red_bull,Red Bull,1,1,25,Finished,1.0,1:29.244,1:28.635,1:28.265,1,1,0,0,0
+2023,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2023-03-19,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,15,2,19,Finished,15.0,1:28.761,1:49.953,,1,1,0,0,0
+2023,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2023-03-19,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,2,3,15,Finished,3.0,1:29.298,1:28.757,1:28.730,1,1,0,0,0
+2023,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2023-03-19,russell,RUS,George,Russell,mercedes,Mercedes,3,4,12,Finished,4.0,1:29.592,1:29.132,1:28.857,0,1,0,0,0
+2023,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2023-03-19,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,7,5,10,Finished,8.0,1:29.689,1:29.374,1:29.223,0,1,0,0,0
+2023,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2023-03-19,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,4,6,8,Finished,5.0,1:29.411,1:28.957,1:28.931,0,1,0,0,0
+2023,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2023-03-19,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,12,7,6,Finished,2.0,1:29.376,1:28.903,1:28.420,0,1,0,0,0
+2023,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2023-03-19,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,6,8,4,Finished,7.0,1:29.707,1:29.255,1:29.078,0,1,0,0,0
+2023,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2023-03-19,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,9,9,2,Finished,10.0,1:29.890,1:29.411,1:29.357,0,1,0,0,0
+2023,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2023-03-19,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,13,10,1,Finished,13.0,1:29.744,1:29.634,,0,1,0,0,0
+2023,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2023-03-19,tsunoda,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,16,11,0,Finished,16.0,1:29.939,,,0,1,0,0,0
+2023,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2023-03-19,hulkenberg,HUL,Nico,Hülkenberg,haas,Haas F1 Team,10,12,0,Finished,11.0,1:29.547,1:29.451,,0,1,0,0,0
+2023,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2023-03-19,zhou,ZHO,Guanyu,Zhou,alfa,Alfa Romeo,11,13,0,Finished,12.0,1:29.654,1:29.461,,0,1,0,0,0
+2023,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2023-03-19,de_vries,DEV,Nyck,de Vries,alphatauri,AlphaTauri,18,14,0,Finished,18.0,1:30.244,,,0,1,0,0,0
+2023,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2023-03-19,piastri,PIA,Oscar,Piastri,mclaren,McLaren,8,15,0,Finished,9.0,1:29.706,1:29.378,1:29.243,0,1,0,0,0
+2023,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2023-03-19,sargeant,SAR,Logan,Sargeant,williams,Williams,20,16,0,Finished,20.0,2:08.510,,,0,1,0,0,0
+2023,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2023-03-19,norris,NOR,Lando,Norris,mclaren,McLaren,19,17,0,Finished,19.0,1:30.447,,,0,1,0,0,0
+2023,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2023-03-19,bottas,BOT,Valtteri,Bottas,alfa,Alfa Romeo,14,18,0,Lapped,14.0,1:29.929,1:29.668,,0,0,0,0,0
+2023,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2023-03-19,albon,ALB,Alexander,Albon,williams,Williams,17,19,0,Retired,17.0,1:29.994,,,0,0,0,0,0
+2023,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2023-03-19,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,5,20,0,Retired,6.0,1:29.335,1:28.962,1:28.945,0,0,0,0,0
+2023,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2023-04-02,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,1,1,25,Finished,1.0,1:17.384,1:17.056,1:16.732,1,1,0,0,0
+2023,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2023-04-02,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,3,2,18,Finished,3.0,1:17.689,1:17.551,1:17.104,1,1,0,0,0
+2023,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2023-04-02,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,4,3,15,Finished,4.0,1:17.832,1:17.283,1:17.139,1,1,0,0,0
+2023,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2023-04-02,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,6,4,12,Finished,6.0,1:17.873,1:17.616,1:17.308,0,1,0,0,0
+2023,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2023-04-02,perez,PER,Sergio,Pérez,red_bull,Red Bull,20,5,11,Finished,20.0,,,,0,1,0,0,0
+2023,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2023-04-02,norris,NOR,Lando,Norris,mclaren,McLaren,13,6,8,Finished,13.0,1:18.243,1:18.119,,0,1,0,0,0
+2023,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2023-04-02,hulkenberg,HUL,Nico,Hülkenberg,haas,Haas F1 Team,10,7,6,Finished,10.0,1:18.029,1:17.412,1:17.735,0,1,0,0,0
+2023,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2023-04-02,piastri,PIA,Oscar,Piastri,mclaren,McLaren,16,8,4,Finished,16.0,1:18.517,,,0,1,0,0,0
+2023,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2023-04-02,zhou,ZHO,Guanyu,Zhou,alfa,Alfa Romeo,17,9,2,Finished,17.0,1:18.540,,,0,1,0,0,0
+2023,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2023-04-02,tsunoda,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,12,10,1,Finished,12.0,1:18.471,1:18.099,,0,1,0,0,0
+2023,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2023-04-02,bottas,BOT,Valtteri,Bottas,alfa,Alfa Romeo,19,11,0,Finished,19.0,1:18.714,,,0,1,0,0,0
+2023,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2023-04-02,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,5,12,0,Finished,5.0,1:17.928,1:17.349,1:17.270,0,1,0,0,0
+2023,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2023-04-02,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,9,13,0,Retired,9.0,1:18.312,1:17.574,1:17.675,0,0,0,0,0
+2023,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2023-04-02,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,11,14,0,Retired,11.0,1:17.770,1:17.768,,0,0,0,0,0
+2023,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2023-04-02,de_vries,DEV,Nyck,de Vries,alphatauri,AlphaTauri,15,15,0,Retired,15.0,1:18.450,1:18.335,,0,0,0,0,0
+2023,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2023-04-02,sargeant,SAR,Logan,Sargeant,williams,Williams,18,16,0,Retired,18.0,1:18.557,,,0,0,0,0,0
+2023,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2023-04-02,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,14,17,0,Retired,14.0,1:18.159,1:18.129,,0,0,0,0,0
+2023,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2023-04-02,russell,RUS,George,Russell,mercedes,Mercedes,2,18,0,Retired,2.0,1:17.654,1:17.513,1:16.968,0,0,0,0,0
+2023,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2023-04-02,albon,ALB,Alexander,Albon,williams,Williams,8,19,0,Retired,8.0,1:17.962,1:17.761,1:17.609,0,0,0,0,0
+2023,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2023-04-02,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,7,20,0,Retired,7.0,1:18.218,1:17.390,1:17.369,0,0,0,0,0
+2023,4,Azerbaijan Grand Prix,baku,Baku City Circuit,2023-04-30,perez,PER,Sergio,Pérez,red_bull,Red Bull,3,1,25,Finished,3.0,1:41.756,1:41.131,1:40.495,1,1,0,0,0
+2023,4,Azerbaijan Grand Prix,baku,Baku City Circuit,2023-04-30,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,2,2,18,Finished,2.0,1:41.398,1:40.822,1:40.391,1,1,0,0,0
+2023,4,Azerbaijan Grand Prix,baku,Baku City Circuit,2023-04-30,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,1,3,15,Finished,1.0,1:41.269,1:41.037,1:40.203,1,1,0,0,0
+2023,4,Azerbaijan Grand Prix,baku,Baku City Circuit,2023-04-30,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,6,4,12,Finished,6.0,1:41.720,1:41.370,1:41.253,0,1,0,0,0
+2023,4,Azerbaijan Grand Prix,baku,Baku City Circuit,2023-04-30,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,4,5,10,Finished,4.0,1:42.197,1:41.369,1:41.016,0,1,0,0,0
+2023,4,Azerbaijan Grand Prix,baku,Baku City Circuit,2023-04-30,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,5,6,8,Finished,5.0,1:42.113,1:41.650,1:41.177,0,1,0,0,0
+2023,4,Azerbaijan Grand Prix,baku,Baku City Circuit,2023-04-30,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,9,7,6,Finished,9.0,1:42.524,1:41.576,1:41.611,0,1,0,0,0
+2023,4,Azerbaijan Grand Prix,baku,Baku City Circuit,2023-04-30,russell,RUS,George,Russell,mercedes,Mercedes,11,8,5,Finished,11.0,1:42.073,1:41.654,,0,1,0,0,0
+2023,4,Azerbaijan Grand Prix,baku,Baku City Circuit,2023-04-30,norris,NOR,Lando,Norris,mclaren,McLaren,7,9,2,Finished,7.0,1:42.154,1:41.485,1:41.281,0,1,0,0,0
+2023,4,Azerbaijan Grand Prix,baku,Baku City Circuit,2023-04-30,tsunoda,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,8,10,1,Finished,8.0,1:42.234,1:41.569,1:41.581,0,1,0,0,0
+2023,4,Azerbaijan Grand Prix,baku,Baku City Circuit,2023-04-30,piastri,PIA,Oscar,Piastri,mclaren,McLaren,10,11,0,Finished,10.0,1:42.455,1:41.636,1:41.611,0,1,0,0,0
+2023,4,Azerbaijan Grand Prix,baku,Baku City Circuit,2023-04-30,albon,ALB,Alexander,Albon,williams,Williams,12,12,0,Finished,13.0,1:42.171,1:41.818,,0,1,0,0,0
+2023,4,Azerbaijan Grand Prix,baku,Baku City Circuit,2023-04-30,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,16,13,0,Finished,18.0,1:43.417,,,0,1,0,0,0
+2023,4,Azerbaijan Grand Prix,baku,Baku City Circuit,2023-04-30,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,17,14,0,Finished,19.0,1:44.853,,,0,1,0,0,0
+2023,4,Azerbaijan Grand Prix,baku,Baku City Circuit,2023-04-30,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,19,15,0,Finished,12.0,1:42.622,1:41.798,,0,1,0,0,0
+2023,4,Azerbaijan Grand Prix,baku,Baku City Circuit,2023-04-30,sargeant,SAR,Logan,Sargeant,williams,Williams,14,16,0,Finished,15.0,1:42.242,1:42.395,,0,1,0,0,0
+2023,4,Azerbaijan Grand Prix,baku,Baku City Circuit,2023-04-30,hulkenberg,HUL,Nico,Hülkenberg,haas,Haas F1 Team,20,17,0,Lapped,17.0,1:42.755,,,0,0,0,0,0
+2023,4,Azerbaijan Grand Prix,baku,Baku City Circuit,2023-04-30,bottas,BOT,Valtteri,Bottas,alfa,Alfa Romeo,13,18,0,Lapped,14.0,1:42.582,1:42.259,,0,0,0,0,0
+2023,4,Azerbaijan Grand Prix,baku,Baku City Circuit,2023-04-30,zhou,ZHO,Guanyu,Zhou,alfa,Alfa Romeo,15,19,0,Retired,16.0,1:42.642,,,0,0,0,0,0
+2023,4,Azerbaijan Grand Prix,baku,Baku City Circuit,2023-04-30,de_vries,DEV,Nyck,de Vries,alphatauri,AlphaTauri,18,20,0,Retired,20.0,1:55.282,,,0,0,0,0,0
+2023,5,Miami Grand Prix,miami,Miami International Autodrome,2023-05-07,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,9,1,26,Finished,9.0,1:27.363,1:26.814,,1,1,0,0,0
+2023,5,Miami Grand Prix,miami,Miami International Autodrome,2023-05-07,perez,PER,Sergio,Pérez,red_bull,Red Bull,1,2,18,Finished,1.0,1:27.713,1:27.328,1:26.841,1,1,0,0,0
+2023,5,Miami Grand Prix,miami,Miami International Autodrome,2023-05-07,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,2,3,15,Finished,2.0,1:28.179,1:27.097,1:27.202,1,1,0,0,0
+2023,5,Miami Grand Prix,miami,Miami International Autodrome,2023-05-07,russell,RUS,George,Russell,mercedes,Mercedes,6,4,12,Finished,6.0,1:28.086,1:27.743,1:27.804,0,1,0,0,0
+2023,5,Miami Grand Prix,miami,Miami International Autodrome,2023-05-07,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,3,5,10,Finished,3.0,1:27.686,1:27.148,1:27.349,0,1,0,0,0
+2023,5,Miami Grand Prix,miami,Miami International Autodrome,2023-05-07,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,13,6,8,Finished,13.0,1:27.846,1:27.975,,0,1,0,0,0
+2023,5,Miami Grand Prix,miami,Miami International Autodrome,2023-05-07,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,7,7,6,Finished,7.0,1:27.713,1:26.964,1:27.861,0,1,0,0,0
+2023,5,Miami Grand Prix,miami,Miami International Autodrome,2023-05-07,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,5,8,4,Finished,5.0,1:28.061,1:27.612,1:27.786,0,1,0,0,0
+2023,5,Miami Grand Prix,miami,Miami International Autodrome,2023-05-07,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,8,9,2,Finished,8.0,1:27.872,1:27.444,1:27.935,0,1,0,0,0
+2023,5,Miami Grand Prix,miami,Miami International Autodrome,2023-05-07,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,4,10,1,Finished,4.0,1:27.809,1:27.673,1:27.767,0,1,0,0,0
+2023,5,Miami Grand Prix,miami,Miami International Autodrome,2023-05-07,tsunoda,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,17,11,0,Finished,17.0,1:28.429,,,0,1,0,0,0
+2023,5,Miami Grand Prix,miami,Miami International Autodrome,2023-05-07,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,18,12,0,Finished,18.0,1:28.476,,,0,1,0,0,0
+2023,5,Miami Grand Prix,miami,Miami International Autodrome,2023-05-07,bottas,BOT,Valtteri,Bottas,alfa,Alfa Romeo,10,13,0,Finished,10.0,1:27.864,1:27.564,,0,1,0,0,0
+2023,5,Miami Grand Prix,miami,Miami International Autodrome,2023-05-07,albon,ALB,Alexander,Albon,williams,Williams,11,14,0,Finished,11.0,1:28.234,1:27.795,,0,1,0,0,0
+2023,5,Miami Grand Prix,miami,Miami International Autodrome,2023-05-07,hulkenberg,HUL,Nico,Hülkenberg,haas,Haas F1 Team,12,15,0,Finished,12.0,1:27.945,1:27.903,,0,1,0,0,0
+2023,5,Miami Grand Prix,miami,Miami International Autodrome,2023-05-07,zhou,ZHO,Guanyu,Zhou,alfa,Alfa Romeo,14,16,0,Finished,14.0,1:28.180,1:28.091,,0,1,0,0,0
+2023,5,Miami Grand Prix,miami,Miami International Autodrome,2023-05-07,norris,NOR,Lando,Norris,mclaren,McLaren,16,17,0,Finished,16.0,1:28.394,,,0,1,0,0,0
+2023,5,Miami Grand Prix,miami,Miami International Autodrome,2023-05-07,de_vries,DEV,Nyck,de Vries,alphatauri,AlphaTauri,15,18,0,Finished,15.0,1:28.325,1:28.395,,0,1,0,0,0
+2023,5,Miami Grand Prix,miami,Miami International Autodrome,2023-05-07,piastri,PIA,Oscar,Piastri,mclaren,McLaren,19,19,0,Lapped,19.0,1:28.484,,,0,0,0,0,0
+2023,5,Miami Grand Prix,miami,Miami International Autodrome,2023-05-07,sargeant,SAR,Logan,Sargeant,williams,Williams,20,20,0,Lapped,20.0,1:28.577,,,0,0,0,0,0
+2024,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2024-03-02,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,1,1,26,Finished,1.0,1:30.031,1:29.374,1:29.179,1,1,0,0,1
+2024,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2024-03-02,perez,PER,Sergio,Pérez,red_bull,Red Bull,5,2,18,Finished,5.0,1:30.221,1:29.932,1:29.537,1,1,0,0,1
+2024,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2024-03-02,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,4,3,15,Finished,4.0,1:29.909,1:29.573,1:29.507,1,1,0,0,1
+2024,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2024-03-02,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,2,4,12,Finished,2.0,1:30.243,1:29.165,1:29.407,0,1,0,0,1
+2024,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2024-03-02,russell,RUS,George,Russell,mercedes,Mercedes,3,5,10,Finished,3.0,1:30.350,1:29.922,1:29.485,0,1,0,0,1
+2024,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2024-03-02,norris,NOR,Lando,Norris,mclaren,McLaren,7,6,8,Finished,7.0,1:30.143,1:29.941,1:29.614,0,1,0,0,1
+2024,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2024-03-02,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,9,7,6,Finished,9.0,1:30.451,1:29.718,1:29.710,0,1,0,0,1
+2024,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2024-03-02,piastri,PIA,Oscar,Piastri,mclaren,McLaren,8,8,4,Finished,8.0,1:30.531,1:30.122,1:29.683,0,1,0,0,1
+2024,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2024-03-02,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,6,9,2,Finished,6.0,1:30.179,1:29.801,1:29.542,0,1,0,0,1
+2024,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2024-03-02,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,12,10,1,Finished,12.0,1:29.965,1:30.200,,0,1,0,0,1
+2024,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2024-03-02,zhou,ZHO,Guanyu,Zhou,sauber,Sauber,17,11,0,Lapped,17.0,1:30.757,,,0,0,0,0,1
+2024,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2024-03-02,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,15,12,0,Lapped,15.0,1:30.646,1:30.529,,0,0,0,0,1
+2024,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2024-03-02,ricciardo,RIC,Daniel,Ricciardo,rb,RB F1 Team,14,13,0,Lapped,14.0,1:30.562,1:30.278,,0,0,0,0,1
+2024,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2024-03-02,tsunoda,TSU,Yuki,Tsunoda,rb,RB F1 Team,11,14,0,Lapped,11.0,1:30.481,1:30.129,,0,0,0,0,1
+2024,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2024-03-02,albon,ALB,Alexander,Albon,williams,Williams,13,15,0,Lapped,13.0,1:30.397,1:30.221,,0,0,0,0,1
+2024,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2024-03-02,hulkenberg,HUL,Nico,Hülkenberg,haas,Haas F1 Team,10,16,0,Lapped,10.0,1:30.566,1:29.851,1:30.502,0,0,0,0,1
+2024,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2024-03-02,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,19,17,0,Lapped,19.0,1:30.793,,,0,0,0,0,1
+2024,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2024-03-02,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,20,18,0,Lapped,20.0,1:30.948,,,0,0,0,0,1
+2024,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2024-03-02,bottas,BOT,Valtteri,Bottas,sauber,Sauber,16,19,0,Lapped,16.0,1:30.756,,,0,0,0,0,1
+2024,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2024-03-02,sargeant,SAR,Logan,Sargeant,williams,Williams,18,20,0,Lapped,18.0,1:30.770,,,0,0,0,0,1
+2024,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2024-03-09,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,1,1,25,Finished,1.0,1:28.171,1:28.033,1:27.472,1,1,0,0,0
+2024,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2024-03-09,perez,PER,Sergio,Pérez,red_bull,Red Bull,3,2,18,Finished,3.0,1:28.638,1:28.467,1:27.807,1,1,0,0,0
+2024,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2024-03-09,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,2,3,16,Finished,2.0,1:28.318,1:28.112,1:27.791,1,1,0,0,0
+2024,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2024-03-09,piastri,PIA,Oscar,Piastri,mclaren,McLaren,5,4,12,Finished,5.0,1:28.755,1:28.343,1:28.089,0,1,0,0,0
+2024,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2024-03-09,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,4,5,10,Finished,4.0,1:28.706,1:28.122,1:27.846,0,1,0,0,0
+2024,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2024-03-09,russell,RUS,George,Russell,mercedes,Mercedes,7,6,8,Finished,7.0,1:28.749,1:28.448,1:28.316,0,1,0,0,0
+2024,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2024-03-09,bearman,BEA,Oliver,Bearman,ferrari,Ferrari,11,7,6,Finished,11.0,1:28.984,1:28.642,,0,1,0,0,0
+2024,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2024-03-09,norris,NOR,Lando,Norris,mclaren,McLaren,6,8,4,Finished,6.0,1:28.805,1:28.479,1:28.132,0,1,0,0,0
+2024,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2024-03-09,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,8,9,2,Finished,8.0,1:28.994,1:28.606,1:28.460,0,1,0,0,0
+2024,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2024-03-09,hulkenberg,HUL,Nico,Hülkenberg,haas,Haas F1 Team,15,10,1,Finished,15.0,1:29.055,,,0,1,0,0,0
+2024,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2024-03-09,albon,ALB,Alexander,Albon,williams,Williams,12,11,0,Finished,12.0,1:29.107,1:28.980,,0,1,0,0,0
+2024,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2024-03-09,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,13,12,0,Finished,13.0,1:29.069,1:29.020,,0,1,0,0,0
+2024,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2024-03-09,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,17,13,0,Lapped,17.0,1:29.475,,,0,0,0,0,0
+2024,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2024-03-09,sargeant,SAR,Logan,Sargeant,williams,Williams,19,14,0,Lapped,19.0,1:29.526,,,0,0,0,0,0
+2024,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2024-03-09,tsunoda,TSU,Yuki,Tsunoda,rb,RB F1 Team,9,15,0,Lapped,9.0,1:28.988,1:28.564,1:28.547,0,0,0,0,0
+2024,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2024-03-09,ricciardo,RIC,Daniel,Ricciardo,rb,RB F1 Team,14,16,0,Lapped,14.0,1:29.065,1:29.025,,0,0,0,0,0
+2024,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2024-03-09,bottas,BOT,Valtteri,Bottas,sauber,Sauber,16,17,0,Lapped,16.0,1:29.179,,,0,0,0,0,0
+2024,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2024-03-09,zhou,ZHO,Guanyu,Zhou,sauber,Sauber,20,18,0,Lapped,20.0,,,,0,0,0,0,0
+2024,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2024-03-09,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,10,19,0,Retired,10.0,1:28.250,1:28.578,1:28.572,0,0,0,0,0
+2024,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2024-03-09,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,18,20,0,Retired,18.0,1:29.479,,,0,0,0,0,0
+2024,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2024-03-24,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,2,1,25,Finished,2.0,1:16.731,1:16.189,1:16.185,1,1,0,0,0
+2024,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2024-03-24,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,4,2,19,Finished,5.0,1:16.984,1:16.304,1:16.435,1,1,0,0,0
+2024,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2024-03-24,norris,NOR,Lando,Norris,mclaren,McLaren,3,3,15,Finished,4.0,1:17.430,1:16.750,1:16.315,1,1,0,0,0
+2024,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2024-03-24,piastri,PIA,Oscar,Piastri,mclaren,McLaren,5,4,12,Finished,6.0,1:17.369,1:16.601,1:16.572,0,1,0,0,0
+2024,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2024-03-24,perez,PER,Sergio,Pérez,red_bull,Red Bull,6,5,10,Finished,3.0,1:16.805,1:16.631,1:16.274,0,1,0,0,0
+2024,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2024-03-24,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,9,6,8,Finished,9.0,1:17.376,1:16.780,1:17.072,0,1,0,0,0
+2024,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2024-03-24,tsunoda,TSU,Yuki,Tsunoda,rb,RB F1 Team,8,7,6,Finished,8.0,1:17.356,1:16.791,1:16.788,0,1,0,0,0
+2024,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2024-03-24,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,10,8,4,Finished,10.0,1:16.991,1:16.710,1:17.552,0,1,0,0,0
+2024,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2024-03-24,hulkenberg,HUL,Nico,Hülkenberg,haas,Haas F1 Team,16,9,2,Finished,16.0,1:17.976,,,0,1,0,0,0
+2024,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2024-03-24,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,14,10,1,Lapped,14.0,1:17.709,1:17.427,,0,0,0,0,0
+2024,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2024-03-24,albon,ALB,Alexander,Albon,williams,Williams,12,11,0,Lapped,12.0,1:17.130,1:17.167,,0,0,0,0,0
+2024,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2024-03-24,ricciardo,RIC,Daniel,Ricciardo,rb,RB F1 Team,18,12,0,Lapped,18.0,1:18.085,,,0,0,0,0,0
+2024,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2024-03-24,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,17,13,0,Lapped,17.0,1:17.982,,,0,0,0,0,0
+2024,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2024-03-24,bottas,BOT,Valtteri,Bottas,sauber,Sauber,13,14,0,Lapped,13.0,1:17.543,1:17.340,,0,0,0,0,0
+2024,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2024-03-24,zhou,ZHO,Guanyu,Zhou,sauber,Sauber,19,15,0,Lapped,19.0,1:18.188,,,0,0,0,0,0
+2024,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2024-03-24,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,15,16,0,Lapped,15.0,1:17.617,1:17.697,,0,0,0,0,0
+2024,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2024-03-24,russell,RUS,George,Russell,mercedes,Mercedes,7,17,0,Retired,7.0,1:17.062,1:16.901,1:16.724,0,0,0,0,0
+2024,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2024-03-24,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,11,18,0,Retired,11.0,1:17.499,1:16.960,,0,0,0,0,0
+2024,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2024-03-24,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,1,19,0,Retired,1.0,1:16.819,1:16.387,1:15.915,0,0,0,0,0
+2024,4,Japanese Grand Prix,suzuka,Suzuka Circuit,2024-04-07,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,1,1,26,Finished,1.0,1:28.866,1:28.740,1:28.197,1,1,0,0,0
+2024,4,Japanese Grand Prix,suzuka,Suzuka Circuit,2024-04-07,perez,PER,Sergio,Pérez,red_bull,Red Bull,2,2,18,Finished,2.0,1:29.303,1:28.752,1:28.263,1,1,0,0,0
+2024,4,Japanese Grand Prix,suzuka,Suzuka Circuit,2024-04-07,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,4,3,15,Finished,4.0,1:29.513,1:29.099,1:28.682,1,1,0,0,0
+2024,4,Japanese Grand Prix,suzuka,Suzuka Circuit,2024-04-07,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,8,4,12,Finished,8.0,1:29.338,1:29.196,1:28.786,0,1,0,0,0
+2024,4,Japanese Grand Prix,suzuka,Suzuka Circuit,2024-04-07,norris,NOR,Lando,Norris,mclaren,McLaren,3,5,10,Finished,3.0,1:29.536,1:28.940,1:28.489,0,1,0,0,0
+2024,4,Japanese Grand Prix,suzuka,Suzuka Circuit,2024-04-07,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,5,6,8,Finished,5.0,1:29.254,1:29.082,1:28.686,0,1,0,0,0
+2024,4,Japanese Grand Prix,suzuka,Suzuka Circuit,2024-04-07,russell,RUS,George,Russell,mercedes,Mercedes,9,7,6,Finished,9.0,1:29.799,1:29.140,1:29.008,0,1,0,0,0
+2024,4,Japanese Grand Prix,suzuka,Suzuka Circuit,2024-04-07,piastri,PIA,Oscar,Piastri,mclaren,McLaren,6,8,4,Finished,6.0,1:29.425,1:29.148,1:28.760,0,1,0,0,0
+2024,4,Japanese Grand Prix,suzuka,Suzuka Circuit,2024-04-07,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,7,9,2,Finished,7.0,1:29.661,1:28.887,1:28.766,0,1,0,0,0
+2024,4,Japanese Grand Prix,suzuka,Suzuka Circuit,2024-04-07,tsunoda,TSU,Yuki,Tsunoda,rb,RB F1 Team,10,10,1,Lapped,10.0,1:29.775,1:29.417,1:29.413,0,0,0,0,0
+2024,4,Japanese Grand Prix,suzuka,Suzuka Circuit,2024-04-07,hulkenberg,HUL,Nico,Hülkenberg,haas,Haas F1 Team,12,11,0,Lapped,12.0,1:29.821,1:29.494,,0,0,0,0,0
+2024,4,Japanese Grand Prix,suzuka,Suzuka Circuit,2024-04-07,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,16,12,0,Lapped,16.0,1:30.024,,,0,0,0,0,0
+2024,4,Japanese Grand Prix,suzuka,Suzuka Circuit,2024-04-07,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,18,13,0,Lapped,18.0,1:30.131,,,0,0,0,0,0
+2024,4,Japanese Grand Prix,suzuka,Suzuka Circuit,2024-04-07,bottas,BOT,Valtteri,Bottas,sauber,Sauber,13,14,0,Lapped,13.0,1:29.602,1:29.593,,0,0,0,0,0
+2024,4,Japanese Grand Prix,suzuka,Suzuka Circuit,2024-04-07,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,15,15,0,Lapped,15.0,1:29.811,1:29.816,,0,0,0,0,0
+2024,4,Japanese Grand Prix,suzuka,Suzuka Circuit,2024-04-07,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,17,16,0,Lapped,17.0,1:30.119,,,0,0,0,0,0
+2024,4,Japanese Grand Prix,suzuka,Suzuka Circuit,2024-04-07,sargeant,SAR,Logan,Sargeant,williams,Williams,19,17,0,Lapped,19.0,1:30.139,,,0,0,0,0,0
+2024,4,Japanese Grand Prix,suzuka,Suzuka Circuit,2024-04-07,zhou,ZHO,Guanyu,Zhou,sauber,Sauber,20,18,0,Retired,20.0,1:30.143,,,0,0,0,0,0
+2024,4,Japanese Grand Prix,suzuka,Suzuka Circuit,2024-04-07,ricciardo,RIC,Daniel,Ricciardo,rb,RB F1 Team,11,19,0,Retired,11.0,1:29.727,1:29.472,,0,0,0,0,0
+2024,4,Japanese Grand Prix,suzuka,Suzuka Circuit,2024-04-07,albon,ALB,Alexander,Albon,williams,Williams,14,20,0,Retired,14.0,1:29.963,1:29.714,,0,0,0,0,0
+2024,5,Chinese Grand Prix,shanghai,Shanghai International Circuit,2024-04-21,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,1,1,25,Finished,1.0,1:34.742,1:33.794,1:33.660,1,1,0,0,0
+2024,5,Chinese Grand Prix,shanghai,Shanghai International Circuit,2024-04-21,norris,NOR,Lando,Norris,mclaren,McLaren,4,2,18,Finished,4.0,1:34.842,1:34.460,1:34.165,1,1,0,0,0
+2024,5,Chinese Grand Prix,shanghai,Shanghai International Circuit,2024-04-21,perez,PER,Sergio,Pérez,red_bull,Red Bull,2,3,15,Finished,2.0,1:35.457,1:34.026,1:33.982,1,1,0,0,0
+2024,5,Chinese Grand Prix,shanghai,Shanghai International Circuit,2024-04-21,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,6,4,12,Finished,6.0,1:34.797,1:34.399,1:34.289,0,1,0,0,0
+2024,5,Chinese Grand Prix,shanghai,Shanghai International Circuit,2024-04-21,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,7,5,10,Finished,7.0,1:34.970,1:34.368,1:34.297,0,1,0,0,0
+2024,5,Chinese Grand Prix,shanghai,Shanghai International Circuit,2024-04-21,russell,RUS,George,Russell,mercedes,Mercedes,8,6,8,Finished,8.0,1:35.084,1:34.609,1:34.433,0,1,0,0,0
+2024,5,Chinese Grand Prix,shanghai,Shanghai International Circuit,2024-04-21,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,3,7,7,Finished,3.0,1:35.116,1:34.652,1:34.148,0,1,0,0,0
+2024,5,Chinese Grand Prix,shanghai,Shanghai International Circuit,2024-04-21,piastri,PIA,Oscar,Piastri,mclaren,McLaren,5,8,4,Finished,5.0,1:35.014,1:34.659,1:34.273,0,1,0,0,0
+2024,5,Chinese Grand Prix,shanghai,Shanghai International Circuit,2024-04-21,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,18,9,2,Finished,18.0,1:35.573,,,0,1,0,0,0
+2024,5,Chinese Grand Prix,shanghai,Shanghai International Circuit,2024-04-21,hulkenberg,HUL,Nico,Hülkenberg,haas,Haas F1 Team,9,10,1,Finished,9.0,1:35.068,1:34.667,1:34.604,0,1,0,0,0
+2024,5,Chinese Grand Prix,shanghai,Shanghai International Circuit,2024-04-21,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,13,11,0,Finished,13.0,1:35.356,1:35.223,,0,1,0,0,0
+2024,5,Chinese Grand Prix,shanghai,Shanghai International Circuit,2024-04-21,albon,ALB,Alexander,Albon,williams,Williams,14,12,0,Finished,14.0,1:35.384,1:35.241,,0,1,0,0,0
+2024,5,Chinese Grand Prix,shanghai,Shanghai International Circuit,2024-04-21,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,15,13,0,Finished,15.0,1:35.287,1:35.463,,0,1,0,0,0
+2024,5,Chinese Grand Prix,shanghai,Shanghai International Circuit,2024-04-21,zhou,ZHO,Guanyu,Zhou,sauber,Sauber,16,14,0,Finished,16.0,1:35.505,,,0,1,0,0,0
+2024,5,Chinese Grand Prix,shanghai,Shanghai International Circuit,2024-04-21,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,11,15,0,Finished,11.0,1:35.334,1:34.838,,0,1,0,0,0
+2024,5,Chinese Grand Prix,shanghai,Shanghai International Circuit,2024-04-21,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,17,16,0,Finished,17.0,1:35.516,,,0,1,0,0,0
+2024,5,Chinese Grand Prix,shanghai,Shanghai International Circuit,2024-04-21,sargeant,SAR,Logan,Sargeant,williams,Williams,20,17,0,Finished,20.0,1:36.358,,,0,1,0,0,0
+2024,5,Chinese Grand Prix,shanghai,Shanghai International Circuit,2024-04-21,ricciardo,RIC,Daniel,Ricciardo,rb,RB F1 Team,12,18,0,Retired,12.0,1:35.443,1:34.934,,0,0,0,0,0
+2024,5,Chinese Grand Prix,shanghai,Shanghai International Circuit,2024-04-21,tsunoda,TSU,Yuki,Tsunoda,rb,RB F1 Team,19,19,0,Retired,19.0,1:35.746,,,0,0,0,0,0
+2024,5,Chinese Grand Prix,shanghai,Shanghai International Circuit,2024-04-21,bottas,BOT,Valtteri,Bottas,sauber,Sauber,10,20,0,Retired,10.0,1:35.169,1:34.769,1:34.665,0,0,0,0,0
+2024,6,Miami Grand Prix,miami,Miami International Autodrome,2024-05-05,norris,NOR,Lando,Norris,mclaren,McLaren,5,1,25,Finished,,,,,1,1,0,0,0
+2025,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2025-03-16,norris,NOR,Lando,Norris,mclaren,McLaren,1,1,25,Finished,1.0,1:15.912,1:15.415,1:15.096,1,1,0,0,0
+2025,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2025-03-16,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,3,2,18,Finished,3.0,1:16.018,1:15.565,1:15.481,1,1,0,0,0
+2025,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2025-03-16,russell,RUS,George,Russell,mercedes,Mercedes,4,3,15,Finished,4.0,1:15.971,1:15.798,1:15.546,1,1,0,0,0
+2025,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2025-03-16,antonelli,ANT,Andrea Kimi,Antonelli,mercedes,Mercedes,16,4,12,Finished,16.0,1:16.525,,,0,1,0,0,0
+2025,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2025-03-16,albon,ALB,Alexander,Albon,williams,Williams,6,5,10,Finished,6.0,1:16.245,1:16.017,1:15.737,0,1,0,0,0
+2025,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2025-03-16,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,13,6,8,Finished,13.0,1:16.369,1:16.483,,0,1,0,0,0
+2025,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2025-03-16,hulkenberg,HUL,Nico,Hülkenberg,sauber,Sauber,17,7,6,Finished,17.0,1:16.579,,,0,1,0,0,0
+2025,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2025-03-16,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,7,8,4,Finished,7.0,1:16.029,1:15.827,1:15.755,0,1,0,0,0
+2025,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2025-03-16,piastri,PIA,Oscar,Piastri,mclaren,McLaren,2,9,2,Finished,2.0,1:16.062,1:15.468,1:15.180,0,1,0,0,0
+2025,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2025-03-16,hamilton,HAM,Lewis,Hamilton,ferrari,Ferrari,8,10,1,Finished,8.0,1:16.213,1:15.919,1:15.973,0,1,0,0,0
+2025,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2025-03-16,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,9,11,0,Finished,9.0,1:16.328,1:16.112,1:15.980,0,1,0,0,0
+2025,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2025-03-16,tsunoda,TSU,Yuki,Tsunoda,rb,RB F1 Team,5,12,0,Finished,5.0,1:16.225,1:16.009,1:15.670,0,1,0,0,0
+2025,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2025-03-16,ocon,OCO,Esteban,Ocon,haas,Haas F1 Team,19,13,0,Finished,19.0,1:17.147,,,0,1,0,0,0
+2025,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2025-03-16,bearman,BEA,Oliver,Bearman,haas,Haas F1 Team,20,14,0,Finished,20.0,,,,0,1,0,0,0
+2025,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2025-03-16,lawson,LAW,Liam,Lawson,red_bull,Red Bull,18,15,0,Retired,18.0,1:17.094,,,0,0,0,0,0
+2025,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2025-03-16,bortoleto,BOR,Gabriel,Bortoleto,sauber,Sauber,15,16,0,Retired,15.0,1:16.516,1:17.520,,0,0,0,0,0
+2025,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2025-03-16,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,12,17,0,Retired,12.0,1:16.288,1:16.453,,0,0,0,0,0
+2025,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2025-03-16,sainz,SAI,Carlos,Sainz,williams,Williams,10,18,0,Retired,10.0,1:16.360,1:15.931,1:16.062,0,0,0,0,0
+2025,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2025-03-16,doohan,DOO,Jack,Doohan,alpine,Alpine F1 Team,14,19,0,Retired,14.0,1:16.315,1:16.863,,0,0,0,0,0
+2025,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2025-03-16,hadjar,HAD,Isack,Hadjar,rb,RB F1 Team,11,20,0,Retired,11.0,1:16.354,1:16.175,,0,0,0,0,0
+2025,2,Chinese Grand Prix,shanghai,Shanghai International Circuit,2025-03-23,piastri,PIA,Oscar,Piastri,mclaren,McLaren,1,1,25,Finished,1.0,1:31.591,1:31.200,1:30.641,1,1,0,0,0
+2025,2,Chinese Grand Prix,shanghai,Shanghai International Circuit,2025-03-23,norris,NOR,Lando,Norris,mclaren,McLaren,3,2,18,Finished,3.0,1:30.983,1:30.787,1:30.793,1,1,0,0,0
+2025,2,Chinese Grand Prix,shanghai,Shanghai International Circuit,2025-03-23,russell,RUS,George,Russell,mercedes,Mercedes,2,3,15,Finished,2.0,1:31.295,1:31.307,1:30.723,1,1,0,0,0
+2025,2,Chinese Grand Prix,shanghai,Shanghai International Circuit,2025-03-23,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,4,4,12,Finished,4.0,1:31.424,1:31.142,1:30.817,0,1,0,0,0
+2025,2,Chinese Grand Prix,shanghai,Shanghai International Circuit,2025-03-23,ocon,OCO,Esteban,Ocon,haas,Haas F1 Team,11,5,10,Finished,11.0,1:31.876,1:31.625,,0,1,0,0,0
+2025,2,Chinese Grand Prix,shanghai,Shanghai International Circuit,2025-03-23,antonelli,ANT,Andrea Kimi,Antonelli,mercedes,Mercedes,8,6,8,Finished,8.0,1:31.676,1:31.590,1:31.103,0,1,0,0,0
+2025,2,Chinese Grand Prix,shanghai,Shanghai International Circuit,2025-03-23,albon,ALB,Alexander,Albon,williams,Williams,10,7,6,Finished,10.0,1:31.503,1:31.595,1:31.706,0,1,0,0,0
+2025,2,Chinese Grand Prix,shanghai,Shanghai International Circuit,2025-03-23,bearman,BEA,Oliver,Bearman,haas,Haas F1 Team,17,8,4,Finished,17.0,1:32.018,,,0,1,0,0,0
+2025,2,Chinese Grand Prix,shanghai,Shanghai International Circuit,2025-03-23,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,14,9,2,Finished,14.0,1:31.923,1:31.773,,0,1,0,0,0
+2025,2,Chinese Grand Prix,shanghai,Shanghai International Circuit,2025-03-23,sainz,SAI,Carlos,Sainz,williams,Williams,15,10,1,Finished,15.0,1:31.628,1:31.840,,0,1,0,0,0
+2025,2,Chinese Grand Prix,shanghai,Shanghai International Circuit,2025-03-23,hadjar,HAD,Isack,Hadjar,rb,RB F1 Team,7,11,0,Finished,7.0,1:31.162,1:31.253,1:31.079,0,1,0,0,0
+2025,2,Chinese Grand Prix,shanghai,Shanghai International Circuit,2025-03-23,lawson,LAW,Liam,Lawson,red_bull,Red Bull,20,12,0,Finished,20.0,1:32.174,,,0,1,0,0,0
+2025,2,Chinese Grand Prix,shanghai,Shanghai International Circuit,2025-03-23,doohan,DOO,Jack,Doohan,alpine,Alpine F1 Team,18,13,0,Finished,18.0,1:32.092,,,0,1,0,0,0
+2025,2,Chinese Grand Prix,shanghai,Shanghai International Circuit,2025-03-23,bortoleto,BOR,Gabriel,Bortoleto,sauber,Sauber,19,14,0,Lapped,19.0,1:32.141,,,0,0,0,0,0
+2025,2,Chinese Grand Prix,shanghai,Shanghai International Circuit,2025-03-23,hulkenberg,HUL,Nico,Hülkenberg,sauber,Sauber,12,15,0,Lapped,12.0,1:31.921,1:31.632,,0,0,0,0,0
+2025,2,Chinese Grand Prix,shanghai,Shanghai International Circuit,2025-03-23,tsunoda,TSU,Yuki,Tsunoda,rb,RB F1 Team,9,16,0,Lapped,9.0,1:31.238,1:31.260,1:31.638,0,0,0,0,0
+2025,2,Chinese Grand Prix,shanghai,Shanghai International Circuit,2025-03-23,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,13,17,0,Retired,13.0,1:31.719,1:31.688,,0,0,0,0,0
+2025,2,Chinese Grand Prix,shanghai,Shanghai International Circuit,2025-03-23,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,6,18,0,Disqualified,6.0,1:31.579,1:31.450,1:31.021,0,0,0,0,0
+2025,2,Chinese Grand Prix,shanghai,Shanghai International Circuit,2025-03-23,hamilton,HAM,Lewis,Hamilton,ferrari,Ferrari,5,19,0,Disqualified,5.0,1:31.690,1:31.501,1:30.927,0,0,0,0,0
+2025,2,Chinese Grand Prix,shanghai,Shanghai International Circuit,2025-03-23,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,16,20,0,Disqualified,16.0,1:31.992,,,0,0,0,0,0
+2025,3,Japanese Grand Prix,suzuka,Suzuka Circuit,2025-04-06,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,1,1,25,Finished,1.0,1:27.943,1:27.502,1:26.983,1,1,0,0,0
+2025,3,Japanese Grand Prix,suzuka,Suzuka Circuit,2025-04-06,norris,NOR,Lando,Norris,mclaren,McLaren,2,2,18,Finished,2.0,1:27.845,1:27.146,1:26.995,1,1,0,0,0
+2025,3,Japanese Grand Prix,suzuka,Suzuka Circuit,2025-04-06,piastri,PIA,Oscar,Piastri,mclaren,McLaren,3,3,15,Finished,3.0,1:27.687,1:27.507,1:27.027,1,1,0,0,0
+2025,3,Japanese Grand Prix,suzuka,Suzuka Circuit,2025-04-06,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,4,4,12,Finished,4.0,1:27.920,1:27.555,1:27.299,0,1,0,0,0
+2025,3,Japanese Grand Prix,suzuka,Suzuka Circuit,2025-04-06,russell,RUS,George,Russell,mercedes,Mercedes,5,5,10,Finished,5.0,1:27.843,1:27.400,1:27.318,0,1,0,0,0
+2025,3,Japanese Grand Prix,suzuka,Suzuka Circuit,2025-04-06,antonelli,ANT,Andrea Kimi,Antonelli,mercedes,Mercedes,6,6,8,Finished,6.0,1:27.968,1:27.639,1:27.555,0,1,0,0,0
+2025,3,Japanese Grand Prix,suzuka,Suzuka Circuit,2025-04-06,hamilton,HAM,Lewis,Hamilton,ferrari,Ferrari,8,7,6,Finished,8.0,1:27.942,1:27.610,1:27.610,0,1,0,0,0
+2025,3,Japanese Grand Prix,suzuka,Suzuka Circuit,2025-04-06,hadjar,HAD,Isack,Hadjar,rb,RB F1 Team,7,8,4,Finished,7.0,1:28.278,1:27.775,1:27.569,0,1,0,0,0
+2025,3,Japanese Grand Prix,suzuka,Suzuka Circuit,2025-04-06,albon,ALB,Alexander,Albon,williams,Williams,9,9,2,Finished,9.0,1:28.218,1:27.783,1:27.615,0,1,0,0,0
+2025,3,Japanese Grand Prix,suzuka,Suzuka Circuit,2025-04-06,bearman,BEA,Oliver,Bearman,haas,Haas F1 Team,10,10,1,Finished,10.0,1:28.228,1:27.711,1:27.867,0,1,0,0,0
+2025,3,Japanese Grand Prix,suzuka,Suzuka Circuit,2025-04-06,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,12,11,0,Finished,13.0,1:28.337,1:27.897,,0,1,0,0,0
+2025,3,Japanese Grand Prix,suzuka,Suzuka Circuit,2025-04-06,tsunoda,TSU,Yuki,Tsunoda,red_bull,Red Bull,14,12,0,Finished,15.0,1:27.967,1:28.000,,0,1,0,0,0
+2025,3,Japanese Grand Prix,suzuka,Suzuka Circuit,2025-04-06,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,11,13,0,Finished,11.0,1:28.186,1:27.822,,0,1,0,0,0
+2025,3,Japanese Grand Prix,suzuka,Suzuka Circuit,2025-04-06,sainz,SAI,Carlos,Sainz,williams,Williams,15,14,0,Finished,12.0,1:28.209,1:27.836,,0,1,0,0,0
+2025,3,Japanese Grand Prix,suzuka,Suzuka Circuit,2025-04-06,doohan,DOO,Jack,Doohan,alpine,Alpine F1 Team,19,15,0,Finished,19.0,1:28.877,,,0,1,0,0,0
+2025,3,Japanese Grand Prix,suzuka,Suzuka Circuit,2025-04-06,hulkenberg,HUL,Nico,Hülkenberg,sauber,Sauber,16,16,0,Finished,16.0,1:28.570,,,0,1,0,0,0
+2025,3,Japanese Grand Prix,suzuka,Suzuka Circuit,2025-04-06,lawson,LAW,Liam,Lawson,rb,RB F1 Team,13,17,0,Finished,14.0,1:28.554,1:27.906,,0,1,0,0,0
+2025,3,Japanese Grand Prix,suzuka,Suzuka Circuit,2025-04-06,ocon,OCO,Esteban,Ocon,haas,Haas F1 Team,18,18,0,Finished,18.0,1:28.696,,,0,1,0,0,0
+2025,3,Japanese Grand Prix,suzuka,Suzuka Circuit,2025-04-06,bortoleto,BOR,Gabriel,Bortoleto,sauber,Sauber,17,19,0,Finished,17.0,1:28.622,,,0,1,0,0,0
+2025,3,Japanese Grand Prix,suzuka,Suzuka Circuit,2025-04-06,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,20,20,0,Lapped,20.0,1:29.271,,,0,0,0,0,0
+2025,4,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2025-04-13,piastri,PIA,Oscar,Piastri,mclaren,McLaren,1,1,25,Finished,1.0,1:31.392,1:30.454,1:29.841,1,1,0,0,1
+2025,4,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2025-04-13,russell,RUS,George,Russell,mercedes,Mercedes,3,2,18,Finished,2.0,1:31.494,1:30.664,1:30.009,1,1,0,0,1
+2025,4,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2025-04-13,norris,NOR,Lando,Norris,mclaren,McLaren,6,3,15,Finished,6.0,1:31.107,1:30.560,1:30.267,1,1,0,0,1
+2025,4,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2025-04-13,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,2,4,12,Finished,3.0,1:31.454,1:30.724,1:30.175,0,1,0,0,1
+2025,4,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2025-04-13,hamilton,HAM,Lewis,Hamilton,ferrari,Ferrari,9,5,10,Finished,9.0,1:31.219,1:31.009,1:30.772,0,1,0,0,1
+2025,4,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2025-04-13,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,7,6,8,Finished,7.0,1:31.303,1:31.019,1:30.423,0,1,0,0,1
+2025,4,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2025-04-13,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,4,7,6,Finished,5.0,1:31.462,1:30.643,1:30.216,0,1,0,0,1
+2025,4,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2025-04-13,ocon,OCO,Esteban,Ocon,haas,Haas F1 Team,14,8,4,Finished,14.0,1:31.594,,,0,1,0,0,1
+2025,4,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2025-04-13,tsunoda,TSU,Yuki,Tsunoda,red_bull,Red Bull,10,9,2,Finished,10.0,1:31.751,1:31.228,1:31.303,0,1,0,0,1
+2025,4,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2025-04-13,bearman,BEA,Oliver,Bearman,haas,Haas F1 Team,20,10,1,Finished,20.0,1:32.373,,,0,1,0,0,1
+2025,4,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2025-04-13,antonelli,ANT,Andrea Kimi,Antonelli,mercedes,Mercedes,5,11,0,Finished,4.0,1:31.415,1:30.716,1:30.213,0,1,0,0,1
+2025,4,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2025-04-13,albon,ALB,Alexander,Albon,williams,Williams,15,12,0,Finished,15.0,1:32.040,,,0,1,0,0,1
+2025,4,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2025-04-13,hadjar,HAD,Isack,Hadjar,rb,RB F1 Team,12,13,0,Finished,12.0,1:31.591,1:31.271,,0,1,0,0,1
+2025,4,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2025-04-13,doohan,DOO,Jack,Doohan,alpine,Alpine F1 Team,11,14,0,Finished,11.0,1:31.414,1:31.245,,0,1,0,0,1
+2025,4,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2025-04-13,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,13,15,0,Finished,13.0,1:31.634,1:31.886,,0,1,0,0,1
+2025,4,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2025-04-13,lawson,LAW,Liam,Lawson,rb,RB F1 Team,17,16,0,Finished,17.0,1:32.165,,,0,1,0,0,1
+2025,4,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2025-04-13,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,19,17,0,Finished,19.0,1:32.283,,,0,1,0,0,1
+2025,4,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2025-04-13,bortoleto,BOR,Gabriel,Bortoleto,sauber,Sauber,18,18,0,Finished,18.0,1:32.186,,,0,1,0,0,1
+2025,4,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2025-04-13,sainz,SAI,Carlos,Sainz,williams,Williams,8,19,0,Retired,8.0,1:31.591,1:30.844,1:30.680,0,0,0,0,1
+2025,4,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2025-04-13,hulkenberg,HUL,Nico,Hülkenberg,sauber,Sauber,16,20,0,Disqualified,16.0,1:32.067,,,0,0,0,0,1
+2025,5,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2025-04-20,piastri,PIA,Oscar,Piastri,mclaren,McLaren,2,1,25,Finished,2.0,1:27.901,1:27.545,1:27.304,1,1,0,0,0
+2025,5,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2025-04-20,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,1,2,18,Finished,1.0,1:27.778,1:27.529,1:27.294,1,1,0,0,0
+2025,5,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2025-04-20,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,4,3,15,Finished,4.0,1:28.552,1:27.866,1:27.670,1,1,0,0,0
+2025,5,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2025-04-20,norris,NOR,Lando,Norris,mclaren,McLaren,10,4,12,Finished,10.0,1:27.805,1:27.481,,0,1,0,0,0
+2025,5,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2025-04-20,russell,RUS,George,Russell,mercedes,Mercedes,3,5,10,Finished,3.0,1:28.282,1:27.599,1:27.407,0,1,0,0,0
+2025,5,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2025-04-20,antonelli,ANT,Andrea Kimi,Antonelli,mercedes,Mercedes,5,6,8,Finished,5.0,1:28.128,1:27.798,1:27.866,0,1,0,0,0
+2025,5,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2025-04-20,hamilton,HAM,Lewis,Hamilton,ferrari,Ferrari,7,7,6,Finished,7.0,1:28.372,1:28.102,1:28.201,0,1,0,0,0
+2025,5,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2025-04-20,sainz,SAI,Carlos,Sainz,williams,Williams,6,8,4,Finished,6.0,1:28.354,1:28.024,1:28.164,0,1,0,0,0
+2025,5,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2025-04-20,albon,ALB,Alexander,Albon,williams,Williams,11,9,2,Finished,11.0,1:28.279,1:28.109,,0,1,0,0,0
+2025,5,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2025-04-20,hadjar,HAD,Isack,Hadjar,rb,RB F1 Team,14,10,1,Finished,14.0,1:28.571,1:28.418,,0,1,0,0,0
+2025,5,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2025-04-20,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,13,11,0,Finished,13.0,1:28.548,1:28.303,,0,1,0,0,0
+2025,5,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2025-04-20,lawson,LAW,Liam,Lawson,rb,RB F1 Team,12,12,0,Finished,12.0,1:28.561,1:28.191,,0,1,0,0,0
+2025,5,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2025-04-20,bearman,BEA,Oliver,Bearman,haas,Haas F1 Team,15,13,0,Finished,15.0,1:28.536,1:28.648,,0,1,0,0,0
+2025,5,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2025-04-20,ocon,OCO,Esteban,Ocon,haas,Haas F1 Team,19,14,0,Finished,19.0,1:29.092,,,0,1,0,0,0
+2025,5,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2025-04-20,hulkenberg,HUL,Nico,Hülkenberg,sauber,Sauber,18,15,0,Lapped,18.0,1:28.782,,,0,0,0,0,0
+2025,5,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2025-04-20,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,16,16,0,Lapped,16.0,1:28.645,,,0,0,0,0,0
+2025,5,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2025-04-20,doohan,DOO,Jack,Doohan,alpine,Alpine F1 Team,17,17,0,Lapped,17.0,1:28.739,,,0,0,0,0,0
+2025,5,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2025-04-20,bortoleto,BOR,Gabriel,Bortoleto,sauber,Sauber,20,18,0,Lapped,20.0,1:29.462,,,0,0,0,0,0
+2025,5,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2025-04-20,tsunoda,TSU,Yuki,Tsunoda,red_bull,Red Bull,8,19,0,Retired,8.0,1:28.226,1:27.990,1:28.204,0,0,0,0,0
+2025,5,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2025-04-20,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,9,20,0,Retired,9.0,1:28.421,1:28.025,1:28.367,0,0,0,0,0
