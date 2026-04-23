@@ -6,24 +6,24 @@ os.makedirs("data/processed", exist_ok=True)
 # -----------------------------
 # LOAD RAW DATA
 # -----------------------------
-results_df = pd.read_csv("data/raw/results_2021_2025.csv")
-qualifying_df = pd.read_csv("data/raw/qualifying_2021_2025.csv")
+results_df = pd.read_csv("data/raw/results_2016_2026.csv")
+qualifying_df = pd.read_csv("data/raw/qualifying_2016_2026.csv")
 
 # -----------------------------
 # CLEAN KEY COLUMNS
 # -----------------------------
-results_df["season"] = pd.to_numeric(results_df["season"], errors="coerce")
-results_df["round"] = pd.to_numeric(results_df["round"], errors="coerce")
-results_df["grid"] = pd.to_numeric(results_df["grid"], errors="coerce")
-results_df["position"] = pd.to_numeric(results_df["position"], errors="coerce")
-results_df["points"] = pd.to_numeric(results_df["points"], errors="coerce")
+for col in ["season", "round", "grid", "position", "points"]:
+    if col in results_df.columns:
+        results_df[col] = pd.to_numeric(results_df[col], errors="coerce")
 
-qualifying_df["season"] = pd.to_numeric(qualifying_df["season"], errors="coerce")
-qualifying_df["round"] = pd.to_numeric(qualifying_df["round"], errors="coerce")
-qualifying_df["qualifying_position"] = pd.to_numeric(qualifying_df["qualifying_position"], errors="coerce")
+for col in ["season", "round", "qualifying_position"]:
+    if col in qualifying_df.columns:
+        qualifying_df[col] = pd.to_numeric(qualifying_df[col], errors="coerce")
+
+results_df["race_date"] = pd.to_datetime(results_df["race_date"], errors="coerce")
 
 # -----------------------------
-# SELECT QUALIFYING COLUMNS TO MERGE
+# KEEP ONLY NEEDED QUALIFYING COLS
 # -----------------------------
 qual_cols = [
     "season",
@@ -32,7 +32,7 @@ qual_cols = [
     "qualifying_position",
     "q1",
     "q2",
-    "q3"
+    "q3",
 ]
 
 qualifying_trimmed = qualifying_df[qual_cols].copy()
@@ -47,19 +47,35 @@ master_df = results_df.merge(
 )
 
 # -----------------------------
-# CREATE TARGET VARIABLE
+# TARGETS
 # -----------------------------
+master_df["winner"] = master_df["position"].apply(
+    lambda x: 1 if pd.notna(x) and x == 1 else 0
+)
+
 master_df["podium"] = master_df["position"].apply(
     lambda x: 1 if pd.notna(x) and x <= 3 else 0
 )
 
 # -----------------------------
-# OPTIONAL HELPFUL FLAGS
+# FINISH / CLASSIFICATION FLAGS
 # -----------------------------
-master_df["finished_race"] = master_df["status"].apply(
-    lambda x: 1 if isinstance(x, str) and x == "Finished" else 0
-)
+def classify_finished(status):
+    if not isinstance(status, str):
+        return 0
+    status = status.strip()
+    if status == "Finished":
+        return 1
+    if "Lap" in status:
+        return 1
+    return 0
 
+master_df["finished_race"] = master_df["status"].apply(classify_finished)
+master_df["dnf_flag"] = 1 - master_df["finished_race"]
+
+# -----------------------------
+# OPTIONAL TRACK FLAGS
+# -----------------------------
 master_df["monaco_flag"] = master_df["race_name"].apply(
     lambda x: 1 if isinstance(x, str) and "Monaco" in x else 0
 )
@@ -73,11 +89,72 @@ master_df["bahrain_flag"] = master_df["race_name"].apply(
 )
 
 # -----------------------------
+# DRIVER / CONSTRUCTOR RACE-LEVEL POINTS + WINS
+# -----------------------------
+master_df["driver_points_this_race"] = master_df["points"].fillna(0)
+master_df["driver_win_this_race"] = master_df["winner"]
+master_df["driver_podium_this_race"] = master_df["podium"]
+
+constructor_race = (
+    master_df.groupby(
+        ["season", "round", "constructor_id", "constructor_name"],
+        as_index=False
+    )
+    .agg(
+        constructor_points_this_race=("points", "sum"),
+        constructor_wins_this_race=("winner", "sum"),
+        constructor_podiums_this_race=("podium", "sum"),
+    )
+)
+
+master_df = master_df.merge(
+    constructor_race,
+    on=["season", "round", "constructor_id", "constructor_name"],
+    how="left"
+)
+
+# -----------------------------
+# SORT CLEANLY
+# -----------------------------
+master_df = master_df.sort_values(
+    ["season", "round", "position", "driver_id"],
+    na_position="last"
+).reset_index(drop=True)
+
+# -----------------------------
 # SAVE OUTPUT
 # -----------------------------
 master_df.to_csv("data/processed/master_driver_race.csv", index=False)
 
 print("Created: data/processed/master_driver_race.csv")
-print(master_df.head())
-print(master_df.shape)
-print(master_df["podium"].value_counts(dropna=False))
+print("Shape:", master_df.shape)
+
+print("\nWinner counts by season:")
+print(master_df.groupby("season")["winner"].sum().sort_index())
+
+print("\nPodium counts by season:")
+print(master_df.groupby("season")["podium"].sum().sort_index())
+
+print("\nSample rows:")
+print(
+    master_df[
+        [
+            "season",
+            "round",
+            "race_name",
+            "given_name",
+            "family_name",
+            "constructor_name",
+            "grid",
+            "qualifying_position",
+            "position",
+            "points",
+            "winner",
+            "podium",
+            "finished_race",
+            "dnf_flag",
+            "driver_points_this_race",
+            "constructor_points_this_race",
+        ]
+    ].head(15)
+)
