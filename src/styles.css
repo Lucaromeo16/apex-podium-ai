@@ -1304,3 +1304,227 @@ th {
 .prediction-item.winner-prediction .probability-text {
   color: #92400e;
 }
+
+/* 2026 Predictions Page - Premium Header */
+
+.predictions-header {
+  background: linear-gradient(135deg, #1f2937 0%, #374151 100%);
+  color: white;
+  border-radius: 16px;
+  padding: 3rem;
+  margin-bottom: 2rem;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+  position: relative;
+  overflow: hidden;
+}
+
+.predictions-header::before {
+  content: '';
+  position: absolute;
+  top: -50%;
+  right: -10%;
+  width: 400px;
+  height: 400px;
+  background: radial-gradient(circle, rgba(59, 130, 246, 0.1) 0%, transparent 70%);
+  border-radius: 50%;
+  pointer-events: none;
+}
+
+.header-content {
+  position: relative;
+  z-index: 1;
+}
+
+.predictions-header .subtle {
+  color: #93c5fd;
+  font-size: 0.9rem;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+}
+
+.predictions-header h1 {
+  font-size: 2.5rem;
+  font-weight: 800;
+  margin-bottom: 1rem;
+  background: linear-gradient(120deg, #ffffff 0%, #dbeafe 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.header-description {
+  font-size: 1rem;
+  color: #dbeafe;
+  margin-bottom: 0.8rem;
+  font-weight: 600;
+}
+
+.header-subtext {
+  font-size: 0.95rem;
+  color: #bfdbfe;
+  line-height: 1.6;
+}
+
+/* 2026 Predictions Sections - General Wrapper */
+
+.predictions-section {
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  padding: 0;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s ease;
+}
+
+.predictions-section:hover {
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+}
+
+.section-header {
+  background: #f8fafc;
+  border-bottom: 2px solid #e2e8f0;
+  padding: 1.5rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.section-header h2 {
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: #1f2937;
+  margin: 0;
+}
+
+/* Completed Races Section */
+
+.completed-section .section-header h2::before {
+  content: '✓';
+  margin-right: 0.5rem;
+  color: #10b981;
+  font-weight: 800;
+}
+
+.completed-section {
+  padding: 1.5rem;
+}
+
+.completed-race-card {
+  padding: 1.5rem;
+  background: #ffffff;
+  border: 1px solid #f0f4f8;
+  border-radius: 10px;
+  margin-bottom: 1.5rem;
+  transition: all 0.3s ease;
+}
+
+.completed-race-card:last-child {
+  margin-bottom: 0;
+}
+
+.completed-race-card:hover {
+  border-color: #d1d5db;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.completed-race-card .race-name {
+  border-bottom: 2px solid #f3f4f6;
+  padding-bottom: 0.8rem;
+  margin-bottom: 1.2rem;
+}
+
+.completed-race-card h3 {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: #1f2937;
+  margin: 0;
+}
+
+.completed-podium {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 1rem;
+}
+
+/* Canceled Races Section */
+
+.canceled-section {
+  padding: 1.5rem;
+}
+
+.canceled-section .section-header h2::before {
+  content: '—';
+  margin-right: 0.5rem;
+  color: #ef4444;
+  font-weight: 800;
+  font-size: 1.2rem;
+}
+
+.canceled-status-card {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1.2rem;
+  background: linear-gradient(135deg, #fef2f2 0%, #fff7ed 100%);
+  border: 1.5px solid #fca5a5;
+  border-radius: 10px;
+  margin-bottom: 1rem;
+  transition: all 0.3s ease;
+}
+
+.canceled-status-card:last-child {
+  margin-bottom: 0;
+}
+
+.canceled-status-card:hover {
+  border-color: #f87171;
+  box-shadow: 0 4px 12px rgba(239, 68, 68, 0.1);
+}
+
+.canceled-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  background: #fed7d7;
+  border-radius: 50%;
+  font-weight: 900;
+  color: #dc2626;
+  font-size: 1.5rem;
+  flex-shrink: 0;
+}
+
+.canceled-content {
+  flex: 1;
+}
+
+.canceled-race-name {
+  font-size: 1rem;
+  font-weight: 700;
+  color: #7f1d1d;
+  margin: 0 0 0.3rem 0;
+}
+
+.canceled-message {
+  font-size: 0.9rem;
+  color: #991b1b;
+  margin: 0;
+}
+
+/* Upcoming Races Section */
+
+.upcoming-section {
+  padding: 1.5rem;
+}
+
+.upcoming-section .section-header h2::before {
+  content: '→';
+  margin-right: 0.5rem;
+  color: #3b82f6;
+  font-weight: 800;
+  font-size: 1.1rem;
+}
