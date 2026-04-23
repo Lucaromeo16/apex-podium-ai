@@ -16,6 +16,8 @@ function LandingPage() {
           <a href="#about" className="nav-link">About Us</a>
           <a href="#methodology" className="nav-link">Methodology</a>
           <a href="#value" className="nav-link">Who It's For</a>
+          <a href="#model-architecture" className="nav-link">Model Architecture</a>
+          <a href="#feature-importance" className="nav-link">Feature Importance</a>
           <Link to="/app" className="nav-cta">Try ApexPodium AI</Link>
         </div>
       </nav>
@@ -174,7 +176,7 @@ function LandingPage() {
         </div>
       </section>
 
-      <section className="model-architecture-section">
+      <section id="model-architecture" className="model-architecture-section">
         <div className="section-container">
           <div className="section-header">
             <h2>Model Architecture</h2>
@@ -302,7 +304,7 @@ function LandingPage() {
         </div>
       </section>
 
-      <section className="feature-importance-section">
+      <section id="feature-importance" className="feature-importance-section">
         <div className="section-container">
           <div className="section-header">
             <h2>Feature Importance</h2>
