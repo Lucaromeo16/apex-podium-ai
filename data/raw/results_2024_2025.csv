@@ -1,0 +1,959 @@
+season,round,race_name,circuit_id,circuit_name,race_date,driver_id,driver_code,given_name,family_name,constructor_id,constructor_name,grid,position,points,status
+2024,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2024-03-02,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,1,1,26,Finished
+2024,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2024-03-02,perez,PER,Sergio,Pérez,red_bull,Red Bull,5,2,18,Finished
+2024,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2024-03-02,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,4,3,15,Finished
+2024,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2024-03-02,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,2,4,12,Finished
+2024,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2024-03-02,russell,RUS,George,Russell,mercedes,Mercedes,3,5,10,Finished
+2024,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2024-03-02,norris,NOR,Lando,Norris,mclaren,McLaren,7,6,8,Finished
+2024,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2024-03-02,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,9,7,6,Finished
+2024,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2024-03-02,piastri,PIA,Oscar,Piastri,mclaren,McLaren,8,8,4,Finished
+2024,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2024-03-02,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,6,9,2,Finished
+2024,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2024-03-02,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,12,10,1,Finished
+2024,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2024-03-02,zhou,ZHO,Guanyu,Zhou,sauber,Sauber,17,11,0,Lapped
+2024,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2024-03-02,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,15,12,0,Lapped
+2024,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2024-03-02,ricciardo,RIC,Daniel,Ricciardo,rb,RB F1 Team,14,13,0,Lapped
+2024,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2024-03-02,tsunoda,TSU,Yuki,Tsunoda,rb,RB F1 Team,11,14,0,Lapped
+2024,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2024-03-02,albon,ALB,Alexander,Albon,williams,Williams,13,15,0,Lapped
+2024,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2024-03-02,hulkenberg,HUL,Nico,Hülkenberg,haas,Haas F1 Team,10,16,0,Lapped
+2024,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2024-03-02,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,19,17,0,Lapped
+2024,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2024-03-02,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,20,18,0,Lapped
+2024,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2024-03-02,bottas,BOT,Valtteri,Bottas,sauber,Sauber,16,19,0,Lapped
+2024,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2024-03-02,sargeant,SAR,Logan,Sargeant,williams,Williams,18,20,0,Lapped
+2024,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2024-03-09,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,1,1,25,Finished
+2024,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2024-03-09,perez,PER,Sergio,Pérez,red_bull,Red Bull,3,2,18,Finished
+2024,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2024-03-09,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,2,3,16,Finished
+2024,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2024-03-09,piastri,PIA,Oscar,Piastri,mclaren,McLaren,5,4,12,Finished
+2024,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2024-03-09,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,4,5,10,Finished
+2024,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2024-03-09,russell,RUS,George,Russell,mercedes,Mercedes,7,6,8,Finished
+2024,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2024-03-09,bearman,BEA,Oliver,Bearman,ferrari,Ferrari,11,7,6,Finished
+2024,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2024-03-09,norris,NOR,Lando,Norris,mclaren,McLaren,6,8,4,Finished
+2024,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2024-03-09,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,8,9,2,Finished
+2024,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2024-03-09,hulkenberg,HUL,Nico,Hülkenberg,haas,Haas F1 Team,15,10,1,Finished
+2024,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2024-03-09,albon,ALB,Alexander,Albon,williams,Williams,12,11,0,Finished
+2024,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2024-03-09,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,13,12,0,Finished
+2024,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2024-03-09,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,17,13,0,Lapped
+2024,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2024-03-09,sargeant,SAR,Logan,Sargeant,williams,Williams,19,14,0,Lapped
+2024,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2024-03-09,tsunoda,TSU,Yuki,Tsunoda,rb,RB F1 Team,9,15,0,Lapped
+2024,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2024-03-09,ricciardo,RIC,Daniel,Ricciardo,rb,RB F1 Team,14,16,0,Lapped
+2024,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2024-03-09,bottas,BOT,Valtteri,Bottas,sauber,Sauber,16,17,0,Lapped
+2024,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2024-03-09,zhou,ZHO,Guanyu,Zhou,sauber,Sauber,20,18,0,Lapped
+2024,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2024-03-09,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,10,19,0,Retired
+2024,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2024-03-09,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,18,20,0,Retired
+2024,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2024-03-24,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,2,1,25,Finished
+2024,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2024-03-24,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,4,2,19,Finished
+2024,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2024-03-24,norris,NOR,Lando,Norris,mclaren,McLaren,3,3,15,Finished
+2024,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2024-03-24,piastri,PIA,Oscar,Piastri,mclaren,McLaren,5,4,12,Finished
+2024,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2024-03-24,perez,PER,Sergio,Pérez,red_bull,Red Bull,6,5,10,Finished
+2024,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2024-03-24,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,9,6,8,Finished
+2024,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2024-03-24,tsunoda,TSU,Yuki,Tsunoda,rb,RB F1 Team,8,7,6,Finished
+2024,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2024-03-24,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,10,8,4,Finished
+2024,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2024-03-24,hulkenberg,HUL,Nico,Hülkenberg,haas,Haas F1 Team,16,9,2,Finished
+2024,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2024-03-24,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,14,10,1,Lapped
+2024,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2024-03-24,albon,ALB,Alexander,Albon,williams,Williams,12,11,0,Lapped
+2024,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2024-03-24,ricciardo,RIC,Daniel,Ricciardo,rb,RB F1 Team,18,12,0,Lapped
+2024,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2024-03-24,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,17,13,0,Lapped
+2024,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2024-03-24,bottas,BOT,Valtteri,Bottas,sauber,Sauber,13,14,0,Lapped
+2024,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2024-03-24,zhou,ZHO,Guanyu,Zhou,sauber,Sauber,19,15,0,Lapped
+2024,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2024-03-24,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,15,16,0,Lapped
+2024,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2024-03-24,russell,RUS,George,Russell,mercedes,Mercedes,7,17,0,Retired
+2024,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2024-03-24,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,11,18,0,Retired
+2024,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2024-03-24,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,1,19,0,Retired
+2024,4,Japanese Grand Prix,suzuka,Suzuka Circuit,2024-04-07,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,1,1,26,Finished
+2024,4,Japanese Grand Prix,suzuka,Suzuka Circuit,2024-04-07,perez,PER,Sergio,Pérez,red_bull,Red Bull,2,2,18,Finished
+2024,4,Japanese Grand Prix,suzuka,Suzuka Circuit,2024-04-07,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,4,3,15,Finished
+2024,4,Japanese Grand Prix,suzuka,Suzuka Circuit,2024-04-07,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,8,4,12,Finished
+2024,4,Japanese Grand Prix,suzuka,Suzuka Circuit,2024-04-07,norris,NOR,Lando,Norris,mclaren,McLaren,3,5,10,Finished
+2024,4,Japanese Grand Prix,suzuka,Suzuka Circuit,2024-04-07,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,5,6,8,Finished
+2024,4,Japanese Grand Prix,suzuka,Suzuka Circuit,2024-04-07,russell,RUS,George,Russell,mercedes,Mercedes,9,7,6,Finished
+2024,4,Japanese Grand Prix,suzuka,Suzuka Circuit,2024-04-07,piastri,PIA,Oscar,Piastri,mclaren,McLaren,6,8,4,Finished
+2024,4,Japanese Grand Prix,suzuka,Suzuka Circuit,2024-04-07,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,7,9,2,Finished
+2024,4,Japanese Grand Prix,suzuka,Suzuka Circuit,2024-04-07,tsunoda,TSU,Yuki,Tsunoda,rb,RB F1 Team,10,10,1,Lapped
+2024,4,Japanese Grand Prix,suzuka,Suzuka Circuit,2024-04-07,hulkenberg,HUL,Nico,Hülkenberg,haas,Haas F1 Team,12,11,0,Lapped
+2024,4,Japanese Grand Prix,suzuka,Suzuka Circuit,2024-04-07,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,16,12,0,Lapped
+2024,4,Japanese Grand Prix,suzuka,Suzuka Circuit,2024-04-07,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,18,13,0,Lapped
+2024,4,Japanese Grand Prix,suzuka,Suzuka Circuit,2024-04-07,bottas,BOT,Valtteri,Bottas,sauber,Sauber,13,14,0,Lapped
+2024,4,Japanese Grand Prix,suzuka,Suzuka Circuit,2024-04-07,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,15,15,0,Lapped
+2024,4,Japanese Grand Prix,suzuka,Suzuka Circuit,2024-04-07,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,17,16,0,Lapped
+2024,4,Japanese Grand Prix,suzuka,Suzuka Circuit,2024-04-07,sargeant,SAR,Logan,Sargeant,williams,Williams,19,17,0,Lapped
+2024,4,Japanese Grand Prix,suzuka,Suzuka Circuit,2024-04-07,zhou,ZHO,Guanyu,Zhou,sauber,Sauber,20,18,0,Retired
+2024,4,Japanese Grand Prix,suzuka,Suzuka Circuit,2024-04-07,ricciardo,RIC,Daniel,Ricciardo,rb,RB F1 Team,11,19,0,Retired
+2024,4,Japanese Grand Prix,suzuka,Suzuka Circuit,2024-04-07,albon,ALB,Alexander,Albon,williams,Williams,14,20,0,Retired
+2024,5,Chinese Grand Prix,shanghai,Shanghai International Circuit,2024-04-21,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,1,1,25,Finished
+2024,5,Chinese Grand Prix,shanghai,Shanghai International Circuit,2024-04-21,norris,NOR,Lando,Norris,mclaren,McLaren,4,2,18,Finished
+2024,5,Chinese Grand Prix,shanghai,Shanghai International Circuit,2024-04-21,perez,PER,Sergio,Pérez,red_bull,Red Bull,2,3,15,Finished
+2024,5,Chinese Grand Prix,shanghai,Shanghai International Circuit,2024-04-21,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,6,4,12,Finished
+2024,5,Chinese Grand Prix,shanghai,Shanghai International Circuit,2024-04-21,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,7,5,10,Finished
+2024,5,Chinese Grand Prix,shanghai,Shanghai International Circuit,2024-04-21,russell,RUS,George,Russell,mercedes,Mercedes,8,6,8,Finished
+2024,5,Chinese Grand Prix,shanghai,Shanghai International Circuit,2024-04-21,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,3,7,7,Finished
+2024,5,Chinese Grand Prix,shanghai,Shanghai International Circuit,2024-04-21,piastri,PIA,Oscar,Piastri,mclaren,McLaren,5,8,4,Finished
+2024,5,Chinese Grand Prix,shanghai,Shanghai International Circuit,2024-04-21,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,18,9,2,Finished
+2024,5,Chinese Grand Prix,shanghai,Shanghai International Circuit,2024-04-21,hulkenberg,HUL,Nico,Hülkenberg,haas,Haas F1 Team,9,10,1,Finished
+2024,5,Chinese Grand Prix,shanghai,Shanghai International Circuit,2024-04-21,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,13,11,0,Finished
+2024,5,Chinese Grand Prix,shanghai,Shanghai International Circuit,2024-04-21,albon,ALB,Alexander,Albon,williams,Williams,14,12,0,Finished
+2024,5,Chinese Grand Prix,shanghai,Shanghai International Circuit,2024-04-21,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,15,13,0,Finished
+2024,5,Chinese Grand Prix,shanghai,Shanghai International Circuit,2024-04-21,zhou,ZHO,Guanyu,Zhou,sauber,Sauber,16,14,0,Finished
+2024,5,Chinese Grand Prix,shanghai,Shanghai International Circuit,2024-04-21,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,11,15,0,Finished
+2024,5,Chinese Grand Prix,shanghai,Shanghai International Circuit,2024-04-21,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,17,16,0,Finished
+2024,5,Chinese Grand Prix,shanghai,Shanghai International Circuit,2024-04-21,sargeant,SAR,Logan,Sargeant,williams,Williams,20,17,0,Finished
+2024,5,Chinese Grand Prix,shanghai,Shanghai International Circuit,2024-04-21,ricciardo,RIC,Daniel,Ricciardo,rb,RB F1 Team,12,18,0,Retired
+2024,5,Chinese Grand Prix,shanghai,Shanghai International Circuit,2024-04-21,tsunoda,TSU,Yuki,Tsunoda,rb,RB F1 Team,19,19,0,Retired
+2024,5,Chinese Grand Prix,shanghai,Shanghai International Circuit,2024-04-21,bottas,BOT,Valtteri,Bottas,sauber,Sauber,10,20,0,Retired
+2024,6,Miami Grand Prix,miami,Miami International Autodrome,2024-05-05,norris,NOR,Lando,Norris,mclaren,McLaren,5,1,25,Finished
+2024,6,Miami Grand Prix,miami,Miami International Autodrome,2024-05-05,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,1,2,18,Finished
+2024,6,Miami Grand Prix,miami,Miami International Autodrome,2024-05-05,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,2,3,15,Finished
+2024,6,Miami Grand Prix,miami,Miami International Autodrome,2024-05-05,perez,PER,Sergio,Pérez,red_bull,Red Bull,4,4,12,Finished
+2024,6,Miami Grand Prix,miami,Miami International Autodrome,2024-05-05,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,3,5,10,Finished
+2024,6,Miami Grand Prix,miami,Miami International Autodrome,2024-05-05,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,8,6,8,Finished
+2024,6,Miami Grand Prix,miami,Miami International Autodrome,2024-05-05,tsunoda,TSU,Yuki,Tsunoda,rb,RB F1 Team,10,7,6,Finished
+2024,6,Miami Grand Prix,miami,Miami International Autodrome,2024-05-05,russell,RUS,George,Russell,mercedes,Mercedes,7,8,4,Finished
+2024,6,Miami Grand Prix,miami,Miami International Autodrome,2024-05-05,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,15,9,2,Finished
+2024,6,Miami Grand Prix,miami,Miami International Autodrome,2024-05-05,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,13,10,1,Finished
+2024,6,Miami Grand Prix,miami,Miami International Autodrome,2024-05-05,hulkenberg,HUL,Nico,Hülkenberg,haas,Haas F1 Team,9,11,0,Finished
+2024,6,Miami Grand Prix,miami,Miami International Autodrome,2024-05-05,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,12,12,0,Finished
+2024,6,Miami Grand Prix,miami,Miami International Autodrome,2024-05-05,piastri,PIA,Oscar,Piastri,mclaren,McLaren,6,13,0,Finished
+2024,6,Miami Grand Prix,miami,Miami International Autodrome,2024-05-05,zhou,ZHO,Guanyu,Zhou,sauber,Sauber,19,14,0,Finished
+2024,6,Miami Grand Prix,miami,Miami International Autodrome,2024-05-05,ricciardo,RIC,Daniel,Ricciardo,rb,RB F1 Team,20,15,0,Finished
+2024,6,Miami Grand Prix,miami,Miami International Autodrome,2024-05-05,bottas,BOT,Valtteri,Bottas,sauber,Sauber,16,16,0,Finished
+2024,6,Miami Grand Prix,miami,Miami International Autodrome,2024-05-05,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,11,17,0,Finished
+2024,6,Miami Grand Prix,miami,Miami International Autodrome,2024-05-05,albon,ALB,Alexander,Albon,williams,Williams,14,18,0,Finished
+2024,6,Miami Grand Prix,miami,Miami International Autodrome,2024-05-05,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,18,19,0,Finished
+2024,6,Miami Grand Prix,miami,Miami International Autodrome,2024-05-05,sargeant,SAR,Logan,Sargeant,williams,Williams,17,20,0,Retired
+2024,7,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2024-05-19,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,1,1,25,Finished
+2024,7,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2024-05-19,norris,NOR,Lando,Norris,mclaren,McLaren,2,2,18,Finished
+2024,7,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2024-05-19,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,3,3,15,Finished
+2024,7,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2024-05-19,piastri,PIA,Oscar,Piastri,mclaren,McLaren,5,4,12,Finished
+2024,7,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2024-05-19,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,4,5,10,Finished
+2024,7,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2024-05-19,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,8,6,8,Finished
+2024,7,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2024-05-19,russell,RUS,George,Russell,mercedes,Mercedes,6,7,7,Finished
+2024,7,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2024-05-19,perez,PER,Sergio,Pérez,red_bull,Red Bull,11,8,4,Finished
+2024,7,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2024-05-19,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,13,9,2,Finished
+2024,7,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2024-05-19,tsunoda,TSU,Yuki,Tsunoda,rb,RB F1 Team,7,10,1,Lapped
+2024,7,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2024-05-19,hulkenberg,HUL,Nico,Hülkenberg,haas,Haas F1 Team,10,11,0,Lapped
+2024,7,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2024-05-19,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,18,12,0,Lapped
+2024,7,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2024-05-19,ricciardo,RIC,Daniel,Ricciardo,rb,RB F1 Team,9,13,0,Lapped
+2024,7,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2024-05-19,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,12,14,0,Lapped
+2024,7,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2024-05-19,zhou,ZHO,Guanyu,Zhou,sauber,Sauber,17,15,0,Lapped
+2024,7,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2024-05-19,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,15,16,0,Lapped
+2024,7,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2024-05-19,sargeant,SAR,Logan,Sargeant,williams,Williams,19,17,0,Lapped
+2024,7,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2024-05-19,bottas,BOT,Valtteri,Bottas,sauber,Sauber,16,18,0,Lapped
+2024,7,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2024-05-19,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,20,19,0,Lapped
+2024,7,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2024-05-19,albon,ALB,Alexander,Albon,williams,Williams,14,20,0,Retired
+2024,8,Monaco Grand Prix,monaco,Circuit de Monaco,2024-05-26,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,1,1,25,Finished
+2024,8,Monaco Grand Prix,monaco,Circuit de Monaco,2024-05-26,piastri,PIA,Oscar,Piastri,mclaren,McLaren,2,2,18,Finished
+2024,8,Monaco Grand Prix,monaco,Circuit de Monaco,2024-05-26,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,3,3,15,Finished
+2024,8,Monaco Grand Prix,monaco,Circuit de Monaco,2024-05-26,norris,NOR,Lando,Norris,mclaren,McLaren,4,4,12,Finished
+2024,8,Monaco Grand Prix,monaco,Circuit de Monaco,2024-05-26,russell,RUS,George,Russell,mercedes,Mercedes,5,5,10,Finished
+2024,8,Monaco Grand Prix,monaco,Circuit de Monaco,2024-05-26,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,6,6,8,Finished
+2024,8,Monaco Grand Prix,monaco,Circuit de Monaco,2024-05-26,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,7,7,7,Finished
+2024,8,Monaco Grand Prix,monaco,Circuit de Monaco,2024-05-26,tsunoda,TSU,Yuki,Tsunoda,rb,RB F1 Team,8,8,4,Lapped
+2024,8,Monaco Grand Prix,monaco,Circuit de Monaco,2024-05-26,albon,ALB,Alexander,Albon,williams,Williams,9,9,2,Lapped
+2024,8,Monaco Grand Prix,monaco,Circuit de Monaco,2024-05-26,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,10,10,1,Lapped
+2024,8,Monaco Grand Prix,monaco,Circuit de Monaco,2024-05-26,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,14,11,0,Lapped
+2024,8,Monaco Grand Prix,monaco,Circuit de Monaco,2024-05-26,ricciardo,RIC,Daniel,Ricciardo,rb,RB F1 Team,12,12,0,Lapped
+2024,8,Monaco Grand Prix,monaco,Circuit de Monaco,2024-05-26,bottas,BOT,Valtteri,Bottas,sauber,Sauber,17,13,0,Lapped
+2024,8,Monaco Grand Prix,monaco,Circuit de Monaco,2024-05-26,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,13,14,0,Lapped
+2024,8,Monaco Grand Prix,monaco,Circuit de Monaco,2024-05-26,sargeant,SAR,Logan,Sargeant,williams,Williams,15,15,0,Lapped
+2024,8,Monaco Grand Prix,monaco,Circuit de Monaco,2024-05-26,zhou,ZHO,Guanyu,Zhou,sauber,Sauber,18,16,0,Lapped
+2024,8,Monaco Grand Prix,monaco,Circuit de Monaco,2024-05-26,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,11,17,0,Retired
+2024,8,Monaco Grand Prix,monaco,Circuit de Monaco,2024-05-26,perez,PER,Sergio,Pérez,red_bull,Red Bull,16,18,0,Retired
+2024,8,Monaco Grand Prix,monaco,Circuit de Monaco,2024-05-26,hulkenberg,HUL,Nico,Hülkenberg,haas,Haas F1 Team,19,19,0,Retired
+2024,8,Monaco Grand Prix,monaco,Circuit de Monaco,2024-05-26,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,20,20,0,Retired
+2024,9,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,2024-06-09,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,2,1,25,Finished
+2024,9,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,2024-06-09,norris,NOR,Lando,Norris,mclaren,McLaren,3,2,18,Finished
+2024,9,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,2024-06-09,russell,RUS,George,Russell,mercedes,Mercedes,1,3,15,Finished
+2024,9,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,2024-06-09,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,7,4,13,Finished
+2024,9,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,2024-06-09,piastri,PIA,Oscar,Piastri,mclaren,McLaren,4,5,10,Finished
+2024,9,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,2024-06-09,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,6,6,8,Finished
+2024,9,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,2024-06-09,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,9,7,6,Finished
+2024,9,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,2024-06-09,ricciardo,RIC,Daniel,Ricciardo,rb,RB F1 Team,5,8,4,Finished
+2024,9,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,2024-06-09,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,15,9,2,Finished
+2024,9,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,2024-06-09,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,18,10,1,Finished
+2024,9,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,2024-06-09,hulkenberg,HUL,Nico,Hülkenberg,haas,Haas F1 Team,17,11,0,Finished
+2024,9,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,2024-06-09,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,14,12,0,Finished
+2024,9,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,2024-06-09,bottas,BOT,Valtteri,Bottas,sauber,Sauber,19,13,0,Finished
+2024,9,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,2024-06-09,tsunoda,TSU,Yuki,Tsunoda,rb,RB F1 Team,8,14,0,Finished
+2024,9,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,2024-06-09,zhou,ZHO,Guanyu,Zhou,sauber,Sauber,20,15,0,Lapped
+2024,9,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,2024-06-09,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,12,16,0,Retired
+2024,9,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,2024-06-09,albon,ALB,Alexander,Albon,williams,Williams,10,17,0,Retired
+2024,9,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,2024-06-09,perez,PER,Sergio,Pérez,red_bull,Red Bull,16,18,0,Retired
+2024,9,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,2024-06-09,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,11,19,0,Retired
+2024,9,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,2024-06-09,sargeant,SAR,Logan,Sargeant,williams,Williams,13,20,0,Retired
+2024,10,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2024-06-23,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,2,1,25,Finished
+2024,10,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2024-06-23,norris,NOR,Lando,Norris,mclaren,McLaren,1,2,19,Finished
+2024,10,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2024-06-23,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,3,3,15,Finished
+2024,10,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2024-06-23,russell,RUS,George,Russell,mercedes,Mercedes,4,4,12,Finished
+2024,10,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2024-06-23,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,5,5,10,Finished
+2024,10,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2024-06-23,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,6,6,8,Finished
+2024,10,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2024-06-23,piastri,PIA,Oscar,Piastri,mclaren,McLaren,9,7,6,Finished
+2024,10,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2024-06-23,perez,PER,Sergio,Pérez,red_bull,Red Bull,11,8,4,Finished
+2024,10,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2024-06-23,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,7,9,2,Finished
+2024,10,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2024-06-23,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,8,10,1,Finished
+2024,10,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2024-06-23,hulkenberg,HUL,Nico,Hülkenberg,haas,Haas F1 Team,13,11,0,Finished
+2024,10,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2024-06-23,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,10,12,0,Lapped
+2024,10,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2024-06-23,zhou,ZHO,Guanyu,Zhou,sauber,Sauber,15,13,0,Lapped
+2024,10,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2024-06-23,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,14,14,0,Lapped
+2024,10,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2024-06-23,ricciardo,RIC,Daniel,Ricciardo,rb,RB F1 Team,18,15,0,Lapped
+2024,10,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2024-06-23,bottas,BOT,Valtteri,Bottas,sauber,Sauber,12,16,0,Lapped
+2024,10,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2024-06-23,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,16,17,0,Lapped
+2024,10,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2024-06-23,albon,ALB,Alexander,Albon,williams,Williams,20,18,0,Lapped
+2024,10,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2024-06-23,tsunoda,TSU,Yuki,Tsunoda,rb,RB F1 Team,17,19,0,Lapped
+2024,10,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2024-06-23,sargeant,SAR,Logan,Sargeant,williams,Williams,19,20,0,Lapped
+2024,11,Austrian Grand Prix,red_bull_ring,Red Bull Ring,2024-06-30,russell,RUS,George,Russell,mercedes,Mercedes,3,1,25,Finished
+2024,11,Austrian Grand Prix,red_bull_ring,Red Bull Ring,2024-06-30,piastri,PIA,Oscar,Piastri,mclaren,McLaren,7,2,18,Finished
+2024,11,Austrian Grand Prix,red_bull_ring,Red Bull Ring,2024-06-30,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,4,3,15,Finished
+2024,11,Austrian Grand Prix,red_bull_ring,Red Bull Ring,2024-06-30,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,5,4,12,Finished
+2024,11,Austrian Grand Prix,red_bull_ring,Red Bull Ring,2024-06-30,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,1,5,10,Finished
+2024,11,Austrian Grand Prix,red_bull_ring,Red Bull Ring,2024-06-30,hulkenberg,HUL,Nico,Hülkenberg,haas,Haas F1 Team,9,6,8,Finished
+2024,11,Austrian Grand Prix,red_bull_ring,Red Bull Ring,2024-06-30,perez,PER,Sergio,Pérez,red_bull,Red Bull,8,7,6,Finished
+2024,11,Austrian Grand Prix,red_bull_ring,Red Bull Ring,2024-06-30,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,12,8,4,Finished
+2024,11,Austrian Grand Prix,red_bull_ring,Red Bull Ring,2024-06-30,ricciardo,RIC,Daniel,Ricciardo,rb,RB F1 Team,11,9,2,Finished
+2024,11,Austrian Grand Prix,red_bull_ring,Red Bull Ring,2024-06-30,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,13,10,1,Finished
+2024,11,Austrian Grand Prix,red_bull_ring,Red Bull Ring,2024-06-30,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,6,11,0,Finished
+2024,11,Austrian Grand Prix,red_bull_ring,Red Bull Ring,2024-06-30,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,10,12,0,Finished
+2024,11,Austrian Grand Prix,red_bull_ring,Red Bull Ring,2024-06-30,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,17,13,0,Lapped
+2024,11,Austrian Grand Prix,red_bull_ring,Red Bull Ring,2024-06-30,tsunoda,TSU,Yuki,Tsunoda,rb,RB F1 Team,14,14,0,Lapped
+2024,11,Austrian Grand Prix,red_bull_ring,Red Bull Ring,2024-06-30,albon,ALB,Alexander,Albon,williams,Williams,16,15,0,Lapped
+2024,11,Austrian Grand Prix,red_bull_ring,Red Bull Ring,2024-06-30,bottas,BOT,Valtteri,Bottas,sauber,Sauber,18,16,0,Lapped
+2024,11,Austrian Grand Prix,red_bull_ring,Red Bull Ring,2024-06-30,zhou,ZHO,Guanyu,Zhou,sauber,Sauber,20,17,0,Lapped
+2024,11,Austrian Grand Prix,red_bull_ring,Red Bull Ring,2024-06-30,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,15,18,0,Lapped
+2024,11,Austrian Grand Prix,red_bull_ring,Red Bull Ring,2024-06-30,sargeant,SAR,Logan,Sargeant,williams,Williams,19,19,0,Lapped
+2024,11,Austrian Grand Prix,red_bull_ring,Red Bull Ring,2024-06-30,norris,NOR,Lando,Norris,mclaren,McLaren,2,20,0,Lapped
+2024,12,British Grand Prix,silverstone,Silverstone Circuit,2024-07-07,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,2,1,25,Finished
+2024,12,British Grand Prix,silverstone,Silverstone Circuit,2024-07-07,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,4,2,18,Finished
+2024,12,British Grand Prix,silverstone,Silverstone Circuit,2024-07-07,norris,NOR,Lando,Norris,mclaren,McLaren,3,3,15,Finished
+2024,12,British Grand Prix,silverstone,Silverstone Circuit,2024-07-07,piastri,PIA,Oscar,Piastri,mclaren,McLaren,5,4,12,Finished
+2024,12,British Grand Prix,silverstone,Silverstone Circuit,2024-07-07,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,7,5,11,Finished
+2024,12,British Grand Prix,silverstone,Silverstone Circuit,2024-07-07,hulkenberg,HUL,Nico,Hülkenberg,haas,Haas F1 Team,6,6,8,Finished
+2024,12,British Grand Prix,silverstone,Silverstone Circuit,2024-07-07,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,8,7,6,Finished
+2024,12,British Grand Prix,silverstone,Silverstone Circuit,2024-07-07,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,10,8,4,Finished
+2024,12,British Grand Prix,silverstone,Silverstone Circuit,2024-07-07,albon,ALB,Alexander,Albon,williams,Williams,9,9,2,Finished
+2024,12,British Grand Prix,silverstone,Silverstone Circuit,2024-07-07,tsunoda,TSU,Yuki,Tsunoda,rb,RB F1 Team,13,10,1,Finished
+2024,12,British Grand Prix,silverstone,Silverstone Circuit,2024-07-07,sargeant,SAR,Logan,Sargeant,williams,Williams,12,11,0,Finished
+2024,12,British Grand Prix,silverstone,Silverstone Circuit,2024-07-07,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,17,12,0,Finished
+2024,12,British Grand Prix,silverstone,Silverstone Circuit,2024-07-07,ricciardo,RIC,Daniel,Ricciardo,rb,RB F1 Team,15,13,0,Lapped
+2024,12,British Grand Prix,silverstone,Silverstone Circuit,2024-07-07,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,11,14,0,Lapped
+2024,12,British Grand Prix,silverstone,Silverstone Circuit,2024-07-07,bottas,BOT,Valtteri,Bottas,sauber,Sauber,16,15,0,Lapped
+2024,12,British Grand Prix,silverstone,Silverstone Circuit,2024-07-07,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,18,16,0,Lapped
+2024,12,British Grand Prix,silverstone,Silverstone Circuit,2024-07-07,perez,PER,Sergio,Pérez,red_bull,Red Bull,20,17,0,Lapped
+2024,12,British Grand Prix,silverstone,Silverstone Circuit,2024-07-07,zhou,ZHO,Guanyu,Zhou,sauber,Sauber,14,18,0,Lapped
+2024,12,British Grand Prix,silverstone,Silverstone Circuit,2024-07-07,russell,RUS,George,Russell,mercedes,Mercedes,1,19,0,Retired
+2024,12,British Grand Prix,silverstone,Silverstone Circuit,2024-07-07,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,19,20,0,Did not start
+2024,13,Hungarian Grand Prix,hungaroring,Hungaroring,2024-07-21,piastri,PIA,Oscar,Piastri,mclaren,McLaren,2,1,25,Finished
+2024,13,Hungarian Grand Prix,hungaroring,Hungaroring,2024-07-21,norris,NOR,Lando,Norris,mclaren,McLaren,1,2,18,Finished
+2024,13,Hungarian Grand Prix,hungaroring,Hungaroring,2024-07-21,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,5,3,15,Finished
+2024,13,Hungarian Grand Prix,hungaroring,Hungaroring,2024-07-21,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,6,4,12,Finished
+2024,13,Hungarian Grand Prix,hungaroring,Hungaroring,2024-07-21,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,3,5,10,Finished
+2024,13,Hungarian Grand Prix,hungaroring,Hungaroring,2024-07-21,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,4,6,8,Finished
+2024,13,Hungarian Grand Prix,hungaroring,Hungaroring,2024-07-21,perez,PER,Sergio,Pérez,red_bull,Red Bull,16,7,6,Finished
+2024,13,Hungarian Grand Prix,hungaroring,Hungaroring,2024-07-21,russell,RUS,George,Russell,mercedes,Mercedes,17,8,5,Finished
+2024,13,Hungarian Grand Prix,hungaroring,Hungaroring,2024-07-21,tsunoda,TSU,Yuki,Tsunoda,rb,RB F1 Team,10,9,2,Finished
+2024,13,Hungarian Grand Prix,hungaroring,Hungaroring,2024-07-21,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,8,10,1,Finished
+2024,13,Hungarian Grand Prix,hungaroring,Hungaroring,2024-07-21,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,7,11,0,Finished
+2024,13,Hungarian Grand Prix,hungaroring,Hungaroring,2024-07-21,ricciardo,RIC,Daniel,Ricciardo,rb,RB F1 Team,9,12,0,Lapped
+2024,13,Hungarian Grand Prix,hungaroring,Hungaroring,2024-07-21,hulkenberg,HUL,Nico,Hülkenberg,haas,Haas F1 Team,11,13,0,Lapped
+2024,13,Hungarian Grand Prix,hungaroring,Hungaroring,2024-07-21,albon,ALB,Alexander,Albon,williams,Williams,13,14,0,Lapped
+2024,13,Hungarian Grand Prix,hungaroring,Hungaroring,2024-07-21,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,15,15,0,Lapped
+2024,13,Hungarian Grand Prix,hungaroring,Hungaroring,2024-07-21,bottas,BOT,Valtteri,Bottas,sauber,Sauber,12,16,0,Lapped
+2024,13,Hungarian Grand Prix,hungaroring,Hungaroring,2024-07-21,sargeant,SAR,Logan,Sargeant,williams,Williams,14,17,0,Lapped
+2024,13,Hungarian Grand Prix,hungaroring,Hungaroring,2024-07-21,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,19,18,0,Lapped
+2024,13,Hungarian Grand Prix,hungaroring,Hungaroring,2024-07-21,zhou,ZHO,Guanyu,Zhou,sauber,Sauber,18,19,0,Lapped
+2024,13,Hungarian Grand Prix,hungaroring,Hungaroring,2024-07-21,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,20,20,0,Retired
+2024,14,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,2024-07-28,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,3,1,25,Finished
+2024,14,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,2024-07-28,piastri,PIA,Oscar,Piastri,mclaren,McLaren,5,2,18,Finished
+2024,14,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,2024-07-28,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,1,3,15,Finished
+2024,14,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,2024-07-28,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,11,4,12,Finished
+2024,14,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,2024-07-28,norris,NOR,Lando,Norris,mclaren,McLaren,4,5,10,Finished
+2024,14,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,2024-07-28,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,7,6,8,Finished
+2024,14,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,2024-07-28,perez,PER,Sergio,Pérez,red_bull,Red Bull,2,7,7,Finished
+2024,14,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,2024-07-28,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,8,8,4,Finished
+2024,14,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,2024-07-28,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,9,9,2,Finished
+2024,14,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,2024-07-28,ricciardo,RIC,Daniel,Ricciardo,rb,RB F1 Team,13,10,1,Finished
+2024,14,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,2024-07-28,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,15,11,0,Finished
+2024,14,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,2024-07-28,albon,ALB,Alexander,Albon,williams,Williams,10,12,0,Finished
+2024,14,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,2024-07-28,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,12,13,0,Finished
+2024,14,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,2024-07-28,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,17,14,0,Finished
+2024,14,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,2024-07-28,bottas,BOT,Valtteri,Bottas,sauber,Sauber,14,15,0,Finished
+2024,14,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,2024-07-28,tsunoda,TSU,Yuki,Tsunoda,rb,RB F1 Team,20,16,0,Finished
+2024,14,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,2024-07-28,sargeant,SAR,Logan,Sargeant,williams,Williams,18,17,0,Finished
+2024,14,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,2024-07-28,hulkenberg,HUL,Nico,Hülkenberg,haas,Haas F1 Team,16,18,0,Finished
+2024,14,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,2024-07-28,zhou,ZHO,Guanyu,Zhou,sauber,Sauber,19,19,0,Retired
+2024,14,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,2024-07-28,russell,RUS,George,Russell,mercedes,Mercedes,6,20,0,Disqualified
+2024,15,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,2024-08-25,norris,NOR,Lando,Norris,mclaren,McLaren,1,1,26,Finished
+2024,15,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,2024-08-25,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,2,2,18,Finished
+2024,15,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,2024-08-25,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,6,3,15,Finished
+2024,15,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,2024-08-25,piastri,PIA,Oscar,Piastri,mclaren,McLaren,3,4,12,Finished
+2024,15,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,2024-08-25,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,10,5,10,Finished
+2024,15,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,2024-08-25,perez,PER,Sergio,Pérez,red_bull,Red Bull,5,6,8,Finished
+2024,15,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,2024-08-25,russell,RUS,George,Russell,mercedes,Mercedes,4,7,6,Finished
+2024,15,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,2024-08-25,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,14,8,4,Finished
+2024,15,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,2024-08-25,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,9,9,2,Lapped
+2024,15,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,2024-08-25,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,7,10,1,Lapped
+2024,15,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,2024-08-25,hulkenberg,HUL,Nico,Hülkenberg,haas,Haas F1 Team,12,11,0,Lapped
+2024,15,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,2024-08-25,ricciardo,RIC,Daniel,Ricciardo,rb,RB F1 Team,13,12,0,Lapped
+2024,15,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,2024-08-25,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,8,13,0,Lapped
+2024,15,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,2024-08-25,albon,ALB,Alexander,Albon,williams,Williams,19,14,0,Lapped
+2024,15,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,2024-08-25,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,15,15,0,Lapped
+2024,15,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,2024-08-25,sargeant,SAR,Logan,Sargeant,williams,Williams,18,16,0,Lapped
+2024,15,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,2024-08-25,tsunoda,TSU,Yuki,Tsunoda,rb,RB F1 Team,11,17,0,Lapped
+2024,15,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,2024-08-25,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,20,18,0,Lapped
+2024,15,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,2024-08-25,bottas,BOT,Valtteri,Bottas,sauber,Sauber,16,19,0,Lapped
+2024,15,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,2024-08-25,zhou,ZHO,Guanyu,Zhou,sauber,Sauber,17,20,0,Lapped
+2024,16,Italian Grand Prix,monza,Autodromo Nazionale di Monza,2024-09-01,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,4,1,25,Finished
+2024,16,Italian Grand Prix,monza,Autodromo Nazionale di Monza,2024-09-01,piastri,PIA,Oscar,Piastri,mclaren,McLaren,2,2,18,Finished
+2024,16,Italian Grand Prix,monza,Autodromo Nazionale di Monza,2024-09-01,norris,NOR,Lando,Norris,mclaren,McLaren,1,3,16,Finished
+2024,16,Italian Grand Prix,monza,Autodromo Nazionale di Monza,2024-09-01,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,5,4,12,Finished
+2024,16,Italian Grand Prix,monza,Autodromo Nazionale di Monza,2024-09-01,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,6,5,10,Finished
+2024,16,Italian Grand Prix,monza,Autodromo Nazionale di Monza,2024-09-01,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,7,6,8,Finished
+2024,16,Italian Grand Prix,monza,Autodromo Nazionale di Monza,2024-09-01,russell,RUS,George,Russell,mercedes,Mercedes,3,7,6,Finished
+2024,16,Italian Grand Prix,monza,Autodromo Nazionale di Monza,2024-09-01,perez,PER,Sergio,Pérez,red_bull,Red Bull,8,8,4,Finished
+2024,16,Italian Grand Prix,monza,Autodromo Nazionale di Monza,2024-09-01,albon,ALB,Alexander,Albon,williams,Williams,9,9,2,Finished
+2024,16,Italian Grand Prix,monza,Autodromo Nazionale di Monza,2024-09-01,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,13,10,1,Finished
+2024,16,Italian Grand Prix,monza,Autodromo Nazionale di Monza,2024-09-01,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,11,11,0,Finished
+2024,16,Italian Grand Prix,monza,Autodromo Nazionale di Monza,2024-09-01,colapinto,COL,Franco,Colapinto,williams,Williams,18,12,0,Finished
+2024,16,Italian Grand Prix,monza,Autodromo Nazionale di Monza,2024-09-01,ricciardo,RIC,Daniel,Ricciardo,rb,RB F1 Team,12,13,0,Finished
+2024,16,Italian Grand Prix,monza,Autodromo Nazionale di Monza,2024-09-01,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,15,14,0,Lapped
+2024,16,Italian Grand Prix,monza,Autodromo Nazionale di Monza,2024-09-01,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,14,15,0,Lapped
+2024,16,Italian Grand Prix,monza,Autodromo Nazionale di Monza,2024-09-01,bottas,BOT,Valtteri,Bottas,sauber,Sauber,19,16,0,Lapped
+2024,16,Italian Grand Prix,monza,Autodromo Nazionale di Monza,2024-09-01,hulkenberg,HUL,Nico,Hülkenberg,haas,Haas F1 Team,10,17,0,Lapped
+2024,16,Italian Grand Prix,monza,Autodromo Nazionale di Monza,2024-09-01,zhou,ZHO,Guanyu,Zhou,sauber,Sauber,20,18,0,Lapped
+2024,16,Italian Grand Prix,monza,Autodromo Nazionale di Monza,2024-09-01,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,17,19,0,Lapped
+2024,16,Italian Grand Prix,monza,Autodromo Nazionale di Monza,2024-09-01,tsunoda,TSU,Yuki,Tsunoda,rb,RB F1 Team,16,20,0,Retired
+2024,17,Azerbaijan Grand Prix,baku,Baku City Circuit,2024-09-15,piastri,PIA,Oscar,Piastri,mclaren,McLaren,2,1,25,Finished
+2024,17,Azerbaijan Grand Prix,baku,Baku City Circuit,2024-09-15,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,1,2,18,Finished
+2024,17,Azerbaijan Grand Prix,baku,Baku City Circuit,2024-09-15,russell,RUS,George,Russell,mercedes,Mercedes,5,3,15,Finished
+2024,17,Azerbaijan Grand Prix,baku,Baku City Circuit,2024-09-15,norris,NOR,Lando,Norris,mclaren,McLaren,15,4,13,Finished
+2024,17,Azerbaijan Grand Prix,baku,Baku City Circuit,2024-09-15,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,6,5,10,Finished
+2024,17,Azerbaijan Grand Prix,baku,Baku City Circuit,2024-09-15,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,7,6,8,Finished
+2024,17,Azerbaijan Grand Prix,baku,Baku City Circuit,2024-09-15,albon,ALB,Alexander,Albon,williams,Williams,9,7,6,Finished
+2024,17,Azerbaijan Grand Prix,baku,Baku City Circuit,2024-09-15,colapinto,COL,Franco,Colapinto,williams,Williams,8,8,4,Finished
+2024,17,Azerbaijan Grand Prix,baku,Baku City Circuit,2024-09-15,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,19,9,2,Finished
+2024,17,Azerbaijan Grand Prix,baku,Baku City Circuit,2024-09-15,bearman,BEA,Oliver,Bearman,haas,Haas F1 Team,10,10,1,Finished
+2024,17,Azerbaijan Grand Prix,baku,Baku City Circuit,2024-09-15,hulkenberg,HUL,Nico,Hülkenberg,haas,Haas F1 Team,12,11,0,Finished
+2024,17,Azerbaijan Grand Prix,baku,Baku City Circuit,2024-09-15,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,18,12,0,Finished
+2024,17,Azerbaijan Grand Prix,baku,Baku City Circuit,2024-09-15,ricciardo,RIC,Daniel,Ricciardo,rb,RB F1 Team,14,13,0,Finished
+2024,17,Azerbaijan Grand Prix,baku,Baku City Circuit,2024-09-15,zhou,ZHO,Guanyu,Zhou,sauber,Sauber,17,14,0,Finished
+2024,17,Azerbaijan Grand Prix,baku,Baku City Circuit,2024-09-15,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,20,15,0,Lapped
+2024,17,Azerbaijan Grand Prix,baku,Baku City Circuit,2024-09-15,bottas,BOT,Valtteri,Bottas,sauber,Sauber,16,16,0,Lapped
+2024,17,Azerbaijan Grand Prix,baku,Baku City Circuit,2024-09-15,perez,PER,Sergio,Pérez,red_bull,Red Bull,4,17,0,Retired
+2024,17,Azerbaijan Grand Prix,baku,Baku City Circuit,2024-09-15,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,3,18,0,Retired
+2024,17,Azerbaijan Grand Prix,baku,Baku City Circuit,2024-09-15,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,13,19,0,Retired
+2024,17,Azerbaijan Grand Prix,baku,Baku City Circuit,2024-09-15,tsunoda,TSU,Yuki,Tsunoda,rb,RB F1 Team,11,20,0,Retired
+2024,18,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,2024-09-22,norris,NOR,Lando,Norris,mclaren,McLaren,1,1,25,Finished
+2024,18,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,2024-09-22,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,2,2,18,Finished
+2024,18,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,2024-09-22,piastri,PIA,Oscar,Piastri,mclaren,McLaren,5,3,15,Finished
+2024,18,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,2024-09-22,russell,RUS,George,Russell,mercedes,Mercedes,4,4,12,Finished
+2024,18,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,2024-09-22,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,9,5,10,Finished
+2024,18,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,2024-09-22,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,3,6,8,Finished
+2024,18,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,2024-09-22,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,10,7,6,Finished
+2024,18,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,2024-09-22,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,7,8,4,Lapped
+2024,18,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,2024-09-22,hulkenberg,HUL,Nico,Hülkenberg,haas,Haas F1 Team,6,9,2,Lapped
+2024,18,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,2024-09-22,perez,PER,Sergio,Pérez,red_bull,Red Bull,13,10,1,Lapped
+2024,18,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,2024-09-22,colapinto,COL,Franco,Colapinto,williams,Williams,12,11,0,Lapped
+2024,18,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,2024-09-22,tsunoda,TSU,Yuki,Tsunoda,rb,RB F1 Team,8,12,0,Lapped
+2024,18,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,2024-09-22,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,15,13,0,Lapped
+2024,18,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,2024-09-22,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,17,14,0,Lapped
+2024,18,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,2024-09-22,zhou,ZHO,Guanyu,Zhou,sauber,Sauber,20,15,0,Lapped
+2024,18,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,2024-09-22,bottas,BOT,Valtteri,Bottas,sauber,Sauber,19,16,0,Lapped
+2024,18,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,2024-09-22,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,18,17,0,Lapped
+2024,18,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,2024-09-22,ricciardo,RIC,Daniel,Ricciardo,rb,RB F1 Team,16,18,0,Lapped
+2024,18,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,2024-09-22,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,14,19,0,Retired
+2024,18,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,2024-09-22,albon,ALB,Alexander,Albon,williams,Williams,11,20,0,Retired
+2024,19,United States Grand Prix,americas,Circuit of the Americas,2024-10-20,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,4,1,25,Finished
+2024,19,United States Grand Prix,americas,Circuit of the Americas,2024-10-20,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,3,2,18,Finished
+2024,19,United States Grand Prix,americas,Circuit of the Americas,2024-10-20,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,2,3,15,Finished
+2024,19,United States Grand Prix,americas,Circuit of the Americas,2024-10-20,norris,NOR,Lando,Norris,mclaren,McLaren,1,4,12,Finished
+2024,19,United States Grand Prix,americas,Circuit of the Americas,2024-10-20,piastri,PIA,Oscar,Piastri,mclaren,McLaren,5,5,10,Finished
+2024,19,United States Grand Prix,americas,Circuit of the Americas,2024-10-20,russell,RUS,George,Russell,mercedes,Mercedes,20,6,8,Finished
+2024,19,United States Grand Prix,americas,Circuit of the Americas,2024-10-20,perez,PER,Sergio,Pérez,red_bull,Red Bull,9,7,6,Finished
+2024,19,United States Grand Prix,americas,Circuit of the Americas,2024-10-20,hulkenberg,HUL,Nico,Hülkenberg,haas,Haas F1 Team,11,8,4,Finished
+2024,19,United States Grand Prix,americas,Circuit of the Americas,2024-10-20,lawson,LAW,Liam,Lawson,rb,RB F1 Team,19,9,2,Finished
+2024,19,United States Grand Prix,americas,Circuit of the Americas,2024-10-20,colapinto,COL,Franco,Colapinto,williams,Williams,15,10,1,Finished
+2024,19,United States Grand Prix,americas,Circuit of the Americas,2024-10-20,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,8,11,0,Finished
+2024,19,United States Grand Prix,americas,Circuit of the Americas,2024-10-20,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,6,12,0,Finished
+2024,19,United States Grand Prix,americas,Circuit of the Americas,2024-10-20,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,7,13,0,Lapped
+2024,19,United States Grand Prix,americas,Circuit of the Americas,2024-10-20,tsunoda,TSU,Yuki,Tsunoda,rb,RB F1 Team,10,14,0,Lapped
+2024,19,United States Grand Prix,americas,Circuit of the Americas,2024-10-20,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,13,15,0,Lapped
+2024,19,United States Grand Prix,americas,Circuit of the Americas,2024-10-20,albon,ALB,Alexander,Albon,williams,Williams,14,16,0,Lapped
+2024,19,United States Grand Prix,americas,Circuit of the Americas,2024-10-20,bottas,BOT,Valtteri,Bottas,sauber,Sauber,16,17,0,Lapped
+2024,19,United States Grand Prix,americas,Circuit of the Americas,2024-10-20,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,12,18,0,Lapped
+2024,19,United States Grand Prix,americas,Circuit of the Americas,2024-10-20,zhou,ZHO,Guanyu,Zhou,sauber,Sauber,18,19,0,Lapped
+2024,19,United States Grand Prix,americas,Circuit of the Americas,2024-10-20,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,17,20,0,Retired
+2024,20,Mexico City Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,2024-10-27,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,1,1,25,Finished
+2024,20,Mexico City Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,2024-10-27,norris,NOR,Lando,Norris,mclaren,McLaren,3,2,18,Finished
+2024,20,Mexico City Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,2024-10-27,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,4,3,16,Finished
+2024,20,Mexico City Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,2024-10-27,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,6,4,12,Finished
+2024,20,Mexico City Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,2024-10-27,russell,RUS,George,Russell,mercedes,Mercedes,5,5,10,Finished
+2024,20,Mexico City Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,2024-10-27,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,2,6,8,Finished
+2024,20,Mexico City Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,2024-10-27,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,7,7,6,Finished
+2024,20,Mexico City Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,2024-10-27,piastri,PIA,Oscar,Piastri,mclaren,McLaren,17,8,4,Finished
+2024,20,Mexico City Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,2024-10-27,hulkenberg,HUL,Nico,Hülkenberg,haas,Haas F1 Team,10,9,2,Lapped
+2024,20,Mexico City Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,2024-10-27,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,8,10,1,Lapped
+2024,20,Mexico City Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,2024-10-27,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,14,11,0,Lapped
+2024,20,Mexico City Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,2024-10-27,colapinto,COL,Franco,Colapinto,williams,Williams,16,12,0,Lapped
+2024,20,Mexico City Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,2024-10-27,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,0,13,0,Lapped
+2024,20,Mexico City Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,2024-10-27,bottas,BOT,Valtteri,Bottas,sauber,Sauber,15,14,0,Lapped
+2024,20,Mexico City Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,2024-10-27,zhou,ZHO,Guanyu,Zhou,sauber,Sauber,19,15,0,Lapped
+2024,20,Mexico City Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,2024-10-27,lawson,LAW,Liam,Lawson,rb,RB F1 Team,12,16,0,Lapped
+2024,20,Mexico City Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,2024-10-27,perez,PER,Sergio,Pérez,red_bull,Red Bull,18,17,0,Lapped
+2024,20,Mexico City Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,2024-10-27,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,13,18,0,Retired
+2024,20,Mexico City Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,2024-10-27,albon,ALB,Alexander,Albon,williams,Williams,9,19,0,Retired
+2024,20,Mexico City Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,2024-10-27,tsunoda,TSU,Yuki,Tsunoda,rb,RB F1 Team,11,20,0,Retired
+2024,21,São Paulo Grand Prix,interlagos,Autódromo José Carlos Pace,2024-11-03,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,17,1,26,Finished
+2024,21,São Paulo Grand Prix,interlagos,Autódromo José Carlos Pace,2024-11-03,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,4,2,18,Finished
+2024,21,São Paulo Grand Prix,interlagos,Autódromo José Carlos Pace,2024-11-03,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,13,3,15,Finished
+2024,21,São Paulo Grand Prix,interlagos,Autódromo José Carlos Pace,2024-11-03,russell,RUS,George,Russell,mercedes,Mercedes,2,4,12,Finished
+2024,21,São Paulo Grand Prix,interlagos,Autódromo José Carlos Pace,2024-11-03,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,6,5,10,Finished
+2024,21,São Paulo Grand Prix,interlagos,Autódromo José Carlos Pace,2024-11-03,norris,NOR,Lando,Norris,mclaren,McLaren,1,6,8,Finished
+2024,21,São Paulo Grand Prix,interlagos,Autódromo José Carlos Pace,2024-11-03,tsunoda,TSU,Yuki,Tsunoda,rb,RB F1 Team,3,7,6,Finished
+2024,21,São Paulo Grand Prix,interlagos,Autódromo José Carlos Pace,2024-11-03,piastri,PIA,Oscar,Piastri,mclaren,McLaren,8,8,4,Finished
+2024,21,São Paulo Grand Prix,interlagos,Autódromo José Carlos Pace,2024-11-03,lawson,LAW,Liam,Lawson,rb,RB F1 Team,5,9,2,Finished
+2024,21,São Paulo Grand Prix,interlagos,Autódromo José Carlos Pace,2024-11-03,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,14,10,1,Finished
+2024,21,São Paulo Grand Prix,interlagos,Autódromo José Carlos Pace,2024-11-03,perez,PER,Sergio,Pérez,red_bull,Red Bull,12,11,0,Finished
+2024,21,São Paulo Grand Prix,interlagos,Autódromo José Carlos Pace,2024-11-03,bearman,BEA,Oliver,Bearman,haas,Haas F1 Team,15,12,0,Finished
+2024,21,São Paulo Grand Prix,interlagos,Autódromo José Carlos Pace,2024-11-03,bottas,BOT,Valtteri,Bottas,sauber,Sauber,11,13,0,Finished
+2024,21,São Paulo Grand Prix,interlagos,Autódromo José Carlos Pace,2024-11-03,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,9,14,0,Finished
+2024,21,São Paulo Grand Prix,interlagos,Autódromo José Carlos Pace,2024-11-03,zhou,ZHO,Guanyu,Zhou,sauber,Sauber,19,15,0,Finished
+2024,21,São Paulo Grand Prix,interlagos,Autódromo José Carlos Pace,2024-11-03,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,20,16,0,Retired
+2024,21,São Paulo Grand Prix,interlagos,Autódromo José Carlos Pace,2024-11-03,colapinto,COL,Franco,Colapinto,williams,Williams,16,17,0,Retired
+2024,21,São Paulo Grand Prix,interlagos,Autódromo José Carlos Pace,2024-11-03,albon,ALB,Alexander,Albon,williams,Williams,7,18,0,Did not start
+2024,21,São Paulo Grand Prix,interlagos,Autódromo José Carlos Pace,2024-11-03,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,10,19,0,Did not start
+2024,21,São Paulo Grand Prix,interlagos,Autódromo José Carlos Pace,2024-11-03,hulkenberg,HUL,Nico,Hülkenberg,haas,Haas F1 Team,18,20,0,Disqualified
+2024,22,Las Vegas Grand Prix,vegas,Las Vegas Strip Street Circuit,2024-11-23,russell,RUS,George,Russell,mercedes,Mercedes,1,1,25,Finished
+2024,22,Las Vegas Grand Prix,vegas,Las Vegas Strip Street Circuit,2024-11-23,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,10,2,18,Finished
+2024,22,Las Vegas Grand Prix,vegas,Las Vegas Strip Street Circuit,2024-11-23,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,2,3,15,Finished
+2024,22,Las Vegas Grand Prix,vegas,Las Vegas Strip Street Circuit,2024-11-23,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,4,4,12,Finished
+2024,22,Las Vegas Grand Prix,vegas,Las Vegas Strip Street Circuit,2024-11-23,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,5,5,10,Finished
+2024,22,Las Vegas Grand Prix,vegas,Las Vegas Strip Street Circuit,2024-11-23,norris,NOR,Lando,Norris,mclaren,McLaren,6,6,9,Finished
+2024,22,Las Vegas Grand Prix,vegas,Las Vegas Strip Street Circuit,2024-11-23,piastri,PIA,Oscar,Piastri,mclaren,McLaren,8,7,6,Finished
+2024,22,Las Vegas Grand Prix,vegas,Las Vegas Strip Street Circuit,2024-11-23,hulkenberg,HUL,Nico,Hülkenberg,haas,Haas F1 Team,9,8,4,Finished
+2024,22,Las Vegas Grand Prix,vegas,Las Vegas Strip Street Circuit,2024-11-23,tsunoda,TSU,Yuki,Tsunoda,rb,RB F1 Team,7,9,2,Finished
+2024,22,Las Vegas Grand Prix,vegas,Las Vegas Strip Street Circuit,2024-11-23,perez,PER,Sergio,Pérez,red_bull,Red Bull,15,10,1,Finished
+2024,22,Las Vegas Grand Prix,vegas,Las Vegas Strip Street Circuit,2024-11-23,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,16,11,0,Finished
+2024,22,Las Vegas Grand Prix,vegas,Las Vegas Strip Street Circuit,2024-11-23,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,12,12,0,Finished
+2024,22,Las Vegas Grand Prix,vegas,Las Vegas Strip Street Circuit,2024-11-23,zhou,ZHO,Guanyu,Zhou,sauber,Sauber,13,13,0,Finished
+2024,22,Las Vegas Grand Prix,vegas,Las Vegas Strip Street Circuit,2024-11-23,colapinto,COL,Franco,Colapinto,williams,Williams,20,14,0,Finished
+2024,22,Las Vegas Grand Prix,vegas,Las Vegas Strip Street Circuit,2024-11-23,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,18,15,0,Finished
+2024,22,Las Vegas Grand Prix,vegas,Las Vegas Strip Street Circuit,2024-11-23,lawson,LAW,Liam,Lawson,rb,RB F1 Team,14,16,0,Finished
+2024,22,Las Vegas Grand Prix,vegas,Las Vegas Strip Street Circuit,2024-11-23,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,11,17,0,Lapped
+2024,22,Las Vegas Grand Prix,vegas,Las Vegas Strip Street Circuit,2024-11-23,bottas,BOT,Valtteri,Bottas,sauber,Sauber,19,18,0,Lapped
+2024,22,Las Vegas Grand Prix,vegas,Las Vegas Strip Street Circuit,2024-11-23,albon,ALB,Alexander,Albon,williams,Williams,17,19,0,Retired
+2024,22,Las Vegas Grand Prix,vegas,Las Vegas Strip Street Circuit,2024-11-23,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,3,20,0,Retired
+2024,23,Qatar Grand Prix,losail,Losail International Circuit,2024-12-01,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,2,1,25,Finished
+2024,23,Qatar Grand Prix,losail,Losail International Circuit,2024-12-01,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,5,2,18,Finished
+2024,23,Qatar Grand Prix,losail,Losail International Circuit,2024-12-01,piastri,PIA,Oscar,Piastri,mclaren,McLaren,4,3,15,Finished
+2024,23,Qatar Grand Prix,losail,Losail International Circuit,2024-12-01,russell,RUS,George,Russell,mercedes,Mercedes,1,4,12,Finished
+2024,23,Qatar Grand Prix,losail,Losail International Circuit,2024-12-01,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,11,5,10,Finished
+2024,23,Qatar Grand Prix,losail,Losail International Circuit,2024-12-01,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,7,6,8,Finished
+2024,23,Qatar Grand Prix,losail,Losail International Circuit,2024-12-01,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,8,7,6,Finished
+2024,23,Qatar Grand Prix,losail,Losail International Circuit,2024-12-01,zhou,ZHO,Guanyu,Zhou,sauber,Sauber,12,8,4,Finished
+2024,23,Qatar Grand Prix,losail,Losail International Circuit,2024-12-01,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,10,9,2,Finished
+2024,23,Qatar Grand Prix,losail,Losail International Circuit,2024-12-01,norris,NOR,Lando,Norris,mclaren,McLaren,3,10,2,Finished
+2024,23,Qatar Grand Prix,losail,Losail International Circuit,2024-12-01,bottas,BOT,Valtteri,Bottas,sauber,Sauber,13,11,0,Finished
+2024,23,Qatar Grand Prix,losail,Losail International Circuit,2024-12-01,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,6,12,0,Finished
+2024,23,Qatar Grand Prix,losail,Losail International Circuit,2024-12-01,tsunoda,TSU,Yuki,Tsunoda,rb,RB F1 Team,14,13,0,Finished
+2024,23,Qatar Grand Prix,losail,Losail International Circuit,2024-12-01,lawson,LAW,Liam,Lawson,rb,RB F1 Team,17,14,0,Finished
+2024,23,Qatar Grand Prix,losail,Losail International Circuit,2024-12-01,albon,ALB,Alexander,Albon,williams,Williams,16,15,0,Lapped
+2024,23,Qatar Grand Prix,losail,Losail International Circuit,2024-12-01,hulkenberg,HUL,Nico,Hülkenberg,haas,Haas F1 Team,18,16,0,Retired
+2024,23,Qatar Grand Prix,losail,Losail International Circuit,2024-12-01,perez,PER,Sergio,Pérez,red_bull,Red Bull,9,17,0,Retired
+2024,23,Qatar Grand Prix,losail,Losail International Circuit,2024-12-01,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,15,18,0,Retired
+2024,23,Qatar Grand Prix,losail,Losail International Circuit,2024-12-01,colapinto,COL,Franco,Colapinto,williams,Williams,19,19,0,Retired
+2024,23,Qatar Grand Prix,losail,Losail International Circuit,2024-12-01,ocon,OCO,Esteban,Ocon,alpine,Alpine F1 Team,20,20,0,Retired
+2024,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,2024-12-08,norris,NOR,Lando,Norris,mclaren,McLaren,1,1,25,Finished
+2024,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,2024-12-08,sainz,SAI,Carlos,Sainz,ferrari,Ferrari,3,2,18,Finished
+2024,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,2024-12-08,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,19,3,15,Finished
+2024,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,2024-12-08,hamilton,HAM,Lewis,Hamilton,mercedes,Mercedes,16,4,12,Finished
+2024,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,2024-12-08,russell,RUS,George,Russell,mercedes,Mercedes,6,5,10,Finished
+2024,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,2024-12-08,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,4,6,8,Finished
+2024,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,2024-12-08,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,5,7,6,Finished
+2024,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,2024-12-08,hulkenberg,HUL,Nico,Hülkenberg,haas,Haas F1 Team,7,8,4,Finished
+2024,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,2024-12-08,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,8,9,2,Finished
+2024,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,2024-12-08,piastri,PIA,Oscar,Piastri,mclaren,McLaren,2,10,1,Finished
+2024,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,2024-12-08,albon,ALB,Alexander,Albon,williams,Williams,18,11,0,Lapped
+2024,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,2024-12-08,tsunoda,TSU,Yuki,Tsunoda,rb,RB F1 Team,11,12,0,Lapped
+2024,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,2024-12-08,zhou,ZHO,Guanyu,Zhou,sauber,Sauber,15,13,0,Lapped
+2024,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,2024-12-08,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,13,14,0,Lapped
+2024,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,2024-12-08,doohan,DOO,Jack,Doohan,alpine,Alpine F1 Team,17,15,0,Lapped
+2024,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,2024-12-08,kevin_magnussen,MAG,Kevin,Magnussen,haas,Haas F1 Team,14,16,0,Lapped
+2024,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,2024-12-08,lawson,LAW,Liam,Lawson,rb,RB F1 Team,12,17,0,Retired
+2024,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,2024-12-08,bottas,BOT,Valtteri,Bottas,sauber,Sauber,9,18,0,Retired
+2024,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,2024-12-08,colapinto,COL,Franco,Colapinto,williams,Williams,20,19,0,Retired
+2024,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,2024-12-08,perez,PER,Sergio,Pérez,red_bull,Red Bull,10,20,0,Retired
+2025,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2025-03-16,norris,NOR,Lando,Norris,mclaren,McLaren,1,1,25,Finished
+2025,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2025-03-16,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,3,2,18,Finished
+2025,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2025-03-16,russell,RUS,George,Russell,mercedes,Mercedes,4,3,15,Finished
+2025,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2025-03-16,antonelli,ANT,Andrea Kimi,Antonelli,mercedes,Mercedes,16,4,12,Finished
+2025,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2025-03-16,albon,ALB,Alexander,Albon,williams,Williams,6,5,10,Finished
+2025,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2025-03-16,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,13,6,8,Finished
+2025,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2025-03-16,hulkenberg,HUL,Nico,Hülkenberg,sauber,Sauber,17,7,6,Finished
+2025,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2025-03-16,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,7,8,4,Finished
+2025,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2025-03-16,piastri,PIA,Oscar,Piastri,mclaren,McLaren,2,9,2,Finished
+2025,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2025-03-16,hamilton,HAM,Lewis,Hamilton,ferrari,Ferrari,8,10,1,Finished
+2025,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2025-03-16,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,9,11,0,Finished
+2025,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2025-03-16,tsunoda,TSU,Yuki,Tsunoda,rb,RB F1 Team,5,12,0,Finished
+2025,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2025-03-16,ocon,OCO,Esteban,Ocon,haas,Haas F1 Team,19,13,0,Finished
+2025,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2025-03-16,bearman,BEA,Oliver,Bearman,haas,Haas F1 Team,20,14,0,Finished
+2025,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2025-03-16,lawson,LAW,Liam,Lawson,red_bull,Red Bull,18,15,0,Retired
+2025,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2025-03-16,bortoleto,BOR,Gabriel,Bortoleto,sauber,Sauber,15,16,0,Retired
+2025,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2025-03-16,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,12,17,0,Retired
+2025,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2025-03-16,sainz,SAI,Carlos,Sainz,williams,Williams,10,18,0,Retired
+2025,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2025-03-16,doohan,DOO,Jack,Doohan,alpine,Alpine F1 Team,14,19,0,Retired
+2025,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2025-03-16,hadjar,HAD,Isack,Hadjar,rb,RB F1 Team,11,20,0,Retired
+2025,2,Chinese Grand Prix,shanghai,Shanghai International Circuit,2025-03-23,piastri,PIA,Oscar,Piastri,mclaren,McLaren,1,1,25,Finished
+2025,2,Chinese Grand Prix,shanghai,Shanghai International Circuit,2025-03-23,norris,NOR,Lando,Norris,mclaren,McLaren,3,2,18,Finished
+2025,2,Chinese Grand Prix,shanghai,Shanghai International Circuit,2025-03-23,russell,RUS,George,Russell,mercedes,Mercedes,2,3,15,Finished
+2025,2,Chinese Grand Prix,shanghai,Shanghai International Circuit,2025-03-23,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,4,4,12,Finished
+2025,2,Chinese Grand Prix,shanghai,Shanghai International Circuit,2025-03-23,ocon,OCO,Esteban,Ocon,haas,Haas F1 Team,11,5,10,Finished
+2025,2,Chinese Grand Prix,shanghai,Shanghai International Circuit,2025-03-23,antonelli,ANT,Andrea Kimi,Antonelli,mercedes,Mercedes,8,6,8,Finished
+2025,2,Chinese Grand Prix,shanghai,Shanghai International Circuit,2025-03-23,albon,ALB,Alexander,Albon,williams,Williams,10,7,6,Finished
+2025,2,Chinese Grand Prix,shanghai,Shanghai International Circuit,2025-03-23,bearman,BEA,Oliver,Bearman,haas,Haas F1 Team,17,8,4,Finished
+2025,2,Chinese Grand Prix,shanghai,Shanghai International Circuit,2025-03-23,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,14,9,2,Finished
+2025,2,Chinese Grand Prix,shanghai,Shanghai International Circuit,2025-03-23,sainz,SAI,Carlos,Sainz,williams,Williams,15,10,1,Finished
+2025,2,Chinese Grand Prix,shanghai,Shanghai International Circuit,2025-03-23,hadjar,HAD,Isack,Hadjar,rb,RB F1 Team,7,11,0,Finished
+2025,2,Chinese Grand Prix,shanghai,Shanghai International Circuit,2025-03-23,lawson,LAW,Liam,Lawson,red_bull,Red Bull,20,12,0,Finished
+2025,2,Chinese Grand Prix,shanghai,Shanghai International Circuit,2025-03-23,doohan,DOO,Jack,Doohan,alpine,Alpine F1 Team,18,13,0,Finished
+2025,2,Chinese Grand Prix,shanghai,Shanghai International Circuit,2025-03-23,bortoleto,BOR,Gabriel,Bortoleto,sauber,Sauber,19,14,0,Lapped
+2025,2,Chinese Grand Prix,shanghai,Shanghai International Circuit,2025-03-23,hulkenberg,HUL,Nico,Hülkenberg,sauber,Sauber,12,15,0,Lapped
+2025,2,Chinese Grand Prix,shanghai,Shanghai International Circuit,2025-03-23,tsunoda,TSU,Yuki,Tsunoda,rb,RB F1 Team,9,16,0,Lapped
+2025,2,Chinese Grand Prix,shanghai,Shanghai International Circuit,2025-03-23,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,13,17,0,Retired
+2025,2,Chinese Grand Prix,shanghai,Shanghai International Circuit,2025-03-23,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,6,18,0,Disqualified
+2025,2,Chinese Grand Prix,shanghai,Shanghai International Circuit,2025-03-23,hamilton,HAM,Lewis,Hamilton,ferrari,Ferrari,5,19,0,Disqualified
+2025,2,Chinese Grand Prix,shanghai,Shanghai International Circuit,2025-03-23,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,16,20,0,Disqualified
+2025,3,Japanese Grand Prix,suzuka,Suzuka Circuit,2025-04-06,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,1,1,25,Finished
+2025,3,Japanese Grand Prix,suzuka,Suzuka Circuit,2025-04-06,norris,NOR,Lando,Norris,mclaren,McLaren,2,2,18,Finished
+2025,3,Japanese Grand Prix,suzuka,Suzuka Circuit,2025-04-06,piastri,PIA,Oscar,Piastri,mclaren,McLaren,3,3,15,Finished
+2025,3,Japanese Grand Prix,suzuka,Suzuka Circuit,2025-04-06,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,4,4,12,Finished
+2025,3,Japanese Grand Prix,suzuka,Suzuka Circuit,2025-04-06,russell,RUS,George,Russell,mercedes,Mercedes,5,5,10,Finished
+2025,3,Japanese Grand Prix,suzuka,Suzuka Circuit,2025-04-06,antonelli,ANT,Andrea Kimi,Antonelli,mercedes,Mercedes,6,6,8,Finished
+2025,3,Japanese Grand Prix,suzuka,Suzuka Circuit,2025-04-06,hamilton,HAM,Lewis,Hamilton,ferrari,Ferrari,8,7,6,Finished
+2025,3,Japanese Grand Prix,suzuka,Suzuka Circuit,2025-04-06,hadjar,HAD,Isack,Hadjar,rb,RB F1 Team,7,8,4,Finished
+2025,3,Japanese Grand Prix,suzuka,Suzuka Circuit,2025-04-06,albon,ALB,Alexander,Albon,williams,Williams,9,9,2,Finished
+2025,3,Japanese Grand Prix,suzuka,Suzuka Circuit,2025-04-06,bearman,BEA,Oliver,Bearman,haas,Haas F1 Team,10,10,1,Finished
+2025,3,Japanese Grand Prix,suzuka,Suzuka Circuit,2025-04-06,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,12,11,0,Finished
+2025,3,Japanese Grand Prix,suzuka,Suzuka Circuit,2025-04-06,tsunoda,TSU,Yuki,Tsunoda,red_bull,Red Bull,14,12,0,Finished
+2025,3,Japanese Grand Prix,suzuka,Suzuka Circuit,2025-04-06,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,11,13,0,Finished
+2025,3,Japanese Grand Prix,suzuka,Suzuka Circuit,2025-04-06,sainz,SAI,Carlos,Sainz,williams,Williams,15,14,0,Finished
+2025,3,Japanese Grand Prix,suzuka,Suzuka Circuit,2025-04-06,doohan,DOO,Jack,Doohan,alpine,Alpine F1 Team,19,15,0,Finished
+2025,3,Japanese Grand Prix,suzuka,Suzuka Circuit,2025-04-06,hulkenberg,HUL,Nico,Hülkenberg,sauber,Sauber,16,16,0,Finished
+2025,3,Japanese Grand Prix,suzuka,Suzuka Circuit,2025-04-06,lawson,LAW,Liam,Lawson,rb,RB F1 Team,13,17,0,Finished
+2025,3,Japanese Grand Prix,suzuka,Suzuka Circuit,2025-04-06,ocon,OCO,Esteban,Ocon,haas,Haas F1 Team,18,18,0,Finished
+2025,3,Japanese Grand Prix,suzuka,Suzuka Circuit,2025-04-06,bortoleto,BOR,Gabriel,Bortoleto,sauber,Sauber,17,19,0,Finished
+2025,3,Japanese Grand Prix,suzuka,Suzuka Circuit,2025-04-06,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,20,20,0,Lapped
+2025,4,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2025-04-13,piastri,PIA,Oscar,Piastri,mclaren,McLaren,1,1,25,Finished
+2025,4,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2025-04-13,russell,RUS,George,Russell,mercedes,Mercedes,3,2,18,Finished
+2025,4,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2025-04-13,norris,NOR,Lando,Norris,mclaren,McLaren,6,3,15,Finished
+2025,4,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2025-04-13,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,2,4,12,Finished
+2025,4,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2025-04-13,hamilton,HAM,Lewis,Hamilton,ferrari,Ferrari,9,5,10,Finished
+2025,4,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2025-04-13,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,7,6,8,Finished
+2025,4,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2025-04-13,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,4,7,6,Finished
+2025,4,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2025-04-13,ocon,OCO,Esteban,Ocon,haas,Haas F1 Team,14,8,4,Finished
+2025,4,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2025-04-13,tsunoda,TSU,Yuki,Tsunoda,red_bull,Red Bull,10,9,2,Finished
+2025,4,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2025-04-13,bearman,BEA,Oliver,Bearman,haas,Haas F1 Team,20,10,1,Finished
+2025,4,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2025-04-13,antonelli,ANT,Andrea Kimi,Antonelli,mercedes,Mercedes,5,11,0,Finished
+2025,4,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2025-04-13,albon,ALB,Alexander,Albon,williams,Williams,15,12,0,Finished
+2025,4,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2025-04-13,hadjar,HAD,Isack,Hadjar,rb,RB F1 Team,12,13,0,Finished
+2025,4,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2025-04-13,doohan,DOO,Jack,Doohan,alpine,Alpine F1 Team,11,14,0,Finished
+2025,4,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2025-04-13,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,13,15,0,Finished
+2025,4,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2025-04-13,lawson,LAW,Liam,Lawson,rb,RB F1 Team,17,16,0,Finished
+2025,4,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2025-04-13,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,19,17,0,Finished
+2025,4,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2025-04-13,bortoleto,BOR,Gabriel,Bortoleto,sauber,Sauber,18,18,0,Finished
+2025,4,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2025-04-13,sainz,SAI,Carlos,Sainz,williams,Williams,8,19,0,Retired
+2025,4,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2025-04-13,hulkenberg,HUL,Nico,Hülkenberg,sauber,Sauber,16,20,0,Disqualified
+2025,5,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2025-04-20,piastri,PIA,Oscar,Piastri,mclaren,McLaren,2,1,25,Finished
+2025,5,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2025-04-20,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,1,2,18,Finished
+2025,5,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2025-04-20,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,4,3,15,Finished
+2025,5,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2025-04-20,norris,NOR,Lando,Norris,mclaren,McLaren,10,4,12,Finished
+2025,5,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2025-04-20,russell,RUS,George,Russell,mercedes,Mercedes,3,5,10,Finished
+2025,5,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2025-04-20,antonelli,ANT,Andrea Kimi,Antonelli,mercedes,Mercedes,5,6,8,Finished
+2025,5,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2025-04-20,hamilton,HAM,Lewis,Hamilton,ferrari,Ferrari,7,7,6,Finished
+2025,5,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2025-04-20,sainz,SAI,Carlos,Sainz,williams,Williams,6,8,4,Finished
+2025,5,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2025-04-20,albon,ALB,Alexander,Albon,williams,Williams,11,9,2,Finished
+2025,5,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2025-04-20,hadjar,HAD,Isack,Hadjar,rb,RB F1 Team,14,10,1,Finished
+2025,5,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2025-04-20,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,13,11,0,Finished
+2025,5,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2025-04-20,lawson,LAW,Liam,Lawson,rb,RB F1 Team,12,12,0,Finished
+2025,5,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2025-04-20,bearman,BEA,Oliver,Bearman,haas,Haas F1 Team,15,13,0,Finished
+2025,5,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2025-04-20,ocon,OCO,Esteban,Ocon,haas,Haas F1 Team,19,14,0,Finished
+2025,5,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2025-04-20,hulkenberg,HUL,Nico,Hülkenberg,sauber,Sauber,18,15,0,Lapped
+2025,5,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2025-04-20,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,16,16,0,Lapped
+2025,5,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2025-04-20,doohan,DOO,Jack,Doohan,alpine,Alpine F1 Team,17,17,0,Lapped
+2025,5,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2025-04-20,bortoleto,BOR,Gabriel,Bortoleto,sauber,Sauber,20,18,0,Lapped
+2025,5,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2025-04-20,tsunoda,TSU,Yuki,Tsunoda,red_bull,Red Bull,8,19,0,Retired
+2025,5,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2025-04-20,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,9,20,0,Retired
+2025,6,Miami Grand Prix,miami,Miami International Autodrome,2025-05-04,piastri,PIA,Oscar,Piastri,mclaren,McLaren,4,1,25,Finished
+2025,6,Miami Grand Prix,miami,Miami International Autodrome,2025-05-04,norris,NOR,Lando,Norris,mclaren,McLaren,2,2,18,Finished
+2025,6,Miami Grand Prix,miami,Miami International Autodrome,2025-05-04,russell,RUS,George,Russell,mercedes,Mercedes,5,3,15,Finished
+2025,6,Miami Grand Prix,miami,Miami International Autodrome,2025-05-04,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,1,4,12,Finished
+2025,6,Miami Grand Prix,miami,Miami International Autodrome,2025-05-04,albon,ALB,Alexander,Albon,williams,Williams,7,5,10,Finished
+2025,6,Miami Grand Prix,miami,Miami International Autodrome,2025-05-04,antonelli,ANT,Andrea Kimi,Antonelli,mercedes,Mercedes,3,6,8,Finished
+2025,6,Miami Grand Prix,miami,Miami International Autodrome,2025-05-04,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,8,7,6,Finished
+2025,6,Miami Grand Prix,miami,Miami International Autodrome,2025-05-04,hamilton,HAM,Lewis,Hamilton,ferrari,Ferrari,12,8,4,Finished
+2025,6,Miami Grand Prix,miami,Miami International Autodrome,2025-05-04,sainz,SAI,Carlos,Sainz,williams,Williams,6,9,2,Finished
+2025,6,Miami Grand Prix,miami,Miami International Autodrome,2025-05-04,tsunoda,TSU,Yuki,Tsunoda,red_bull,Red Bull,10,10,1,Finished
+2025,6,Miami Grand Prix,miami,Miami International Autodrome,2025-05-04,hadjar,HAD,Isack,Hadjar,rb,RB F1 Team,11,11,0,Finished
+2025,6,Miami Grand Prix,miami,Miami International Autodrome,2025-05-04,ocon,OCO,Esteban,Ocon,haas,Haas F1 Team,9,12,0,Finished
+2025,6,Miami Grand Prix,miami,Miami International Autodrome,2025-05-04,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,20,13,0,Finished
+2025,6,Miami Grand Prix,miami,Miami International Autodrome,2025-05-04,hulkenberg,HUL,Nico,Hülkenberg,sauber,Sauber,16,14,0,Lapped
+2025,6,Miami Grand Prix,miami,Miami International Autodrome,2025-05-04,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,17,15,0,Lapped
+2025,6,Miami Grand Prix,miami,Miami International Autodrome,2025-05-04,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,18,16,0,Lapped
+2025,6,Miami Grand Prix,miami,Miami International Autodrome,2025-05-04,lawson,LAW,Liam,Lawson,rb,RB F1 Team,15,17,0,Retired
+2025,6,Miami Grand Prix,miami,Miami International Autodrome,2025-05-04,bortoleto,BOR,Gabriel,Bortoleto,sauber,Sauber,13,18,0,Retired
+2025,6,Miami Grand Prix,miami,Miami International Autodrome,2025-05-04,bearman,BEA,Oliver,Bearman,haas,Haas F1 Team,19,19,0,Retired
+2025,6,Miami Grand Prix,miami,Miami International Autodrome,2025-05-04,doohan,DOO,Jack,Doohan,alpine,Alpine F1 Team,14,20,0,Retired
+2025,7,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2025-05-18,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,2,1,25,Finished
+2025,7,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2025-05-18,norris,NOR,Lando,Norris,mclaren,McLaren,4,2,18,Finished
+2025,7,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2025-05-18,piastri,PIA,Oscar,Piastri,mclaren,McLaren,1,3,15,Finished
+2025,7,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2025-05-18,hamilton,HAM,Lewis,Hamilton,ferrari,Ferrari,12,4,12,Finished
+2025,7,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2025-05-18,albon,ALB,Alexander,Albon,williams,Williams,7,5,10,Finished
+2025,7,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2025-05-18,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,11,6,8,Finished
+2025,7,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2025-05-18,russell,RUS,George,Russell,mercedes,Mercedes,3,7,6,Finished
+2025,7,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2025-05-18,sainz,SAI,Carlos,Sainz,williams,Williams,6,8,4,Finished
+2025,7,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2025-05-18,hadjar,HAD,Isack,Hadjar,rb,RB F1 Team,9,9,2,Finished
+2025,7,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2025-05-18,tsunoda,TSU,Yuki,Tsunoda,red_bull,Red Bull,20,10,1,Finished
+2025,7,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2025-05-18,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,5,11,0,Finished
+2025,7,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2025-05-18,hulkenberg,HUL,Nico,Hülkenberg,sauber,Sauber,17,12,0,Finished
+2025,7,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2025-05-18,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,10,13,0,Finished
+2025,7,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2025-05-18,lawson,LAW,Liam,Lawson,rb,RB F1 Team,15,14,0,Finished
+2025,7,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2025-05-18,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,8,15,0,Finished
+2025,7,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2025-05-18,colapinto,COL,Franco,Colapinto,alpine,Alpine F1 Team,16,16,0,Finished
+2025,7,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2025-05-18,bearman,BEA,Oliver,Bearman,haas,Haas F1 Team,19,17,0,Finished
+2025,7,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2025-05-18,bortoleto,BOR,Gabriel,Bortoleto,sauber,Sauber,14,18,0,Finished
+2025,7,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2025-05-18,antonelli,ANT,Andrea Kimi,Antonelli,mercedes,Mercedes,13,19,0,Retired
+2025,7,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2025-05-18,ocon,OCO,Esteban,Ocon,haas,Haas F1 Team,18,20,0,Retired
+2025,8,Monaco Grand Prix,monaco,Circuit de Monaco,2025-05-25,norris,NOR,Lando,Norris,mclaren,McLaren,1,1,25,Finished
+2025,8,Monaco Grand Prix,monaco,Circuit de Monaco,2025-05-25,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,2,2,18,Finished
+2025,8,Monaco Grand Prix,monaco,Circuit de Monaco,2025-05-25,piastri,PIA,Oscar,Piastri,mclaren,McLaren,3,3,15,Finished
+2025,8,Monaco Grand Prix,monaco,Circuit de Monaco,2025-05-25,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,4,4,12,Finished
+2025,8,Monaco Grand Prix,monaco,Circuit de Monaco,2025-05-25,hamilton,HAM,Lewis,Hamilton,ferrari,Ferrari,7,5,10,Finished
+2025,8,Monaco Grand Prix,monaco,Circuit de Monaco,2025-05-25,hadjar,HAD,Isack,Hadjar,rb,RB F1 Team,5,6,8,Lapped
+2025,8,Monaco Grand Prix,monaco,Circuit de Monaco,2025-05-25,ocon,OCO,Esteban,Ocon,haas,Haas F1 Team,8,7,6,Lapped
+2025,8,Monaco Grand Prix,monaco,Circuit de Monaco,2025-05-25,lawson,LAW,Liam,Lawson,rb,RB F1 Team,9,8,4,Lapped
+2025,8,Monaco Grand Prix,monaco,Circuit de Monaco,2025-05-25,albon,ALB,Alexander,Albon,williams,Williams,10,9,2,Lapped
+2025,8,Monaco Grand Prix,monaco,Circuit de Monaco,2025-05-25,sainz,SAI,Carlos,Sainz,williams,Williams,11,10,1,Lapped
+2025,8,Monaco Grand Prix,monaco,Circuit de Monaco,2025-05-25,russell,RUS,George,Russell,mercedes,Mercedes,14,11,0,Lapped
+2025,8,Monaco Grand Prix,monaco,Circuit de Monaco,2025-05-25,bearman,BEA,Oliver,Bearman,haas,Haas F1 Team,20,12,0,Lapped
+2025,8,Monaco Grand Prix,monaco,Circuit de Monaco,2025-05-25,colapinto,COL,Franco,Colapinto,alpine,Alpine F1 Team,18,13,0,Lapped
+2025,8,Monaco Grand Prix,monaco,Circuit de Monaco,2025-05-25,bortoleto,BOR,Gabriel,Bortoleto,sauber,Sauber,16,14,0,Lapped
+2025,8,Monaco Grand Prix,monaco,Circuit de Monaco,2025-05-25,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,19,15,0,Lapped
+2025,8,Monaco Grand Prix,monaco,Circuit de Monaco,2025-05-25,hulkenberg,HUL,Nico,Hülkenberg,sauber,Sauber,13,16,0,Lapped
+2025,8,Monaco Grand Prix,monaco,Circuit de Monaco,2025-05-25,tsunoda,TSU,Yuki,Tsunoda,red_bull,Red Bull,12,17,0,Lapped
+2025,8,Monaco Grand Prix,monaco,Circuit de Monaco,2025-05-25,antonelli,ANT,Andrea Kimi,Antonelli,mercedes,Mercedes,15,18,0,Lapped
+2025,8,Monaco Grand Prix,monaco,Circuit de Monaco,2025-05-25,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,6,19,0,Retired
+2025,8,Monaco Grand Prix,monaco,Circuit de Monaco,2025-05-25,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,17,20,0,Retired
+2025,9,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2025-06-01,piastri,PIA,Oscar,Piastri,mclaren,McLaren,1,1,25,Finished
+2025,9,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2025-06-01,norris,NOR,Lando,Norris,mclaren,McLaren,2,2,18,Finished
+2025,9,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2025-06-01,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,7,3,15,Finished
+2025,9,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2025-06-01,russell,RUS,George,Russell,mercedes,Mercedes,4,4,12,Finished
+2025,9,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2025-06-01,hulkenberg,HUL,Nico,Hülkenberg,sauber,Sauber,15,5,10,Finished
+2025,9,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2025-06-01,hamilton,HAM,Lewis,Hamilton,ferrari,Ferrari,5,6,8,Finished
+2025,9,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2025-06-01,hadjar,HAD,Isack,Hadjar,rb,RB F1 Team,9,7,6,Finished
+2025,9,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2025-06-01,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,8,8,4,Finished
+2025,9,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2025-06-01,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,10,9,2,Finished
+2025,9,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2025-06-01,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,3,10,1,Finished
+2025,9,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2025-06-01,lawson,LAW,Liam,Lawson,rb,RB F1 Team,13,11,0,Finished
+2025,9,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2025-06-01,bortoleto,BOR,Gabriel,Bortoleto,sauber,Sauber,12,12,0,Finished
+2025,9,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2025-06-01,tsunoda,TSU,Yuki,Tsunoda,red_bull,Red Bull,19,13,0,Finished
+2025,9,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2025-06-01,sainz,SAI,Carlos,Sainz,williams,Williams,17,14,0,Finished
+2025,9,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2025-06-01,colapinto,COL,Franco,Colapinto,alpine,Alpine F1 Team,18,15,0,Finished
+2025,9,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2025-06-01,ocon,OCO,Esteban,Ocon,haas,Haas F1 Team,16,16,0,Finished
+2025,9,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2025-06-01,bearman,BEA,Oliver,Bearman,haas,Haas F1 Team,14,17,0,Finished
+2025,9,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2025-06-01,antonelli,ANT,Andrea Kimi,Antonelli,mercedes,Mercedes,6,18,0,Retired
+2025,9,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2025-06-01,albon,ALB,Alexander,Albon,williams,Williams,11,19,0,Retired
+2025,10,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,2025-06-15,russell,RUS,George,Russell,mercedes,Mercedes,1,1,25,Finished
+2025,10,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,2025-06-15,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,2,2,18,Finished
+2025,10,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,2025-06-15,antonelli,ANT,Andrea Kimi,Antonelli,mercedes,Mercedes,4,3,15,Finished
+2025,10,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,2025-06-15,piastri,PIA,Oscar,Piastri,mclaren,McLaren,3,4,12,Finished
+2025,10,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,2025-06-15,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,8,5,10,Finished
+2025,10,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,2025-06-15,hamilton,HAM,Lewis,Hamilton,ferrari,Ferrari,5,6,8,Finished
+2025,10,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,2025-06-15,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,6,7,6,Finished
+2025,10,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,2025-06-15,hulkenberg,HUL,Nico,Hülkenberg,sauber,Sauber,11,8,4,Finished
+2025,10,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,2025-06-15,ocon,OCO,Esteban,Ocon,haas,Haas F1 Team,14,9,2,Lapped
+2025,10,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,2025-06-15,sainz,SAI,Carlos,Sainz,williams,Williams,16,10,1,Lapped
+2025,10,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,2025-06-15,bearman,BEA,Oliver,Bearman,haas,Haas F1 Team,13,11,0,Lapped
+2025,10,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,2025-06-15,tsunoda,TSU,Yuki,Tsunoda,red_bull,Red Bull,18,12,0,Lapped
+2025,10,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,2025-06-15,colapinto,COL,Franco,Colapinto,alpine,Alpine F1 Team,10,13,0,Lapped
+2025,10,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,2025-06-15,bortoleto,BOR,Gabriel,Bortoleto,sauber,Sauber,15,14,0,Lapped
+2025,10,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,2025-06-15,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,20,15,0,Lapped
+2025,10,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,2025-06-15,hadjar,HAD,Isack,Hadjar,rb,RB F1 Team,12,16,0,Lapped
+2025,10,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,2025-06-15,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,17,17,0,Lapped
+2025,10,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,2025-06-15,norris,NOR,Lando,Norris,mclaren,McLaren,7,18,0,Retired
+2025,10,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,2025-06-15,lawson,LAW,Liam,Lawson,rb,RB F1 Team,19,19,0,Retired
+2025,10,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,2025-06-15,albon,ALB,Alexander,Albon,williams,Williams,9,20,0,Retired
+2025,11,Austrian Grand Prix,red_bull_ring,Red Bull Ring,2025-06-29,norris,NOR,Lando,Norris,mclaren,McLaren,1,1,25,Finished
+2025,11,Austrian Grand Prix,red_bull_ring,Red Bull Ring,2025-06-29,piastri,PIA,Oscar,Piastri,mclaren,McLaren,3,2,18,Finished
+2025,11,Austrian Grand Prix,red_bull_ring,Red Bull Ring,2025-06-29,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,2,3,15,Finished
+2025,11,Austrian Grand Prix,red_bull_ring,Red Bull Ring,2025-06-29,hamilton,HAM,Lewis,Hamilton,ferrari,Ferrari,4,4,12,Finished
+2025,11,Austrian Grand Prix,red_bull_ring,Red Bull Ring,2025-06-29,russell,RUS,George,Russell,mercedes,Mercedes,5,5,10,Finished
+2025,11,Austrian Grand Prix,red_bull_ring,Red Bull Ring,2025-06-29,lawson,LAW,Liam,Lawson,rb,RB F1 Team,6,6,8,Finished
+2025,11,Austrian Grand Prix,red_bull_ring,Red Bull Ring,2025-06-29,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,11,7,6,Lapped
+2025,11,Austrian Grand Prix,red_bull_ring,Red Bull Ring,2025-06-29,bortoleto,BOR,Gabriel,Bortoleto,sauber,Sauber,8,8,4,Lapped
+2025,11,Austrian Grand Prix,red_bull_ring,Red Bull Ring,2025-06-29,hulkenberg,HUL,Nico,Hülkenberg,sauber,Sauber,20,9,2,Lapped
+2025,11,Austrian Grand Prix,red_bull_ring,Red Bull Ring,2025-06-29,ocon,OCO,Esteban,Ocon,haas,Haas F1 Team,17,10,1,Lapped
+2025,11,Austrian Grand Prix,red_bull_ring,Red Bull Ring,2025-06-29,bearman,BEA,Oliver,Bearman,haas,Haas F1 Team,15,11,0,Lapped
+2025,11,Austrian Grand Prix,red_bull_ring,Red Bull Ring,2025-06-29,hadjar,HAD,Isack,Hadjar,rb,RB F1 Team,13,12,0,Lapped
+2025,11,Austrian Grand Prix,red_bull_ring,Red Bull Ring,2025-06-29,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,10,13,0,Lapped
+2025,11,Austrian Grand Prix,red_bull_ring,Red Bull Ring,2025-06-29,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,16,14,0,Lapped
+2025,11,Austrian Grand Prix,red_bull_ring,Red Bull Ring,2025-06-29,colapinto,COL,Franco,Colapinto,alpine,Alpine F1 Team,14,15,0,Lapped
+2025,11,Austrian Grand Prix,red_bull_ring,Red Bull Ring,2025-06-29,tsunoda,TSU,Yuki,Tsunoda,red_bull,Red Bull,18,16,0,Lapped
+2025,11,Austrian Grand Prix,red_bull_ring,Red Bull Ring,2025-06-29,albon,ALB,Alexander,Albon,williams,Williams,12,17,0,Retired
+2025,11,Austrian Grand Prix,red_bull_ring,Red Bull Ring,2025-06-29,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,7,18,0,Retired
+2025,11,Austrian Grand Prix,red_bull_ring,Red Bull Ring,2025-06-29,antonelli,ANT,Andrea Kimi,Antonelli,mercedes,Mercedes,9,19,0,Retired
+2025,11,Austrian Grand Prix,red_bull_ring,Red Bull Ring,2025-06-29,sainz,SAI,Carlos,Sainz,williams,Williams,19,20,0,Did not start
+2025,12,British Grand Prix,silverstone,Silverstone Circuit,2025-07-06,norris,NOR,Lando,Norris,mclaren,McLaren,3,1,25,Finished
+2025,12,British Grand Prix,silverstone,Silverstone Circuit,2025-07-06,piastri,PIA,Oscar,Piastri,mclaren,McLaren,2,2,18,Finished
+2025,12,British Grand Prix,silverstone,Silverstone Circuit,2025-07-06,hulkenberg,HUL,Nico,Hülkenberg,sauber,Sauber,19,3,15,Finished
+2025,12,British Grand Prix,silverstone,Silverstone Circuit,2025-07-06,hamilton,HAM,Lewis,Hamilton,ferrari,Ferrari,5,4,12,Finished
+2025,12,British Grand Prix,silverstone,Silverstone Circuit,2025-07-06,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,1,5,10,Finished
+2025,12,British Grand Prix,silverstone,Silverstone Circuit,2025-07-06,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,8,6,8,Finished
+2025,12,British Grand Prix,silverstone,Silverstone Circuit,2025-07-06,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,17,7,6,Finished
+2025,12,British Grand Prix,silverstone,Silverstone Circuit,2025-07-06,albon,ALB,Alexander,Albon,williams,Williams,13,8,4,Finished
+2025,12,British Grand Prix,silverstone,Silverstone Circuit,2025-07-06,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,7,9,2,Finished
+2025,12,British Grand Prix,silverstone,Silverstone Circuit,2025-07-06,russell,RUS,George,Russell,mercedes,Mercedes,4,10,1,Finished
+2025,12,British Grand Prix,silverstone,Silverstone Circuit,2025-07-06,bearman,BEA,Oliver,Bearman,haas,Haas F1 Team,18,11,0,Finished
+2025,12,British Grand Prix,silverstone,Silverstone Circuit,2025-07-06,sainz,SAI,Carlos,Sainz,williams,Williams,9,12,0,Finished
+2025,12,British Grand Prix,silverstone,Silverstone Circuit,2025-07-06,ocon,OCO,Esteban,Ocon,haas,Haas F1 Team,14,13,0,Finished
+2025,12,British Grand Prix,silverstone,Silverstone Circuit,2025-07-06,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,6,14,0,Finished
+2025,12,British Grand Prix,silverstone,Silverstone Circuit,2025-07-06,tsunoda,TSU,Yuki,Tsunoda,red_bull,Red Bull,11,15,0,Lapped
+2025,12,British Grand Prix,silverstone,Silverstone Circuit,2025-07-06,antonelli,ANT,Andrea Kimi,Antonelli,mercedes,Mercedes,10,16,0,Retired
+2025,12,British Grand Prix,silverstone,Silverstone Circuit,2025-07-06,hadjar,HAD,Isack,Hadjar,rb,RB F1 Team,12,17,0,Retired
+2025,12,British Grand Prix,silverstone,Silverstone Circuit,2025-07-06,bortoleto,BOR,Gabriel,Bortoleto,sauber,Sauber,16,18,0,Retired
+2025,12,British Grand Prix,silverstone,Silverstone Circuit,2025-07-06,lawson,LAW,Liam,Lawson,rb,RB F1 Team,15,19,0,Retired
+2025,12,British Grand Prix,silverstone,Silverstone Circuit,2025-07-06,colapinto,COL,Franco,Colapinto,alpine,Alpine F1 Team,20,20,0,Did not start
+2025,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,2025-07-27,piastri,PIA,Oscar,Piastri,mclaren,McLaren,2,1,25,Finished
+2025,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,2025-07-27,norris,NOR,Lando,Norris,mclaren,McLaren,1,2,18,Finished
+2025,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,2025-07-27,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,3,3,15,Finished
+2025,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,2025-07-27,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,4,4,12,Finished
+2025,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,2025-07-27,russell,RUS,George,Russell,mercedes,Mercedes,6,5,10,Finished
+2025,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,2025-07-27,albon,ALB,Alexander,Albon,williams,Williams,5,6,8,Finished
+2025,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,2025-07-27,hamilton,HAM,Lewis,Hamilton,ferrari,Ferrari,18,7,6,Finished
+2025,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,2025-07-27,lawson,LAW,Liam,Lawson,rb,RB F1 Team,9,8,4,Finished
+2025,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,2025-07-27,bortoleto,BOR,Gabriel,Bortoleto,sauber,Sauber,10,9,2,Finished
+2025,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,2025-07-27,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,13,10,1,Finished
+2025,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,2025-07-27,bearman,BEA,Oliver,Bearman,haas,Haas F1 Team,12,11,0,Finished
+2025,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,2025-07-27,hulkenberg,HUL,Nico,Hülkenberg,sauber,Sauber,14,12,0,Finished
+2025,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,2025-07-27,tsunoda,TSU,Yuki,Tsunoda,red_bull,Red Bull,7,13,0,Finished
+2025,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,2025-07-27,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,16,14,0,Finished
+2025,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,2025-07-27,ocon,OCO,Esteban,Ocon,haas,Haas F1 Team,11,15,0,Finished
+2025,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,2025-07-27,antonelli,ANT,Andrea Kimi,Antonelli,mercedes,Mercedes,19,16,0,Finished
+2025,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,2025-07-27,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,20,17,0,Finished
+2025,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,2025-07-27,sainz,SAI,Carlos,Sainz,williams,Williams,17,18,0,Finished
+2025,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,2025-07-27,colapinto,COL,Franco,Colapinto,alpine,Alpine F1 Team,15,19,0,Finished
+2025,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,2025-07-27,hadjar,HAD,Isack,Hadjar,rb,RB F1 Team,8,20,0,Lapped
+2025,14,Hungarian Grand Prix,hungaroring,Hungaroring,2025-08-03,norris,NOR,Lando,Norris,mclaren,McLaren,3,1,25,Finished
+2025,14,Hungarian Grand Prix,hungaroring,Hungaroring,2025-08-03,piastri,PIA,Oscar,Piastri,mclaren,McLaren,2,2,18,Finished
+2025,14,Hungarian Grand Prix,hungaroring,Hungaroring,2025-08-03,russell,RUS,George,Russell,mercedes,Mercedes,4,3,15,Finished
+2025,14,Hungarian Grand Prix,hungaroring,Hungaroring,2025-08-03,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,1,4,12,Finished
+2025,14,Hungarian Grand Prix,hungaroring,Hungaroring,2025-08-03,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,5,5,10,Finished
+2025,14,Hungarian Grand Prix,hungaroring,Hungaroring,2025-08-03,bortoleto,BOR,Gabriel,Bortoleto,sauber,Sauber,7,6,8,Finished
+2025,14,Hungarian Grand Prix,hungaroring,Hungaroring,2025-08-03,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,6,7,6,Finished
+2025,14,Hungarian Grand Prix,hungaroring,Hungaroring,2025-08-03,lawson,LAW,Liam,Lawson,rb,RB F1 Team,9,8,4,Finished
+2025,14,Hungarian Grand Prix,hungaroring,Hungaroring,2025-08-03,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,8,9,2,Finished
+2025,14,Hungarian Grand Prix,hungaroring,Hungaroring,2025-08-03,antonelli,ANT,Andrea Kimi,Antonelli,mercedes,Mercedes,15,10,1,Lapped
+2025,14,Hungarian Grand Prix,hungaroring,Hungaroring,2025-08-03,hadjar,HAD,Isack,Hadjar,rb,RB F1 Team,10,11,0,Lapped
+2025,14,Hungarian Grand Prix,hungaroring,Hungaroring,2025-08-03,hamilton,HAM,Lewis,Hamilton,ferrari,Ferrari,12,12,0,Lapped
+2025,14,Hungarian Grand Prix,hungaroring,Hungaroring,2025-08-03,hulkenberg,HUL,Nico,Hülkenberg,sauber,Sauber,18,13,0,Lapped
+2025,14,Hungarian Grand Prix,hungaroring,Hungaroring,2025-08-03,sainz,SAI,Carlos,Sainz,williams,Williams,13,14,0,Lapped
+2025,14,Hungarian Grand Prix,hungaroring,Hungaroring,2025-08-03,albon,ALB,Alexander,Albon,williams,Williams,19,15,0,Lapped
+2025,14,Hungarian Grand Prix,hungaroring,Hungaroring,2025-08-03,ocon,OCO,Esteban,Ocon,haas,Haas F1 Team,17,16,0,Lapped
+2025,14,Hungarian Grand Prix,hungaroring,Hungaroring,2025-08-03,tsunoda,TSU,Yuki,Tsunoda,red_bull,Red Bull,20,17,0,Lapped
+2025,14,Hungarian Grand Prix,hungaroring,Hungaroring,2025-08-03,colapinto,COL,Franco,Colapinto,alpine,Alpine F1 Team,14,18,0,Lapped
+2025,14,Hungarian Grand Prix,hungaroring,Hungaroring,2025-08-03,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,16,19,0,Lapped
+2025,14,Hungarian Grand Prix,hungaroring,Hungaroring,2025-08-03,bearman,BEA,Oliver,Bearman,haas,Haas F1 Team,11,20,0,Retired
+2025,15,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,2025-08-31,piastri,PIA,Oscar,Piastri,mclaren,McLaren,1,1,25,Finished
+2025,15,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,2025-08-31,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,3,2,18,Finished
+2025,15,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,2025-08-31,hadjar,HAD,Isack,Hadjar,rb,RB F1 Team,4,3,15,Finished
+2025,15,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,2025-08-31,russell,RUS,George,Russell,mercedes,Mercedes,5,4,12,Finished
+2025,15,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,2025-08-31,albon,ALB,Alexander,Albon,williams,Williams,15,5,10,Finished
+2025,15,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,2025-08-31,bearman,BEA,Oliver,Bearman,haas,Haas F1 Team,20,6,8,Finished
+2025,15,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,2025-08-31,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,19,7,6,Finished
+2025,15,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,2025-08-31,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,10,8,4,Finished
+2025,15,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,2025-08-31,tsunoda,TSU,Yuki,Tsunoda,red_bull,Red Bull,12,9,2,Finished
+2025,15,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,2025-08-31,ocon,OCO,Esteban,Ocon,haas,Haas F1 Team,18,10,1,Finished
+2025,15,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,2025-08-31,colapinto,COL,Franco,Colapinto,alpine,Alpine F1 Team,16,11,0,Finished
+2025,15,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,2025-08-31,lawson,LAW,Liam,Lawson,rb,RB F1 Team,8,12,0,Finished
+2025,15,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,2025-08-31,sainz,SAI,Carlos,Sainz,williams,Williams,9,13,0,Finished
+2025,15,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,2025-08-31,hulkenberg,HUL,Nico,Hülkenberg,sauber,Sauber,17,14,0,Finished
+2025,15,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,2025-08-31,bortoleto,BOR,Gabriel,Bortoleto,sauber,Sauber,13,15,0,Finished
+2025,15,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,2025-08-31,antonelli,ANT,Andrea Kimi,Antonelli,mercedes,Mercedes,11,16,0,Finished
+2025,15,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,2025-08-31,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,14,17,0,Finished
+2025,15,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,2025-08-31,norris,NOR,Lando,Norris,mclaren,McLaren,2,18,0,Retired
+2025,15,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,2025-08-31,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,6,19,0,Retired
+2025,15,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,2025-08-31,hamilton,HAM,Lewis,Hamilton,ferrari,Ferrari,7,20,0,Retired
+2025,16,Italian Grand Prix,monza,Autodromo Nazionale di Monza,2025-09-07,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,1,1,25,Finished
+2025,16,Italian Grand Prix,monza,Autodromo Nazionale di Monza,2025-09-07,norris,NOR,Lando,Norris,mclaren,McLaren,2,2,18,Finished
+2025,16,Italian Grand Prix,monza,Autodromo Nazionale di Monza,2025-09-07,piastri,PIA,Oscar,Piastri,mclaren,McLaren,3,3,15,Finished
+2025,16,Italian Grand Prix,monza,Autodromo Nazionale di Monza,2025-09-07,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,4,4,12,Finished
+2025,16,Italian Grand Prix,monza,Autodromo Nazionale di Monza,2025-09-07,russell,RUS,George,Russell,mercedes,Mercedes,5,5,10,Finished
+2025,16,Italian Grand Prix,monza,Autodromo Nazionale di Monza,2025-09-07,hamilton,HAM,Lewis,Hamilton,ferrari,Ferrari,10,6,8,Finished
+2025,16,Italian Grand Prix,monza,Autodromo Nazionale di Monza,2025-09-07,albon,ALB,Alexander,Albon,williams,Williams,14,7,6,Finished
+2025,16,Italian Grand Prix,monza,Autodromo Nazionale di Monza,2025-09-07,bortoleto,BOR,Gabriel,Bortoleto,sauber,Sauber,7,8,4,Finished
+2025,16,Italian Grand Prix,monza,Autodromo Nazionale di Monza,2025-09-07,antonelli,ANT,Andrea Kimi,Antonelli,mercedes,Mercedes,6,9,2,Finished
+2025,16,Italian Grand Prix,monza,Autodromo Nazionale di Monza,2025-09-07,hadjar,HAD,Isack,Hadjar,rb,RB F1 Team,19,10,1,Finished
+2025,16,Italian Grand Prix,monza,Autodromo Nazionale di Monza,2025-09-07,sainz,SAI,Carlos,Sainz,williams,Williams,13,11,0,Finished
+2025,16,Italian Grand Prix,monza,Autodromo Nazionale di Monza,2025-09-07,bearman,BEA,Oliver,Bearman,haas,Haas F1 Team,11,12,0,Finished
+2025,16,Italian Grand Prix,monza,Autodromo Nazionale di Monza,2025-09-07,tsunoda,TSU,Yuki,Tsunoda,red_bull,Red Bull,9,13,0,Finished
+2025,16,Italian Grand Prix,monza,Autodromo Nazionale di Monza,2025-09-07,lawson,LAW,Liam,Lawson,rb,RB F1 Team,18,14,0,Finished
+2025,16,Italian Grand Prix,monza,Autodromo Nazionale di Monza,2025-09-07,ocon,OCO,Esteban,Ocon,haas,Haas F1 Team,15,15,0,Lapped
+2025,16,Italian Grand Prix,monza,Autodromo Nazionale di Monza,2025-09-07,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,20,16,0,Lapped
+2025,16,Italian Grand Prix,monza,Autodromo Nazionale di Monza,2025-09-07,colapinto,COL,Franco,Colapinto,alpine,Alpine F1 Team,17,17,0,Lapped
+2025,16,Italian Grand Prix,monza,Autodromo Nazionale di Monza,2025-09-07,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,16,18,0,Lapped
+2025,16,Italian Grand Prix,monza,Autodromo Nazionale di Monza,2025-09-07,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,8,19,0,Retired
+2025,16,Italian Grand Prix,monza,Autodromo Nazionale di Monza,2025-09-07,hulkenberg,HUL,Nico,Hülkenberg,sauber,Sauber,12,20,0,Did not start
+2025,17,Azerbaijan Grand Prix,baku,Baku City Circuit,2025-09-21,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,1,1,25,Finished
+2025,17,Azerbaijan Grand Prix,baku,Baku City Circuit,2025-09-21,russell,RUS,George,Russell,mercedes,Mercedes,5,2,18,Finished
+2025,17,Azerbaijan Grand Prix,baku,Baku City Circuit,2025-09-21,sainz,SAI,Carlos,Sainz,williams,Williams,2,3,15,Finished
+2025,17,Azerbaijan Grand Prix,baku,Baku City Circuit,2025-09-21,antonelli,ANT,Andrea Kimi,Antonelli,mercedes,Mercedes,4,4,12,Finished
+2025,17,Azerbaijan Grand Prix,baku,Baku City Circuit,2025-09-21,lawson,LAW,Liam,Lawson,rb,RB F1 Team,3,5,10,Finished
+2025,17,Azerbaijan Grand Prix,baku,Baku City Circuit,2025-09-21,tsunoda,TSU,Yuki,Tsunoda,red_bull,Red Bull,6,6,8,Finished
+2025,17,Azerbaijan Grand Prix,baku,Baku City Circuit,2025-09-21,norris,NOR,Lando,Norris,mclaren,McLaren,7,7,6,Finished
+2025,17,Azerbaijan Grand Prix,baku,Baku City Circuit,2025-09-21,hamilton,HAM,Lewis,Hamilton,ferrari,Ferrari,12,8,4,Finished
+2025,17,Azerbaijan Grand Prix,baku,Baku City Circuit,2025-09-21,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,10,9,2,Finished
+2025,17,Azerbaijan Grand Prix,baku,Baku City Circuit,2025-09-21,hadjar,HAD,Isack,Hadjar,rb,RB F1 Team,8,10,1,Finished
+2025,17,Azerbaijan Grand Prix,baku,Baku City Circuit,2025-09-21,bortoleto,BOR,Gabriel,Bortoleto,sauber,Sauber,13,11,0,Finished
+2025,17,Azerbaijan Grand Prix,baku,Baku City Circuit,2025-09-21,bearman,BEA,Oliver,Bearman,haas,Haas F1 Team,15,12,0,Finished
+2025,17,Azerbaijan Grand Prix,baku,Baku City Circuit,2025-09-21,albon,ALB,Alexander,Albon,williams,Williams,19,13,0,Finished
+2025,17,Azerbaijan Grand Prix,baku,Baku City Circuit,2025-09-21,ocon,OCO,Esteban,Ocon,haas,Haas F1 Team,20,14,0,Finished
+2025,17,Azerbaijan Grand Prix,baku,Baku City Circuit,2025-09-21,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,11,15,0,Finished
+2025,17,Azerbaijan Grand Prix,baku,Baku City Circuit,2025-09-21,hulkenberg,HUL,Nico,Hülkenberg,sauber,Sauber,17,16,0,Finished
+2025,17,Azerbaijan Grand Prix,baku,Baku City Circuit,2025-09-21,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,14,17,0,Finished
+2025,17,Azerbaijan Grand Prix,baku,Baku City Circuit,2025-09-21,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,18,18,0,Lapped
+2025,17,Azerbaijan Grand Prix,baku,Baku City Circuit,2025-09-21,colapinto,COL,Franco,Colapinto,alpine,Alpine F1 Team,16,19,0,Lapped
+2025,17,Azerbaijan Grand Prix,baku,Baku City Circuit,2025-09-21,piastri,PIA,Oscar,Piastri,mclaren,McLaren,9,20,0,Retired
+2025,18,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,2025-10-05,russell,RUS,George,Russell,mercedes,Mercedes,1,1,25,Finished
+2025,18,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,2025-10-05,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,2,2,18,Finished
+2025,18,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,2025-10-05,norris,NOR,Lando,Norris,mclaren,McLaren,5,3,15,Finished
+2025,18,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,2025-10-05,piastri,PIA,Oscar,Piastri,mclaren,McLaren,3,4,12,Finished
+2025,18,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,2025-10-05,antonelli,ANT,Andrea Kimi,Antonelli,mercedes,Mercedes,4,5,10,Finished
+2025,18,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,2025-10-05,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,7,6,8,Finished
+2025,18,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,2025-10-05,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,10,7,6,Finished
+2025,18,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,2025-10-05,hamilton,HAM,Lewis,Hamilton,ferrari,Ferrari,6,8,4,Finished
+2025,18,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,2025-10-05,bearman,BEA,Oliver,Bearman,haas,Haas F1 Team,9,9,2,Finished
+2025,18,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,2025-10-05,sainz,SAI,Carlos,Sainz,williams,Williams,18,10,1,Lapped
+2025,18,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,2025-10-05,hadjar,HAD,Isack,Hadjar,rb,RB F1 Team,8,11,0,Lapped
+2025,18,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,2025-10-05,tsunoda,TSU,Yuki,Tsunoda,red_bull,Red Bull,13,12,0,Lapped
+2025,18,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,2025-10-05,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,15,13,0,Lapped
+2025,18,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,2025-10-05,albon,ALB,Alexander,Albon,williams,Williams,20,14,0,Lapped
+2025,18,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,2025-10-05,lawson,LAW,Liam,Lawson,rb,RB F1 Team,12,15,0,Lapped
+2025,18,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,2025-10-05,colapinto,COL,Franco,Colapinto,alpine,Alpine F1 Team,16,16,0,Lapped
+2025,18,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,2025-10-05,bortoleto,BOR,Gabriel,Bortoleto,sauber,Sauber,14,17,0,Lapped
+2025,18,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,2025-10-05,ocon,OCO,Esteban,Ocon,haas,Haas F1 Team,17,18,0,Lapped
+2025,18,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,2025-10-05,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,19,19,0,Lapped
+2025,18,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,2025-10-05,hulkenberg,HUL,Nico,Hülkenberg,sauber,Sauber,11,20,0,Lapped
+2025,19,United States Grand Prix,americas,Circuit of the Americas,2025-10-19,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,1,1,25,Finished
+2025,19,United States Grand Prix,americas,Circuit of the Americas,2025-10-19,norris,NOR,Lando,Norris,mclaren,McLaren,2,2,18,Finished
+2025,19,United States Grand Prix,americas,Circuit of the Americas,2025-10-19,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,3,3,15,Finished
+2025,19,United States Grand Prix,americas,Circuit of the Americas,2025-10-19,hamilton,HAM,Lewis,Hamilton,ferrari,Ferrari,5,4,12,Finished
+2025,19,United States Grand Prix,americas,Circuit of the Americas,2025-10-19,piastri,PIA,Oscar,Piastri,mclaren,McLaren,6,5,10,Finished
+2025,19,United States Grand Prix,americas,Circuit of the Americas,2025-10-19,russell,RUS,George,Russell,mercedes,Mercedes,4,6,8,Finished
+2025,19,United States Grand Prix,americas,Circuit of the Americas,2025-10-19,tsunoda,TSU,Yuki,Tsunoda,red_bull,Red Bull,13,7,6,Finished
+2025,19,United States Grand Prix,americas,Circuit of the Americas,2025-10-19,hulkenberg,HUL,Nico,Hülkenberg,sauber,Sauber,11,8,4,Finished
+2025,19,United States Grand Prix,americas,Circuit of the Americas,2025-10-19,bearman,BEA,Oliver,Bearman,haas,Haas F1 Team,8,9,2,Finished
+2025,19,United States Grand Prix,americas,Circuit of the Americas,2025-10-19,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,10,10,1,Finished
+2025,19,United States Grand Prix,americas,Circuit of the Americas,2025-10-19,lawson,LAW,Liam,Lawson,rb,RB F1 Team,12,11,0,Finished
+2025,19,United States Grand Prix,americas,Circuit of the Americas,2025-10-19,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,19,12,0,Finished
+2025,19,United States Grand Prix,americas,Circuit of the Americas,2025-10-19,antonelli,ANT,Andrea Kimi,Antonelli,mercedes,Mercedes,7,13,0,Finished
+2025,19,United States Grand Prix,americas,Circuit of the Americas,2025-10-19,albon,ALB,Alexander,Albon,williams,Williams,18,14,0,Finished
+2025,19,United States Grand Prix,americas,Circuit of the Americas,2025-10-19,ocon,OCO,Esteban,Ocon,haas,Haas F1 Team,17,15,0,Finished
+2025,19,United States Grand Prix,americas,Circuit of the Americas,2025-10-19,hadjar,HAD,Isack,Hadjar,rb,RB F1 Team,20,16,0,Finished
+2025,19,United States Grand Prix,americas,Circuit of the Americas,2025-10-19,colapinto,COL,Franco,Colapinto,alpine,Alpine F1 Team,15,17,0,Lapped
+2025,19,United States Grand Prix,americas,Circuit of the Americas,2025-10-19,bortoleto,BOR,Gabriel,Bortoleto,sauber,Sauber,16,18,0,Lapped
+2025,19,United States Grand Prix,americas,Circuit of the Americas,2025-10-19,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,14,19,0,Lapped
+2025,19,United States Grand Prix,americas,Circuit of the Americas,2025-10-19,sainz,SAI,Carlos,Sainz,williams,Williams,9,20,0,Retired
+2025,20,Mexico City Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,2025-10-26,norris,NOR,Lando,Norris,mclaren,McLaren,1,1,25,Finished
+2025,20,Mexico City Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,2025-10-26,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,2,2,18,Finished
+2025,20,Mexico City Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,2025-10-26,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,5,3,15,Finished
+2025,20,Mexico City Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,2025-10-26,bearman,BEA,Oliver,Bearman,haas,Haas F1 Team,9,4,12,Finished
+2025,20,Mexico City Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,2025-10-26,piastri,PIA,Oscar,Piastri,mclaren,McLaren,7,5,10,Finished
+2025,20,Mexico City Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,2025-10-26,antonelli,ANT,Andrea Kimi,Antonelli,mercedes,Mercedes,6,6,8,Finished
+2025,20,Mexico City Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,2025-10-26,russell,RUS,George,Russell,mercedes,Mercedes,4,7,6,Finished
+2025,20,Mexico City Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,2025-10-26,hamilton,HAM,Lewis,Hamilton,ferrari,Ferrari,3,8,4,Finished
+2025,20,Mexico City Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,2025-10-26,ocon,OCO,Esteban,Ocon,haas,Haas F1 Team,11,9,2,Finished
+2025,20,Mexico City Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,2025-10-26,bortoleto,BOR,Gabriel,Bortoleto,sauber,Sauber,16,10,1,Finished
+2025,20,Mexico City Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,2025-10-26,tsunoda,TSU,Yuki,Tsunoda,red_bull,Red Bull,10,11,0,Finished
+2025,20,Mexico City Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,2025-10-26,albon,ALB,Alexander,Albon,williams,Williams,17,12,0,Lapped
+2025,20,Mexico City Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,2025-10-26,hadjar,HAD,Isack,Hadjar,rb,RB F1 Team,8,13,0,Lapped
+2025,20,Mexico City Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,2025-10-26,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,19,14,0,Lapped
+2025,20,Mexico City Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,2025-10-26,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,18,15,0,Lapped
+2025,20,Mexico City Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,2025-10-26,colapinto,COL,Franco,Colapinto,alpine,Alpine F1 Team,20,16,0,Lapped
+2025,20,Mexico City Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,2025-10-26,sainz,SAI,Carlos,Sainz,williams,Williams,12,17,0,Retired
+2025,20,Mexico City Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,2025-10-26,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,14,18,0,Retired
+2025,20,Mexico City Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,2025-10-26,hulkenberg,HUL,Nico,Hülkenberg,sauber,Sauber,13,19,0,Retired
+2025,20,Mexico City Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,2025-10-26,lawson,LAW,Liam,Lawson,rb,RB F1 Team,15,20,0,Retired
+2025,21,São Paulo Grand Prix,interlagos,Autódromo José Carlos Pace,2025-11-09,norris,NOR,Lando,Norris,mclaren,McLaren,1,1,25,Finished
+2025,21,São Paulo Grand Prix,interlagos,Autódromo José Carlos Pace,2025-11-09,antonelli,ANT,Andrea Kimi,Antonelli,mercedes,Mercedes,2,2,18,Finished
+2025,21,São Paulo Grand Prix,interlagos,Autódromo José Carlos Pace,2025-11-09,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,19,3,15,Finished
+2025,21,São Paulo Grand Prix,interlagos,Autódromo José Carlos Pace,2025-11-09,russell,RUS,George,Russell,mercedes,Mercedes,6,4,12,Finished
+2025,21,São Paulo Grand Prix,interlagos,Autódromo José Carlos Pace,2025-11-09,piastri,PIA,Oscar,Piastri,mclaren,McLaren,4,5,10,Finished
+2025,21,São Paulo Grand Prix,interlagos,Autódromo José Carlos Pace,2025-11-09,bearman,BEA,Oliver,Bearman,haas,Haas F1 Team,8,6,8,Finished
+2025,21,São Paulo Grand Prix,interlagos,Autódromo José Carlos Pace,2025-11-09,lawson,LAW,Liam,Lawson,rb,RB F1 Team,7,7,6,Finished
+2025,21,São Paulo Grand Prix,interlagos,Autódromo José Carlos Pace,2025-11-09,hadjar,HAD,Isack,Hadjar,rb,RB F1 Team,5,8,4,Finished
+2025,21,São Paulo Grand Prix,interlagos,Autódromo José Carlos Pace,2025-11-09,hulkenberg,HUL,Nico,Hülkenberg,sauber,Sauber,10,9,2,Finished
+2025,21,São Paulo Grand Prix,interlagos,Autódromo José Carlos Pace,2025-11-09,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,9,10,1,Finished
+2025,21,São Paulo Grand Prix,interlagos,Autódromo José Carlos Pace,2025-11-09,albon,ALB,Alexander,Albon,williams,Williams,12,11,0,Finished
+2025,21,São Paulo Grand Prix,interlagos,Autódromo José Carlos Pace,2025-11-09,ocon,OCO,Esteban,Ocon,haas,Haas F1 Team,20,12,0,Finished
+2025,21,São Paulo Grand Prix,interlagos,Autódromo José Carlos Pace,2025-11-09,sainz,SAI,Carlos,Sainz,williams,Williams,15,13,0,Finished
+2025,21,São Paulo Grand Prix,interlagos,Autódromo José Carlos Pace,2025-11-09,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,11,14,0,Finished
+2025,21,São Paulo Grand Prix,interlagos,Autódromo José Carlos Pace,2025-11-09,colapinto,COL,Franco,Colapinto,alpine,Alpine F1 Team,16,15,0,Finished
+2025,21,São Paulo Grand Prix,interlagos,Autódromo José Carlos Pace,2025-11-09,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,14,16,0,Finished
+2025,21,São Paulo Grand Prix,interlagos,Autódromo José Carlos Pace,2025-11-09,tsunoda,TSU,Yuki,Tsunoda,red_bull,Red Bull,17,17,0,Finished
+2025,21,São Paulo Grand Prix,interlagos,Autódromo José Carlos Pace,2025-11-09,hamilton,HAM,Lewis,Hamilton,ferrari,Ferrari,13,18,0,Retired
+2025,21,São Paulo Grand Prix,interlagos,Autódromo José Carlos Pace,2025-11-09,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,3,19,0,Retired
+2025,21,São Paulo Grand Prix,interlagos,Autódromo José Carlos Pace,2025-11-09,bortoleto,BOR,Gabriel,Bortoleto,sauber,Sauber,18,20,0,Retired
+2025,22,Las Vegas Grand Prix,vegas,Las Vegas Strip Street Circuit,2025-11-23,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,2,1,25,Finished
+2025,22,Las Vegas Grand Prix,vegas,Las Vegas Strip Street Circuit,2025-11-23,russell,RUS,George,Russell,mercedes,Mercedes,4,2,18,Finished
+2025,22,Las Vegas Grand Prix,vegas,Las Vegas Strip Street Circuit,2025-11-23,antonelli,ANT,Andrea Kimi,Antonelli,mercedes,Mercedes,17,3,15,Finished
+2025,22,Las Vegas Grand Prix,vegas,Las Vegas Strip Street Circuit,2025-11-23,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,9,4,12,Finished
+2025,22,Las Vegas Grand Prix,vegas,Las Vegas Strip Street Circuit,2025-11-23,sainz,SAI,Carlos,Sainz,williams,Williams,3,5,10,Finished
+2025,22,Las Vegas Grand Prix,vegas,Las Vegas Strip Street Circuit,2025-11-23,hadjar,HAD,Isack,Hadjar,rb,RB F1 Team,8,6,8,Finished
+2025,22,Las Vegas Grand Prix,vegas,Las Vegas Strip Street Circuit,2025-11-23,hulkenberg,HUL,Nico,Hülkenberg,sauber,Sauber,11,7,6,Finished
+2025,22,Las Vegas Grand Prix,vegas,Las Vegas Strip Street Circuit,2025-11-23,hamilton,HAM,Lewis,Hamilton,ferrari,Ferrari,19,8,4,Finished
+2025,22,Las Vegas Grand Prix,vegas,Las Vegas Strip Street Circuit,2025-11-23,ocon,OCO,Esteban,Ocon,haas,Haas F1 Team,13,9,2,Finished
+2025,22,Las Vegas Grand Prix,vegas,Las Vegas Strip Street Circuit,2025-11-23,bearman,BEA,Oliver,Bearman,haas,Haas F1 Team,14,10,1,Finished
+2025,22,Las Vegas Grand Prix,vegas,Las Vegas Strip Street Circuit,2025-11-23,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,7,11,0,Finished
+2025,22,Las Vegas Grand Prix,vegas,Las Vegas Strip Street Circuit,2025-11-23,tsunoda,TSU,Yuki,Tsunoda,red_bull,Red Bull,20,12,0,Finished
+2025,22,Las Vegas Grand Prix,vegas,Las Vegas Strip Street Circuit,2025-11-23,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,10,13,0,Finished
+2025,22,Las Vegas Grand Prix,vegas,Las Vegas Strip Street Circuit,2025-11-23,lawson,LAW,Liam,Lawson,rb,RB F1 Team,6,14,0,Lapped
+2025,22,Las Vegas Grand Prix,vegas,Las Vegas Strip Street Circuit,2025-11-23,colapinto,COL,Franco,Colapinto,alpine,Alpine F1 Team,15,15,0,Lapped
+2025,22,Las Vegas Grand Prix,vegas,Las Vegas Strip Street Circuit,2025-11-23,albon,ALB,Alexander,Albon,williams,Williams,16,16,0,Retired
+2025,22,Las Vegas Grand Prix,vegas,Las Vegas Strip Street Circuit,2025-11-23,bortoleto,BOR,Gabriel,Bortoleto,sauber,Sauber,18,17,0,Retired
+2025,22,Las Vegas Grand Prix,vegas,Las Vegas Strip Street Circuit,2025-11-23,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,12,18,0,Retired
+2025,22,Las Vegas Grand Prix,vegas,Las Vegas Strip Street Circuit,2025-11-23,norris,NOR,Lando,Norris,mclaren,McLaren,1,19,0,Disqualified
+2025,22,Las Vegas Grand Prix,vegas,Las Vegas Strip Street Circuit,2025-11-23,piastri,PIA,Oscar,Piastri,mclaren,McLaren,5,20,0,Disqualified
+2025,23,Qatar Grand Prix,losail,Losail International Circuit,2025-11-30,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,3,1,25,Finished
+2025,23,Qatar Grand Prix,losail,Losail International Circuit,2025-11-30,piastri,PIA,Oscar,Piastri,mclaren,McLaren,1,2,18,Finished
+2025,23,Qatar Grand Prix,losail,Losail International Circuit,2025-11-30,sainz,SAI,Carlos,Sainz,williams,Williams,7,3,15,Finished
+2025,23,Qatar Grand Prix,losail,Losail International Circuit,2025-11-30,norris,NOR,Lando,Norris,mclaren,McLaren,2,4,12,Finished
+2025,23,Qatar Grand Prix,losail,Losail International Circuit,2025-11-30,antonelli,ANT,Andrea Kimi,Antonelli,mercedes,Mercedes,5,5,10,Finished
+2025,23,Qatar Grand Prix,losail,Losail International Circuit,2025-11-30,russell,RUS,George,Russell,mercedes,Mercedes,4,6,8,Finished
+2025,23,Qatar Grand Prix,losail,Losail International Circuit,2025-11-30,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,8,7,6,Finished
+2025,23,Qatar Grand Prix,losail,Losail International Circuit,2025-11-30,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,10,8,4,Finished
+2025,23,Qatar Grand Prix,losail,Losail International Circuit,2025-11-30,lawson,LAW,Liam,Lawson,rb,RB F1 Team,12,9,2,Finished
+2025,23,Qatar Grand Prix,losail,Losail International Circuit,2025-11-30,tsunoda,TSU,Yuki,Tsunoda,red_bull,Red Bull,15,10,1,Finished
+2025,23,Qatar Grand Prix,losail,Losail International Circuit,2025-11-30,albon,ALB,Alexander,Albon,williams,Williams,14,11,0,Finished
+2025,23,Qatar Grand Prix,losail,Losail International Circuit,2025-11-30,hamilton,HAM,Lewis,Hamilton,ferrari,Ferrari,17,12,0,Finished
+2025,23,Qatar Grand Prix,losail,Losail International Circuit,2025-11-30,bortoleto,BOR,Gabriel,Bortoleto,sauber,Sauber,19,13,0,Finished
+2025,23,Qatar Grand Prix,losail,Losail International Circuit,2025-11-30,colapinto,COL,Franco,Colapinto,alpine,Alpine F1 Team,20,14,0,Lapped
+2025,23,Qatar Grand Prix,losail,Losail International Circuit,2025-11-30,ocon,OCO,Esteban,Ocon,haas,Haas F1 Team,16,15,0,Lapped
+2025,23,Qatar Grand Prix,losail,Losail International Circuit,2025-11-30,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,9,16,0,Lapped
+2025,23,Qatar Grand Prix,losail,Losail International Circuit,2025-11-30,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,18,17,0,Retired
+2025,23,Qatar Grand Prix,losail,Losail International Circuit,2025-11-30,hadjar,HAD,Isack,Hadjar,rb,RB F1 Team,6,18,0,Retired
+2025,23,Qatar Grand Prix,losail,Losail International Circuit,2025-11-30,bearman,BEA,Oliver,Bearman,haas,Haas F1 Team,13,19,0,Retired
+2025,23,Qatar Grand Prix,losail,Losail International Circuit,2025-11-30,hulkenberg,HUL,Nico,Hülkenberg,sauber,Sauber,11,20,0,Retired
+2025,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,2025-12-07,max_verstappen,VER,Max,Verstappen,red_bull,Red Bull,1,1,25,Finished
+2025,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,2025-12-07,piastri,PIA,Oscar,Piastri,mclaren,McLaren,3,2,18,Finished
+2025,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,2025-12-07,norris,NOR,Lando,Norris,mclaren,McLaren,2,3,15,Finished
+2025,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,2025-12-07,leclerc,LEC,Charles,Leclerc,ferrari,Ferrari,5,4,12,Finished
+2025,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,2025-12-07,russell,RUS,George,Russell,mercedes,Mercedes,4,5,10,Finished
+2025,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,2025-12-07,alonso,ALO,Fernando,Alonso,aston_martin,Aston Martin,6,6,8,Finished
+2025,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,2025-12-07,ocon,OCO,Esteban,Ocon,haas,Haas F1 Team,8,7,6,Finished
+2025,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,2025-12-07,hamilton,HAM,Lewis,Hamilton,ferrari,Ferrari,16,8,4,Finished
+2025,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,2025-12-07,hulkenberg,HUL,Nico,Hülkenberg,sauber,Sauber,18,9,2,Finished
+2025,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,2025-12-07,stroll,STR,Lance,Stroll,aston_martin,Aston Martin,15,10,1,Finished
+2025,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,2025-12-07,bortoleto,BOR,Gabriel,Bortoleto,sauber,Sauber,7,11,0,Finished
+2025,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,2025-12-07,bearman,BEA,Oliver,Bearman,haas,Haas F1 Team,11,12,0,Finished
+2025,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,2025-12-07,sainz,SAI,Carlos,Sainz,williams,Williams,12,13,0,Finished
+2025,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,2025-12-07,tsunoda,TSU,Yuki,Tsunoda,red_bull,Red Bull,10,14,0,Finished
+2025,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,2025-12-07,antonelli,ANT,Andrea Kimi,Antonelli,mercedes,Mercedes,14,15,0,Finished
+2025,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,2025-12-07,albon,ALB,Alexander,Albon,williams,Williams,17,16,0,Finished
+2025,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,2025-12-07,hadjar,HAD,Isack,Hadjar,rb,RB F1 Team,9,17,0,Lapped
+2025,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,2025-12-07,lawson,LAW,Liam,Lawson,rb,RB F1 Team,13,18,0,Lapped
+2025,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,2025-12-07,gasly,GAS,Pierre,Gasly,alpine,Alpine F1 Team,19,19,0,Lapped
+2025,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,2025-12-07,colapinto,COL,Franco,Colapinto,alpine,Alpine F1 Team,20,20,0,Lapped

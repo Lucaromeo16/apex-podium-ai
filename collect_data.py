@@ -1,224 +1,168 @@
 import os
+import sys
 import time
 import requests
 import pandas as pd
 
 os.makedirs("data/raw", exist_ok=True)
-os.makedirs("data/processed", exist_ok=True)
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0"
 }
 
+MAX_ROUNDS = 26
+SLEEP_SECONDS = 1.2
+
+
 def safe_get_json(url):
-    try:
-        response = requests.get(url, headers=HEADERS, timeout=15)
+    max_retries = 5
 
-        if response.status_code != 200:
-            print(f"Skipped URL (status {response.status_code}): {url}")
-            return None
-
-        if not response.text.strip():
-            print(f"Skipped URL (empty response): {url}")
-            return None
-
+    for attempt in range(1, max_retries + 1):
         try:
-            return response.json()
-        except Exception:
-            print(f"Skipped URL (invalid JSON): {url}")
-            print("First 200 chars of response:", response.text[:200])
+            response = requests.get(url, headers=HEADERS, timeout=20)
+
+            if response.status_code == 200:
+                if not response.text.strip():
+                    return None
+                return response.json()
+
+            if response.status_code == 429:
+                wait_time = 2 * attempt
+                print(f"429 hit -> retrying in {wait_time}s: {url}")
+                time.sleep(wait_time)
+                continue
+
+            print(f"Skipped URL ({response.status_code}): {url}")
             return None
 
-    except Exception as e:
-        print(f"Request failed for {url}: {e}")
-        return None
+        except Exception as e:
+            print(f"Request failed: {url} -> {e}")
+            time.sleep(2 * attempt)
 
-# -----------------------------
-# PULL RACE RESULTS
-# -----------------------------
-all_results = []
+    print(f"FAILED after retries: {url}")
+    return None
 
-for year in range(2021, 2026):
-    url = f"https://api.jolpi.ca/ergast/f1/{year}/results.json?limit=1000"
-    data = safe_get_json(url)
 
-    if data is None:
-        continue
+def collect_results(start_year, end_year):
+    all_results = []
 
-    races = data["MRData"]["RaceTable"]["Races"]
+    for year in range(start_year, end_year + 1):
+        print(f"\nPulling results for {year}...")
+        rounds_found = 0
 
-    for race in races:
-        season = race["season"]
-        round_num = race["round"]
-        race_name = race["raceName"]
-        circuit_id = race["Circuit"]["circuitId"]
-        circuit_name = race["Circuit"]["circuitName"]
-        race_date = race["date"]
+        for round_num in range(1, MAX_ROUNDS + 1):
+            url = f"https://api.jolpi.ca/ergast/f1/{year}/{round_num}/results.json"
+            data = safe_get_json(url)
+            time.sleep(SLEEP_SECONDS)
 
-        for result in race["Results"]:
-            row = {
-                "season": season,
-                "round": round_num,
-                "race_name": race_name,
-                "circuit_id": circuit_id,
-                "circuit_name": circuit_name,
-                "race_date": race_date,
-                "driver_id": result["Driver"]["driverId"],
-                "driver_code": result["Driver"].get("code", ""),
-                "given_name": result["Driver"]["givenName"],
-                "family_name": result["Driver"]["familyName"],
-                "constructor_id": result["Constructor"]["constructorId"],
-                "constructor_name": result["Constructor"]["name"],
-                "grid": result["grid"],
-                "position": result.get("position", ""),
-                "points": result["points"],
-                "status": result["status"]
-            }
-            all_results.append(row)
+            if data is None:
+                continue
 
-results_df = pd.DataFrame(all_results)
-results_df.to_csv("data/raw/results_2021_2025.csv", index=False)
+            races = data.get("MRData", {}).get("RaceTable", {}).get("Races", [])
+            if not races:
+                continue
 
-print("Created: data/raw/results_2021_2025.csv")
-print(results_df.shape)
+            rounds_found += 1
 
-# -----------------------------
-# PULL QUALIFYING RESULTS
-# -----------------------------
-all_qualifying = []
+            for race in races:
+                season = race["season"]
+                rnd = race["round"]
+                race_name = race["raceName"]
+                circuit_id = race["Circuit"]["circuitId"]
+                circuit_name = race["Circuit"]["circuitName"]
+                race_date = race["date"]
 
-for year in range(2021, 2026):
-    url = f"https://api.jolpi.ca/ergast/f1/{year}/qualifying.json?limit=1000"
-    data = safe_get_json(url)
+                for result in race.get("Results", []):
+                    all_results.append({
+                        "season": season,
+                        "round": rnd,
+                        "race_name": race_name,
+                        "circuit_id": circuit_id,
+                        "circuit_name": circuit_name,
+                        "race_date": race_date,
+                        "driver_id": result["Driver"]["driverId"],
+                        "driver_code": result["Driver"].get("code", ""),
+                        "given_name": result["Driver"]["givenName"],
+                        "family_name": result["Driver"]["familyName"],
+                        "constructor_id": result["Constructor"]["constructorId"],
+                        "constructor_name": result["Constructor"]["name"],
+                        "grid": result.get("grid"),
+                        "position": result.get("position"),
+                        "points": result.get("points"),
+                        "status": result.get("status"),
+                    })
 
-    if data is None:
-        continue
+        print(f"Rounds found for {year}: {rounds_found}")
 
-    races = data["MRData"]["RaceTable"]["Races"]
+    results_df = pd.DataFrame(all_results)
+    results_path = f"data/raw/results_{start_year}_{end_year}.csv"
+    results_df.to_csv(results_path, index=False)
 
-    for race in races:
-        season = race["season"]
-        round_num = race["round"]
-        race_name = race["raceName"]
-        circuit_id = race["Circuit"]["circuitId"]
-        circuit_name = race["Circuit"]["circuitName"]
-        race_date = race["date"]
+    print(f"\nCreated: {results_path}")
+    print("Results shape:", results_df.shape)
 
-        for qual in race["QualifyingResults"]:
-            row = {
-                "season": season,
-                "round": round_num,
-                "race_name": race_name,
-                "circuit_id": circuit_id,
-                "circuit_name": circuit_name,
-                "race_date": race_date,
-                "driver_id": qual["Driver"]["driverId"],
-                "driver_code": qual["Driver"].get("code", ""),
-                "given_name": qual["Driver"]["givenName"],
-                "family_name": qual["Driver"]["familyName"],
-                "constructor_id": qual["Constructor"]["constructorId"],
-                "constructor_name": qual["Constructor"]["name"],
-                "qualifying_position": qual.get("position", ""),
-                "q1": qual.get("Q1", ""),
-                "q2": qual.get("Q2", ""),
-                "q3": qual.get("Q3", "")
-            }
-            all_qualifying.append(row)
+    if not results_df.empty:
+        print("\nUnique races per season (results):")
+        print(results_df.groupby("season")["round"].nunique().sort_index())
 
-qualifying_df = pd.DataFrame(all_qualifying)
-qualifying_df.to_csv("data/raw/qualifying_2021_2025.csv", index=False)
 
-print("Created: data/raw/qualifying_2021_2025.csv")
-print(qualifying_df.shape)
+def collect_qualifying(start_year, end_year):
+    all_qualifying = []
 
-# -----------------------------
-# PULL DRIVER STANDINGS
-# -----------------------------
-all_driver_standings = []
+    for year in range(start_year, end_year + 1):
+        print(f"\nPulling qualifying for {year}...")
+        rounds_found = 0
 
-for year in range(2021, 2026):
-    for round_num in range(1, 26):
-        url = f"https://api.jolpi.ca/ergast/f1/{year}/{round_num}/driverStandings.json?limit=1000"
-        data = safe_get_json(url)
+        for round_num in range(1, MAX_ROUNDS + 1):
+            url = f"https://api.jolpi.ca/ergast/f1/{year}/{round_num}/qualifying.json"
+            data = safe_get_json(url)
+            time.sleep(SLEEP_SECONDS)
 
-        if data is None:
-            time.sleep(0.25)
-            continue
+            if data is None:
+                continue
 
-        standings_lists = data["MRData"]["StandingsTable"].get("StandingsLists", [])
+            races = data.get("MRData", {}).get("RaceTable", {}).get("Races", [])
+            if not races:
+                continue
 
-        if not standings_lists:
-            time.sleep(0.25)
-            continue
+            rounds_found += 1
 
-        standings_round = standings_lists[0]["round"]
+            for race in races:
+                season = race["season"]
+                rnd = race["round"]
 
-        for standing in standings_lists[0]["DriverStandings"]:
-            constructors = standing.get("Constructors", [])
-            constructor_id = constructors[0]["constructorId"] if constructors else ""
-            constructor_name = constructors[0]["name"] if constructors else ""
+                for qual in race.get("QualifyingResults", []):
+                    all_qualifying.append({
+                        "season": season,
+                        "round": rnd,
+                        "driver_id": qual["Driver"]["driverId"],
+                        "qualifying_position": qual.get("position"),
+                        "q1": qual.get("Q1", ""),
+                        "q2": qual.get("Q2", ""),
+                        "q3": qual.get("Q3", ""),
+                    })
 
-            row = {
-                "season": year,
-                "round": standings_round,
-                "driver_id": standing["Driver"]["driverId"],
-                "driver_code": standing["Driver"].get("code", ""),
-                "given_name": standing["Driver"]["givenName"],
-                "family_name": standing["Driver"]["familyName"],
-                "driver_standing_position": standing.get("position", ""),
-                "driver_standing_points": standing.get("points", ""),
-                "driver_standing_wins": standing.get("wins", ""),
-                "constructor_id": constructor_id,
-                "constructor_name": constructor_name
-            }
-            all_driver_standings.append(row)
+        print(f"Rounds found for {year}: {rounds_found}")
 
-        time.sleep(0.25)
+    qualifying_df = pd.DataFrame(all_qualifying)
+    qualifying_path = f"data/raw/qualifying_{start_year}_{end_year}.csv"
+    qualifying_df.to_csv(qualifying_path, index=False)
 
-driver_standings_df = pd.DataFrame(all_driver_standings)
-driver_standings_df.to_csv("data/raw/driver_standings_2021_2025.csv", index=False)
+    print(f"\nCreated: {qualifying_path}")
+    print("Qualifying shape:", qualifying_df.shape)
 
-print("Created: data/raw/driver_standings_2021_2025.csv")
-print(driver_standings_df.shape)
+    if not qualifying_df.empty:
+        print("\nUnique races per season (qualifying):")
+        print(qualifying_df.groupby("season")["round"].nunique().sort_index())
 
-# -----------------------------
-# PULL CONSTRUCTOR STANDINGS
-# -----------------------------
-all_constructor_standings = []
 
-for year in range(2021, 2026):
-    for round_num in range(1, 26):
-        url = f"https://api.jolpi.ca/ergast/f1/{year}/{round_num}/constructorStandings.json?limit=1000"
-        data = safe_get_json(url)
+if __name__ == "__main__":
+    if len(sys.argv) != 3:
+        print("Usage: python3 collect_data.py <start_year> <end_year>")
+        sys.exit(1)
 
-        if data is None:
-            time.sleep(0.25)
-            continue
+    start_year = int(sys.argv[1])
+    end_year = int(sys.argv[2])
 
-        standings_lists = data["MRData"]["StandingsTable"].get("StandingsLists", [])
-
-        if not standings_lists:
-            time.sleep(0.25)
-            continue
-
-        standings_round = standings_lists[0]["round"]
-
-        for standing in standings_lists[0]["ConstructorStandings"]:
-            row = {
-                "season": year,
-                "round": standings_round,
-                "constructor_id": standing["Constructor"]["constructorId"],
-                "constructor_name": standing["Constructor"]["name"],
-                "constructor_standing_position": standing.get("position", ""),
-                "constructor_standing_points": standing.get("points", ""),
-                "constructor_standing_wins": standing.get("wins", "")
-            }
-            all_constructor_standings.append(row)
-
-        time.sleep(0.25)
-
-constructor_standings_df = pd.DataFrame(all_constructor_standings)
-constructor_standings_df.to_csv("data/raw/constructor_standings_2021_2025.csv", index=False)
-
-print("Created: data/raw/constructor_standings_2021_2025.csv")
-print(constructor_standings_df.shape)
+    collect_results(start_year, end_year)
+    collect_qualifying(start_year, end_year)
