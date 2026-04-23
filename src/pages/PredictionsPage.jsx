@@ -59,16 +59,33 @@ function PredictionsPage() {
       <section className="card">
         <h2>Upcoming Races</h2>
         {predictionsData.upcoming.map((race) => (
-          <div key={race.grand_prix} className="race-section">
-            <h3>{race.grand_prix}</h3>
-            <div className="podium">
-              {race.predictions.slice(0, 3).map((driver) => (
-                <article key={driver.driver} className={`podium-card ${driver.rank === 1 ? 'winner' : ''}`}>
-                  <p className="rank">P{driver.rank}</p>
-                  <p className="driver">{driver.driver}</p>
-                  <p className="team">{driver.team}</p>
-                  <p className="chance">{driver.probability.toFixed(1)}%</p>
-                </article>
+          <div key={race.grand_prix} className="upcoming-race-card">
+            <div className="race-header">
+              <h3>{race.grand_prix}</h3>
+            </div>
+            <div className="predictions-container">
+              {race.predictions.slice(0, 3).map((driver, index) => (
+                <div key={driver.driver} className={`prediction-item ${driver.rank === 1 ? 'winner-prediction' : ''}`}>
+                  <div className="prediction-rank">
+                    <span className="rank-number">P{driver.rank}</span>
+                    {driver.rank === 1 && <span className="winner-badge">Predicted Winner</span>}
+                  </div>
+                  <div className="prediction-content">
+                    <div className="driver-info">
+                      <p className="driver-name">{driver.driver}</p>
+                      <p className="driver-team">{driver.team}</p>
+                    </div>
+                    <div className="probability-display">
+                      <div className="probability-bar">
+                        <div 
+                          className="probability-fill" 
+                          style={{ width: `${driver.probability}%` }}
+                        ></div>
+                      </div>
+                      <span className="probability-text">{driver.probability.toFixed(1)}%</span>
+                    </div>
+                  </div>
+                </div>
               ))}
             </div>
             <button className="expand-btn" onClick={() => toggleExpanded(race.grand_prix)}>

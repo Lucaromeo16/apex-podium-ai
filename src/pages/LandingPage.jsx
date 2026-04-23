@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import CountUp from 'react-countup';
 import historicalData from '../data/historical_backtest.json';
 
 function LandingPage() {
@@ -33,15 +34,41 @@ function LandingPage() {
 
       <section className="metrics-strip">
         <div className="metric">
-          <div className="metric-value">{(metrics?.winner_hit_rate ?? 0).toFixed(1)}%</div>
+          <div className="metric-value">
+            <CountUp 
+              start={0} 
+              end={metrics?.winner_hit_rate ?? 0} 
+              duration={2.5}
+              decimals={1}
+              suffix="%"
+              preserveValue={true}
+            />
+          </div>
           <div className="metric-label">Winner Hit Rate</div>
         </div>
         <div className="metric">
-          <div className="metric-value">{(metrics?.avg_top3_overlap ?? 0).toFixed(1)}</div>
+          <div className="metric-value">
+            <CountUp 
+              start={0} 
+              end={metrics?.avg_top3_overlap ?? 0} 
+              duration={2.5}
+              decimals={2}
+              preserveValue={true}
+            />
+          </div>
           <div className="metric-label">Avg. Correct Podium Drivers</div>
         </div>
         <div className="metric">
-          <div className="metric-value">{(metrics?.races_with_2plus_correct ?? 0).toFixed(1)}%</div>
+          <div className="metric-value">
+            <CountUp 
+              start={0} 
+              end={metrics?.races_with_2plus_correct ?? 0} 
+              duration={2.5}
+              decimals={1}
+              suffix="%"
+              preserveValue={true}
+            />
+          </div>
           <div className="metric-label">Races With 2+ Correct Podium Picks</div>
         </div>
       </section>
