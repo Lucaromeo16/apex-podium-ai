@@ -1665,3 +1665,266 @@ th {
     padding: 1rem;
   }
 }
+
+/* Model Architecture Section - Premium Homepage Addition */
+
+.model-architecture-section {
+  background: #ffffff;
+  padding: 4rem 1rem;
+  position: relative;
+}
+
+.model-architecture-section .section-header {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.model-architecture-section .section-header h2 {
+  font-size: 2rem;
+  font-weight: 800;
+  color: #1f2937;
+  margin-bottom: 0.5rem;
+}
+
+.model-architecture-section .section-subtitle {
+  font-size: 1.1rem;
+  color: #64748b;
+  margin: 0;
+  font-weight: 500;
+}
+
+.technique-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.technique-card {
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 14px;
+  overflow: hidden;
+  transition: all 0.3s ease;
+}
+
+.technique-card:hover {
+  border-color: #3b82f6;
+  box-shadow: 0 8px 24px rgba(59, 130, 246, 0.12);
+  transform: translateY(-2px);
+}
+
+.technique-card.ensemble-card {
+  background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%);
+  border-color: #0ea5e9;
+  grid-column: span 2;
+}
+
+.technique-card.ensemble-card:hover {
+  border-color: #0284c7;
+  box-shadow: 0 12px 32px rgba(14, 165, 233, 0.2);
+}
+
+.technique-header {
+  background: #ffffff;
+  padding: 1.5rem;
+  border-bottom: 1px solid #e2e8f0;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.ensemble-card .technique-header {
+  background: linear-gradient(135deg, #e0f2fe 0%, #bae6fd 100%);
+}
+
+.technique-number {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  background: linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%);
+  color: white;
+  border-radius: 8px;
+  font-weight: 700;
+  font-size: 0.9rem;
+  flex-shrink: 0;
+}
+
+.ensemble-card .technique-number {
+  background: linear-gradient(135deg, #0ea5e9 0%, #0284c7 100%);
+}
+
+.technique-header h3 {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: #1f2937;
+  margin: 0;
+}
+
+.ensemble-card .technique-header h3 {
+  color: #0369a1;
+}
+
+.technique-content {
+  padding: 1.5rem;
+}
+
+.technique-role {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: #3b82f6;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin: 0 0 1rem 0;
+}
+
+.ensemble-card .technique-role {
+  color: #0284c7;
+}
+
+.technique-description {
+  color: #475569;
+  line-height: 1.7;
+  margin: 0 0 1.5rem 0;
+  font-size: 0.95rem;
+}
+
+.technique-strengths {
+  background: #ffffff;
+  padding: 1.25rem;
+  border-radius: 10px;
+  border: 1px solid #e2e8f0;
+  margin-bottom: 1.5rem;
+}
+
+.technique-strengths h4 {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: #64748b;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin: 0 0 0.75rem 0;
+}
+
+.technique-strengths ul {
+  margin: 0;
+  padding: 0 0 0 1.25rem;
+}
+
+.technique-strengths li {
+  color: #475569;
+  font-size: 0.9rem;
+  line-height: 1.6;
+  margin-bottom: 0.5rem;
+}
+
+.technique-strengths li:last-child {
+  margin-bottom: 0;
+}
+
+.technique-why {
+  color: #64748b;
+  font-size: 0.9rem;
+  line-height: 1.6;
+  margin: 0;
+  font-style: italic;
+  padding-left: 1rem;
+  border-left: 3px solid #cbd5e1;
+}
+
+.ensemble-card .technique-why {
+  border-left-color: #0ea5e9;
+}
+
+/* Ensemble Weights Box */
+.ensemble-weights {
+  background: #ffffff;
+  padding: 1.5rem;
+  border-radius: 10px;
+  border: 2px solid #0ea5e9;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 4px 12px rgba(14, 165, 233, 0.15);
+}
+
+.ensemble-weights h4 {
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: #0369a1;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin: 0 0 1rem 0;
+  text-align: center;
+}
+
+.weight-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.75rem 0;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+.weight-item:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.weight-item:first-child {
+  padding-top: 0;
+}
+
+.weight-label {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: #475569;
+}
+
+.weight-value {
+  font-size: 1.1rem;
+  font-weight: 800;
+  color: #0284c7;
+  background: #e0f2fe;
+  padding: 0.3rem 0.8rem;
+  border-radius: 6px;
+}
+
+.ensemble-note {
+  font-style: normal;
+  padding-left: 0;
+  border-left: none;
+  text-align: center;
+  font-weight: 500;
+}
+
+/* Responsive adjustments for Model Architecture */
+@media (max-width: 900px) {
+  .technique-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .technique-card.ensemble-card {
+    grid-column: span 1;
+  }
+}
+
+@media (max-width: 600px) {
+  .model-architecture-section {
+    padding: 3rem 1rem;
+  }
+
+  .model-architecture-section .section-header h2 {
+    font-size: 1.7rem;
+  }
+
+  .technique-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.75rem;
+  }
+
+  .technique-content {
+    padding: 1.25rem;
+  }
+}

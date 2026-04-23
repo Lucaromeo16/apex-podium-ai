@@ -172,6 +172,134 @@ function LandingPage() {
         </div>
       </section>
 
+      <section className="model-architecture-section">
+        <div className="section-container">
+          <div className="section-header">
+            <h2>Model Architecture</h2>
+            <p className="section-subtitle">Four machine learning techniques working together to predict podium finishes</p>
+          </div>
+          <div className="technique-grid">
+            <div className="technique-card">
+              <div className="technique-header">
+                <span className="technique-number">01</span>
+                <h3>Logistic Regression</h3>
+              </div>
+              <div className="technique-content">
+                <p className="technique-role">Role: Baseline Classifier</p>
+                <p className="technique-description">
+                  A supervised learning model that estimates the probability of a binary outcome. 
+                  Particularly effective for structured tabular data where relationships between 
+                  features and outcomes can be approximated linearly.
+                </p>
+                <div className="technique-strengths">
+                  <h4>Strengths</h4>
+                  <ul>
+                    <li>Highly interpretable — coefficients reveal feature importance</li>
+                    <li>Stable predictions with well-calibrated probabilities</li>
+                    <li>Excellent baseline for comparing complex models</li>
+                    <li>Captures linear relationships between pre-race features and podium outcomes</li>
+                  </ul>
+                </div>
+                <p className="technique-why">
+                  Used as our benchmark model to establish how well simpler approaches perform 
+                  before introducing more complex techniques.
+                </p>
+              </div>
+            </div>
+
+            <div className="technique-card">
+              <div className="technique-header">
+                <span className="technique-number">02</span>
+                <h3>Random Forest</h3>
+              </div>
+              <div className="technique-content">
+                <p className="technique-role">Role: Ensemble Tree Learner</p>
+                <p className="technique-description">
+                  An ensemble method that builds multiple decision trees during training and 
+                  outputs the mode (for classification) of predictions from all trees. 
+                  Excels at capturing nonlinear relationships and feature interactions.
+                </p>
+                <div className="technique-strengths">
+                  <h4>Strengths</h4>
+                  <ul>
+                    <li>Learns complex conditional patterns without explicit feature engineering</li>
+                    <li>Robust to outliers and missing data</li>
+                    <li>Reduces overfitting through tree averaging</li>
+                    <li>Captures feature interactions that linear models miss</li>
+                  </ul>
+                </div>
+                <p className="technique-why">
+                  Provides flexibility to model nonlinear patterns in driver performance, 
+                  constructor form, and track-specific characteristics.
+                </p>
+              </div>
+            </div>
+
+            <div className="technique-card">
+              <div className="technique-header">
+                <span className="technique-number">03</span>
+                <h3>Gradient Boosting (XGBoost)</h3>
+              </div>
+              <div className="technique-content">
+                <p className="technique-role">Role: Sequential Tree Booster</p>
+                <p className="technique-description">
+                  A boosting-based algorithm that builds trees sequentially, with each new tree 
+                  correcting errors made by previous ones. XGBoost is a highly optimized 
+                  implementation known for exceptional performance on tabular data.
+                </p>
+                <div className="technique-strengths">
+                  <h4>Strengths</h4>
+                  <ul>
+                    <li>Captures refined nonlinear patterns and subtle interactions</li>
+                    <li>Regularization prevents overfitting</li>
+                    <li>Often outperforms other methods on structured datasets</li>
+                    <li>Handles sparse features efficiently</li>
+                  </ul>
+                </div>
+                <p className="technique-why">
+                  Included as a modern, high-performance approach that brings additional 
+                  predictive power to the ensemble.
+                </p>
+              </div>
+            </div>
+
+            <div className="technique-card ensemble-card">
+              <div className="technique-header">
+                <span className="technique-number">04</span>
+                <h3>Ensemble Model</h3>
+              </div>
+              <div className="technique-content">
+                <p className="technique-role">Role: Final Prediction System</p>
+                <p className="technique-description">
+                  The final prediction framework that combines probability outputs from all 
+                  individual models. Designed to improve robustness and reduce dependence 
+                  on any single model's assumptions or biases.
+                </p>
+                <div className="ensemble-weights">
+                  <h4>Final Ensemble Weights</h4>
+                  <div className="weight-item">
+                    <span className="weight-label">Logistic Regression</span>
+                    <span className="weight-value">50%</span>
+                  </div>
+                  <div className="weight-item">
+                    <span className="weight-label">Random Forest</span>
+                    <span className="weight-value">30%</span>
+                  </div>
+                  <div className="weight-item">
+                    <span className="weight-label">XGBoost</span>
+                    <span className="weight-value">20%</span>
+                  </div>
+                </div>
+                <p className="technique-why ensemble-note">
+                  This weighted blend combines interpretability, nonlinear learning, and 
+                  boosted predictive power for balanced, reliable podium predictions.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
       <footer className="landing-footer">
         <div className="footer-content">
           <div className="footer-brand">
