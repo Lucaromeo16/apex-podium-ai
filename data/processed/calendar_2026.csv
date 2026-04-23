@@ -1,0 +1,25 @@
+season,round,race_name,circuit_id,race_date,race_status
+2026,1,Australian Grand Prix,albert_park,2026-03-08,completed
+2026,2,Chinese Grand Prix,shanghai,2026-03-15,completed
+2026,3,Japanese Grand Prix,suzuka,2026-03-29,completed
+2026,4,Miami Grand Prix,miami,2026-05-03,upcoming
+2026,5,Canadian Grand Prix,villeneuve,2026-05-24,upcoming
+2026,6,Monaco Grand Prix,monaco,2026-06-07,upcoming
+2026,7,Spanish Grand Prix,catalunya,2026-06-14,upcoming
+2026,8,Austrian Grand Prix,red_bull_ring,2026-06-28,upcoming
+2026,9,British Grand Prix,silverstone,2026-07-05,upcoming
+2026,10,Belgian Grand Prix,spa,2026-07-19,upcoming
+2026,11,Hungarian Grand Prix,hungaroring,2026-07-26,upcoming
+2026,12,Dutch Grand Prix,zandvoort,2026-08-23,upcoming
+2026,13,Italian Grand Prix,monza,2026-09-06,upcoming
+2026,14,Madrid Grand Prix,madrid,2026-09-13,upcoming
+2026,15,Azerbaijan Grand Prix,baku,2026-09-27,upcoming
+2026,16,Singapore Grand Prix,marina_bay,2026-10-11,upcoming
+2026,17,United States Grand Prix,americas,2026-10-25,upcoming
+2026,18,Mexico City Grand Prix,rodriguez,2026-11-01,upcoming
+2026,19,Sao Paulo Grand Prix,interlagos,2026-11-08,upcoming
+2026,20,Las Vegas Grand Prix,las_vegas,2026-11-21,upcoming
+2026,21,Qatar Grand Prix,losail,2026-11-29,upcoming
+2026,22,Abu Dhabi Grand Prix,yas_marina,2026-12-06,upcoming
+2026,98,Bahrain Grand Prix,bahrain,2026-04-12,canceled
+2026,99,Saudi Arabian Grand Prix,jeddah,2026-04-19,canceled

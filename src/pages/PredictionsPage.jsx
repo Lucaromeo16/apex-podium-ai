@@ -1,21 +1,19 @@
-import React, { useMemo, useState } from 'react';
+import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
-import ensembleData from '../data/ensemble_predictions.json';
+import predictionsData from '../data/predictions_2026.json';
 
 function PredictionsPage() {
-  const races = ensembleData.map(item => item.grand_prix);
-  const [selectedRace, setSelectedRace] = useState(races[0]);
+  const [expandedRaces, setExpandedRaces] = useState(new Set());
 
-  const selectedData = ensembleData.find(item => item.grand_prix === selectedRace);
-  const rankedDrivers = useMemo(() => {
-    return [...selectedData.predictions].sort((a, b) => b.probability - a.probability).map(p => ({
-      name: p.driver,
-      team: p.team,
-      probability: p.probability
-    }));
-  }, [selectedRace]);
-
-  const topThree = rankedDrivers.slice(0, 3);
+  const toggleExpanded = (raceName) => {
+    const newExpanded = new Set(expandedRaces);
+    if (newExpanded.has(raceName)) {
+      newExpanded.delete(raceName);
+    } else {
+      newExpanded.add(raceName);
+    }
+    setExpandedRaces(newExpanded);
+  };
 
   return (
     <div className="app">
@@ -29,57 +27,79 @@ function PredictionsPage() {
           <h1>ApexPodium AI</h1>
           <p>Predictions are generated using an ensemble of logistic regression, random forest, and XGBoost models using qualifying, grid position, recent form, reliability, and track history.</p>
         </div>
-
-        <label className="selector" htmlFor="race-select">
-          <span>Select Grand Prix</span>
-          <select id="race-select" value={selectedRace} onChange={(e) => setSelectedRace(e.target.value)}>
-            {races.map((race) => (
-              <option key={race} value={race}>
-                {race}
-              </option>
-            ))}
-          </select>
-        </label>
       </header>
 
       <section className="card">
-        <h2>Top 3 Highest Podium Probabilities</h2>
-        <div className="podium">
-          {topThree.map((driver, index) => (
-            <article key={driver.name} className="podium-card">
-              <p className="rank">P{index + 1}</p>
-              <p className="driver">{driver.name}</p>
-              <p className="team">{driver.team}</p>
-              <p className="chance">{driver.probability.toFixed(1)}%</p>
-            </article>
-          ))}
-        </div>
+        <h2>Completed Races</h2>
+        {predictionsData.completed.map((race) => (
+          <div key={race.grand_prix} className="race-section">
+            <h3>{race.grand_prix}</h3>
+            <div className="podium">
+              {race.actual_top3.map((driver) => (
+                <article key={driver.driver} className="podium-card actual">
+                  <p className="rank">#{driver.finish_position}</p>
+                  <p className="driver">{driver.driver}</p>
+                  <p className="team">{driver.team}</p>
+                </article>
+              ))}
+            </div>
+          </div>
+        ))}
       </section>
 
       <section className="card">
-        <h2>Driver Ranking by Podium Probability</h2>
-        <div className="table-wrap">
-          <table>
-            <thead>
-              <tr>
-                <th>Rank</th>
-                <th>Driver</th>
-                <th>Team</th>
-                <th>Probability %</th>
-              </tr>
-            </thead>
-            <tbody>
-              {rankedDrivers.map((driver, index) => (
-                <tr key={driver.name}>
-                  <td>{index + 1}</td>
-                  <td>{driver.name}</td>
-                  <td>{driver.team}</td>
-                  <td>{driver.probability.toFixed(1)}%</td>
-                </tr>
+        <h2>Canceled Races</h2>
+        {predictionsData.canceled.map((race) => (
+          <div key={race.grand_prix} className="canceled-banner">
+            <p><strong>{race.grand_prix}:</strong> {race.message}</p>
+          </div>
+        ))}
+      </section>
+
+      <section className="card">
+        <h2>Upcoming Races</h2>
+        {predictionsData.upcoming.map((race) => (
+          <div key={race.grand_prix} className="race-section">
+            <h3>{race.grand_prix}</h3>
+            <div className="podium">
+              {race.predictions.slice(0, 3).map((driver) => (
+                <article key={driver.driver} className={`podium-card ${driver.rank === 1 ? 'winner' : ''}`}>
+                  <p className="rank">P{driver.rank}</p>
+                  <p className="driver">{driver.driver}</p>
+                  <p className="team">{driver.team}</p>
+                  <p className="chance">{driver.probability.toFixed(1)}%</p>
+                </article>
               ))}
-            </tbody>
-          </table>
-        </div>
+            </div>
+            <button className="expand-btn" onClick={() => toggleExpanded(race.grand_prix)}>
+              {expandedRaces.has(race.grand_prix) ? 'Show Less' : 'Show Full Rankings'}
+            </button>
+            {expandedRaces.has(race.grand_prix) && (
+              <div className="table-wrap">
+                <table>
+                  <thead>
+                    <tr>
+                      <th>Rank</th>
+                      <th>Driver</th>
+                      <th>Team</th>
+                      <th>Probability %</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {race.predictions.map((driver) => (
+                      <tr key={driver.driver}>
+                        <td>{driver.rank}</td>
+                        <td>{driver.driver}</td>
+                        <td>{driver.team}</td>
+                        <td>{driver.probability.toFixed(1)}%</td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            )}
+          </div>
+        ))}
       </section>
     </div>
   );
