@@ -301,11 +301,19 @@ def main():
         .to_dict()
     )
 
+    total_races = len(race_summaries)
+    winner_hits = sum(race["winner_hit"] for race in race_summaries)
+    top3_overlap_total = sum(race["top3_overlap"] for race in race_summaries)
+    races_with_2plus = sum(1 for race in race_summaries if race["top3_overlap"] >= 2)
+
     output = {
         "summary_metrics": {
             "accuracy": round(float(accuracy) * 100, 1),
             "precision": round(float(precision) * 100, 1),
             "recall": round(float(recall) * 100, 1),
+            "winner_hit_rate": round((winner_hits / total_races) * 100, 1) if total_races else 0.0,
+            "avg_top3_overlap": round((top3_overlap_total / total_races), 2) if total_races else 0.0,
+            "races_with_2plus_correct": round((races_with_2plus / total_races) * 100, 1) if total_races else 0.0,
         },
         "season_counts": {str(k): int(v) for k, v in season_counts.items()},
         "skipped_races": [

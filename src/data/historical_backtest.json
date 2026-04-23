@@ -2,7 +2,10 @@
   "summary_metrics": {
     "accuracy": 90.3,
     "precision": 67.8,
-    "recall": 67.8
+    "recall": 67.8,
+    "winner_hit_rate": 57.9,
+    "avg_top3_overlap": 2.04,
+    "races_with_2plus_correct": 82.5
   },
   "season_counts": {
     "2021": 22,
