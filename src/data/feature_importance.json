@@ -1,0 +1,60 @@
+{
+  "model_used": "XGBoost",
+  "description": "These features were among the most influential drivers of podium predictions in the model.",
+  "features": [
+    {
+      "feature": "qualifying_position",
+      "label": "Qualifying Position",
+      "importance": 0.504747211933136,
+      "importance_percent": 50.5
+    },
+    {
+      "feature": "grid",
+      "label": "Grid Position",
+      "importance": 0.12016981840133667,
+      "importance_percent": 12.0
+    },
+    {
+      "feature": "podiums_last_5",
+      "label": "Podiums (Last 5 Races)",
+      "importance": 0.08284349739551544,
+      "importance_percent": 8.3
+    },
+    {
+      "feature": "podiums_last_3",
+      "label": "Podiums (Last 3 Races)",
+      "importance": 0.07743848115205765,
+      "importance_percent": 7.7
+    },
+    {
+      "feature": "avg_finish_last_5",
+      "label": "Avg Finish (Last 5 Races)",
+      "importance": 0.05842641368508339,
+      "importance_percent": 5.8
+    },
+    {
+      "feature": "avg_finish_last_3",
+      "label": "Avg Finish (Last 3 Races)",
+      "importance": 0.041044555604457855,
+      "importance_percent": 4.1
+    },
+    {
+      "feature": "podiums_at_track",
+      "label": "Podiums at Track",
+      "importance": 0.03848806023597717,
+      "importance_percent": 3.8
+    },
+    {
+      "feature": "avg_finish_at_track",
+      "label": "Avg Finish at Track",
+      "importance": 0.03845769166946411,
+      "importance_percent": 3.8
+    },
+    {
+      "feature": "dnfs_last_5",
+      "label": "DNFs (Last 5 Races)",
+      "importance": 0.03838428854942322,
+      "importance_percent": 3.8
+    }
+  ]
+}

@@ -2,9 +2,11 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import CountUp from 'react-countup';
 import historicalData from '../data/historical_backtest.json';
+import featureImportanceData from '../data/feature_importance.json';
 
 function LandingPage() {
   const metrics = historicalData.summary_metrics;
+  const featureImportance = featureImportanceData;
 
   return (
     <div className="landing">
@@ -296,6 +298,36 @@ function LandingPage() {
                 </p>
               </div>
             </div>
+          </div>
+        </div>
+      </section>
+
+      <section className="feature-importance-section">
+        <div className="section-container">
+          <div className="section-header">
+            <h2>Feature Importance</h2>
+            <p className="section-subtitle">What drives our predictions? Insights from {featureImportance.model_used}</p>
+          </div>
+          <p className="feature-importance-description">
+            {featureImportance.description}
+          </p>
+          <div className="feature-importance-chart">
+            {featureImportance.features.map((feature, index) => (
+              <div key={feature.feature} className="feature-bar-container">
+                <div className="feature-bar-label">
+                  <span className="feature-rank">{index + 1}</span>
+                  <span className="feature-name">{feature.label}</span>
+                </div>
+                <div className="feature-bar-wrapper">
+                  <div 
+                    className="feature-bar" 
+                    style={{ width: `${feature.importance_percent}%` }}
+                  >
+                    <span className="feature-bar-value">{feature.importance_percent}%</span>
+                  </div>
+                </div>
+              </div>
+            ))}
           </div>
         </div>
       </section>
