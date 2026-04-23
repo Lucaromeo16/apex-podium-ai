@@ -869,6 +869,15 @@ th {
   margin-top: 2rem;
 }
 
+.course-concepts-note {
+  margin-top: 1.5rem;
+  font-size: 0.9rem;
+  color: rgba(255, 255, 255, 0.7);
+  max-width: 600px;
+  text-align: center;
+  line-height: 1.5;
+}
+
 .btn-primary {
   background: linear-gradient(135deg, #60a5fa 0%, #3b82f6 100%);
   color: white;
@@ -1151,6 +1160,18 @@ th {
   .metrics-strip {
     flex-direction: column;
     gap: 2rem;
+  }
+
+  .landing-section,
+  .features-section,
+  .how-it-works-section,
+  .model-architecture-section,
+  .feature-importance-section {
+    padding: 3rem 1rem;
+  }
+
+  .section-header {
+    margin-bottom: 2rem;
   }
 
   .features-grid,
@@ -1566,7 +1587,7 @@ th {
 
 .section-header {
   text-align: center;
-  margin-bottom: 3rem;
+  margin-bottom: 2.5rem;
 }
 
 .section-header h2 {
@@ -1685,7 +1706,7 @@ th {
 
 .model-architecture-section .section-header {
   text-align: center;
-  margin-bottom: 3rem;
+  margin-bottom: 2.5rem;
 }
 
 .model-architecture-section .section-header h2 {
@@ -1916,7 +1937,7 @@ th {
 
 .feature-importance-section .section-header {
   text-align: center;
-  margin-bottom: 1.5rem;
+  margin-bottom: 2.5rem;
 }
 
 .feature-importance-section .section-header h2 {

@@ -34,6 +34,10 @@ function LandingPage() {
           <Link to="/app" className="btn-primary">Try ApexPodium AI</Link>
           <a href="#methodology" className="btn-secondary">Learn More</a>
         </div>
+        <p className="course-concepts-note">
+          The modeling approach builds directly on course concepts including linear models, 
+          decision trees, and ensemble methods, adapted for a classification-based prediction problem.
+        </p>
       </section>
 
       <section className="metrics-strip">
@@ -131,21 +135,21 @@ function LandingPage() {
               <div className="step-icon">2</div>
               <div className="step-content">
                 <h3>Feature Engineering</h3>
-                <p>Our model analyzes season-to-date driver form, constructor performance, prior podiums and wins, rolling results, and track-specific history to capture the factors that influence podium finishes.</p>
+                <p>We engineered features based on prior performance, team strength, rolling form, and track-specific history to capture the factors most relevant to predicting podium finishes.</p>
               </div>
             </div>
             <div className="work-step-card">
               <div className="step-icon">3</div>
               <div className="step-content">
                 <h3>Walk-Forward Backtesting</h3>
-                <p>We tested the system race-by-race across every event from 2021 through 2025, using only information available before each race. This ensures predictions reflect real-world conditions.</p>
+                <p>We tested the system race-by-race across every event from 2021 through 2025 using only information available before each race. This walk-forward approach ensures realistic evaluation and helps avoid overfitting.</p>
               </div>
             </div>
             <div className="work-step-card">
               <div className="step-icon">4</div>
               <div className="step-content">
                 <h3>2026 Forecasting</h3>
-                <p>The platform separates completed races, canceled races, and upcoming events. It generates forward-looking predictions for the entire 2026 calendar with confidence probabilities.</p>
+                <p>The platform separates completed races, canceled races, and upcoming events. It generates forward-looking predictions for the entire 2026 calendar using the trained ensemble model.</p>
               </div>
             </div>
           </div>
@@ -189,23 +193,23 @@ function LandingPage() {
                 <h3>Logistic Regression</h3>
               </div>
               <div className="technique-content">
-                <p className="technique-role">Role: Baseline Classifier</p>
+                <p className="technique-role">Role: Linear Baseline Model</p>
                 <p className="technique-description">
-                  A supervised learning model that estimates the probability of a binary outcome. 
-                  Particularly effective for structured tabular data where relationships between 
-                  features and outcomes can be approximated linearly.
+                  A supervised linear model adapted for classification. It estimates the probability 
+                  of a binary outcome by applying a logistic function to a linear combination of features.
+                  Particularly effective for structured tabular data where relationships can be approximated linearly.
                 </p>
                 <div className="technique-strengths">
                   <h4>Strengths</h4>
                   <ul>
                     <li>Highly interpretable — coefficients reveal feature importance</li>
                     <li>Stable predictions with well-calibrated probabilities</li>
-                    <li>Excellent baseline for comparing complex models</li>
-                    <li>Captures linear relationships between pre-race features and podium outcomes</li>
+                    <li>Excellent baseline for comparing more complex models</li>
+                    <li>Computationally efficient and resistant to overfitting</li>
                   </ul>
                 </div>
                 <p className="technique-why">
-                  Used as our benchmark model to establish how well simpler approaches perform 
+                  Used as a stable baseline to establish how well simpler approaches perform 
                   before introducing more complex techniques.
                 </p>
               </div>
@@ -217,10 +221,10 @@ function LandingPage() {
                 <h3>Random Forest</h3>
               </div>
               <div className="technique-content">
-                <p className="technique-role">Role: Ensemble Tree Learner</p>
+                <p className="technique-role">Role: Tree-Based Ensemble</p>
                 <p className="technique-description">
-                  An ensemble method that builds multiple decision trees during training and 
-                  outputs the mode (for classification) of predictions from all trees. 
+                  A tree-based ensemble method that builds multiple decision trees during training 
+                  and outputs the mode (for classification) of predictions from all trees. 
                   Excels at capturing nonlinear relationships and feature interactions.
                 </p>
                 <div className="technique-strengths">
@@ -228,7 +232,7 @@ function LandingPage() {
                   <ul>
                     <li>Learns complex conditional patterns without explicit feature engineering</li>
                     <li>Robust to outliers and missing data</li>
-                    <li>Reduces overfitting through tree averaging</li>
+                    <li>Reduces overfitting through tree averaging (bagging)</li>
                     <li>Captures feature interactions that linear models miss</li>
                   </ul>
                 </div>
@@ -245,24 +249,24 @@ function LandingPage() {
                 <h3>Gradient Boosting (XGBoost)</h3>
               </div>
               <div className="technique-content">
-                <p className="technique-role">Role: Sequential Tree Booster</p>
+                <p className="technique-role">Role: Boosted Tree-Based Method</p>
                 <p className="technique-description">
-                  A boosting-based algorithm that builds trees sequentially, with each new tree 
+                  A gradient boosting method that builds trees sequentially, with each new tree 
                   correcting errors made by previous ones. XGBoost is a highly optimized 
-                  implementation known for exceptional performance on tabular data.
+                  implementation known for strong performance on tabular data.
                 </p>
                 <div className="technique-strengths">
                   <h4>Strengths</h4>
                   <ul>
                     <li>Captures refined nonlinear patterns and subtle interactions</li>
-                    <li>Regularization prevents overfitting</li>
+                    <li>Built-in regularization helps prevent overfitting</li>
                     <li>Often outperforms other methods on structured datasets</li>
                     <li>Handles sparse features efficiently</li>
                   </ul>
                 </div>
                 <p className="technique-why">
                   Included as a modern, high-performance approach that brings additional 
-                  predictive power to the ensemble.
+                  predictive power to the ensemble through iterative error refinement.
                 </p>
               </div>
             </div>
@@ -273,11 +277,10 @@ function LandingPage() {
                 <h3>Ensemble Model</h3>
               </div>
               <div className="technique-content">
-                <p className="technique-role">Role: Final Prediction System</p>
+                <p className="technique-role">Role: Weighted Combination</p>
                 <p className="technique-description">
-                  The final prediction framework that combines probability outputs from all 
-                  individual models. Designed to improve robustness and reduce dependence 
-                  on any single model's assumptions or biases.
+                  A weighted combination of multiple models designed to improve robustness 
+                  and generalization by reducing dependence on any single model's assumptions or biases.
                 </p>
                 <div className="ensemble-weights">
                   <h4>Final Ensemble Weights</h4>
@@ -295,8 +298,9 @@ function LandingPage() {
                   </div>
                 </div>
                 <p className="technique-why ensemble-note">
-                  This weighted blend combines interpretability, nonlinear learning, and 
-                  boosted predictive power for balanced, reliable podium predictions.
+                  This weighted blend combines the stability of a linear model, the nonlinear 
+                  learning of tree-based methods, and the refined predictions from boosting 
+                  for balanced, reliable podium predictions.
                 </p>
               </div>
             </div>
@@ -311,7 +315,9 @@ function LandingPage() {
             <p className="section-subtitle">What drives our predictions? Insights from {featureImportance.model_used}</p>
           </div>
           <p className="feature-importance-description">
-            {featureImportance.description}
+            These features are among the most influential drivers of our predictions. 
+            Importance is derived from a tree-based model within the ensemble, reflecting 
+            which inputs contributed most strongly to predictive performance.
           </p>
           <div className="feature-importance-chart">
             {featureImportance.features.map((feature, index) => (
