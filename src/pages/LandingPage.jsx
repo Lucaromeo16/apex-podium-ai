@@ -109,29 +109,40 @@ function LandingPage() {
         </div>
       </section>
 
-      <section id="methodology" className="landing-section">
+      <section id="methodology" className="how-it-works-section">
         <div className="section-container">
-          <h2>Methodology</h2>
-          <div className="methodology-steps">
-            <div className="step">
-              <div className="step-number">1</div>
-              <h3>Data Collection</h3>
-              <p>Historical Formula 1 race data from 2016-2025, including results, qualifying, and driver standings.</p>
+          <div className="section-header">
+            <h2>How It Works</h2>
+            <p className="section-subtitle">A transparent, four-step approach to Formula 1 prediction</p>
+          </div>
+          <div className="how-it-works-grid">
+            <div className="work-step-card">
+              <div className="step-icon">1</div>
+              <div className="step-content">
+                <h3>Data Collection</h3>
+                <p>We gathered historical Formula 1 race and qualifying data spanning multiple seasons (2016-2025), including results, grid positions, driver standings, and constructor information.</p>
+              </div>
             </div>
-            <div className="step">
-              <div className="step-number">2</div>
-              <h3>Feature Engineering</h3>
-              <p>Recent driver form, constructor performance, prior podiums/wins, track history, and season-to-date indicators.</p>
+            <div className="work-step-card">
+              <div className="step-icon">2</div>
+              <div className="step-content">
+                <h3>Feature Engineering</h3>
+                <p>Our model analyzes season-to-date driver form, constructor performance, prior podiums and wins, rolling results, and track-specific history to capture the factors that influence podium finishes.</p>
+              </div>
             </div>
-            <div className="step">
-              <div className="step-number">3</div>
-              <h3>Ensemble Modeling</h3>
-              <p>Logistic regression, random forest, and XGBoost models trained and validated through chronological backtesting.</p>
+            <div className="work-step-card">
+              <div className="step-icon">3</div>
+              <div className="step-content">
+                <h3>Walk-Forward Backtesting</h3>
+                <p>We tested the system race-by-race across every event from 2021 through 2025, using only information available before each race. This ensures predictions reflect real-world conditions.</p>
+              </div>
             </div>
-            <div className="step">
-              <div className="step-number">4</div>
-              <h3>Backtesting Validation</h3>
-              <p>Race-by-race testing across 2021-2025 using only information available before each race.</p>
+            <div className="work-step-card">
+              <div className="step-icon">4</div>
+              <div className="step-content">
+                <h3>2026 Forecasting</h3>
+                <p>The platform separates completed races, canceled races, and upcoming events. It generates forward-looking predictions for the entire 2026 calendar with confidence probabilities.</p>
+              </div>
             </div>
           </div>
         </div>
