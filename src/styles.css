@@ -947,7 +947,7 @@ th {
 }
 
 .landing-section {
-  padding: 6rem 2rem;
+  padding: 4rem 2rem;
   background: #f8fafc;
 }
 
@@ -973,7 +973,7 @@ th {
 
 .features-section {
   background: white;
-  padding: 6rem 2rem;
+  padding: 4rem 2rem;
 }
 
 .features-grid {
@@ -1542,7 +1542,7 @@ th {
 
 .how-it-works-section {
   background: #f0f9ff;
-  padding: 4rem 1rem;
+  padding: 4rem 2rem;
   position: relative;
   overflow: hidden;
 }
@@ -1679,7 +1679,7 @@ th {
 
 .model-architecture-section {
   background: #ffffff;
-  padding: 4rem 1rem;
+  padding: 4rem 2rem;
   position: relative;
 }
 
