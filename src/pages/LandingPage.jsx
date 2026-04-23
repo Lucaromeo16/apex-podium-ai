@@ -13,7 +13,7 @@ function LandingPage() {
           <a href="#about" className="nav-link">About Us</a>
           <a href="#methodology" className="nav-link">Methodology</a>
           <a href="#value" className="nav-link">Who It's For</a>
-          <Link to="/predictions" className="nav-cta">Try ApexPodium AI</Link>
+          <Link to="/app" className="nav-cta">Try ApexPodium AI</Link>
         </div>
       </nav>
 
@@ -26,22 +26,22 @@ function LandingPage() {
           to forecast podium finishes for Formula 1 races.
         </p>
         <div className="hero-ctas">
-          <Link to="/predictions" className="btn-primary">Try ApexPodium AI</Link>
+          <Link to="/app" className="btn-primary">Try ApexPodium AI</Link>
           <a href="#methodology" className="btn-secondary">Learn More</a>
         </div>
       </section>
 
       <section className="metrics-strip">
         <div className="metric">
-          <div className="metric-value">{metrics.winner_hit_rate.toFixed(1)}%</div>
+          <div className="metric-value">{(metrics?.winner_hit_rate ?? 0).toFixed(1)}%</div>
           <div className="metric-label">Winner Hit Rate</div>
         </div>
         <div className="metric">
-          <div className="metric-value">{metrics.avg_top3_overlap.toFixed(1)}</div>
+          <div className="metric-value">{(metrics?.avg_top3_overlap ?? 0).toFixed(1)}</div>
           <div className="metric-label">Avg. Correct Podium Drivers</div>
         </div>
         <div className="metric">
-          <div className="metric-value">{metrics.races_with_2plus_correct.toFixed(1)}%</div>
+          <div className="metric-value">{(metrics?.races_with_2plus_correct ?? 0).toFixed(1)}%</div>
           <div className="metric-label">Races With 2+ Correct Podium Picks</div>
         </div>
       </section>
